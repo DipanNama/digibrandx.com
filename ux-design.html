@@ -74,8 +74,8 @@
 
 
 
-    <link rel='stylesheet' href='theme.css'>
-    <script src='app.js' defer></script>
+    <link rel='stylesheet' href="theme.css">
+    <script src="app.js" defer></script>
 </head>
 
 <body>
@@ -97,7 +97,7 @@
 
         /* 
        DESKTOP DROPDOWN PANEL
-       ÃÂ¢ÃÂÃÂ opens on hover of the <li>
+         opens on hover of the <li>
      */
         .drop-panel {
             position: absolute;
@@ -115,7 +115,7 @@
             padding-bottom: 30px;
         }
 
-        /* open on hover (desktop only ÃÂ¢ÃÂÃÂ overridden to none on mobile) */
+        /* open on hover (desktop only   overridden to none on mobile) */
         .nav-links>li.has-drop:hover .drop-panel {
             max-height: max-content;
             opacity: 1;
@@ -187,7 +187,7 @@
             color: var(--pink);
         }
 
-        /* Sub tags ÃÂ¢ÃÂÃÂ horizontal */
+        /* Sub tags   horizontal */
         .srow-sub {
             display: none;
             flex-wrap: wrap;
@@ -1812,9 +1812,9 @@
         });
 
         (function () {
-            // ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ config ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ
+            //   config  
             const INTERVAL_MS = 500; // time (ms) between each image swap while hovering
-            // ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ
+            //  
 
             document.querySelectorAll('.img-grid').forEach(cell => {
                 const imgs = [...cell.querySelectorAll('img')];
@@ -1832,14 +1832,14 @@
                     showImg(current);
                 }
 
-                // ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ start looping on mouseenter ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ
+                //   start looping on mouseenter  
                 cell.addEventListener('mouseenter', () => {
                     // immediately show the next one, then keep looping
                     next();
                     timer = setInterval(next, INTERVAL_MS);
                 });
 
-                // ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ stop looping on mouseleave, reset to first image ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ
+                //   stop looping on mouseleave, reset to first image  
                 cell.addEventListener('mouseleave', () => {
                     clearInterval(timer);
                     timer = null;
@@ -1874,6 +1874,9 @@
 </body>
 
 </html>
+
+
+
 
 
 

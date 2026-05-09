@@ -1,3 +1,6 @@
-- [ ] latest blogs section in homepage, case study page cards, blog page blog card, contact page follow us section social icons, all of these sections have code leaking issue (some of them are in the image alt text)
-- [ ] branding, ux-design,applcation-development, graphic-desing, video-production, portfolio,case-study, team, all of these pages have navbar code leaking
-- [ ] implement all the legal pages
+- [x] latest blogs section in homepage, case study page cards, blog page blog card, contact page follow us section social icons, all of these sections have code leaking issue (some of them are in the image alt text)
+- [x] branding, ux-design,applcation-development, graphic-desing, video-production, portfolio,case-study, team, all of these pages have navbar code leaking
+- [x] implement all the legal pages
+- [x] contact page images 
+- [x] blogs and portfolios show properly
+- [ ] fix the breadcrumbs they are still redirecting to the external website

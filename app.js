@@ -13,7 +13,7 @@ const DynamicLoader = {
 
     async loadData() {
         try {
-            const response = await fetch(this.contentPath);
+            const response = await fetch(this.contentPath + '?v=' + new Date().getTime());
             if (!response.ok) throw new Error(`Failed to load ${this.contentPath}`);
             this.data = await response.json();
             
@@ -44,8 +44,10 @@ const DynamicLoader = {
             const url = this.data.links ? this.data.links[key] : null;
             
             if (url) {
-                console.log(`Setting link ${key} to ${url}`);
-                el.href = url;
+                // Ensure we don't set href to empty or null
+                if (url.trim() !== "") {
+                    el.setAttribute('href', url);
+                }
             }
         });
     },
@@ -54,10 +56,16 @@ const DynamicLoader = {
      * Sets the 'active' class on the current page's navigation link
      */
     setActiveLink() {
+        // Handle local filesystem (empty pop or pop with .html)
         const currentPath = window.location.pathname.split('/').pop() || 'index.html';
+        
         document.querySelectorAll('.nav-link').forEach(link => {
             const href = link.getAttribute('href');
-            if (href === currentPath) {
+            // Normalize href for comparison (remove ./ and /)
+            const normalizedHref = href ? href.replace(/^\.\//, '').replace(/^\//, '') : '';
+            const normalizedCurrent = currentPath.replace(/^\.\//, '').replace(/^\//, '');
+            
+            if (normalizedHref === normalizedCurrent) {
                 link.classList.add('active');
             } else {
                 link.classList.remove('active');
@@ -75,7 +83,10 @@ const DynamicLoader = {
                 el.src = value;
                 break;
             case 'A':
-                el.href = value;
+                // Only set href if data-link-key is NOT present (to avoid double sets)
+                if (!el.hasAttribute('data-link-key')) {
+                    el.href = value;
+                }
                 break;
             case 'INPUT':
             case 'TEXTAREA':
