@@ -1,0 +1,75 @@
+/* DigiBrandX Global Theme Variables */
+:root {
+    --primary-color: #D91B5D;
+    /* The signature pink/red */
+    --accent-color: #CD0132;
+    /* Secondary red used in icons/hover */
+    --dark-color: #1a1a1a;
+    /* Main text and dark backgrounds */
+    --mid-color: #555555;
+    /* Secondary text */
+    --light-color: #888888;
+    /* Muted text */
+    --border-color: #e4e4e4;
+    /* Divider and border color */
+    --bg-white: #ffffff;
+    /* Main background */
+    --bg-light: #f9f9f9;
+    /* Light section backgrounds */
+    --text-muted: #999;
+    /* Muted gray text */
+    --black: #000000;
+    /* Absolute black */
+    --gray-light: #d0d0d0;
+    /* Very light gray */
+    --shadow-color: #8d8d8d;
+    /* Color used in box shadows */
+    --border-mid: #CCC;
+    /* Middle-tone border color */
+}
+
+/* User reported 'text too big' fix */
+.banner-text .section-title,
+.banner-text h1 {
+    font-size: clamp(40px, 8vw, 100px) !important;
+    line-height: 1.1 !important;
+}
+
+.banner-text h2,
+.banner-text .h2 {
+    font-size: clamp(24px, 4vw, 48px) !important;
+    line-height: 1.2 !important;
+}
+
+/* Global Theme Mapping */
+.section-title span {
+    color: var(--primary-color);
+}
+
+/* Ensure text-white class works for section-titles on dark backgrounds */
+.section-title.text-white {
+    color: var(--bg-white) !important;
+}
+
+.section-title.text-white span {
+    color: var(--bg-white) !important;
+}
+
+/* Navbar Shadow on Scroll */
+.header_sec.fixed {
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15) !important;
+}
+
+.need-btn {
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+}
+
+.nav-link.active {
+    color: var(--primary-color) !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover::before,
+.navbar-light .navbar-nav .nav-link.active::before {
+    background-color: var(--primary-color) !important;
+}

@@ -1,0 +1,54 @@
+{
+  "site_info": {
+    "name": "DigiBrandX",
+    "logo": "images/logo.svg",
+    "favicon": "images/favicon.png"
+  },
+  "links": {
+    "home": "index.html",
+    "branding": "branding.html",
+    "ux_design": "ux-design.html",
+    "visual_design": "visual-design.html",
+    "app_dev": "application-development.html",
+    "graphic_design": "graphic-design.html",
+    "social_media": "social-media-branding.html",
+    "digital_marketing": "digital-marketing.html",
+    "video_production": "video-production.html",
+    "portfolio": "portfolio.html",
+    "case_study": "case-study.html",
+    "team": "team.html",
+    "about": "about.html",
+    "blogs": "blogs.html",
+    "contact": "contact.html"
+  },
+  "header": {
+    "services_title": "Our Services For Your Brand"
+  },
+  "hero": {
+    "slides": [
+      {
+        "h2": "Design Can Change",
+        "title": "Your Brand <span>Personality</span>",
+        "description": "DigiBrandX, a <strong>leading 360-degree advertising agency</strong>, offers comprehensive branding and creative solutions that empower businesses to build, scale, and maintain impactful, enduring brands."
+      },
+      {
+        "h2": "Fueling Your Brand’s",
+        "title": "Growth and <span>Success</span>",
+        "description": "At DigiBrandX, we’re the <strong>best user experience design agency, </strong>blending creativity, strategy, and cutting-edge technology to craft exceptional, unforgettable digital products that leave a lasting impact."
+      },
+      {
+        "h2": "Transform Your Story,",
+        "title": "Elevate Your <span>Brand</span>",
+        "description": "We, DigiBrandX, the <strong>No.1 branding agency</strong>, don’t just build brands — we shape brand strategies that resonate. Let’s craft your brand’s story with purpose, passion, and precision."
+      },
+      {
+        "h2": "Creative Ideas That Click",
+        "title": "and Deliver <span>Impact</span>",
+        "description": "DigiBrandX, the <strong>best digital marketing agency</strong>, creates powerful strategies that engage audiences, elevate brands, and drive measurable growth across today’s competitive digital landscape."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Digibrandx. All rights reserved."
+  }
+}
