@@ -44,6 +44,7 @@ const DynamicLoader = {
             const url = this.data.links ? this.data.links[key] : null;
             
             if (url) {
+                console.log(`Setting link ${key} to ${url}`);
                 el.href = url;
             }
         });

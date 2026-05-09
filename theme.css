@@ -1,11 +1,11 @@
 /* DigiBrandX Global Theme Variables */
 :root {
-    --primary-color: #D91B5D;
-    /* The signature pink/red */
-    --accent-color: #CD0132;
-    /* Secondary red used in icons/hover */
+    --primary-color: #611F81;
+    /* Deep purple from the logo's 'S' */
+    --accent-color: #F8C414;
+    /* Yellow/Gold from the rupee icon */
     --dark-color: #1a1a1a;
-    /* Main text and dark backgrounds */
+    /* Main text */
     --mid-color: #555555;
     /* Secondary text */
     --light-color: #888888;
@@ -14,17 +14,17 @@
     /* Divider and border color */
     --bg-white: #ffffff;
     /* Main background */
-    --bg-light: #f9f9f9;
-    /* Light section backgrounds */
-    --text-muted: #999;
+    --bg-light: #f4f3f6;
+    /* Very light purple-tinted gray */
+    --text-muted: #999999;
     /* Muted gray text */
     --black: #000000;
     /* Absolute black */
     --gray-light: #d0d0d0;
     /* Very light gray */
-    --shadow-color: #8d8d8d;
-    /* Color used in box shadows */
-    --border-mid: #CCC;
+    --shadow-color: #cccccc;
+    /* Softer shadow for light mode */
+    --border-mid: #b3b3b3;
     /* Middle-tone border color */
 }
 

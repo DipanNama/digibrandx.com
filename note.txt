@@ -1,1 +1,34 @@
 #D81B60, #E91E63, #C2185B
+
+/* This is the actual one */
+:root {
+    --primary-color: #D91B5D;
+    /* The signature pink/red */
+    --accent-color: #CD0132;
+    /* Secondary red used in icons/hover */
+    --dark-color: #1a1a1a;
+    /* Main text and dark backgrounds */
+    --mid-color: #555555;
+    /* Secondary text */
+    --light-color: #888888;
+    /* Muted text */
+    --border-color: #e4e4e4;
+    /* Divider and border color */
+    --bg-white: #ffffff;
+    /* Main background */
+    --bg-light: #f9f9f9;
+    /* Light section backgrounds */
+    --text-muted: #999;
+    /* Muted gray text */
+    --black: #000000;
+    /* Absolute black */
+    --gray-light: #d0d0d0;
+    /* Very light gray */
+    --shadow-color: #8d8d8d;
+    /* Color used in box shadows */
+    --border-mid: #CCC;
+    /* Middle-tone border color */
+}
+
+RECAPTCHA_SITE_KEY: 6Ld5B-EsAAAAAL3iz6GsuPYvJ26vUy3_88GAy5Ec
+RECAPTCHA_SECRET_KEY: 6Ld5B-EsAAAAAIT2GjQ6Pm2YHeVmPMm3PTuEUYyz
