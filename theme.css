@@ -1,31 +1,58 @@
-/* DigiBrandX Global Theme Variables */
+/* DigiBrandX Global Theme Variables - CYBER-NEON DARK */
 :root {
-    --primary-color: #611F81;
-    /* Deep purple from the logo's 'S' */
-    --accent-color: #F8C414;
-    /* Yellow/Gold from the rupee icon */
-    --dark-color: #1a1a1a;
-    /* Main text */
-    --mid-color: #555555;
-    /* Secondary text */
+    --neon-yellow: #ccff00;
+    --neon-green: #39ff14;
+    --neon-pink: #ff00ff;
+    --neon-violet: #8b00ff;
+    --abs-black: #000000;
+    --card-bg: #121212;
+    --primary-color: var(--neon-yellow);
+    --accent-color: var(--neon-green);
+    --dark-color: #ffffff; /* Text color on black */
+    --mid-color: #bbbbbb;
     --light-color: #888888;
-    /* Muted text */
-    --border-color: #e4e4e4;
-    /* Divider and border color */
-    --bg-white: #ffffff;
-    /* Main background */
-    --bg-light: #f4f3f6;
-    /* Very light purple-tinted gray */
+    --border-color: #222222;
+    --bg-white: var(--abs-black);
+    --bg-light: #080808;
     --text-muted: #999999;
-    /* Muted gray text */
     --black: #000000;
-    /* Absolute black */
-    --gray-light: #d0d0d0;
-    /* Very light gray */
-    --shadow-color: #cccccc;
-    /* Softer shadow for light mode */
-    --border-mid: #b3b3b3;
-    /* Middle-tone border color */
+    --gray-light: #333333;
+    --shadow-color: rgba(0, 0, 0, 0.5);
+    --border-mid: #333333;
+    --transition: all 0.3s ease;
+}
+
+/* 1. Global Backgrounds & Transitions */
+body, 
+html, 
+.navbar, 
+.header_sec, 
+footer, 
+.header_sec.fixed,
+.bg-light,
+.bg-white,
+.bg-black {
+    background-color: var(--abs-black) !important;
+    color: #ffffff !important;
+    transition: var(--transition);
+}
+
+/* Smooth transitions for all interactive elements */
+a, .btn, .card, .portfolio-card, .blog-area, .case-sudy-area, i, button {
+    transition: var(--transition);
+}
+
+/* 2. Typography (Neon Yellow Headings) */
+h1, h2, h3, h4, h5, h6, 
+.h1, .h2, .h3, .h4, .h5, .h6,
+.section-title, .srow-name, .testi-content h5 {
+    color: var(--neon-yellow) !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span, .section-title span {
+    color: var(--neon-green) !important; /* Accents in green */
 }
 
 /* User reported 'text too big' fix */
@@ -41,35 +68,127 @@
     line-height: 1.2 !important;
 }
 
-/* Global Theme Mapping */
-.section-title span {
-    color: var(--primary-color);
+/* 3. Global Icons (Neon Green) */
+i, .fas, .fab, .far, .bi, svg:not(.bar-icon svg) {
+    color: var(--neon-green) !important;
+    fill: var(--neon-green) !important;
 }
 
-/* Ensure text-white class works for section-titles on dark backgrounds */
-.section-title.text-white {
-    color: var(--bg-white) !important;
+/* 4. Buttons (Yellow BG, Black Text, Green Icons) */
+.btn, .need-btn, .right-viewbtn, .contact-submit a {
+    background-color: var(--neon-yellow) !important;
+    color: var(--abs-black) !important;
+    border: none !important;
+    font-weight: 800 !important;
+    padding: 10px 25px !important;
+    border-radius: 4px !important;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none !important;
 }
 
-.section-title.text-white span {
-    color: var(--bg-white) !important;
+.btn:hover, .need-btn:hover, .right-viewbtn:hover, .contact-submit a:hover {
+    box-shadow: 0 0 20px rgba(204, 255, 0, 0.6);
+    transform: translateY(-3px);
+    filter: brightness(1.1);
 }
 
-/* Navbar Shadow on Scroll */
-.header_sec.fixed {
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15) !important;
+/* Specific rule for icons inside buttons */
+.btn i, .need-btn i, .need-btn svg path, .right-viewbtn i, .btn svg {
+    stroke: var(--neon-green) !important; /* For SVGs */
+    fill: var(--neon-green) !important;   /* For SVGs */
+    color: var(--neon-green) !important;  /* For FontAwesome */
 }
 
-.need-btn {
-    background-color: var(--primary-color) !important;
-    border-color: var(--primary-color) !important;
+/* 5. Cards (Gradient Border on Hover) */
+.card, 
+.portfolio-card, 
+.blog-area, 
+.case-sudy-area, 
+.faq-card,
+.testimonial_sec,
+.port-content {
+    background-color: var(--card-bg) !important;
+    border: 1px solid #222 !important;
+    border-radius: 8px !important;
+    overflow: hidden;
 }
 
-.nav-link.active {
-    color: var(--primary-color) !important;
+/* Reset inner card backgrounds */
+.blog-content, .port-content, .case-content, .testi-item {
+    background-color: transparent !important;
+}
+
+/* The Gradient Border Effect */
+.portfolio-card:hover, 
+.blog-area:hover, 
+.case-sudy-area:hover,
+.faq-card:hover {
+    border: 1px solid transparent !important;
+    background-image: linear-gradient(var(--card-bg), var(--card-bg)), 
+                      linear-gradient(135deg, var(--neon-pink) 0%, var(--neon-violet) 100%) !important;
+    background-origin: border-box !important;
+    background-clip: padding-box, border-box !important;
+    transform: scale(1.02);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+/* 6. Navigation Cleanup */
+.nav-link {
+    color: #ffffff !important;
+}
+
+.nav-link:hover, .nav-link.active {
+    color: var(--neon-yellow) !important;
 }
 
 .navbar-light .navbar-nav .nav-link:hover::before,
 .navbar-light .navbar-nav .nav-link.active::before {
-    background-color: var(--primary-color) !important;
+    background-color: var(--neon-yellow) !important;
+}
+
+/* 7. Forms */
+input, textarea, .custom-contact-select .selected, select {
+    background-color: #080808 !important;
+    border: 1px solid #333 !important;
+    color: #fff !important;
+}
+
+input:focus, textarea:focus {
+    border-color: var(--neon-green) !important;
+    box-shadow: 0 0 10px rgba(57, 255, 20, 0.2) !important;
+}
+
+/* 8. Misc Overrides */
+.testimonial_sec {
+    background-color: var(--abs-black) !important;
+}
+
+.service_area {
+    background: transparent !important;
+    border: 1px solid #222;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+.owl-dot span {
+    background: #333 !important;
+}
+
+.owl-dot.active span {
+    background: var(--neon-yellow) !important;
+}
+
+.social_list ul li a img, .ct_info_area i img {
+    filter: invert(56%) sepia(91%) saturate(2253%) hue-rotate(84deg) brightness(118%) contrast(119%); /* Force neon green tint (#39ff14) */
+}
+
+/* Footer specific */
+footer .page-list ul li a {
+    color: #888 !important;
+}
+
+footer .page-list ul li a:hover {
+    color: var(--neon-yellow) !important;
 }
