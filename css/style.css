@@ -137,7 +137,8 @@ a {
     justify-content: center
 }
 
-.banner-text h2, .banner-text .h2 {
+.banner-text h2,
+.banner-text .h2 {
     color: var(--black);
     font-family: Montserrat;
     font-size: 70px;
@@ -537,7 +538,7 @@ a {
 .testimonial_area .swiper-button-next:after,
 .testimonial_area .swiper-button-prev:after {
     font-size: 16px;
-    color: #d9d9d9
+    color: var(--icon-color);
 }
 
 .client-heading .section-title,
@@ -592,7 +593,7 @@ a {
 .client-area .swiper-button-next:after,
 .client-area .swiper-button-prev:after {
     font-size: 16px;
-    color: #6a6a6a
+    color: var(--icon-color);
 }
 
 .client-area .swiper-slide {
@@ -1162,7 +1163,9 @@ a {
     right: 15px
 }
 
-.about-details-sec p, .port-details-content p, .responsive-heading p {
+.about-details-sec p,
+.port-details-content p,
+.responsive-heading p {
     color: var(--black);
     font-family: Montserrat;
     font-size: 20px;
@@ -1918,7 +1921,22 @@ div#jconfirm-box98152 p {
     }
 }
 
+/* Mannual */
+#service-heading,
+#service-heading *,
+#banner-heading,
+#banner-heading * {
+    color: var(--accent-color) !important;
+}
 
+#section-title-xyz,
+#section-title-xyz * {
+    color: var(--accent-color) !important;
+}
 
-
-
+.fas.fa-angle-right,
+.fas.fa-chevron-down,
+.fas.fa-angle-down,
+.fa-solid.fa-chevron-down {
+    color: var(--icon-color);
+}

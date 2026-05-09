@@ -4,6 +4,8 @@
     /* Deep purple from the logo's 'S' */
     --accent-color: #F8C414;
     /* Yellow/Gold from the rupee icon */
+    --icon-color: #00FF88;
+    /* Green icon colors for svgs */
     --dark-color: #1a1a1a;
     /* Main text */
     --mid-color: #555555;
