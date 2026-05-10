@@ -169,7 +169,7 @@ a {
     justify-content: center;
     gap: 69px;
     position: absolute;
-    bottom: 30px;
+    bottom: 20px;
     left: 50%;
     transform: translateX(-50%)
 }
@@ -1943,5 +1943,9 @@ div#jconfirm-box98152 p {
 }
 
 .banner-index {
-    padding-top: 40px;
+    padding-top: 60px !important;
+}
+
+#dark-service-heading {
+    color: var(--accent-color) !important;
 }
