@@ -4,3 +4,7 @@
 - [x] contact page images 
 - [x] blogs and portfolios show properly
 - [ ] fix the breadcrumbs they are still redirecting to the external website
+- [ ] fix the LET'S WORK TOGETHER form
+- [ ] fix the favicon
+- [ ] fix the logo 
+- [ ] 

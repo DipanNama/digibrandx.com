@@ -1,5 +1,5 @@
 /**
- * DigiBrandX Dynamic Content Loader
+ * BS Digital Solutions Dynamic Content Loader
  * Fetches content.json and injects data into elements with data-content-key or data-link-key attributes.
  */
 
@@ -19,7 +19,7 @@ const DynamicLoader = {
             
             this.render();
             this.setActiveLink();
-            console.log('DigiBrandX dynamic content loaded successfully.');
+            console.log('BS Digital Solutions dynamic content loaded successfully.');
         } catch (error) {
             console.error('Loader Error:', error);
         }

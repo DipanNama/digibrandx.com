@@ -4,7 +4,7 @@ import requests
 from urllib.parse import urljoin, urlparse
 
 def get_assets():
-    base_url = "https://www.digibrandx.com/"
+    base_url = "https://www.BS Digital Solutions.com/"
     asset_extensions = (
         '.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp', '.ico',
         '.css', '.js',
@@ -39,7 +39,7 @@ def get_assets():
                     
                     if clean_match.lower().endswith(asset_extensions):
                         if clean_match.startswith('http'):
-                            if 'digibrandx.com' in clean_match:
+                            if 'BS Digital Solutions.com' in clean_match:
                                 found_urls.add(clean_match)
                         elif not clean_match.startswith(('javascript:', 'mailto:', 'tel:', '#')):
                             # It's a relative path
@@ -51,12 +51,12 @@ def get_assets():
     return found_urls
 
 def download_assets(urls):
-    base_url = "https://www.digibrandx.com/"
+    base_url = "https://www.BS Digital Solutions.com/"
     
     for url in sorted(urls):
         parsed = urlparse(url)
         # Reconstruct local path
-        # If url is https://www.digibrandx.com/css/style.css -> css/style.css
+        # If url is https://www.BS Digital Solutions.com/css/style.css -> css/style.css
         path = parsed.path.lstrip('/')
         if not path: continue
         
