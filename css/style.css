@@ -25,6 +25,7 @@
 body {
     padding: 0;
     margin: 0;
+    overflow-x: hidden;
     font-family: Montserrat, sans-serif
 }
 
@@ -168,7 +169,7 @@ a {
     justify-content: center;
     gap: 69px;
     position: absolute;
-    bottom: 90px;
+    bottom: 30px;
     left: 50%;
     transform: translateX(-50%)
 }
@@ -515,8 +516,8 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
-    height: 12px
+    gap: 2px;
+    height: 12px;
 }
 
 .testimonial_area .swiper-button-next {
@@ -1939,4 +1940,8 @@ div#jconfirm-box98152 p {
 .fas.fa-angle-down,
 .fa-solid.fa-chevron-down {
     color: var(--icon-color);
+}
+
+.banner-index {
+    padding-top: 40px;
 }
