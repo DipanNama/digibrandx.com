@@ -7,4 +7,6 @@
 - [ ] fix the LET'S WORK TOGETHER form
 - [ ] fix the favicon
 - [ ] fix the logo 
+- [ ] case study fix
+- [ ] portfolio all fix
 - [ ] 
