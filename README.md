@@ -9,4 +9,5 @@
 - [ ] fix the logo 
 - [ ] case study fix
 - [ ] portfolio all fix
+- [ ] footer links header color is transparent
 - [ ] 

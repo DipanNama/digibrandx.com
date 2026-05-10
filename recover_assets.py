@@ -4,7 +4,7 @@ import requests
 from urllib.parse import urljoin, urlparse
 
 def get_assets():
-    base_url = "https://www.BS Digital Solutions.com/"
+    base_url = "https://bssoliution.dgcrafter.com/"
     asset_extensions = (
         '.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp', '.ico',
         '.css', '.js',
@@ -51,12 +51,12 @@ def get_assets():
     return found_urls
 
 def download_assets(urls):
-    base_url = "https://www.BS Digital Solutions.com/"
+    base_url = "https://bssoliution.dgcrafter.com/"
     
     for url in sorted(urls):
         parsed = urlparse(url)
         # Reconstruct local path
-        # If url is https://www.BS Digital Solutions.com/css/style.css -> css/style.css
+        # If url is https://bssoliution.dgcrafter.com/css/style.css -> css/style.css
         path = parsed.path.lstrip('/')
         if not path: continue
         
