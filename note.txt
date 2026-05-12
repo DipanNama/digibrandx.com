@@ -32,3 +32,278 @@
 
 RECAPTCHA_SITE_KEY: 6Ld5B-EsAAAAAL3iz6GsuPYvJ26vUy3_88GAy5Ec
 RECAPTCHA_SECRET_KEY: 6Ld5B-EsAAAAAIT2GjQ6Pm2YHeVmPMm3PTuEUYyz
+
+
+
+
+
+{
+  "company": "BS DIGITAL SOLUTIONS",
+  "sections": [
+    {
+      "id": "home",
+      "label": "Home",
+      "details": [
+        "Bringing the Gap Between Your Brand and Your Audience",
+        "From creative web design to high- converting social media campaigns— experience a 360° approach to digital growth with Kolkata’s premier marketing consultants ",
+        "CTA (Call to Action) Button"
+      ]
+    },
+    {
+      "id": "about_us",
+      "label": "About Us",
+      "description": "At BS Digital Solutions, we are committed to transforming businesses with innovative and result-driven digital marketing strategies. With expertise in SEO, social media marketing, website development, Google Ads, lead generation, branding, and more, we help businesses establish a strong online presence and achieve their growth goals ",
+      "sub_sections": [
+        {
+          "label": "Mission",
+          "description": "Our mission is to empower businesses with cutting-edge digital marketing strategies. We strive to enhance brand visibility, drive customer engagement, and generate high quality leads through innovative and data driven solutions "
+        },
+        {
+          "label": "Vision",
+          "description": "Our vision is to become a leading digital marketing agency, recognized for delivering exceptional results. We aim to help businesses of all sizes succeed in the digital landscape by providing tailored solutions that foster growth, innovation, and long term success "
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "label": "Services",
+      "categories": [
+        {
+          "name": "Growth & Business Strategy ",
+          "sub_items": [
+            {
+              "label": "Business Consultancy ",
+              "description": "Expert advice to help you navigate market challenges and scale your operations. "
+            },
+            {
+              "label": "Online Business Strategy ",
+              "description": "Data-driven blueprints to launch or transition your business into the digital space. "
+            },
+            {
+              "label": "Marketing Strategy: ",
+              "description": "Comprehensive planning to define your target audience and reach them effectively. "
+            },
+            {
+              "label": "Lead Generation",
+              "description": "Specialized tactics to find and capture high-quality potential customers for your sales funnel. "
+            }
+          ]
+        },
+        {
+          "name": "Social Media & Advertising ",
+          "sub_items": [
+            {
+              "label": "Facebook & Instagram Marketing",
+              "description": "Targeted organic and paid campaigns to dominate the Meta ecosystem."
+            },
+            {
+              "label": "Google Ads (SEM)",
+              "description": "Strategic PPC campaigns to appear at the top of Google search results instantly."
+            },
+            {
+              "label": "Social Media Management",
+              "description": "Consistent brand building and engagement across all major platforms "
+            }
+          ]
+        },
+        {
+          "name": "Web & App Development",
+          "sub_items": [
+            {
+              "label": "Creative Website Design ",
+              "description": "High-end, visually stunning websites that prioritize user experience. "
+            },
+            {
+              "label": "WordPress Development",
+              "description": "Fast, scalable and easy-to-manage websites powered by the world's most popular CMS."
+            },
+            {
+              "label": "Custom Coding & System Integration",
+              "description": "Bespoke web solutions and specialized integrations (like Spotify) for unique business needs. "
+            },
+            {
+              "label": "App Development",
+              "description": "Custom mobile applications designed for both performance and user engagement "
+            }
+          ]
+        },
+        {
+          "name": "Search & Visibility",
+          "sub_items": [
+            {
+              "label": "Search Engine Optimization (SEO)",
+              "description": "Dominating search rankings through technical, on-page, and off-page optimizations."
+            },
+            {
+              "label": "Local SEO",
+              "description": "Subtopic 1Making sure your business is the first one found in local map searches"
+            }
+          ]
+        },
+        {
+          "name": "Creative & Content Production",
+          "sub_items": [
+            {
+              "label": "Graphics Designing:",
+              "description": "Professional visual assets, from logos and branding to social media creatives."
+            },
+            {
+              "label": "Video Editing",
+              "description": "High Quality video production and post- production for ads, YouTube, and reels."
+            },
+            {
+              "label": "Content Marketing:",
+              "description": "Crafting the stories and messages that connect your brand with your audience"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plans_and_pricing",
+      "label": "Plans & Pricing",
+      "category": "Social Media Marketing",
+      "packages": [
+        {
+          "name": "STARTER PACKAGE",
+          "details": [
+            "Page/Account Creation & Full Management (Facebook & Instagram)",
+            "Meta links integration (fb & ig)",
+            "2 weekly posts - professionally designed & edited",
+            "Festival posts included - free",
+            "2 promotional videos/reels per month (with editing)",
+            "Captions writing hashtag research & trend analysis Boosted customer engagement & social visibility",
+            "1 Monthly Campaign for Higher Reach & Brand Awareness (Setup Included 10 Days Meta Ads Fund)",
+            "Monthly growth & performance report"
+          ],
+          "target" : "Perfect for startups, local brands, and small businesses ready to go digital!",
+          "note": "Note: GET 5% OFF ON EVERY PACKAGE WITH 6-MONTH OR 1-YEAR VENDORSH",
+          "price": "₹5,999"
+        },
+        {
+          "name": "STANDARD PACKAGE",
+          "details": []
+        },
+        {
+          "name": "PREMIUM PACKAGE",
+          "details": []
+        }
+      ]
+    },
+    {
+      "id": "portfolio",
+      "label": "Portfolio",
+      "categories": [
+        {
+          "name": "Graphics",
+          "items": [
+            "Real Estate & Construction",
+            "Healthcare & Wellness",
+            "E-commerce & E-Learning",
+            "E-commerce & Retail",
+            "Hospitality Travel & Tourism",
+            "Professional Services",
+            "Finance & Banking",
+            "Beauty & Personal Care",
+            "Automotive",
+            "Local & Home Services",
+            "Jewelry & Accessorie",
+            "Fashion & Lifestyle",
+            "Events Management",
+            "Digital Marketing",
+            "Interior Design",
+            "Restaurants"
+          ]
+        },
+        {
+          "name" : "Videos",
+          "items" : [
+            
+          ]
+        },
+        {
+          "name" : "Reels",
+          "items" : [
+            
+          ]
+        },
+        {
+          "name" : "Logos",
+          "items" : [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "label": "Testimonials",
+      "items": [
+        "Videos",
+        "Text Reviews"
+      ]
+    },
+    {
+      "id": "contact_us",
+      "label": "Contact Us",
+      "fields": [
+        "Call - +91 8648832418",
+        "WA- +91 734858547",
+        "Address"
+      ]
+    }
+    
+  ]
+}
+
+
+
+{
+  "group": "Why Choose Us?",
+  "features": [
+    "Experienced Team",
+    "Result-Oriented Approach",
+    "24/7 Customer Support",
+    "Customized Strategies"
+  ]
+}
+
+{
+  "group": "Numbers Speak",
+  "features": [
+    "50+ Projects Completed",
+    "20+ Happy Clients",
+    "5+ Years of Experience",
+    "100% Satisfaction Rate"
+  ]
+}
+
+{
+  "group": "Business Tools",
+  "features": [
+    "Competitor Analysis",
+    "SEO Optimizations",
+    "Analytics Data"
+  ]
+}
+
+{
+  "label": "Social Media Icons",
+  "items": [
+    "Google",
+    "Facebook",
+    "Instagram"
+  ]
+}
+
+{
+  "label": "From",
+  "items": [
+    "Name",
+    "Location",
+    "Company Name",
+    "Business Category",
+    "Contact",
+    "Description [Need]"
+  ]
+}
