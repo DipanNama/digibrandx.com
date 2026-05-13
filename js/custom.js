@@ -260,7 +260,9 @@ function openCity(evt, cityName, wid) {
   }
 
   var tabElement = document.getElementById(cityName);
-  tabElement.style.display = "block";
+  if (tabElement) {
+    tabElement.style.display = "block";
+  }
 
   // Handle both real clicks and simulated calls
   if (evt && evt.currentTarget) {
@@ -274,23 +276,6 @@ function openCity(evt, cityName, wid) {
         break;
       }
     }
-  }
-
-  // Only load via AJAX if the tab hasn't been loaded yet
-  // For "all_show_default", always load since it might have placeholder content
-  if (cityName === 'all_show_default' || tabElement.getAttribute('data-loaded') !== 'true') {
-    tabElement.style.opacity = "0.6";
-    
-    $.ajax({
-      url: 'tab_media_content_ajax.php?wid=' + wid,
-      success: function(result) {
-        $("#" + cityName).html(result).css("opacity", "1");
-        tabElement.setAttribute('data-loaded', 'true');
-      },
-      error: function() {
-        $("#" + cityName).css("opacity", "1");
-      }
-    });
   }
 }
 
