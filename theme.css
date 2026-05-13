@@ -4,13 +4,13 @@
     --primary-yellow: #F8C414;
     --brand-red: #CD0132;
     --brand-pink: #D91B5D;
-    
+
     /* Theme Colors */
     --vibrant-yellow: #ffff00;
     --vibrant-green: #00ff00;
     --vibrant-pink: #ff00ff;
     --violet: #8b00ff;
-    
+
     /* Base Colors */
     --black: #000000;
     --white: #ffffff;
@@ -21,15 +21,15 @@
     --border-light: #e4e4e4;
     --border-mid: #b3b3b3;
     --bg-light: #f4f3f6;
-    
+
     /* Shadows */
     --shadow-10: rgba(0, 0, 0, 0.1);
     --shadow-20: rgba(0, 0, 0, 0.2);
-    
+
     /* Contextual Variables */
-    --nav-bg: var(--black);
-    --nav-text: var(--white);
-    --nav-link-hover: var(--vibrant-yellow);
+    --nav-bg: var(--white);
+    --nav-text: var(--black);
+    --nav-link-hover: var(--primary-purple);
 
     --btn-primary-bg: var(--vibrant-yellow);
     --btn-primary-text: var(--black);
@@ -42,7 +42,7 @@
     --section-dark-heading: var(--vibrant-yellow);
 
     --icon-color: var(--vibrant-green);
-    
+
     /* Legacy / Compatibility */
     --primary-color: var(--primary-purple);
     --accent-color: var(--primary-yellow);
@@ -52,49 +52,79 @@
 /* Global Theme Rules */
 
 /* 1. Headlines on black backgrounds */
-.bg-black h1, .bg-black h2, .bg-black h3, .bg-black h4, .bg-black h5, .bg-black h6,
-.service_sec h1, .service_sec h2, .service_sec h3,
-.service_frd_sec h1, .service_frd_sec h2, .service_frd_sec h3,
-.full_banner_sec h1, .full_banner_sec h2, .full_banner_sec h3 {
+.bg-black h1,
+.bg-black h2,
+.bg-black h3,
+.bg-black h4,
+.bg-black h5,
+.bg-black h6,
+.service_sec h1,
+.service_sec h2,
+.service_sec h3,
+.service_frd_sec h1,
+.service_frd_sec h2,
+.service_frd_sec h3,
+.full_banner_sec h1,
+.full_banner_sec h2,
+.full_banner_sec h3 {
     color: var(--vibrant-yellow) !important;
 }
 
 /* 2. Icons (general) */
-i, svg, .icon {
+i,
+svg,
+.icon {
     color: var(--vibrant-green) !important;
     fill: var(--vibrant-green) !important;
 }
 
 /* 3. Card hover borders */
-.blog-area:hover, .portfolio-card:hover {
+.blog-area:hover,
+.portfolio-card:hover {
     border: 2px solid transparent !important;
     border-image: linear-gradient(to bottom right, var(--card-border-gradient-start), var(--card-border-gradient-end)) 1 !important;
 }
 
 /* 4. Navigation */
-.header_sec, .fixed, .navbar {
+.header_sec,
+.fixed,
+.navbar {
     background-color: var(--nav-bg) !important;
 }
+
 .navbar-light .navbar-nav .nav-link {
     color: var(--nav-text) !important;
 }
+
 .navbar-light .navbar-nav .nav-link:hover {
     color: var(--nav-link-hover) !important;
 }
 
+#toggle div {
+    background: var(--nav-text) !important;
+}
+
 /* 5. Buttons with a background color */
-.need-btn, .need-btn1, .btn-primary, button[type="submit"] {
+.need-btn,
+.need-btn1,
+.btn-primary,
+button[type="submit"] {
     background-color: var(--btn-primary-bg) !important;
     color: var(--btn-primary-text) !important;
     border-color: var(--btn-primary-bg) !important;
 }
-.need-btn i, .need-btn svg, .need-btn1 i, .need-btn1 svg {
+
+.need-btn i,
+.need-btn svg,
+.need-btn1 i,
+.need-btn1 svg {
     color: var(--btn-primary-icon) !important;
     fill: var(--btn-primary-icon) !important;
 }
 
 /* 7. Purple button hover bug fix */
-.need-btn:hover, .need-btn1:hover {
+.need-btn:hover,
+.need-btn1:hover {
     background-color: var(--btn-primary-bg) !important;
     color: var(--btn-primary-text) !important;
     opacity: 0.9;
@@ -107,26 +137,37 @@ i, svg, .icon {
     cursor: pointer;
     border-radius: 8px;
 }
+
 .testi-img-card:hover {
     transform: translateY(-10px);
     box-shadow: 0 10px 30px var(--shadow-20);
     border-color: var(--card-border-gradient-start) !important;
 }
+
 .testi-img-card img {
     transition: transform 0.5s ease;
 }
+
 .testi-img-card:hover img {
     transform: scale(1.05);
 }
+
 .video-card {
     transition: transform 0.3s ease;
     border: 1px solid var(--border-mid);
 }
+
 .video-card:hover {
     transform: scale(1.02);
     border-color: var(--vibrant-yellow);
 }
+
 .video-card video {
     aspect-ratio: 16 / 9;
     object-fit: cover;
+}
+
+/* 9. Image Testimonial Carousel Styles */
+.image_testi_area {
+    padding-bottom: 0;
 }
