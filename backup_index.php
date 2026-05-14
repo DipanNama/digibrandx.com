@@ -1,0 +1,3256 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS -->
+    <base href="http://localhost:8080/dgbrandx/" />
+    <link rel="canonical" href="https://www.digibrandx.com/" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" href="css/responstive.css">
+    <link rel="stylesheet" href="build/css/intlTelInput.css" />
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "digibrandx",
+  "url": "https://www.digibrandx.com/",
+  "logo": "https://www.digibrandx.com/images/logo.svg",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91 98203 88325",
+    "contactType": "customer service",
+    "areaServed": "IN",
+    "availableLanguage": "en"
+  },
+  "sameAs": [
+    "https://www.instagram.com/digibrandx",
+    "https://x.com/digibrandx",
+    "https://in.pinterest.com/digibrandx/"
+  ]
+}
+</script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4MFVLSQHM1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-4MFVLSQHM1');
+    </script>
+    <title>360 Degree Advertising Agency | Brand Strategy Expert</title>
+    <meta name="description"
+        content="DigiBrandX is the No. 1 full services advertising agency, a specialist in ui and ux design, and corporate film, creating powerful branding experiences." />
+    <meta name="keywords" content="logo design agency,
+top logo design companies,
+consulting company logo design,
+best ad agency logos,
+brand studio logo,
+creative agency logo design,
+branding and logo design agency,
+best brand identity agencies,
+custom logo agency,
+logo advertising agency,
+best consulting firm logos,
+logo animation agency,
+top branding companies,
+logo design agency,
+the branding agency,
+logo marketing agency,
+best advertising agencies in the world,
+best ad agency in the world,
+brand marketing firms,
+top logo design companies,
+branding agency startup,
+agency brand identity,
+branding agency for small business,
+rebranding agency,
+seo and branding,
+brand content marketing,
+creative content agency,
+the branding studio,
+best creative agency,
+agency brand management,
+top creative ad agencies,
+companies with great branding,
+top creative advertising agencies,
+marketing and branding consultant,
+luxury brand consultant,
+best marketing agency websites,
+creative pr agency,
+best graphic designing company,
+creative strategy in advertising,
+brand management consulting firms,
+corporate branding companies,
+business branding company,
+online branding companies,
+luxury brand advertising agency,
+tech branding agency,
+best branding companies in the world,
+creative branding services,
+social media branding services,
+top creative agencies in the world,
+branding for tech companies,
+best creative agencies in the world,
+fintech branding agency,
+visual branding agency,
+brand audit agency,
+corporate identity design company,
+personal branding consultant services,
+creative agency for small business,
+branding solutions company,
+b2b brand marketing agency,
+marketing branding advertising,
+storybrand agency,
+creative brand marketing,
+outdoor branding agency,
+brand management firm,
+best b2b social media,
+creative web design studio,
+best advertising agencies in the world,
+creative content agency,
+branding consultancy services,
+best creative agency,
+top creative advertising agencies,
+creative strategy in advertising,
+creative branding services,
+top creative agencies in the world,
+creative brand consultancy,
+creative social agency,
+best branding studios,
+advertising agency near me,
+top digital advertising agencies,
+billboard advertising companies,
+billboard advertising agency,
+ppc advertising agencies,
+facebook ads agency,
+advertising studio,
+best advertising agencies,
+advertising and digital marketing,
+ad firm,
+best ad agency in the world,
+online marketing companies for small businesses,
+creative billboard advertising,
+ppc advertising management services,
+digital ad solutions,
+global advertising company,
+international advertising company,
+media and advertising agency,
+outdoor media advertising,
+banner advertising agency,
+outdoor marketing agency,
+print advertising agency,
+best ad agency websites,
+mobile advertising agency,
+financial advertising agency,
+google ads marketing company,
+print media advertising agency,
+outdoor marketing companies,
+online advertising in digital marketing,
+the agency advertising,
+brand strategy agency,
+brand strategy consulting agency,
+brand positioning agency,
+marketing strategy consulting firms,
+brand positioning services,
+best brand strategy agencies,
+top brand strategy consulting firms,
+a brand strategy consulting,
+brand marketing strategy consulting,
+strategic branding studios,
+brand positioning agency,
+positioning agency,
+b2b brand positioning agency,
+brand positioning company,
+brand identity agency,
+agency brand identity,
+identity branding agency,
+corporate identity design company,
+brand identity development agency,
+top brand identity agencies,
+
+best advertising design for brand,
+best advertising design for startup brand,
+best advertising design agency for startup brand,
+how to find best advertising design agency for startup,
+how to choose best advertising design agency for startup,
+advertising agency,
+360 advertising agency,
+a full service advertising agency,
+advertising company services,
+advertising design studio,
+advertising firms,
+advertising in digital marketing,
+advertising in service marketing,
+advertising services companies,
+best company for digital marketing,
+best creative agencies,
+best creative agencies in the world,
+best creative marketing agencies,
+billboard advertising agency,
+billboard advertising companies,
+creative digital advertising,
+
+
+web development companies near me,
+seo in website design,
+web design agency near me,
+seo services web design,
+seo web design service,
+top website development companies,
+indian web design company,
+shopify website development company,
+top website design companies,
+web design services near me,
+website development company near me,
+best design company websites,
+responsive web design company,
+responsive design company,
+responsive web design agency,
+responsive web development company,
+responsive website design agency,
+responsive website design agency,
+responsive website design agency,
+responsive website design companies,
+responsive website development company,
+best design agency websites,
+custom website development services,
+b2b web design agency,
+custom web development company,
+website design company,
+web development agency near me,
+best agency websites,
+affordable web design services,
+ecommerce web design & development,
+web redesign company,
+best digital agency websites,
+web marketing and design,
+affordable web development company,
+web developer companies near me,
+best website design companies for small business,
+b2b website agency,
+b2b web design company,
+business website packages,
+top ecommerce development companies,
+best creative agency websites,
+web design agency websites,
+seo web design agency,
+best ecommerce development companies,
+b2b ecommerce development agency,
+construction web design agency,
+affordable custom website design,
+startup web design agency,
+web consulting company,
+construction web design company,
+enterprise web development company,
+top 10 web development companies in world,
+ecommerce ux agency,
+cms web design company,
+creative web development company,
+custom php web development company,
+wordpress web company,
+best dental website design companies,
+custom website design packages,
+creative web development agency,
+custom ecommerce web design service,
+top ecommerce website development company,
+web development services agency,
+expert web design company,
+top creative agency websites,
+custom web design packages,
+responsive web design service provider,
+web design lead generation companies,
+cms web design services,
+
+ui ux design agency,
+ux design agency,
+agency ux,
+best company for ux designer,
+best ui design company,
+best ui ux designer in world,
+best ui ux designers in the world,
+best ui ux agencies,
+best user experience agency,
+best user experience companies,
+best user experience design companies,
+best user experience design agency,
+best ux design agencies,
+best ux design companies in the world,
+best ux design companies to work for,
+creative ui ux agency,
+mobile app ux design,
+mobile app ui ux design agency,
+mobile app ui ux design services,
+mobile app ux design services,
+mobile ui ux design company,
+the ux design agency,
+top 10 ux design companies,
+top user experience design companies,
+top ui ux designers in the world,
+top user experience design firms,
+ui design agency for startups,
+ui design services company,
+ui development agency,
+ui ux digital marketing,
+user experience design consultancy,
+user experience researchers ux ui design agency,
+ux agency services,
+ux design firms,
+ux design in marketing,
+ux in website design,
+ux services company,
+ux ui development company,
+ui ux design for web application,
+ui ux design for mobile and web apps,
+ui ux visual design for a web application,
+user interface design for web application,
+ux web app,
+ui ux design for mobile app,
+android app ui ux design,
+app development ux design,
+application ui ux design,
+best ui ux mobile apps,
+best ux apps,
+mobile interface design,
+mobile user interface design,
+mobile user interface prototype design,
+ui ux app development,
+ui ux design for mobile and web apps,
+ui ux designer for mobile app,
+ui ux designer mobile apps,
+user experience design mobile application,
+user interface design for mobile applications,
+ui ux design agency for mobile and web apps,
+best companies for ux designers,
+ux design for saas product,
+ux design for diigtal product,
+ux for product design,
+ux design for enterprise applications,
+enterprise application ux design,
+enterprise software ux,
+ux for enterprise applications,
+top ux research companies,
+usability testing agency,
+user experience research agency,
+user experience research firm,
+user research companies,
+user testing agency,
+ux research companies,
+ux research consulting company,
+ux research consulting firms,
+ux research firms" />
+
+    <style>
+        .custom-contact-select {
+            position: relative;
+        }
+
+        .custom-contact-select .selected {
+            padding: 10px;
+            border: none;
+            border-radius: 8px;
+            background: transparent;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            width: 100%;
+            border-bottom: 1px solid #ccc;
+            border-radius: inherit;
+            text-align: center;
+            justify-content: center;
+            color: var(--d-9-d-9-d-9, #999);
+            font-size: 18px;
+        }
+
+        .custom-contact-select .arrow {
+            transition: transform 0.3s ease;
+        }
+
+        .custom-contact-select .arrow.rotate {
+            transform: rotate(180deg);
+        }
+
+        .custom-contact-select .options {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+            background: #fff;
+            z-index: 100;
+            box-shadow: 0px 0px 20px 2px #ddddddc2;
+        }
+
+        .custom-contact-select .options div {
+            padding: 10px;
+            border-top: 1px solid #eee;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .custom-contact-select .options div:hover {
+            background-color: #CD0132;
+            color: #fff;
+            transition: 0.2s;
+        }
+
+        .custom-contact-select .options.show {
+            display: block;
+        }
+
+        .arrow {
+            font-size: 12px;
+            position: absolute;
+            right: 14px;
+        }
+    </style>
+    <link rel="stylesheet" href="css/service_area.css">
+
+</head>
+
+<body>
+    <!-- ===== header sec start ====== -->
+    <style type="text/css">
+        /*============================ new mega menu bar ========================= */
+        .navbar-light .navbar-nav .nav-link {
+            padding: 20px 0;
+        }
+
+        :root {
+            --pink: #D91B5D;
+            --dark: #1a1a1a;
+            --mid: #555;
+            --border: #e4e4e4;
+            --bg: #fff;
+            --nav-h: 72px;
+        }
+
+        /* ══════════════════════════
+       DESKTOP DROPDOWN PANEL
+       — opens on hover of the <li>
+    ══════════════════════════ */
+        .drop-panel {
+            position: absolute;
+            top: 60px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 99vw;
+            background: var(--bg);
+            max-height: 0;
+            overflow: hidden;
+            opacity: 0;
+            pointer-events: none;
+            transition: max-height .36s ease, opacity .26s ease;
+            box-shadow: 0px 20px 20px #8d8d8d2b;
+            padding-bottom: 30px;
+        }
+
+        /* open on hover (desktop only — overridden to none on mobile) */
+        .nav-links>li.has-drop:hover .drop-panel {
+            max-height: max-content;
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .drop-inner {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 0 32px;
+
+        }
+
+        .drop-inner::-webkit-scrollbar {
+            display: none;
+        }
+
+        /* ══════════════════════════
+       SERVICE ROWS (desktop)
+    ══════════════════════════ */
+        .srow {
+            border-bottom: 1px solid var(--border);
+        }
+
+        .srow:last-child {
+            border-bottom: none;
+        }
+
+        .srow-head {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 16px 0;
+            cursor: pointer;
+            user-select: none;
+            justify-content: center;
+        }
+
+        .srow-icon {
+            width: 34px;
+            height: 34px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 17px;
+            color: #888;
+            flex-shrink: 0;
+            transition: color .18s;
+        }
+
+        .srow.open .srow-icon,
+        .srow-head:hover .srow-icon {
+            color: var(--pink);
+        }
+
+        .srow-name {
+            font-size: 13.5px;
+            font-weight: 600;
+            color: var(--dark);
+            transition: color .18s;
+        }
+
+        .srow.open .srow-name {
+            color: var(--pink);
+            font-weight: 700;
+        }
+
+        .srow-head:hover .srow-name {
+            color: var(--pink);
+        }
+
+        /* Sub tags — horizontal */
+        .srow-sub {
+            display: none;
+            flex-wrap: wrap;
+            align-items: center;
+            padding: 2px 0 14px 50px;
+        }
+
+        .srow.open .srow-sub {
+            display: flex;
+        }
+
+        .stag {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            text-decoration: none;
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--mid);
+            padding: 4px 7px;
+            white-space: nowrap;
+            transition: color .14s;
+        }
+
+        .stag:hover {
+            color: var(--pink);
+        }
+
+        .stag.hi {
+            color: var(--pink);
+            font-weight: 700;
+        }
+
+        .stag .arr {
+            color: var(--pink);
+            font-size: 9px;
+        }
+
+        .tsep {
+            color: #d0d0d0;
+            font-size: 13px;
+            padding: 0 2px;
+            line-height: 1;
+        }
+
+        .drop-inner h4 {
+            font-size: 30px;
+            text-transform: uppercase;
+            color: #000000;
+            font-weight: 600;
+            padding: 70px 0 20px;
+            text-align: center;
+        }
+
+        @media(max-width:768px) {
+            .drop-panel {
+                position: relative;
+                top: 0;
+                z-index: 999;
+            }
+
+            .drop-inner h4 {
+                display: none;
+            }
+
+            .nav-item {
+                position: relative;
+            }
+
+            .drop-inner {
+                height: auto;
+            }
+        }
+    </style>
+    <!-- ===== header sec start ====== -->
+    <header class="header_sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <nav class="navbar navbar-expand-lg navbar-light">
+                        <a class="navbar-brand" href="/"><img src="images/logo.svg" alt="DigiBrandX"
+                                class="img-fluid"></a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="bar-icon">
+                                <div id="toggle" class="">
+                                    <div class="one"></div>
+                                    <div class="two"></div>
+                                    <div class="three"></div>
+                                </div>
+                            </span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav nav-links">
+
+
+                                <li class="nav-item">
+                                    <a class="nav-link active" aria-current="page" href="/">Home</a>
+                                </li>
+
+                                <li class="nav-item has-drop " id="deskSrvLi">
+                                    <a class="nav-link" href="javascript:void(0)">Services <i
+                                            class="fa-solid fa-chevron-down caret"></i></a>
+                                    <div class="drop-panel" id="deskDropPanel">
+                                        <div class="drop-inner">
+                                            <h4>Our Services For Your Brand</h4>
+                                            <div class="srow ">
+                                                <a href="/services/branding"
+                                                    style="padding:0px; margin:0px; text-decoration:none;">
+                                                    <div class="srow-head">
+
+                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <span class="srow-name">Branding</span>
+
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="srow ">
+                                                <a href="/services/ux-design"
+                                                    style="padding:0px; margin:0px; text-decoration:none;">
+                                                    <div class="srow-head">
+
+                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <span class="srow-name">UX Design</span>
+
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="srow ">
+                                                <a href="/services/visual-design"
+                                                    style="padding:0px; margin:0px; text-decoration:none;">
+                                                    <div class="srow-head">
+
+                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <span class="srow-name">Visual Design</span>
+
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="srow ">
+                                                <a href="/services/application-development"
+                                                    style="padding:0px; margin:0px; text-decoration:none;">
+                                                    <div class="srow-head">
+
+                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <span class="srow-name">Application Development</span>
+
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="srow ">
+                                                <a href="/services/graphics-design"
+                                                    style="padding:0px; margin:0px; text-decoration:none;">
+                                                    <div class="srow-head">
+
+                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <span class="srow-name">Graphics Design</span>
+
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="srow ">
+                                                <a href="/services/social-media-branding"
+                                                    style="padding:0px; margin:0px; text-decoration:none;">
+                                                    <div class="srow-head">
+
+                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <span class="srow-name">Social Media Branding</span>
+
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="srow ">
+                                                <a href="/services/digital-marketing"
+                                                    style="padding:0px; margin:0px; text-decoration:none;">
+                                                    <div class="srow-head">
+
+                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <span class="srow-name">Digital Marketing</span>
+
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="srow ">
+                                                <a href="/services/video-production"
+                                                    style="padding:0px; margin:0px; text-decoration:none;">
+                                                    <div class="srow-head">
+
+                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <span class="srow-name">Video Production</span>
+
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div><!-- /drop-inner -->
+                                    </div><!-- /drop-panel -->
+                                </li>
+
+                                <ul id="" class="navbar-nav">
+                                    <li class="nav-item"><a class="nav-link " href="portfolio">Portfolio</a></li>
+                                    <li class="nav-item"><a class="nav-link " href="case-study">Case Study</a></li>
+                                    <li class="nav-item"><a class="nav-link " href="team">Team</a></li>
+                                    <li class="nav-item"><a class="nav-link " href="about">About</a></li>
+                                    <li class="nav-item"><a class="nav-link " href="blogs">Blog</a></li>
+                                    <li class="nav-item"><a class="nav-link " href="contact">Contact</a></li>
+                                </ul> <!-- <li class="nav-item">
+                  <a class="nav-link" href="portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="case-study.html">Case Study</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.html">About</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="blog.html">Blog</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">Contact</a>
+                </li> -->
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ===== header sec end   ====== -->
+
+
+    <!-- mega menu js -->
+    <script>
+        const isMobile = () => window.innerWidth <= 900;
+
+        /* DESKTOP + MOBILE: service row click to expand */
+        document.querySelectorAll('.drop-panel .srow-head').forEach(head => {
+            head.addEventListener('click', () => {
+
+                const row = head.closest('.srow');
+                const wasOpen = row.classList.contains('open');
+
+                document.querySelectorAll('.drop-panel .srow').forEach(r => {
+                    r.classList.remove('open');
+                });
+
+                if (!wasOpen) {
+                    row.classList.add('open');
+                }
+
+            });
+        });
+    </script> <!-- ===== header sec end   ====== -->
+    <!-- ==== banner sec start ===== -->
+
+
+
+    <!-- ==== banner sec start ===== -->
+    <section class="banner_sec">
+        <div class="container">
+            <div class="banner_area owl-carousel">
+
+
+                <div class="banner_item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-12">
+                                <div class="banner-text">
+                                    <h3 class="h2">Design Can Change</h3>
+                                    <h3 class="section-title">Your Brand <span>Personality</span></h3>
+                                    <p>DigiBrandX, a <strong>leading 360-degree advertising agency</strong>, offers
+                                        comprehensive branding and creative solutions that empower businesses to build,
+                                        scale, and maintain impactful, enduring brands.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="banner_item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-12">
+                                <div class="banner-text">
+                                    <h3 class="h2">Fueling Your Brand’s</h3>
+                                    <h3 class="section-title">Growth and <span>Success</span></h3>
+                                    <p>At DigiBrandX, we&rsquo;re the <strong>best user experience design agency,
+                                        </strong>blending creativity, strategy, and cutting-edge technology to craft
+                                        exceptional, unforgettable digital products that leave a lasting impact.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="banner_item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-12">
+                                <div class="banner-text">
+                                    <h3 class="h2">Transform Your Story,</h3>
+                                    <h3 class="section-title">Elevate Your <span>Brand&nbsp;</span></h3>
+                                    <p>We, DigiBrandX, the <strong>No.1 branding agency</strong>, don&rsquo;t just build
+                                        brands &mdash; we shape brand strategies that resonate. Let&rsquo;s craft your
+                                        brand&rsquo;s story with purpose, passion, and precision.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="banner_item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-12">
+                                <div class="banner-text">
+                                    <h3 class="h2">Creative Ideas That Click</h3>
+                                    <h3 class="section-title">and Deliver <span>Impact</span></h3>
+                                    <p><span
+                                            data-metadata="&lt;!--(figmeta)eyJmaWxlS2V5IjoiOTg2MDdQM2p3WXcwMUFJak1DR0lqciIsInBhc3RlSUQiOjEyNTExNDA1OTQsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)--&gt;"></span>DigiBrandX,
+                                        the <strong>best digital marketing agency</strong>, creates powerful strategies
+                                        that engage audiences, elevate brands, and drive measurable growth across
+                                        today&rsquo;s competitive digital landscape.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+    </section>
+    <!-- ==== banner sec end ===== -->
+
+
+    <!-- ==== services sec start ==== -->
+    <section class="service_sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="service_heading text-center">
+                        <h2 data-aos="fade-up" data-aos-duration="1000" class="aos-init aos-animate mb-5 section-title">
+                            Our Services</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="serv-main-slider owl-carousel">
+
+
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Brand
+                                    Experience</h3>
+                                <p class="p1">Your brand is more than just a logo&mdash;it&rsquo;s the voice, culture,
+                                    and personality of your business. At a <strong>leading branding agency,</strong>
+                                    branding is understood as the art of crafting a unique identity that resonates with
+                                    your audience through thoughtful design, clear messaging, and strong strategy. It
+                                    shapes perceptions, builds trust, and drives loyalty over time.</p>
+                                <p class="p1">A strong brand ensures consistency across all touchpoints, evoking
+                                    emotions and helping businesses stand out in a crowded market. <strong>Brand
+                                        communication, positioning, promotion,</strong> and awareness work together to
+                                    influence customer decisions, build lasting relationships, and support long-term
+                                    success. A well-defined brand, guided by a leading branding agency, becomes your
+                                    organization&rsquo;s strongest asset.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">User
+                                    Experience Design</h3>
+                                <p class="p1">User Experience (UX) Design is a data-driven discipline focused on
+                                    optimizing how users interact with digital products. By analyzing user behavior,
+                                    workflows, pain points, and intent, user experience design streamlines journeys,
+                                    reduces friction, and improves task completion. A <strong>leading UX Design
+                                        agency</strong> combines research, information architecture, usability testing,
+                                    and interaction design to create intuitive, scalable, and performance-oriented
+                                    digital experiences.</p>
+                                <p class="p1">UI Design enhances this foundation through visual systems,
+                                    micro-interactions, and interface consistency that improve usability and engagement.
+                                    Together, UX and UI align technology, aesthetics, and brand awareness to deliver
+                                    accessible, high-impact products that balance user needs with measurable business
+                                    outcomes&mdash;creating cohesive experiences that strengthen trust and long-term
+                                    brand connection.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Visual
+                                    Design</h3>
+                                <p class="p1">Visual design is a core layer of modern digital product development. At
+                                    DigiBrandX, a <strong>leading visual design agency</strong>, we treat visual design
+                                    as an extension of UX&mdash;where aesthetics meet usability, performance, and brand
+                                    systems. From mobile apps and web applications to corporate websites, our visual
+                                    design approach translates product strategy into intuitive, scalable, and
+                                    conversion-focused interfaces that align seamlessly with brand identity.</p>
+                                <p class="p1">Our <strong>visual design</strong> process focuses on content hierarchy,
+                                    grid systems, typography logic, color systems, and interface components that enhance
+                                    clarity and interaction. Every visual element is designed to support user flow,
+                                    accessibility, and consistency across platforms. By combining design systems with UX
+                                    thinking, we ensure digital products look refined, function intelligently, and
+                                    communicate brand value with precision.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">
+                                    Application Development</h3>
+                                <p class="p1">Application development is the foundation of successful <strong>digital
+                                        product design</strong>, where performance, scalability, and user experience
+                                    converge. As a <strong>leading application development agency,</strong> we design
+                                    and build robust web applications, mobile apps, and enterprise-grade platforms that
+                                    are secure, scalable, and future-ready. Every product is engineered with a deep
+                                    understanding of user behavior, business logic, and system architecture to ensure
+                                    long-term value.</p>
+                                <p class="p1">Our world-class front-end and back-end teams work with the latest, most
+                                    in-demand programming languages, frameworks, and cloud technologies. From intuitive
+                                    interfaces to <strong>powerful back-end </strong>systems, we deliver
+                                    high-performance applications that integrate seamlessly, scale effortlessly, and
+                                    evolve with changing business and technology landscapes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Graphics
+                                    Design</h3>
+                                <p class="p1">Graphic design is the backbone of modern branding. Without it, brand
+                                    design cannot exist in a meaningful or scalable way. From logo creation and visual
+                                    identity systems to marketing collaterals, print advertisements, and social media
+                                    creatives, graphic design powers every brand touchpoint. A <strong>leading graphic
+                                        design agency</strong> blends creativity with technology to ensure brand visuals
+                                    remain consistent, adaptive, and performance-driven across platforms.</p>
+                                <p class="p1">As a future-focused <strong>creative agency</strong> and <strong>design
+                                        agency</strong>, graphic design plays a critical role in translating brand
+                                    strategy into tangible assets. From product catalogues and corporate brochure design
+                                    to digital-first brand experiences, design brings structure, clarity, and impact to
+                                    branding. Strong graphic design transforms ideas into visuals that communicate
+                                    value, build trust, and drive engagement in a competitive digital ecosystem.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Social
+                                    Media Marketing</h3>
+                                <p class="p1">Social media has evolved into a powerful digital ecosystem driven by data,
+                                    algorithms, and real-time engagement. Platforms like Instagram, LinkedIn, and
+                                    Facebook now function as performance-driven channels where content, analytics, and
+                                    automation shape visibility and influence. For brands, social media is no longer
+                                    optional&mdash;it&rsquo;s a core growth engine managed best by a <strong>leading
+                                        social media marketing agency</strong> that understands technology, trends, and
+                                    audience behavior.</p>
+                                <p class="p1">Through strategic <strong>social media branding</strong>, businesses build
+                                    consistent digital identities, amplify reach, and create meaningful interactions at
+                                    scale. From AI-driven targeting to platform-specific storytelling, social media
+                                    enables brands to connect, convert, and grow in a highly competitive digital
+                                    landscape&mdash;turning engagement into measurable business impact.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Digital
+                                    Marketing</h3>
+                                <p class="p1">Digital marketing is no longer optional&mdash;it&rsquo;s the engine that
+                                    powers scalable business growth in a data-driven world. Advanced
+                                    <strong>SEO</strong> frameworks, performance-led affiliate marketing, high-velocity
+                                    viral campaigns, and behavior-based email automation work together to attract,
+                                    engage, and convert the right audiences. When executed strategically, these channels
+                                    create measurable impact across the entire customer journey.
+                                </p>
+                                <p class="p1">As a <strong>leading digital marketing agency</strong>, the focus goes
+                                    beyond visibility to performance and ROI. By leveraging analytics, audience
+                                    intelligence, and conversion optimization, digital marketing strengthens brand
+                                    authority while driving sustainable revenue growth. The result is not just traffic,
+                                    but a future-ready brand built on measurable outcomes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Video
+                                    Production</h3>
+                                <p class="p1">In today&rsquo;s digital-first ecosystem, video has evolved into a
+                                    high-impact brand asset rather than a marketing add-on. Corporate films and brand
+                                    films leverage cinematic visuals, data-driven storytelling, and platform-optimized
+                                    formats to communicate a company&rsquo;s vision, values, and capabilities with
+                                    precision. Partnering with a <strong>leading corporate film agency </strong>enables
+                                    brands to transform complex narratives into immersive visual experiences that drive
+                                    brand awareness and credibility across digital touchpoints. &nbsp;</p>
+                                <p class="p1">Strategic brand film content amplifies brand value across social media,
+                                    websites, and digital campaigns by blending emotional intelligence with clear,
+                                    outcome-focused messaging. These <strong>films build trust, enhance recall,</strong>
+                                    and increase engagement by creating authentic connections with audiences. In an
+                                    increasingly competitive market, video content is no longer optional&mdash;it is the
+                                    core medium for building relevance, differentiation, and long-term brand impact.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <!-- ==== services sec end ==== -->
+
+
+
+
+
+    <section class="snd_full_banner_sec" style="margin-bottom:100px; padding-top:100px" id="fst-banner-full">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 data-aos="fade-up" data-aos-duration="1000" class="section-title mb-5">Why choose us as your
+                        strategic growth <span>partner</span>, a <span>360° global</span> branding agency?</h1>
+                    <div data-aos="fade-up" data-aos-duration="1000" class="section-title">We transform
+                        <span>ideas</span> into unforgettable <span>brands</span>&mdash;offering everything from
+                        captivating branding and logos to immersive websites, mobile apps, corporate films, and digital
+                        marketing. Every solution we create is designed to inspire, innovate, and <span>leave a lasting
+                            impact</span>.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ===== full banner sec start ======= -->
+    <section class="full_banner_sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h2 data-aos="fade-up" data-aos-duration="1000" class="section-title">WHEN YOUR PRODUCT ROCKS BUT
+                        YOUR <span>UI & UX DESIGN SUCKS</span></h2>
+                    <p data-aos="fade-up" data-aos-duration="1000">
+                    <p>We go beyond following UX trends &mdash; we shape what&rsquo;s next. As a UI and UX agency
+                        focused on world-class user experience design services, we turn ideas into intuitive, engaging
+                        products. Tell us your goals, and we&rsquo;ll design experiences that feel effortless and
+                        unforgettable.</p>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ===== full banner sec end ======= -->
+
+
+    <section class="snd_full_banner_sec" style="margin-bottom: 100px;" id="snd-banner-full">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 data-aos="fade-up" data-aos-duration="1000" class="section-title">GUIDED BY COURAGE AND
+                        CREATIVITY, <span>TEAM DIGIBRANDX</span> THRIVES ON FEARLESS INNOVATION, TURNING EVERY CHALLENGE
+                        INTO AN OPPORTUNITY FOR GROUNDBREAKING SOLUTIONS.</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==== services sec start ==== -->
+    <section class="service_sec service_frd_sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="service_heading text-center">
+                        <h2 data-aos="fade-up" data-aos-duration="1000" class="aos-init aos-animate mb-5 section-title">
+                            Premium Branding and Design Solutions by DigiBrandX</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="serv-main-slider owl-carousel">
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">
+                                    Corporate Website</h3>
+                                <p class="p1">As a leading web development agency, DigiBrandX specializes in developing
+                                    corporate websites designed to advance business objectives. We recognize the
+                                    significance of a robust, user-friendly website that accurately represents your
+                                    company&rsquo;s values and goals. Our team prioritizes seamless functionality,
+                                    responsive design, and an enhanced user experience. Whether the aim is to strengthen
+                                    brand presence or optimize business operations, we provide customized solutions that
+                                    support corporate objectives and promote sustained growth.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">
+                                    Corporate Branding</h3>
+                                <p class="p1">At DigiBrandX, we specialize in corporate branding that reflects your
+                                    company&rsquo;s values, vision, and mission. As a leading branding agency, we create
+                                    comprehensive brand identities that resonate with your audience and set you apart
+                                    from competitors. Our expert team ensures consistency across all touchpoints, from
+                                    logo design to brand guidelines, to build a strong, recognizable presence. Trust us
+                                    to develop a corporate brand that defines who you are and drives long-term business
+                                    success.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Custom
+                                    Website Development</h3>
+                                <p class="p1">Custom website development gives you a digital platform built just for
+                                    your brand, business goals, and customers. Unlike template sites, a custom website
+                                    is flexible, scalable, and built to grow with you. At DigiBrandX, a web design
+                                    agency in Mumbai, we create SEO-friendly, responsive, and secure websites that show
+                                    off your brand and help you connect with users. With smart design and clean coding,
+                                    custom websites help your business stand out, run smoothly, and grow in
+                                    today&rsquo;s competitive online world.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">
+                                    Corporate Video</h3>
+                                <p class="p1">A professional corporate film is a powerful way for businesses to clearly
+                                    share their vision, culture, and values. As a trusted corporate video agency, we
+                                    tell visual stories that help build your brand and connect with your audience. Our
+                                    team handles everything from planning and filming to editing, delivering
+                                    high-quality videos that boost your credibility and engagement. A well-made
+                                    corporate film not only presents your brand in the best light but also supports your
+                                    marketing, presentations, and digital campaigns on different platforms.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Brand
+                                    Strategy</h3>
+                                <p class="p1">A strong brand strategy is key to building a successful business identity.
+                                    Branding agencies work with companies to define their purpose, voice, and look so
+                                    they can create a brand people remember. With clear brand positioning, businesses
+                                    stand out from competitors and connect with their audience on a deeper level. When a
+                                    brand strategy is clear, it keeps messaging consistent, builds customer trust, and
+                                    adds long-term value. This helps organizations grow with confidence and a solid
+                                    reputation.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">SEO</h3>
+                                <p class="p1">A digital marketing agency helps businesses boost their online presence
+                                    using smart marketing, targeted campaigns, and creative ideas. Services like search
+                                    engine optimization, social media marketing, content planning, and paid ads help
+                                    brands connect with the right people when it matters most. By blending technology,
+                                    creativity, and data, a good agency can increase brand awareness, attract quality
+                                    leads, and support real business growth in today&rsquo;s competitive online world.
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Social
+                                    Media Branding</h3>
+                                <p class="p1">Social media branding helps businesses build a strong, recognizable
+                                    identity across digital platforms. As a professional social media branding agency,
+                                    DigiBrandX creates visually consistent, engaging, and strategy-driven brand
+                                    experiences that connect with audiences. From profile design and content aesthetics
+                                    to storytelling and brand voice, we ensure your brand stands out in crowded social
+                                    spaces. Effective social media branding builds trust, increases visibility, and
+                                    strengthens customer relationships, helping businesses grow their digital presence
+                                    and influence across platforms like Instagram, LinkedIn, and Facebook.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ss-item">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="service_area">
+                                <h3 data-aos="fade-right" data-aos-duration="1000" class="aos-init aos-animate">Mobile
+                                    App Development</h3>
+                                <p class="p1">DigiBrandX builds mobile apps for iOS and Android that are easy to use,
+                                    reliable, and designed to help your business grow. Our team handles everything from
+                                    UI/UX design to custom development and digital strategy, making sure your app stands
+                                    out and connects with users. Whether you&rsquo;re a startup or a large company, we
+                                    create secure and scalable apps that fit your brand. Work with DigiBrandX to improve
+                                    your user experience, increase your visibility, and grow your digital presence.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ==== services sec end ==== -->
+    <!-- ==== Case Studies sec start ====== -->
+    <section class="case-study-sec home-case-study-sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="client-heading" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="section-title">Case Study</div> <a href="/case-study" class="right-viewbtn"><i
+                                class="fas fa-angle-right"></i> View All</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="case-sudy-area">
+                        <a href="case-study-details/Ollato-Mental-Health-Wellness-Brand-Case-Study">
+                            <div class="case-img"
+                                style="display: flex; justify-content: center; height: 300px; overflow: hidden;"><img
+                                    src="upload/news/ie5k0ht5t4ftapjmf1fotfamnb_Cover.jpg" alt="[ALT_TAG]"
+                                    class="img-fluid"></div>
+                            <div class="case-content" style="height:253px; overflow:hidden;">
+                                <h5>Ollato</h5>
+                                <p>
+                                <p>Mental Health Wellness Brand Development</p>
+                                <p>Ollato is an emerging leader in mental health wellness, based in Mumbai, offering a
+                                    holistic experience designed to foster clarity, emotional balance, and personal
+                                    growth.</p>
+                                </p>
+                                <div class="case-study">
+                                    <span><svg xmlns="http://www.w3.org/2000/svg" width="8" height="13"
+                                            viewBox="0 0 8 13" fill="none">
+                                            <path d="M1 1.5L6 6.5L1 11.5" stroke="#CD0132" stroke-width="2"></path>
+                                        </svg></span>
+                                    View Case Study
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="case-sudy-area">
+                        <a href="case-study-details/soma-universal-logistics-brand-case-study">
+                            <div class="case-img"
+                                style="display: flex; justify-content: center; height: 300px; overflow: hidden;"><img
+                                    src="upload/news/Id_155-Cover.jpg" alt="[ALT_TAG]" class="img-fluid"></div>
+                            <div class="case-content" style="height:253px; overflow:hidden;">
+                                <h5>Soma Universal Logistics</h5>
+                                <p>
+                                <p>Soma approached DigiBrandX with a bold vision&mdash;to become a global logistics
+                                    leader that does more than just deliver goods. They wanted to create an emotional
+                                    connection with international clients...</p>
+                                </p>
+                                <div class="case-study">
+                                    <span><svg xmlns="http://www.w3.org/2000/svg" width="8" height="13"
+                                            viewBox="0 0 8 13" fill="none">
+                                            <path d="M1 1.5L6 6.5L1 11.5" stroke="#CD0132" stroke-width="2"></path>
+                                        </svg></span>
+                                    View Case Study
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- ==== Case Studies sec end ====== -->
+
+    <!-- ==== snd full banner sec end ==== -->
+    <!-- ===== What Clients Say testimonial sec start ===== -->
+    <section class="testimonial_sec bg-black">
+        <div class="container">
+            <div class="row justify-content-end">
+                <div class="col-lg-12" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="testi-heading">
+                        <h2 class="section-title text-white">What Clients Think About DigiBrandX</h2>
+                    </div>
+                </div>
+                <div class="col-lg-12" data-aos="fade-up" data-aos-duration="1500">
+                    <div class="swiper testimonial_area">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="testi-item">
+                                    <div class="testi-img">
+                                        <img src="upload/news/tvaqdv0tublkvj8lippise600v_NileshAvhadSOMAUniversalLogistics.webp"
+                                            alt="Nilesh Avhad, SOMA Universal Logistics" class="active img-fluid">
+                                    </div>
+                                    <div class="testi-content text-white">
+                                        <h5><strong>
+                                                <p><strong>Managing Director:</strong></p>
+                                            </strong> Mr. Nilesh Avhad, SOMA Universal Logistics </h5>
+                                        <p>
+                                        <p>Partnering with DigiBrandX has been a game-changer. As a leading branding
+                                            agency, they consistently deliver brands that are thoughtful, distinctive,
+                                            and strategically sound. Every project reflects their deep understanding of
+                                            brand vision and execution, making them a true world-class brand strategy
+                                            agency. Highly recommended for brands aiming to compete at a global level.
+                                        </p>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testi-item">
+                                    <div class="testi-img">
+                                        <img src="upload/news/jgah8hgpcgm05qhat1q7peqqa2_SatyajitNathCrowdStrike.webp"
+                                            alt="Satyajit Nath, Director of Engineering, CrowdStrike" class="img-fluid">
+                                    </div>
+                                    <div class="testi-content text-white">
+                                        <h5><strong>
+                                                <p><strong>Director of Engineering:</strong></p>
+                                            </strong> Mr. Satyajit Nath, CrowdStrike </h5>
+                                        <p>
+                                        <p style="text-align: left;">Working with DigiBrandX has been an exceptional
+                                            experience. As a trusted UI and UX agency, they bring clarity, creativity,
+                                            and strong product thinking to every project. From concept to execution,
+                                            their team knows how to build scalable, high-impact digital experiences. If
+                                            you&rsquo;re serious about world-class user experience design services,
+                                            DigiBrandX is the right partner.</p>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testi-item">
+                                    <div class="testi-img">
+                                        <img src="upload/news/4mnkasmke12ts9equ546dmoblq_Frame167111.webp"
+                                            alt="Nirmal Savjibhai Patel, MasterPay" class="img-fluid">
+                                    </div>
+                                    <div class="testi-content text-white">
+                                        <h5><strong>
+                                                <p><strong><span>Managing Director</span>:</strong></p>
+                                            </strong> Nirmal Savjibhai Patel, MasterPay </h5>
+                                        <p>
+                                        <p style="text-align: left;">DigiBrandX redefines what a modern branding agency
+                                            should be. With bold ideas, sharp execution, and strategic depth, they
+                                            operate as a world-class brand strategy agency, crafting brand experiences
+                                            that feel alive, relevant, and built for long-term success.</p>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testi-item">
+                                    <div class="testi-img">
+                                        <img src="upload/news/pj94kgqmolv1d1v0s6po6ac2o1_Mr.KedarKarnikSOMAUniversalLogistics.webp"
+                                            alt="Kedar Karnik, SOMA Universal Logistics" class="img-fluid">
+                                    </div>
+                                    <div class="testi-content text-white">
+                                        <h5><strong>
+                                                <p><strong>CEO:</strong></p>
+                                            </strong> Mr. Kedar Karnik, SOMA Universal Logistics </h5>
+                                        <p>
+                                        <p>When it comes to branding and design, DigiBrandX truly stands out as a
+                                            trusted branding agency for start-ups. Their strategic clarity, creative
+                                            precision, and fresh thinking make them a world-class brand strategy agency.
+                                            Working with them was a seamless, high-impact experience, and I highly
+                                            recommend DigiBrandX to any start-up looking to build a strong, lasting
+                                            brand.</p>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testi-item">
+                                    <div class="testi-img">
+                                        <img src="upload/news/72dqgcl8i316afn3htlne2q04r_DebuChatterjeeCEOofKonfer.webp"
+                                            alt="Mr. Debu Chatterjee, CEO of Konfer" class="img-fluid">
+                                    </div>
+                                    <div class="testi-content text-white">
+                                        <h5><strong>
+                                                <p><strong>CEO of Konfer:</strong></p>
+                                            </strong> Mr. Debu Chatterjee, Konfer </h5>
+                                        <p>
+                                        <p>DigiBrandX brings rare clarity to brand strategy&mdash;smart thinking,
+                                            distinctive creativity, and excellent execution. They quickly get to the
+                                            heart of brand purpose and translate it into work that&rsquo;s world-class.
+                                            A terrific partner for brands with global ambitions.</p>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testi-item">
+                                    <div class="testi-img">
+                                        <img src="upload/news/Id_409-Frame 16711.webp"
+                                            alt="Mr. Razaq Baloch, Vision Unlimited" class="img-fluid">
+                                    </div>
+                                    <div class="testi-content text-white">
+                                        <h5><strong>
+                                                <p><strong>Managing Director:</strong></p>
+                                            </strong> Mr. Razaq Baloch, Vision Unlimited </h5>
+                                        <p>
+                                        <p>Working with DigiBrandX to develop our corporate website was an excellent
+                                            experience. Their team truly understands brand discovery and translated our
+                                            vision perfectly into the website. Every detail and piece of information was
+                                            thoughtfully structured, and their creative approach made the site stand
+                                            out. DigiBrandX is highly professional, strategic, and incredibly strong in
+                                            creative thinking and execution.</p>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ===== What Clients Say testimonial sec end ===== -->
+
+    <!--domain expertise start  -->
+    <section class="domain-sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="client-heading" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="section-title">Expertise Across Diverse Business Domains</div>
+                    </div>
+                </div>
+
+                <div class="owl-carousel domain-area" data-aos="fade-up" data-aos-duration="1500">
+                    <div class="domain-item">Finance</div>
+                    <div class="domain-item">Banking</div>
+                    <div class="domain-item">Logistics</div>
+                    <div class="domain-item">E-Commerce</div>
+                    <div class="domain-item">Steel </div>
+                    <div class="domain-item">IT</div>
+                    <div class="domain-item">Automobile</div>
+                    <div class="domain-item">Oil</div>
+                    <div class="domain-item">FMCG</div>
+                    <div class="domain-item">Fashion</div>
+                    <div class="domain-item">entertainment</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!--domain expertise start  -->
+
+    <!--domain expertise end  -->
+    <!-- ====== client sec start ======= -->
+    <section class="client_sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="client-heading" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="section-title">Trusted Clients Across Industries</div>
+                    </div>
+                    <div class="swiper client-area" data-aos="fade-up" data-aos-duration="1500">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide"><img src="upload/news/21cfd8a490b8fd859b75589831bd6fb3_11.jpg"
+                                    alt="Poster design for Zee5" class="active img-fluid" title="Zee5"></div>
+                            <div class="swiper-slide"><img src="upload/news/66ae3e5f3eae5347cef1eedbd8a33e73_11.jpg"
+                                    alt="" class="img-fluid" title="Franklin"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_71-Untitled-1.jpg" alt=""
+                                    class="img-fluid" title="Tata Steel"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_72-Untitled-1.jpg" alt=""
+                                    class="img-fluid" title="ITC"></div>
+                            <div class="swiper-slide"><img
+                                    src="upload/news/rfmp1de3tllj2pboiqliddhpbk_Amossteelmanufacturingbrand.webp"
+                                    alt="Amos Steel Manufacturing Brand" class="img-fluid" title="Amos Steel "></div>
+                            <div class="swiper-slide"><img
+                                    src="upload/news/d5lpop4nc1pscsonc81ol3ilb2_AcoladaFashionBrand.webp"
+                                    alt="Acolada is a Fashion Brand" class="img-fluid" title="Acolada"></div>
+                            <div class="swiper-slide"><img
+                                    src="upload/news/ehkc7ou8r38t4mn7cs59heo0kg_somaUniversalLogistics.webp"
+                                    alt="SOMA Universal Logistics" class="img-fluid" title="SOMA Universal Logistics">
+                            </div>
+                            <div class="swiper-slide"><img src="upload/news/hcctros0grhl0fm3a1dgkmanit_masterpay.webp"
+                                    alt="masterpay a fintech brand" class="img-fluid" title="Masterpay"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_103-Untitled-2.jpg" alt=""
+                                    class="img-fluid" title="Indian Oil"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_184-Ollato_Mental_Health_Wellness.webp"
+                                    alt="Ollato Mental Health Wellness" class="img-fluid"
+                                    title="Ollato Mental Health Wellness"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_185-OneBharat_Fintech_brand.webp"
+                                    alt="OneBharat is a Fintech Brand" class="img-fluid"
+                                    title="OneBharat Fintech Brand"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_74-Untitled-1.jpg" alt=""
+                                    class="img-fluid" title="Tiscon"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_73-Untitled-1.jpg" alt=""
+                                    class="img-fluid" title="Rupa"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_100-t.jpg" alt="" class="img-fluid"
+                                    title="Tata Structura"></div>
+                            <div class="swiper-slide"><img src="upload/news/t0f3afecqul9rp7peu01266f4g_Untitled6.jpg"
+                                    alt="" class="img-fluid" title="UBQ"></div>
+                            <div class="swiper-slide"><img
+                                    src="upload/news/85a6e175355bf0e6fc387893405b0095_Untitled1.jpg" alt=""
+                                    class="img-fluid" title="Sapphire"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_68-Untitled-1.jpg" alt=""
+                                    class="img-fluid" title="Golaundry"></div>
+                            <div class="swiper-slide"><img src="upload/news/Id_67-Untitled-1.jpg" alt=""
+                                    class="img-fluid" title="Amos"></div>
+                            <div class="swiper-slide"><img src="upload/news/119112929f0d6c1ee7c00185a45c4315_11.jpg"
+                                    alt="" class="img-fluid" title="Synemedia"></div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ====== client sec end ======= -->
+
+
+
+
+    <section class="home_portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="testi-heading text-center">
+                        <div class="section-title" style="color:#000;">Featured Portfolio</div>
+                        <a href="portfolio" class="right-viewbtn"><i class="fas fa-angle-right"></i> View All</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="portfolio-card">
+                        <a href="portfolio-details/amore-care-branding">
+                            <div class="port-img"><img src="upload/news/8tsm65ri7emlvj35i4bg2a67pt_Frame16671.jpg"
+                                    alt="[ALT_TAG]" class="img-fluid"></div>
+                        </a>
+                        <div class="port-content">
+                            <h5>Amore Care I Pharmacy Branding</h5>
+                            <p>
+                            <p>Brand Development for A Pharmacy Company</p>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-card">
+                        <a href="portfolio-details/ollato-mental-wellness-branding">
+                            <div class="port-img"><img src="upload/news/46id3kackoiotauq81o7ipbveq_Thembnail.webp"
+                                    alt="[ALT_TAG]" class="img-fluid"></div>
+                        </a>
+                        <div class="port-content">
+                            <h5>Ollato I Mental Health Branding</h5>
+                            <p>
+                            <p>Rebranding A Mental Health Wellness&nbsp;</p>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-card">
+                        <a href="portfolio-details/shree-sanatan-trust-website-design-and-development">
+                            <div class="port-img"><img src="upload/news/1s0hqc6l267qig02je2pk0ndju_Frame6.jpg"
+                                    alt="[ALT_TAG]" class="img-fluid"></div>
+                        </a>
+                        <div class="port-content">
+                            <h5>Shree Sanatan Trust I Corporate Website</h5>
+                            <p>
+                            <p>It's a cancer NGO trust</p>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="home_portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="testi-heading text-center">
+                        <div class="section-title">Latest Blogs</div>
+                        <a href="blogs" class="right-viewbtn"><i class="fas fa-angle-right"></i> View All</a>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-6">
+                    <div class="blog-area">
+                        <a
+                            href="blog-details/how-to-choose-the-best-branding-agency-in-mumbai-a-complete-guide-for-growing-businesses">
+                            <div class="blog-img"><img
+                                    src="upload/news/qlmhjan5j6p9795bk0fcbk46ck_cubgqzwmynq0hhbas3ks.webp"
+                                    alt="[ALT_TAG]" class="img-fluid"></div>
+                            <div class="blog-content">
+                                <h5>What sets the best creative agencies in Mumbai apart when it comes to building a
+                                    strong brand?</h5>
+                                <p>Mumbai is India&rsquo;s most competitive business environment. Brands here, from
+                                    global enterprises to startups and legacy corporations, face scarce attention...</p>
+                                <span>Posted on 1st&nbsp;January&nbsp;2026</span>
+                                <div class="case-study">
+                                    <span><svg xmlns="http://www.w3.org/2000/svg" width="8" height="13"
+                                            viewBox="0 0 8 13" fill="none">
+                                            <path d="M1 1.5L6 6.5L1 11.5" stroke="#CD0132" stroke-width="2"></path>
+                                        </svg></span>
+                                    read more
+                                </div>
+
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="blog-area">
+                        <a
+                            href="blog-details/do-you-know-what-makes-digiBrandX-a-top-10-branding-agency-in-mumbai-for-business-success">
+                            <div class="blog-img"><img
+                                    src="upload/news/p1nae08evs6opiutg2or3ss484_BediBrandX.brandingagencyimMumbai01.webp"
+                                    alt="[ALT_TAG]" class="img-fluid"></div>
+                            <div class="blog-content">
+                                <h5>What makes DigiBrandX stand among the top 10 advertising agencies in Mumbai for
+                                    driving real business success?</h5>
+                                <p>In today&rsquo;s fast-paced digital world, your brand is more than just a logo or a
+                                    catchy tagline&mdash;it&rsquo;s the very heartbeat of your business.&nbsp;</p>
+                                <span>Posted on 30th&nbsp;September&nbsp;2025</span>
+                                <div class="case-study">
+                                    <span><svg xmlns="http://www.w3.org/2000/svg" width="8" height="13"
+                                            viewBox="0 0 8 13" fill="none">
+                                            <path d="M1 1.5L6 6.5L1 11.5" stroke="#CD0132" stroke-width="2"></path>
+                                        </svg></span>
+                                    read more
+                                </div>
+
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq">
+        <div class="container">
+            <div class="faq-card">
+                <h2 class="section-title">Branding Agency FAQs – Answers to Your Top Branding Questions</h2>
+                <div class="accordion-item open">
+                    <button class="accordion-btn" aria-expanded="true">
+                        <span class="q-text"> What services does a full-service branding agency provide?</span>
+                        <span class="chevron"><i class="fas fa-chevron-down"></i></span>
+                    </button>
+                    <div class="accordion-panel">
+                        <div class="panel-inner">
+                            <div><span>DigiBrandX is a <strong>full-service creative agency </strong>specializing in
+                                    branding, logo design, brand identity, UI/UX design, corporate website design and
+                                    development, and mobile app design. We also provide digital marketing, SEO, and
+                                    social media branding to help businesses grow online. From brand strategy to
+                                    creative content production, including brand films and corporate films, DigiBrandX
+                                    builds impactful brand experiences for modern businesses.</span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <button class="accordion-btn" aria-expanded="true">
+                        <span class="q-text"> How does a branding agency measure success?</span>
+                        <span class="chevron"><i class="fas fa-chevron-down"></i></span>
+                    </button>
+                    <div class="accordion-panel">
+                        <div class="panel-inner">
+                            <p>A professional branding agency measures success using clear performance indicators,
+                                including brand awareness, audience reach, impressions, engagement rates, and customer
+                                sentiment. By analyzing website traffic, social media interactions, and user behavior,
+                                agencies understand how audiences respond to a brand. Ultimately, effective branding
+                                leads to stronger brand recognition, greater customer trust, higher conversions, and
+                                long-term customer loyalty, driving sustainable business growth.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <button class="accordion-btn" aria-expanded="true">
+                        <span class="q-text"> How do I know if my company needs a rebranding?</span>
+                        <span class="chevron"><i class="fas fa-chevron-down"></i></span>
+                    </button>
+                    <div class="accordion-panel">
+                        <div class="panel-inner">
+                            <div><span>You may need a rebranding strategy if your current brand identity no longer
+                                    reflects your business goals, target audience, or evolving market position.
+                                    Companies often consider rebranding when launching new products, entering new
+                                    markets, merging with another business, or when their visual identity and messaging
+                                    feel outdated. A strategic rebrand refreshes your brand image, strengthens customer
+                                    perception, and keeps your business relevant in a competitive marketplace.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <button class="accordion-btn" aria-expanded="true">
+                        <span class="q-text"> What is a brand strategy and why do I need one?</span>
+                        <span class="chevron"><i class="fas fa-chevron-down"></i></span>
+                    </button>
+                    <div class="accordion-panel">
+                        <div class="panel-inner">
+                            <p>A brand strategy is a long-term plan that defines your brand&rsquo;s purpose, target
+                                audience, values, and market position. It aligns marketing efforts to build brand
+                                recognition and customer trust. A clear strategy helps you stand out from competitors,
+                                communicate your unique value, and establish lasting brand equity. Investing in a
+                                professional brand strategy is essential for sustainable growth and a strong, memorable
+                                presence.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <button class="accordion-btn" aria-expanded="true">
+                        <span class="q-text"> How long does a branding project take?</span>
+                        <span class="chevron"><i class="fas fa-chevron-down"></i></span>
+                    </button>
+                    <div class="accordion-panel">
+                        <div class="panel-inner">
+                            <p>A complete branding project with DigiBrandX typically takes 4 to 12 weeks, depending on
+                                your business needs, research depth, and project complexity. Our process covers brand
+                                strategy, logo design, and brand identity, with deliverables tailored to your goals. We
+                                plan each step to ensure your brand stands out, connects with your audience, and
+                                achieves lasting impact. DigiBrandX delivers on time and maintains high quality, helping
+                                businesses build a strong and memorable brand presence.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <button class="accordion-btn" aria-expanded="true">
+                        <span class="q-text"> How Much Does Professional Branding Cost?</span>
+                        <span class="chevron"><i class="fas fa-chevron-down"></i></span>
+                    </button>
+                    <div class="accordion-panel">
+                        <div class="panel-inner">
+                            <p>Professional branding costs vary based on project scope and complexity. Basic logo design
+                                packages are available at entry-level rates, while full brand identity or rebranding
+                                services require a greater investment. Agencies such as DigiBrandX offer tailored
+                                proposals following a discovery session to understand your business, objectives, and
+                                audience. Investing in professional branding creates a consistent brand identity that
+                                builds trust, increases visibility, and supports business growth in competitive markets.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <button class="accordion-btn" aria-expanded="true">
+                        <span class="q-text"> What makes DigiBrandX different from other branding agencies?</span>
+                        <span class="chevron"><i class="fas fa-chevron-down"></i></span>
+                    </button>
+                    <div class="accordion-panel">
+                        <div class="panel-inner">
+                            <p>DigiBrandX stands apart by combining brand strategy, creative design, and digital
+                                technology to create impactful brand experiences. As a strategic branding agency, we
+                                build visually distinctive, performance-driven brands for competitive markets. We
+                                <strong>work as creative partners,</strong> not just vendors, aligning with your
+                                business goals to develop brand identities, websites, and digital solutions that
+                                strengthen market presence and long-term growth.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="process-section" style="border-bottom:1px solid #ccc;">
+        <div class="process-content">
+            <h2 class="section-title">What makes DigiBrandX a top full-service advertising agency?<br /></h2>
+            <div class="process-tagline"></div>
+            <div class="process-description">
+                <div class="desc-body collapsed">
+                    <p>DigiBrandX is the best ad agency in the world, combining creativity with strategic execution. We
+                        offer expertise in branding, digital marketing, web design, and content creation to deliver
+                        tailored solutions that support your brand&rsquo;s growth. Our results-driven approach focuses
+                        on measurable outcomes for businesses seeking long-term impact.&nbsp;</p>
+                    <h3>Elevate Your Brand with Corporate Web Design and Development Service</h3>
+                    <p>An expert professional <a
+                            href="https://www.digibrandx.com/portfolio/web-design/vision-unlimited-website-design-and-development"
+                            target="_blank" rel="noopener"><strong>corporate web development</strong></a> tailored to
+                        startups. Our user-friendly websites strengthen brand visibility, improve user experience, and
+                        increase conversions. We incorporate SEO strategies to help your startup achieve higher search
+                        rankings and drive growth.&nbsp;</p>
+                    <h3>Top Website Design Companies for Startups</h3>
+                    <p>Providing a <a
+                            href="https://www.digibrandx.com/portfolio/web-design/soma-universal-logistics-corporate-website-for-dubai"
+                            target="_blank" rel="noopener"><strong>business web design service</strong></a> to help
+                        startups build a strong online presence. Our custom designs attract more visitors, make browsing
+                        easier, and encourage people to take action. We make sure your site looks great and works
+                        smoothly on any device, providing your audience with a simple, enjoyable experience.</p>
+                    <h3>Website Design and Development Services by DigiBrandX</h3>
+                    <p>We are proficient in <a href="https://www.digibrandx.com/services/application-development"
+                            target="_blank" rel="noopener"><strong>website design and development</strong></a> that
+                        aligns with your brand&rsquo;s vision. We design visually appealing, user-friendly websites that
+                        perform seamlessly on any device. Our built-in SEO features help increase traffic, improve
+                        conversions, and enhance the user experience.&nbsp;</p>
+                    <h3>Expert Web Application Design and Development for Your Business</h3>
+                    <p>Top in <a href="https://www.digibrandx.com/learn-service/Web-Application-Development-Agency"
+                            target="_blank" rel="noopener"><strong>web application design and development</strong></a>,
+                        creating custom apps tailored to your business needs. We use the latest technology to create
+                        easy-to-use applications that help your business run smoothly and grow. If you need a mobile app
+                        or a desktop program, we make sure it works well on any device. Work with us for solutions that
+                        are both creative and efficient.</p>
+                    <h3>Responsive Website Development Services for Seamless User Experience</h3>
+                    <p>Best in <strong><a
+                                href="https://www.digibrandx.com/learn-service/Responsive-Website-Development-Agency"
+                                target="_blank" rel="noopener">mobile-friendly website development</a> </strong>that
+                        ensures your site performs perfectly on any device. We use a mobile-first approach and SEO
+                        optimization to deliver responsive websites that reflect your brand and objectives. Our
+                        solutions expand your audience and increase conversions.</p>
+                    <h3>Top CMS Website Development Services to Enhance Your Website</h3>
+                    <p>Are you looking for <a
+                            href="https://www.digibrandx.com/portfolio/web-design/goloundry-website-design-and-development"
+                            target="_blank" rel="noopener"><strong>CMS web development services</strong></a>? At
+                        DigiBrandX, we build dynamic, user-friendly websites on leading CMS platforms such as WordPress,
+                        Joomla, and Drupal. Our solutions make it easy for you to manage and update your content.&nbsp;
+                    </p>
+                    <h3>Best WordPress Website Development Service</h3>
+                    <p>Looking for the best <a
+                            href="https://www.digibrandx.com/portfolio/web-design/be-the-wind-e-commerce-website-design-and-development"
+                            target="_blank" rel="noopener"><strong>WordPress website development service</strong>?</a>
+                        DigiBrandX creates responsive, user-friendly, and SEO-optimized WordPress websites tailored to
+                        your brand&rsquo;s objectives. Our team delivers fast, secure, and scalable solutions for
+                        businesses of all sizes.</p>
+                    <h3>No.1 E-Commerce Services for Startups Brand</h3>
+                    <p>Expert in <a
+                            href="https://www.digibrandx.com/learn-service/E-commerce-Applications-Development-Services"
+                            target="_blank" rel="noopener"><strong>e-commerce development services</strong></a> for
+                        startup businesses, designing intuitive, user-friendly platforms that boost conversions. Our
+                        team crafts seamless, mobile-optimized shopping experiences that prioritize performance,
+                        navigation, and trust-building. Whether you&rsquo;re launching your first online store or
+                        upgrading your platform, our solutions are tailored to help your startup succeed and grow.</p>
+                    <h3>Expert UI/UX Design for Mobile Apps</h3>
+                    <p>Expert in creating the <a href="https://www.digibrandx.com/portfolio/ui-ux/mobile-app-design"
+                            target="_blank" rel="noopener"><strong>best UI UX mobile apps</strong></a>&nbsp;that are
+                        visually stunning and user-friendly. We blend creative ideas with practical features to build
+                        mobile apps that capture attention and keep users engaged. We can work with you to design an app
+                        that is easy to use, delivers real results, and keeps your users happy.</p>
+                    <h3>Top UX Design for Web Applications Service</h3>
+                    <p>Specialize in <a href="https://www.digibrandx.com/learn-service/User-Experience-Design-Agency"
+                            target="_blank" rel="noopener"><strong>UI/UX design for web applications</strong></a> that
+                        are both visually appealing and highly functional. Our team combines great design with
+                        easy-to-use features to build user experiences that bring customers back. Want a creative design
+                        that gets real results?&nbsp;</p>
+                    <h3>The Best Brand Development for Your Business</h3>
+                    <p>DigiBrandX offers the <strong><a href="https://www.digibrandx.com/services/branding"
+                                target="_blank" rel="noopener">best branding service</a> </strong>to help your business
+                        stand out in a competitive market. Our team develops tailored branding strategies that engage
+                        your target audience and leave a lasting impression. We help both startups and established
+                        businesses build a distinctive and effective brand identity.</p>
+                    <h3>No. 1 Logo and Branding for Your Startup Business</h3>
+                    <p><a style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
+                            href="https://www.digibrandx.com/learn-service/Logo-Design-agency" target="_blank"
+                            rel="noopener"><strong>Logo design service for your startup&nbsp;</strong></a><span
+                            style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">solutions.
+                            We specialize in creating unique and impactful logos tailored for startups.</span>&nbsp;We
+                        create brand logos that connect with your audience and convey what your brand stands for. We can
+                        help you build a visual identity that makes your business stand out.</p>
+                    <h3>Top Brand Development for Your Product and Service</h3>
+                    <p>We offer the best <a href="https://www.digibrandx.com/learn-service/Brand-Strategy-agency"
+                            target="_blank" rel="noopener"><strong>brand strategy services</strong></a> to help elevate
+                        your product or service. We develop tailored strategies to engage your target audience, build
+                        trust, and increase brand visibility. Our expertise helps your brand achieve greater market
+                        presence and measurable results.</p>
+                    <h3>Why DigiBrandX is the Best B2B Brand Positioning Agency for Your Product and Service</h3>
+                    <p>We are the <a href="https://www.digibrandx.com/learn-service/Brand-Positioning-agency"
+                            target="_blank" rel="noopener"><strong>leading brand positioning agency</strong></a> help
+                        businesses stand out in competitive markets by building strong brand identities. Our team works
+                        with you to create a brand that connects with your audience. Let us help position your brand for
+                        lasting success and growth.</p>
+                    <h3>Elevate Your Brand with Expert Brand Storytelling Service</h3>
+                    <p>Unlock the power of <a href="https://www.digibrandx.com/learn-service/Brand-Storytelling-agency"
+                            target="_blank" rel="noopener"><strong>brand story copywriting</strong></a> with
+                        DigiBrandX&rsquo;s brand storytelling service. Our best team develops engaging narratives that
+                        foster meaningful connections between your brand and audience. Differentiate your brand, build
+                        trust, and create a lasting impact.&nbsp;</p>
+                    <h3>Transform Your Business with Logo And Brand Identity</h3>
+                    <p>Unlock the full potential of your brand with expert <a
+                            href="https://www.digibrandx.com/learn-service/brand-identity-design-agency" target="_blank"
+                            rel="noopener"><strong>brand identity design services</strong></a> from DigiBrandX. We help
+                        shape your brand&rsquo;s look, voice, and feel so your business stands out everywhere. Whether
+                        it&rsquo;s your logo or your messaging, we make sure your brand stays consistent, flexible, and
+                        easy to remember at every step.</p>
+                    <h3>Why You Need Professional Brand Guideline Service</h3>
+                    <p>A strong brand requires consistency across all touchpoints. DigiBrandX offers <a
+                            href="https://www.digibrandx.com/learn-service/Brand-Guideline-agency" target="_blank"
+                            rel="noopener"><strong>brand guideline design services</strong></a> to help businesses build
+                        a clear and consistent brand framework. We create detailed brand guidelines that protect your
+                        brand&rsquo;s integrity, improve customer experiences, and keep your messaging clear on every
+                        platform.</p>
+                    <h3>Transform Your B2B Business with a Stunning Corporate Video</h3>
+                    <p>Looking for a creative corporate film to present to your B2B client? <span
+                            style="box-sizing: border-box; margin: 0px; padding: 0px;">As the<strong>&nbsp;<a
+                                    href="https://www.digibrandx.com/learn-service/corporate-films-agency"
+                                    target="_blank" rel="noopener">best corporate film agency</a></strong>, we
+                            specialize in creating an impactful corporate video that engages your audience and
+                            effectively communicates your brand&rsquo;s message.</span> Create a compelling visual story
+                        that drives results for your startup business.</p>
+                    <h3>Amplify Your Brand with a Leading Brand Film Production House</h3>
+                    <p>Partner with a top <a href="https://www.digibrandx.com/learn-service/Brand-Film-Agency"
+                            target="_blank" rel="noopener"><strong>brand film production house</strong></a> like
+                        DigiBrandX to create compelling, story-driven brand films. We specialize in producing cinematic
+                        films that showcase your brand&rsquo;s core values, foster emotional connections, and build
+                        long-term loyalty. Shape your brand's identity and enhance its recognition your brand.</p>
+                    <h3>Why Choose a Video Post Production Company for Your B2B Brand Film?</h3>
+                    <p>A professional <strong><a href="https://www.digibrandx.com/learn-service/Post-Production-Agency"
+                                target="_blank" rel="noopener">post-production house</a> </strong>plays a crucial role
+                        in transforming raw footage into a captivating brand film. A skilled post-production team
+                        handles everything from video editing and color grading to sound design, voice-over, and music.
+                        Working with a top agency helps your brand share its message clearly and connect with your
+                        audience through strong visual storytelling.</p>
+                    <h3>Effective social media management firms for Brand Growth</h3>
+                    <p>Top-tier <a href="https://www.digibrandx.com/learn-service/Social-Media-Brand-Strategy-Agency"
+                            target="_blank" rel="noopener"><strong>social media marketing services</strong></a> that
+                        strategically align your brand&rsquo;s strategy with your business goals. We focus on building
+                        long-term brand equity by ensuring every post, story, reel, and campaign adds value to your
+                        digital presence. Elevate your&nbsp;<span
+                            style="box-sizing: border-box; margin: 0px; padding: 0px;"><strong>digital and social media
+                                marketing&nbsp;</strong>to</span>&nbsp;engage your target audience effectively.</p>
+                    <h3>Uncover Your Brand with social media brand building strategies in b2b companies</h3>
+                    <p>Offering premier <strong><a href="https://www.digibrandx.com/services/social-media-branding"
+                                target="_blank" rel="noopener">social media branding services</a> </strong>to strengthen
+                        your brand&rsquo;s identity across digital platforms. We use creative ideas and proven methods
+                        to help you build trust, grow your brand, and increase sales. Whether you need help with organic
+                        engagement or paid campaigns, our services support your business&rsquo;s long-term growth.</p>
+                    <h3>Why SEO Service is Crucial for Business Growth</h3>
+                    <p><strong>SEO service</strong> is an essential strategy for businesses looking to grow organically
+                        in today&rsquo;s digital economy. When your website ranks higher on search engines, you attract
+                        visitors who are already interested in what you offer. <a
+                            href="https://www.digibrandx.com/learn-service/SEO-agency" target="_blank"
+                            rel="noopener"><strong>Search engine optimization agencies</strong></a> also help build
+                        trust in your brand and support steady growth over time. Start focusing on <strong>SEO</strong>
+                        now to grow your business and stay ahead of your competitors.</p>
+                    <h3>Unlock Growth with Expert Email Marketing Strategies</h3>
+                    <p>Maximize your brand's potential with DigiBrandX&rsquo;s <a
+                            href="https://www.digibrandx.com/learn-service/Email-Marketing-Agency" target="_blank"
+                            rel="noopener"><strong>email marketing services</strong></a>. We use data-driven strategies
+                        to deliver personalized campaigns that increase open rates, improve customer retention, and
+                        drive conversions. Partner with us to build email experiences that strengthen brand loyalty and
+                        support sustainable growth.</p>
+                    <h3>Increase Your Sales with Expert B2B Affiliate Marketing Networks</h3>
+                    <p>DigiBrandX offers top-tier <a
+                            href="https://www.digibrandx.com/learn-service/Affiliate-Marketing-Agency" target="_blank"
+                            rel="noopener"><strong>affiliate marketing services</strong></a> that drive measurable
+                        results. We work with trusted partners to help brands run campaigns that deliver results. Our
+                        team handles everything from strategy to compliance, building affiliate programs that fit your
+                        business.&nbsp;</p>
+                    <h3>Boost Your Brand with Social Networks and Viral Marketing</h3>
+                    <p>Leverage the power of <a href="https://www.digibrandx.com/learn-service/Viral-Marketing-Agency"
+                            target="_blank" rel="noopener"><strong>viral marketing services</strong></a> to elevate your
+                        brand&rsquo;s visibility. At DigiBrandX, we develop content that engages your audience and
+                        encourages sharing. Our team designs campaigns for effective distribution across social
+                        platforms, supporting strong brand recognition and broad reach.&nbsp;</p>
+                    <h3>Top Online Reputation Management Companies for a Stronger Brand Image</h3>
+                    <p>Protect and enhance your brand&rsquo;s digital presence with our <a
+                            href="https://www.digibrandx.com/learn-service/Online-Reputation-Management-Agency"
+                            target="_blank" rel="noopener"><strong>online reputation management services</strong></a>
+                        (ORM). We help build your credibility and customer trust by using strategic content, SEO, and
+                        active engagement. Let us handle your brand&rsquo;s reputation so you can enjoy stronger online
+                        visibility and lasting customer loyalty.</p>
+                    <h3>Expose Your Brand with Professional Google Display Advertising Companies</h3>
+                    <p>Maximize your brand&rsquo;s visibility with DigiBrandX&rsquo;s top-tier <a
+                            href="https://www.digibrandx.com/learn-service/Display-Advertising-Agency" target="_blank"
+                            rel="noopener"><strong>display advertising services</strong></a>. Our best expert team
+                        creates effective campaigns using banners, images, videos, and interactive media. We
+                        strategically target your audience to increase brand awareness and drive engagement.&nbsp;</p>
+                    <h3>Discover Growth with Our Lead Generation Content Marketing</h3>
+                    <p>We specialize in <a href="https://www.digibrandx.com/learn-service/Content-Marketing-Agency"
+                            target="_blank" rel="noopener"><strong>content marketing services</strong></a> that drive
+                        results. Our team creates engaging, SEO-friendly content to help build your brand&rsquo;s
+                        reputation, connect with your audience, and encourage customer loyalty. We support your business
+                        growth with valuable content&mdash;whether it&rsquo;s blogs, social media posts, or strategic
+                        campaigns&mdash;that drives real results.</p>
+                    <p><strong>How can DigiBrandX become your trusted partner in driving long-term success, rather than
+                            just being a vendor?</strong></p>
+                    <p>&nbsp;</p>
+                </div>
+                <button class="desc-toggle" aria-expanded="false">
+                    <span class="desc-chevron"><i class="fas fa-chevron-down"></i></span>
+                </button>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!-- ====== contact us sec start ====== -->
+    <section class="contact-us-sec" id="enquiry-form-container">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="contact-heading" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="section-title">LET'S WORK TOGETHER</div>
+                        <p>Planning Your Project?</p>
+                    </div>
+                </div>
+                <div class="col-lg-10">
+                    <div class="contact-form" data-aos="fade-up" data-aos-duration="1500">
+                        <form id="form1">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <input type="text" name="Name" placeholder="Full Name" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <input type="text" name="E-Mail" placeholder="E-mail ID" class="form-control">
+                                    </div>
+                                </div>
+
+                                <!-- Hidden fields for country code, country name - placed before phone -->
+                                <input type="hidden" id="Country_Code" name="Country_Code" value="">
+                                <input type="hidden" id="Country_Name" name="Country_Name" value="">
+
+
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <input placeholder="Mobile Number" name="Phone" type="tel" id="phone1"
+                                            class="form-control" width="100%">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+
+
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                            <div class="custom-contact-select">
+                                                <div class="dropdown">
+                                                    <div class="selected">
+                                                        What Are You Looking For?
+                                                        <span class="arrow"><i class="fas fa-angle-down"></i></span>
+                                                    </div>
+                                                    <div class="options">
+
+                                                        <div data-value="Branding">Branding</div>
+                                                        <div data-value="Logo Design">Logo Design</div>
+                                                        <div data-value="UI & UX Design">UI & UX Design</div>
+                                                        <div data-value="Web Design & Developement">Web Design &
+                                                            Developement</div>
+                                                        <div data-value="Web Application Design & Development">Web
+                                                            Application Design & Development</div>
+                                                        <div data-value="E-commerce Development">E-commerce Development
+                                                        </div>
+                                                        <div data-value="Mobile App Design & Development">Mobile App
+                                                            Design & Development</div>
+                                                        <div data-value="Corporate Film">Corporate Film</div>
+                                                        <div data-value="Ad Films">Ad Films</div>
+                                                        <div data-value="Still & Video Shooting">Still & Video Shooting
+                                                        </div>
+                                                        <div data-value="Digital Marketing">Digital Marketing</div>
+                                                        <div data-value="SEO">SEO</div>
+                                                        <div data-value="Social Media Marketing">Social Media Marketing
+                                                        </div> <!-- <div data-value="INR 50,000 - INR 1,00,000">INR 50,000 - INR 1,00,000</div>
+                            <div data-value="INR 1,00,000 - INR 2,00,000">INR 1,00,000 - INR 2,00,000</div>
+                            <div data-value="INR 2,00,000 - INR 3,00,000">INR 2,00,000 - INR 3,00,000</div>
+                            <div data-value="INR 3,00,000 - INR 5,00,000">INR 3,00,000 - INR 5,00,000</div>
+                            <div data-value="INR 5,00,000 - INR 8,00,000">INR 5,00,000 - INR 8,00,000</div>
+                            <div data-value="INR 8,00,000 - INR 10,00,000">INR 8,00,000 - INR 10,00,000</div>
+                            <div data-value="INR 10,00,000 and Above">INR 10,00,000 and Above</div>-->
+                                                    </div>
+                                                    <input type="hidden" name="Service_Chosen" class="dropdown-input" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <!--    <div class="form-group">
+                      <select class="form-select" name="Service_Chosen">
+                        <option value="">What Are You Looking For?</option>
+        <option value="Custom">Custom</option>
+                        
+                      </select>
+                    </div>
+                  </div> -->
+
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                            <div class="custom-contact-select">
+                                                <div class="dropdown">
+                                                    <div class="selected">
+                                                        Budget
+                                                        <span class="arrow"><i class="fas fa-angle-down"></i></span>
+                                                    </div>
+                                                    <div class="options">
+                                                        <div data-value="$500 - $1000">$500 - $1000</div>
+                                                        <div data-value="$1000 - $2000">$1000 - $2000</div>
+                                                        <div data-value="$2000 - $3000">$2000 - $3000</div>
+                                                        <div data-value="$3000 - $4000">$3000 - $4000</div>
+                                                        <div data-value="$4000 - $5000">$4000 - $5000</div>
+                                                        <div data-value="$5000 and Above">$5000 and Above</div>
+
+                                                    </div>
+                                                    <input type="hidden" name="Budget" class="dropdown-input" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <!--<div class="col-lg-12">
+                    <div class="form-group">
+                      <select class="form-select" name="Budget">
+                        <option value="">Budget</option>
+                        
+                        <option value="INR 50,000 - INR 1,00,000">INR 50,000 - INR 1,00,000</option>
+                        <option value="INR 1,00,000 - INR 2,00,000">INR 1,00,000 - INR 2,00,000</option>
+                        <option value="INR 2,00,000 - INR 3,00,000">INR 2,00,000 - INR 3,00,000</option>
+                        <option value="INR 3,00,000 - INR 5,00,000">INR 3,00,000 - INR 5,00,000</option>
+                        <option value="INR 5,00,000 - INR 8,00,000">INR 5,00,000 - INR 8,00,000</option>
+                        <option value="INR 8,00,000 - INR 10,00,000">INR 8,00,000 - INR 10,00,000</option>
+                        <option value="INR 10,00,000 and Above">INR 10,00,000 and Above</option>
+                       
+                      </select>
+                    </div>
+                  </div>-->
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                            <textarea class="form-control" name="Query"
+                                                placeholder="Please share your additional requirement if any"></textarea>
+                                        </div>
+                                    </div>
+
+                                    <input type="hidden" id="Page_URL" name="Page_URL" value="">
+
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <!--<div id="html_element"></div>-->
+                                            <div class="g-recaptcha"
+                                                data-sitekey="6LdgsnIsAAAAAFLuZQ577YZpCVgK7zLUBAHd3P_2"></div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <span id="zxcv1" style="display:none;">
+                                                <div class="alert alert-info" role="alert">Submitting form..Please
+                                                    wait...</div>
+                                            </span>
+                                            <div class="contact-submit">
+                                                <a href="javascript:;" onClick="global_form('#form1','#zxcv1');"
+                                                    class="need-btn"><span><svg xmlns="http://www.w3.org/2000/svg"
+                                                            width="9" height="12" viewBox="0 0 10 15" fill="none">
+                                                            <path d="M1 1L8 7.5L1 14" stroke="white" stroke-width="2">
+                                                            </path>
+                                                        </svg></span>get quotation</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <input type="hidden" id="mandatory_fields_except_file_fields"
+                                    value="Name,E-Mail,Phone,Service_Chosen,Budget" />
+                                <input type="hidden" id="mandatory_file_fields" value="" />
+                                <input type="hidden" id="email_fields" value="E-Mail" />
+                                <!--<input type="hidden" id="contact_fields" value="Phone,Alternate_No,Office_Phone,Mother_Office_Contact" />-->
+                                <input type="hidden" id="contact_fields" value="Phone" />
+                                <input type="hidden" id="file_fields" value="" />
+                                <input type="hidden" id="form_type" value="Footer Form" />
+                                <input type="hidden" id="downlaoded_file" value="" />
+                                <input type="hidden" id="thanks_message"
+                                    value="Thank you for showing your interest. We will get back to you very soon.." />
+                                <input type="hidden" id="thanks_redirection_status" value="no" />
+                                <input type="hidden" id="thanks_url" value="" />
+                                <input type="hidden" id="email_from" value="Name,E-Mail" />
+                                <!--No Comma seperated-->
+                                <input type="hidden" id="duplicate_by_email_enabled" value="" />
+                                <input type="hidden" id="duplicate_message" value="" />
+                                <input type="hidden" id="email_to" value="artdirectorkpb@gmail.com" />
+                                <!--<input type="hidden" id="email_to" value="atri.agomnimedia@gmail.com"  />-->
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ====== contact us sec end ====== -->
+    <!-- ===== instragram sec start ======= -->
+    <section class="instra-sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="instra-heading">
+                        <h2 class="section-title"><span><svg xmlns="http://www.w3.org/2000/svg" width="19" height="19"
+                                    viewBox="0 0 19 19" fill="none">
+                                    <g clip-path="url(#clip0_66_753)">
+                                        <path
+                                            d="M9.5 1.71074C12.0383 1.71074 12.3389 1.72187 13.3371 1.76641C14.2648 1.80723 14.7658 1.96309 15.0998 2.09297C15.5414 2.26367 15.8605 2.47148 16.1908 2.80176C16.5248 3.13574 16.7289 3.45117 16.8996 3.89277C17.0295 4.22676 17.1854 4.73145 17.2262 5.65547C17.2707 6.65742 17.2818 6.95801 17.2818 9.49258C17.2818 12.0309 17.2707 12.3314 17.2262 13.3297C17.1854 14.2574 17.0295 14.7584 16.8996 15.0924C16.7289 15.534 16.5211 15.8531 16.1908 16.1834C15.8568 16.5174 15.5414 16.7215 15.0998 16.8922C14.7658 17.0221 14.2611 17.1779 13.3371 17.2188C12.3352 17.2633 12.0346 17.2744 9.5 17.2744C6.96172 17.2744 6.66113 17.2633 5.66289 17.2188C4.73516 17.1779 4.23418 17.0221 3.9002 16.8922C3.45859 16.7215 3.13945 16.5137 2.80918 16.1834C2.4752 15.8494 2.27109 15.534 2.10039 15.0924C1.97051 14.7584 1.81465 14.2537 1.77383 13.3297C1.7293 12.3277 1.71816 12.0271 1.71816 9.49258C1.71816 6.9543 1.7293 6.65371 1.77383 5.65547C1.81465 4.72773 1.97051 4.22676 2.10039 3.89277C2.27109 3.45117 2.47891 3.13203 2.80918 2.80176C3.14316 2.46777 3.45859 2.26367 3.9002 2.09297C4.23418 1.96309 4.73887 1.80723 5.66289 1.76641C6.66113 1.72187 6.96172 1.71074 9.5 1.71074ZM9.5 0C6.9209 0 6.59805 0.0111328 5.58496 0.0556641C4.57559 0.100195 3.88164 0.263477 3.28047 0.497266C2.65332 0.742188 2.12266 1.06504 1.5957 1.5957C1.06504 2.12266 0.742188 2.65332 0.497266 3.27676C0.263477 3.88164 0.100195 4.57187 0.0556641 5.58125C0.0111328 6.59805 0 6.9209 0 9.5C0 12.0791 0.0111328 12.402 0.0556641 13.415C0.100195 14.4244 0.263477 15.1184 0.497266 15.7195C0.742188 16.3467 1.06504 16.8773 1.5957 17.4043C2.12266 17.9312 2.65332 18.2578 3.27676 18.499C3.88164 18.7328 4.57188 18.8961 5.58125 18.9406C6.59434 18.9852 6.91719 18.9963 9.49629 18.9963C12.0754 18.9963 12.3982 18.9852 13.4113 18.9406C14.4207 18.8961 15.1147 18.7328 15.7158 18.499C16.3393 18.2578 16.8699 17.9312 17.3969 17.4043C17.9238 16.8773 18.2504 16.3467 18.4916 15.7232C18.7254 15.1184 18.8887 14.4281 18.9332 13.4188C18.9777 12.4057 18.9889 12.0828 18.9889 9.50371C18.9889 6.92461 18.9777 6.60176 18.9332 5.58867C18.8887 4.5793 18.7254 3.88535 18.4916 3.28418C18.2578 2.65332 17.935 2.12266 17.4043 1.5957C16.8773 1.06875 16.3467 0.742188 15.7232 0.500977C15.1184 0.267187 14.4281 0.103906 13.4188 0.059375C12.402 0.0111328 12.0791 0 9.5 0Z"
+                                            fill="#999999" />
+                                        <path
+                                            d="M9.5 4.62012C6.80586 4.62012 4.62012 6.80586 4.62012 9.5C4.62012 12.1941 6.80586 14.3799 9.5 14.3799C12.1941 14.3799 14.3799 12.1941 14.3799 9.5C14.3799 6.80586 12.1941 4.62012 9.5 4.62012ZM9.5 12.6654C7.75215 12.6654 6.33457 11.2479 6.33457 9.5C6.33457 7.75215 7.75215 6.33457 9.5 6.33457C11.2479 6.33457 12.6654 7.75215 12.6654 9.5C12.6654 11.2479 11.2479 12.6654 9.5 12.6654Z"
+                                            fill="#999999" />
+                                        <path
+                                            d="M15.7121 4.42735C15.7121 5.05821 15.2 5.5666 14.5729 5.5666C13.942 5.5666 13.4336 5.05449 13.4336 4.42735C13.4336 3.79649 13.9457 3.28809 14.5729 3.28809C15.2 3.28809 15.7121 3.8002 15.7121 4.42735Z"
+                                            fill="#999999" />
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0_66_753">
+                                            <rect width="19" height="19" fill="white" />
+                                        </clipPath>
+                                    </defs>
+                                </svg></span>Instagram</h2>
+                    </div>
+                    <!-- Elfsight Instagram Feed | Digibrandx -->
+                    <script src="https://elfsightcdn.com/platform.js" async></script>
+                    <div class="elfsight-app-1934b379-a900-4bad-a143-0d0c79a0729d" data-elfsight-app-lazy></div>
+
+
+
+                    <!--<div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>
+              <div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>
+              <div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>
+              <div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>
+              <div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>-->
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    <!-- ===== instragram sec end ======= -->
+    <!-- ===== footer-srv-sec sec start ======= -->
+    <section class="footer-srv-sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="footer-srv" data-aos="fade-down" data-aos-duration="1000">
+                        <h2 class="section-title">Services</h2>
+                    </div>
+                </div>
+                <div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="ft-srv-area">
+                        <h4>Branding</h4>
+                        <ul>
+                            <ul>
+                                <ul>
+                                    <ul>
+                                        <li><a href="https://www.digibrandx.com/learn-service/branding-process-agency">Branding
+                                                Process</a></li>
+                                        <li><a href="https://www.digibrandx.com/learn-service/Brand-discovery-agency">Brand
+                                                Discovery</a></li>
+                                        <li><a href="https://www.digibrandx.com/learn-service/Brand-Strategy-agency">Brand
+                                                Strategy</a></li>
+                                        <li><a href="https://www.digibrandx.com/learn-service/Brand-Positioning-agency">Brand
+                                                Positioning</a></li>
+                                        <li><a
+                                                href="https://www.digibrandx.com/learn-service/Brand-voice-and-tone-agency">Brand
+                                                Voice &amp; Tone</a></li>
+                                        <li><a
+                                                href="https://www.digibrandx.com/learn-service/Brand-Storytelling-agency">Brand
+                                                Storytelling</a></li>
+                                        <li><a href="https://www.digibrandx.com/learn-service/Logo-Design-agency">Logo
+                                                Design</a></li>
+                                        <li><a
+                                                href="https://www.digibrandx.com/learn-service/brand-identity-design-agency">Brand
+                                                Identity</a></li>
+                                        <li><a href="https://www.digibrandx.com/learn-service/Brand-Guideline-agency">Brand
+                                                Guideline</a></li>
+                                    </ul>
+                                </ul>
+                            </ul>
+                        </ul>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="ft-srv-area">
+                        <h4>UX Design</h4>
+                        <ul>
+                            <li><a href="https://www.digibrandx.com/learn-service/User-Experience-Design-Agency">User
+                                    Experience Design</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/UX-discovery-agency">UX Discovery
+                                    Methods</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/User-Research-agency">User
+                                    Research</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/User-Persona-Design-agency">User
+                                    Persona</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/user-journey-map-consulting-agency">User
+                                    Journey Map</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/information-architect-company">Information
+                                    Architect</a></li>
+                            <li><a
+                                    href="https://www.digibrandx.com/learn-service/wireframe-and-prototype-design-agency">Wireframe
+                                    &amp; Prototype</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/visual-design-for-ux-design-agency">Visual
+                                    Design</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/usability-testing-agency">Usability
+                                    Testing</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="ft-srv-area">
+                        <h4>Visual Design</h4>
+                        <ul>
+                            <ul>
+                                <li><a href="https://www.digibrandx.com/learn-service/User-Interface-Design-Agency">User
+                                        Interface Design</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/web-design-agency">Website
+                                        Design</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Web-Application-Design-Agency">Web
+                                        Application Design</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Mobile-App-Design-Agency">Mobile
+                                        App Design</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/E-commerce-Application-Design-Agency">E-commerce
+                                        Application Design</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Landing-Page-Design-Agency">Landing
+                                        Page Design</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Dashboard-Design-Services">Dashboard
+                                        Design</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/enterprise-application-design-agency">Enterprise
+                                        Application Design</a></li>
+                            </ul>
+                        </ul>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="ft-srv-area">
+                        <h4>Application Development</h4>
+                        <ul>
+                            <ul>
+                                <li><a href="https://www.digibrandx.com/learn-service/Front-End-Development-Services">Front-End
+                                        Development</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Back-End-Development-Services">Back-End
+                                        Development</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/Web-Application-Development-Agency">Web
+                                        Applications</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/Responsive-Website-Development-Agency">Responsive
+                                        Website</a></li>
+                                <li><a href="https://www.digibrandx.com/page/Mobile-App-Development-Agency">Mobile
+                                        Applications</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/E-commerce-Applications-Development-Services">E-commerce
+                                        Applications</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/Desktop-Application-Development-Agency">Desktop
+                                        Application</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/Enterprise-application-development-Agency">Enterprise
+                                        Application</a></li>
+                            </ul>
+                        </ul>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="ft-srv-area">
+                        <h4>Graphic Design</h4>
+                        <ul>
+                            <li><a href="https://www.digibrandx.com/learn-service/advertisement-design-agency">Advertisement
+                                    Design</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/environmental-graphic-design-agency">Environmental
+                                    Graphic Design</a></li>
+                            <li><a
+                                    href="https://www.digibrandx.com/learn-service/marketing-collaterals-design-services">Marketing
+                                    Collaterals</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/social-media-design-services">Social
+                                    Media Graphics</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/infographic-design-agency">Infographic
+                                    Design</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/packaging-design-agency">Packaging
+                                    Design</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/Print-and-Publication-Design-Agency">Print
+                                    &amp; Publication Design</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/digital-art-and-illustration-agency">Art
+                                    and Illustration</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="ft-srv-area">
+                        <h4>Digital Marketing</h4>
+                        <ul>
+                            <ul>
+                                <li><a href="https://www.digibrandx.com/learn-service/SEO-agency">Search Engine
+                                        Optimization</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/Search-Engine-Marketing-SEM-Agency">Search
+                                        Engine Marketing</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Email-Marketing-Agency">Email
+                                        Marketing</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Mobile-Marketing-Agency">Mobile
+                                        Marketing</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Affiliate-Marketing-Agency">Affiliate
+                                        Marketing</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Viral-Marketing-Agency">Viral
+                                        Marketing</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/Online-Reputation-Management-Agency">Online
+                                        Reputation Management</a></li>
+                                <li><a
+                                        href="https://www.digibrandx.com/learn-service/Conversion-Rate-Optimization-Services">Conversion
+                                        Rate Optimization</a></li>
+                                <li><a href="https://www.digibrandx.com/learn-service/Display-Advertising-Agency">Display
+                                        Advertising</a><a href="https://www.digibrandx.com/page/Email-Marketing"></a>
+                                </li>
+                            </ul>
+                        </ul>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="ft-srv-area">
+                        <h4>Social Media Marketing</h4>
+                        <ul>
+                            <ul>
+                                <ul>
+                                    <li><a href="https://www.digibrandx.com/learn-service/Social-Media-Platform">Social
+                                            Media Platform</a></li>
+                                    <li><a
+                                            href="https://www.digibrandx.com/learn-service/Social-Media-Brand-Strategy-Agency">Social
+                                            Media Brand Strategy</a></li>
+                                    <li><a href="https://www.digibrandx.com/learn-service/social-media-branding-agency">Social
+                                            Media Branding</a></li>
+                                    <li><a href="https://www.digibrandx.com/learn-service/organic-social-media-agency">Organic
+                                            Social Media</a></li>
+                                    <li><a href="https://www.digibrandx.com/learn-service/paid-social-media-agency">Paid
+                                            Social Media</a></li>
+                                    <li><a href="https://www.digibrandx.com/learn-service/Influencer-Marketing-agency">Influencer
+                                            Marketing</a></li>
+                                    <li><a href="https://www.digibrandx.com/learn-service/Content-Marketing-Agency">Content
+                                            Marketing</a></li>
+                                    <li><a
+                                            href="https://www.digibrandx.com/learn-service/Social-Media-Lead-Generation-Agency">Social
+                                            Media Lead Generation</a></li>
+                                </ul>
+                            </ul>
+                        </ul>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="ft-srv-area">
+                        <h4>Video Production</h4>
+                        <ul>
+                            <li><a href="https://www.digibrandx.com/learn-service/Pre-Production-Agency">Pre
+                                    Production</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/Post-Production-Agency">Post
+                                    production</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/corporate-films-agency">Corporate
+                                    Films</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/Ad-Films-Agency">Ad Films</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/Brand-Film-Agency">Brand Films</a>
+                            </li>
+                            <li><a href="https://www.digibrandx.com/learn-service/Product-Film-Agency">Product Films</a>
+                            </li>
+                            <li><a href="https://www.digibrandx.com/learn-service/Educational-Video-Services">Educational
+                                    Video</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/Social-Media-Video-Agency">Social
+                                    Media Video</a></li>
+                            <li><a href="https://www.digibrandx.com/learn-service/Motion-Graphics-Agency">Motion
+                                    Graphics</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--<div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
+            <div class="ft-srv-area">
+              <h4>Branding</h4>
+              <ul>
+                <li><a href="">Logo Design & Development</a></li>
+                <li><a href="">Brand Guideline</a></li>
+                <li><a href="">Marketing Collaterals</a></li>
+                <li><a href="">Digital Brand Campaign</a></li>
+                <li><a href="">Indoor & Outdoor Campaign</a></li>
+                <li><a href="">Branding Agency in USA</a></li>
+                <li><a href="">Branding Agency in UK</a></li>
+              </ul>
+            </div>
+          </div>-->
+            </div>
+        </div>
+    </section>
+    <!-- ===== footer-srv-sec sec end ======= -->
+    <!-- ===== footer sec start ====== -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="social_list" data-aos="fade-up" data-aos-duration="1000">
+                        <ul>
+                            <li><a href="https://www.linkedin.com/company/digibrandexperience/" target="_blank"><img
+                                        src="upload/news/Id_76-f-in.svg" class="active img-fluid"></a></li>
+                            <li><a href="https://www.instagram.com/digibrandx/" target="_blank"><img
+                                        src="upload/news/7fd49f9e3f911d60b7788897b344a9a2_fl.svg" class="img-fluid"></a>
+                            </li>
+                            <li><a href="https://www.facebook.com/profile.php?id=61574758856950" target="_blank"><img
+                                        src="upload/news/Id_79-f-fb.svg" class="img-fluid"></a></li>
+                            <li><a href="https://in.pinterest.com/digibrandx/" target="_blank"><img
+                                        src="upload/news/Id_81-f-pin.svg" class="img-fluid"></a></li>
+                            <li><a href="https://www.youtube.com/@digibrandx" target="_blank"><img
+                                        src="upload/news/Id_82-f-you.svg" class="img-fluid"></a></li>
+                            <li><a href="https://x.com/BrandxDigi98057" target="_blank"><img
+                                        src="upload/news/Id_83-f-x.svg" class="img-fluid"></a></li>
+                        </ul>
+                    </div>
+                    <div class="page-list" data-aos="fade-down" data-aos-duration="1000">
+                        <ul>
+                            <li><span
+                                    style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"></span><a
+                                    style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
+                                    href="https://www.digibrandx.com/">Home</a></li>
+                            <li><a style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
+                                    href="https://www.digibrandx.com/expertise.php">Expertise</a></li>
+                            <li><a href="https://www.digibrandx.com/portfolio">Portfolio</a></li>
+                            <li><a href="https://www.digibrandx.com/case-study.php">Case Study</a></li>
+                            <li><a href="https://www.digibrandx.com/team">Team</a></li>
+                            <li><a href="https://www.digibrandx.com/about">About</a></li>
+                            <li><a href="https://www.digibrandx.com/blogs">Blog</a></li>
+                            <li><a href="https://www.digibrandx.com/contact.php">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div class="page-list" data-aos="fade-down" data-aos-duration="1000">
+                        <ul>
+                            <li><a href="https://www.digibrandx.com/page/Terms-and-Conditions">Terms And Conditions</a>
+                            </li>
+                            <li><a href="https://www.digibrandx.com/page/Refund-Policy">Refund Policy</a></li>
+                            <li><a href="https://www.digibrandx.com/page/Privacy-Policy">Privacy Policy</a></li>
+                            <li><a href="https://www.digibrandx.com/page/Copyright-Policy">Copyright
+                                    Policy</a><span></span></li>
+                            <li><a href="https://www.digibrandx.com/page/career" target="_blank"
+                                    rel="noopener">Career</a></li>
+                            <li><a href="https://www.digibrandx.com/page/digibrandx-global-service-locations"
+                                    target="_blank" rel="noopener">Service Locations</a></li>
+                        </ul>
+                    </div>
+                    <!--<div class="page-list" data-aos="fade-down" data-aos-duration="1000">
+              <ul>
+                <li><a href="">About</a></li>
+              <li><a href="">Service</a></li>
+              <li><a href="">Case Study</a></li>
+              <li><a href="">Blog</a></li>
+              <li><a href="">Work</a></li>
+              <li><a href="">Contact</a></li>
+              </ul>
+            </div>-->
+                    <!--<div class="page-list" data-aos="fade-down" data-aos-duration="1000">
+              <ul>
+                <li><a href="">Terms And Conditions</a></li>
+              <li><a href="">Refund Policy</a></li>
+              <li><a href="">Privacy Policy</a></li>
+              <li><a href="">Disclaimer</a></li>
+              <li><a href="">Social Initiative</a></li>
+              </ul>
+            </div>-->
+                    <div class="copy-right">
+                        <ul>
+
+                            <li><a style="cursor:default;">&copy; 2026 Digibrandx. All rights reserved.</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ===== footer sec end ====== -->
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header" style="border: 0;">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="contact-heading">
+                        <div class="section-title">LET'S WORK TOGETHER</div>
+                        <p>Planning Your Project?</p>
+                    </div>
+                    <div class="contact-form" data-aos="fade-up" data-aos-duration="1500">
+                        <form id="form2">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <input type="text" name="Name" placeholder="Full Name" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <input type="text" name="E-Mail" placeholder="E-mail ID" class="form-control">
+                                    </div>
+                                </div>
+                                <!--                   <div class="col-lg-12">
+                    <div class="form-group">
+                      <select class="form-select" id="countrySelect" name="country">
+            <option value="" disabled selected>Select Country</option>
+            <option value="india">India</option>
+            <option value="usa">USA</option>
+            <option value="uk">UK</option>
+          </select>
+                    </div>
+                  </div> -->
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <input placeholder="Mobile Number" name="Phone" type="tel" id="phone2"
+                                            class="form-control" width="100%">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <div class="custom-contact-select">
+                                            <div class="dropdown">
+                                                <div class="selected">
+                                                    What Are You Looking For?
+                                                    <span class="arrow"><i class="fas fa-angle-down"></i></span>
+                                                </div>
+                                                <div class="options">
+
+                                                    <div data-value="Branding">Branding</div>
+                                                    <div data-value="Logo Design">Logo Design</div>
+                                                    <div data-value="UI & UX Design">UI & UX Design</div>
+                                                    <div data-value="Web Design & Developement">Web Design &
+                                                        Developement</div>
+                                                    <div data-value="Web Application Design & Development">Web
+                                                        Application Design & Development</div>
+                                                    <div data-value="E-commerce Development">E-commerce Development
+                                                    </div>
+                                                    <div data-value="Mobile App Design & Development">Mobile App Design
+                                                        & Development</div>
+                                                    <div data-value="Corporate Film">Corporate Film</div>
+                                                    <div data-value="Ad Films">Ad Films</div>
+                                                    <div data-value="Still & Video Shooting">Still & Video Shooting
+                                                    </div>
+                                                    <div data-value="Digital Marketing">Digital Marketing</div>
+                                                    <div data-value="SEO">SEO</div>
+                                                    <div data-value="Social Media Marketing">Social Media Marketing
+                                                    </div> <!-- <div data-value="INR 50,000 - INR 1,00,000">INR 50,000 - INR 1,00,000</div>
+                            <div data-value="INR 1,00,000 - INR 2,00,000">INR 1,00,000 - INR 2,00,000</div>
+                            <div data-value="INR 2,00,000 - INR 3,00,000">INR 2,00,000 - INR 3,00,000</div>
+                            <div data-value="INR 3,00,000 - INR 5,00,000">INR 3,00,000 - INR 5,00,000</div>
+                            <div data-value="INR 5,00,000 - INR 8,00,000">INR 5,00,000 - INR 8,00,000</div>
+                            <div data-value="INR 8,00,000 - INR 10,00,000">INR 8,00,000 - INR 10,00,000</div>
+                            <div data-value="INR 10,00,000 and Above">INR 10,00,000 and Above</div>-->
+                                                </div>
+                                                <input type="hidden" name="Service_Chosen" class="dropdown-input" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <div class="custom-contact-select">
+                                            <div class="dropdown">
+                                                <div class="selected">
+                                                    Budget
+                                                    <span class="arrow"><i class="fas fa-angle-down"></i></span>
+                                                </div>
+                                                <div class="options">
+                                                    <div data-value="$500 - $1000">$500 - $1000</div>
+                                                    <div data-value="$1000 - $2000">$1000 - $2000</div>
+                                                    <div data-value="$2000 - $3000">$2000 - $3000</div>
+                                                    <div data-value="$3000 - $4000">$3000 - $4000</div>
+                                                    <div data-value="$4000 - $5000">$4000 - $5000</div>
+                                                    <div data-value="$5000 and Above">$5000 and Above</div>
+                                                </div>
+                                                <input type="hidden" name="Budget" class="dropdown-input" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <textarea class="form-control" name="Query"
+                                            placeholder="Please share your additional requirement if any"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <!--<div id="html_element"></div>-->
+                                    <div class="g-recaptcha" data-sitekey="6LdgsnIsAAAAAFLuZQ577YZpCVgK7zLUBAHd3P_2">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <span id="zxcv2" style="display:none;">
+                                        <div class="alert alert-info" role="alert">Submitting form..Please wait...</div>
+                                    </span>
+                                    <div class="contact-submit">
+                                        <a href="javascript:;" onClick="global_form('#form2','#zxcv2');"
+                                            class="need-btn"><span><svg xmlns="http://www.w3.org/2000/svg" width="9"
+                                                    height="12" viewBox="0 0 10 15" fill="none">
+                                                    <path d="M1 1L8 7.5L1 14" stroke="white" stroke-width="2"></path>
+                                                </svg></span>get quotation</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <input type="hidden" id="mandatory_fields_except_file_fields"
+                                value="Name,E-Mail,Phone,Service_Chosen,Budget" />
+                            <input type="hidden" id="mandatory_file_fields" value="" />
+                            <input type="hidden" id="email_fields" value="E-Mail" />
+                            <!--<input type="hidden" id="contact_fields" value="Phone,Alternate_No,Office_Phone,Mother_Office_Contact" />-->
+                            <input type="hidden" id="contact_fields" value="Mobile" />
+                            <input type="hidden" id="file_fields" value="" />
+                            <input type="hidden" id="form_type" value="Popup Form" />
+                            <input type="hidden" id="downlaoded_file" value="" />
+                            <input type="hidden" id="thanks_message"
+                                value="Thank you for showing your interest. We will get back to you very soon.." />
+                            <input type="hidden" id="thanks_redirection_status" value="no" />
+                            <input type="hidden" id="thanks_url" value="" />
+                            <input type="hidden" id="email_from" value="Name,E-Mail" />
+                            <!--No Comma seperated-->
+                            <input type="hidden" id="duplicate_by_email_enabled" value="" />
+                            <input type="hidden" id="duplicate_message" value="" />
+                            <input type="hidden" id="email_to" value="artdirectorkpb@gmail.com" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--<div class=" text-center">  Powered By <a href="https://webdevsmart.com">Smart Web Developers</a></div>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="js/custom.js?v=1.0.0"></script>
+    <!--   <script type="text/javascript">
+      var onloadCallback = function() {
+        grecaptcha.render('html_element', {
+          'sitekey' : ' 6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI'
+        });
+      };
+    </script>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+    <script>
+        ///////////////////////////////////////////////////////////////////////////////////
+        function global_form(form_id, response_id) {
+            var url = window.location.href;
+
+            // Ensure all dropdown hidden inputs are properly set before submission
+            $(form_id).find('input[type="hidden"].dropdown-input').each(function () {
+                var hiddenInput = $(this);
+                var dropdownContainer = hiddenInput.closest('.custom-contact-select');
+                var selectedDiv = dropdownContainer.find('.selected');
+
+                // Only set value if a selection has been made (check if selected text changed from default)
+                var isSelected = selectedDiv.text().trim() !== 'What Are You Looking For?' &&
+                    selectedDiv.text().trim() !== 'Budget' &&
+                    selectedDiv.text().trim() !== '';
+
+                if (!isSelected) {
+                    hiddenInput.val('');
+                }
+            });
+
+            $(response_id).show();
+            //$.alert({ backgroundDismiss: false ,title: 'Loading..', content: 'Loading..'});
+            var mf = $(form_id + ' input[id="mandatory_fields_except_file_fields"]').val();
+            var mff = $(form_id + ' input[id="mandatory_file_fields"]').val();
+            var ef = $(form_id + ' input[id="email_fields"]').val();
+            var cf = $(form_id + ' input[id="contact_fields"]').val();
+            var ff = $(form_id + ' input[id="file_fields"]').val();
+            var ft = $(form_id + ' input[id="form_type"]').val();
+            var df = $(form_id + ' input[id="downlaoded_file"]').val();
+            var tm = $(form_id + ' input[id="thanks_message"]').val();
+            var ts = $(form_id + ' input[id="thanks_redirection_status"]').val();
+            var tu = $(form_id + ' input[id="thanks_url"]').val();
+            var duplicate_email = $(form_id + ' input[id="duplicate_by_email_enabled"]').val();
+            var duplicate_message = $(form_id + ' input[id="duplicate_message"]').val();
+            var email_from = $(form_id + ' input[id="email_from"]').val();
+            var email_to = $(form_id + ' input[id="email_to"]').val();
+            //alert(tm);
+            var form_elem = $(form_id)[0];
+            var data = new FormData(form_elem);
+            $.ajax({
+                type: 'POST',
+                //url: 'form-ajax.php?f=1&furl=' + url + '',
+                url: 'form-ajax-global.php?mf=' + escape(mf) + '&mff=' + escape(mff) + '&ef=' + escape(ef) + '&cf=' + escape(cf) + '&ff=' + escape(ff) + '&ft=' + escape(ft) + '&tm=' + escape(tm) + '&df=' + escape(df) + '&ts=' + escape(ts) + '&tu=' + escape(tu) + '&email=' + escape(email_from) + '&duplicate_by_email_enabled=' + escape(duplicate_email) + '&dmessage=' + escape(duplicate_message) + '&email_to=' + escape(email_to),
+                data: data,
+                contentType: false,
+                cache: false,
+                processData: false,
+            }).done(function (data) {
+                $(response_id).hide();
+                //var aTag = $('#response_show');
+                if (~data.indexOf("green")) {
+                    //grecaptcha_execute();
+                    //$('html, body').animate({scrollTop: '400px'}, 'slow');
+                    if ((tu == '') && (ts == 'no')) {
+                        ///////////////////////////////////////// thank you page redirection or not check
+                        //document.getElementById("brochure_popup").style.display = "none";
+                        //$(response_id).html(data);
+                        $(response_id).html(data);
+                        $.alert({ backgroundDismiss: true, title: 'Success!', type: 'green', theme: 'light', content: data });
+
+                        // Reset form only on success
+                        $(form_id)[0].reset();
+                        // Reset dropdown displays
+                        $(form_id).find('.custom-contact-select .selected').each(function (index) {
+                            if (index === 0) {
+                                $(this).html('What Are You Looking For? <span class="arrow"><i class="fas fa-angle-down"></i></span>');
+                            } else {
+                                $(this).html('Budget <span class="arrow"><i class="fas fa-angle-down"></i></span>');
+                            }
+                        });
+                        $(form_id).find('.dropdown .selected').html(function () {
+                            var text = $(this).text();
+                            if (text.includes('Looking')) return 'What Are You Looking For? <span class="arrow"><i class="fas fa-angle-down"></i></span>';
+                            return 'Budget <span class="arrow"><i class="fas fa-angle-down"></i></span>';
+                        });
+
+                    } else {
+                        $(response_id).html(data);
+                        $.alert({ backgroundDismiss: true, title: 'Success!', type: 'green', theme: 'light', content: data });
+                        document.getElementById("brochure_popup").style.display = "none";
+
+                        // Reset form only on success
+                        $(form_id)[0].reset();
+                        // Reset dropdown displays
+                        $(form_id).find('.custom-contact-select .selected').each(function (index) {
+                            if (index === 0) {
+                                $(this).html('What Are You Looking For? <span class="arrow"><i class="fas fa-angle-down"></i></span>');
+                            } else {
+                                $(this).html('Budget <span class="arrow"><i class="fas fa-angle-down"></i></span>');
+                            }
+                        });
+                        $(form_id).find('.dropdown .selected').html(function () {
+                            var text = $(this).text();
+                            if (text.includes('Looking')) return 'What Are You Looking For? <span class="arrow"><i class="fas fa-angle-down"></i></span>';
+                            return 'Budget <span class="arrow"><i class="fas fa-angle-down"></i></span>';
+                        });
+
+                        setTimeout(function () {
+                            window.location.replace(tu);
+                        }, 2500);
+                        ///////////////////////////////////////// thank you page redirection or not check
+                    }
+                } else {
+                    //grecaptcha_execute();
+                    //$('html, body').animate({scrollTop: '400px'}, 'slow');
+                    //$('#response').html(data);
+                    $.alert({ backgroundDismiss: true, title: 'Error!', type: 'red', theme: 'light', content: data });
+                    // Do NOT reset form on error - let user correct their input
+                }
+            }).fail(function () {
+                alert("Posting failed.");
+            });
+            return false;
+            //});
+        }
+        ///////////////////////////////////////////////////////////////////////////////////////  
+    </script>
+    <script src="build/js/intlTelInputWithUtils.js"></script>
+    <script>
+        const input1 = document.querySelector('#phone1');
+        const iti1 = window.intlTelInput(input1, {
+            initialCountry: "auto",
+            preferredCountries: ["us", "gb", "in"],
+            showFlags: true,
+            allowDropdown: true, // Enables country dropdown
+            //dropdownContainer: document.body, // Moves dropdown inside the input field
+            autoPlaceholder: "aggressive",
+            separateDialCode: true, // Allows users to type country names directly
+            utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+            geoIpLookup: function (success, failure) {
+                fetch("https://ipapi.co/json")
+                    .then(response => response.json())
+                    .then(data => success(data.country_code))
+                    .catch(() => success("IN"));
+            }
+            // allowDropdown: false,
+            // autoPlaceholder: "off",
+            // containerClass: "test",
+            // countryOrder: ["jp", "kr"],
+            // countrySearch: false,
+            // customPlaceholder: function(selectedCountryPlaceholder, selectedCountryData) {
+            //   return "e.g. " + selectedCountryPlaceholder;
+            // },
+            // dropdownContainer: document.querySelector('#custom-container'),
+            // excludeCountries: ["us"],
+            // fixDropdownWidth: false,
+            // formatAsYouType: false,
+            // formatOnDisplay: false,
+            // geoIpLookup: function(callback) {
+            //   fetch("https://ipapi.co/json")
+            //     .then(function(res) { return res.json(); })
+            //     .then(function(data) { callback(data.country_code); })
+            //     .catch(function() { callback(); });
+            // },
+            // hiddenInput: () => ({ phone: "phone_full", country: "country_code" }),
+            // i18n: { 'de': 'Deutschland' },
+            //initialCountry: "us",
+            // loadUtils: () => import("/build/js/utils.js"), // leading slash (and http-server) required for this to work in chrome
+            // nationalMode: false,
+            // onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
+            // placeholderNumberType: "MOBILE",
+            // showFlags: false,
+            // separateDialCode: true,
+            // strictMode: true,
+            // useFullscreenPopup: true,
+            // validationNumberTypes: null,
+        });
+
+        // Capture country code from intlTelInput
+        function captureCountryData() {
+            var countryData = iti1.getSelectedCountryData();
+            var countryName = countryData.name;
+            // Get full dial code with + sign
+            var countryCode = "+" + countryData.dialCode;
+
+            // Set country information in hidden fields
+            document.getElementById('Country_Code').value = countryCode;
+            document.getElementById('Country_Name').value = countryName;
+        }
+
+        // Capture country data on country change
+        input1.addEventListener('countrychange', function () {
+            captureCountryData();
+        });
+
+        // Capture country data on form load / initialization
+        document.addEventListener('DOMContentLoaded', function () {
+            setTimeout(function () {
+                captureCountryData();
+            }, 500);
+        });
+
+        // Capture current page URL
+        function capturePageURL() {
+            var pageURL = window.location.href;
+            document.getElementById('Page_URL').value = pageURL;
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            capturePageURL();
+        });
+
+        // Override placeholder after plugin sets it
+        /*input.addEventListener("countrychange", function () {
+          var countryData = iti1.getSelectedCountryData();
+          
+          // Wait a moment to let autoPlaceholder apply first, then override if needed
+          setTimeout(function () {
+            if (countryData.iso2 === "in") {
+              input.setAttribute("placeholder", "Enter your 10-digit mobile number");
+            }
+          }, 10); // 10ms delay ensures it overrides the auto-placeholder
+        });*/
+
+        const input2 = document.querySelector('#phone2');
+        const iti2 = window.intlTelInput(input2, {
+            initialCountry: "auto",
+            preferredCountries: ["us", "gb", "in"],
+            showFlags: true,
+            allowDropdown: true, // Enables country dropdown
+            //dropdownContainer: document.body, // Moves dropdown inside the input field
+            autoPlaceholder: "aggressive",
+            separateDialCode: true, // Allows users to type country names directly
+            utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+            geoIpLookup: function (success, failure) {
+                fetch("https://ipapi.co/json")
+                    .then(response => response.json())
+                    .then(data => success(data.country_code))
+                    .catch(() => success("IN"));
+            }
+            // allowDropdown: false,
+            // autoPlaceholder: "off",
+            // containerClass: "test",
+            // countryOrder: ["jp", "kr"],
+            // countrySearch: false,
+            // customPlaceholder: function(selectedCountryPlaceholder, selectedCountryData) {
+            //   return "e.g. " + selectedCountryPlaceholder;
+            // },
+            // dropdownContainer: document.querySelector('#custom-container'),
+            // excludeCountries: ["us"],
+            // fixDropdownWidth: false,
+            // formatAsYouType: false,
+            // formatOnDisplay: false,
+            // geoIpLookup: function(callback) {
+            //   fetch("https://ipapi.co/json")
+            //     .then(function(res) { return res.json(); })
+            //     .then(function(data) { callback(data.country_code); })
+            //     .catch(function() { callback(); });
+            // },
+            // hiddenInput: () => ({ phone: "phone_full", country: "country_code" }),
+            // i18n: { 'de': 'Deutschland' },
+            //initialCountry: "us",
+            // loadUtils: () => import("/build/js/utils.js"), // leading slash (and http-server) required for this to work in chrome
+            // nationalMode: false,
+            // onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
+            // placeholderNumberType: "MOBILE",
+            // showFlags: false,
+            // separateDialCode: true,
+            // strictMode: true,
+            // useFullscreenPopup: true,
+            // validationNumberTypes: null,
+        });
+        /*
+        window.iti = iti; // useful for testing
+        const button = document.querySelector("#btn");
+        const errorMsg = document.querySelector("#error-msg");
+        const validMsg = document.querySelector("#valid-msg");
+        const errorMap = ["Invalid number", "Invalid country code", "Too short", "Too long", "Invalid number"];
+        const reset = () => {
+          input.classList.remove("error");
+          errorMsg.innerHTML = "";
+          validMsg.innerHTML = "";
+          errorMsg.classList.add("hide");
+          validMsg.classList.add("hide");
+        };
+        const showError = (msg) => {
+          input.classList.add("error");
+          errorMsg.innerHTML = msg;
+          errorMsg.classList.remove("hide");
+        };
+        // on click button: validate
+        button.addEventListener('click', () => {
+          reset();
+          if (!input.value.trim()) {
+            showError("Required");
+          } else if (iti.isValidNumber()) {
+            validMsg.innerHTML = "Valid number: " + iti.getNumber();
+            validMsg.classList.remove("hide");
+          } else {
+            const errorCode = iti.getValidationError();
+            const msg = errorMap[errorCode] || "Invalid number";
+            showError(msg);
+          }
+        });
+        // on keyup / change flag: reset
+        input.addEventListener('change', reset);
+        input.addEventListener('keyup', reset);*/
+        function getPhoneNumber() {
+            alert("Full Phone Number: " + iti.getNumber());
+        }
+        function getCountryName() {
+            var countryData = iti.getSelectedCountryData();
+            alert("Selected Country: " + countryData.name);
+        }
+
+        // Capture country data for phone2 (modal form)
+        function captureCountryData2() {
+            var countryData = iti2.getSelectedCountryData();
+            var countryName = countryData.name;
+            // Get full dial code with + sign
+            var countryCode = "+" + countryData.dialCode;
+
+            // Set country information in hidden fields for form2
+            document.getElementById('Country_Code').value = countryCode;
+            document.getElementById('Country_Name').value = countryName;
+            document.getElementById('Page_URL').value = window.location.href;
+        }
+
+        // Capture country data on country change for phone2
+        input2.addEventListener('countrychange', function () {
+            captureCountryData2();
+        });
+
+        // Capture country data on form load / initialization for phone2
+        document.addEventListener('DOMContentLoaded', function () {
+            setTimeout(function () {
+                captureCountryData2();
+            }, 500);
+        });
+    </script>
+
+    <script>
+
+        document.querySelectorAll('.custom-contact-select').forEach(selectBox => {
+            const selected = selectBox.querySelector('.selected');
+            const options = selectBox.querySelector('.options');
+            const hiddenInput = selectBox.querySelector('input[type="hidden"]');
+            const arrow = selected.querySelector('.arrow');
+
+            selected.addEventListener('click', () => {
+                // Close other open selects
+                document.querySelectorAll('.custom-contact-select .options').forEach(opt => {
+                    if (opt !== options) opt.classList.remove('show');
+                });
+                document.querySelectorAll('.custom-contact-select .arrow').forEach(ar => {
+                    if (ar !== arrow) ar.classList.remove('rotate');
+                });
+
+                // Toggle current select
+                options.classList.toggle('show');
+                arrow.classList.toggle('rotate');
+            });
+
+            options.querySelectorAll('div').forEach(option => {
+                option.addEventListener('click', () => {
+                    selected.childNodes[0].textContent = option.textContent + ' ';
+                    hiddenInput.value = option.getAttribute('data-value');
+                    options.classList.remove('show');
+                    arrow.classList.remove('rotate');
+                });
+            });
+
+            document.addEventListener('click', e => {
+                if (!selectBox.contains(e.target)) {
+                    options.classList.remove('show');
+                    arrow.classList.remove('rotate');
+                }
+            });
+        });
+    </script>
+
+    <script>
+        document.querySelectorAll('.dropdown').forEach(dropdown => {
+            const selected = dropdown.querySelector('.selected');
+            const options = dropdown.querySelectorAll('.options div');
+            const input = dropdown.querySelector('.dropdown-input');
+
+            options.forEach(option => {
+                option.addEventListener('click', () => {
+                    selected.innerHTML = option.textContent + ' <span class="arrow"><i class="fas fa-angle-down"></i></span>';
+                    input.value = option.getAttribute('data-value');
+                });
+            });
+        });
+    </script>
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+
+    <script>
+        document.querySelectorAll('.accordion-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const item = btn.closest('.accordion-item');
+                const panel = item.querySelector('.accordion-panel');
+                const isOpen = item.classList.contains('open');
+
+                // Close every other item
+                document.querySelectorAll('.accordion-item').forEach(other => {
+                    if (other !== item) {
+                        other.classList.remove('open');
+                        other.querySelector('.accordion-btn').setAttribute('aria-expanded', 'false');
+                        other.querySelector('.accordion-panel').style.maxHeight = null;
+                    }
+                });
+
+                // Toggle current
+                if (isOpen) {
+                    item.classList.remove('open');
+                    btn.setAttribute('aria-expanded', 'false');
+                    panel.style.maxHeight = null; // collapse
+                } else {
+                    item.classList.add('open');
+                    btn.setAttribute('aria-expanded', 'true');
+                    panel.style.maxHeight = panel.scrollHeight + 'px'; // expand
+                }
+            });
+        });
+
+        // Init: set maxHeight for the item that is open by default
+        document.querySelectorAll('.accordion-item.open .accordion-panel').forEach(p => {
+            p.style.maxHeight = p.scrollHeight + 'px';
+        });
+        document.querySelectorAll('.desc-toggle').forEach(function (btn) {
+            btn.addEventListener('click', function () {
+                var body = this.previousElementSibling;
+                var isOpen = this.getAttribute('aria-expanded') === 'true';
+                if (isOpen) {
+                    body.classList.add('collapsed');
+                    this.setAttribute('aria-expanded', 'false');
+                } else {
+                    body.classList.remove('collapsed');
+                    this.setAttribute('aria-expanded', 'true');
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

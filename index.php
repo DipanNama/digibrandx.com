@@ -1,9 +1,10 @@
 <?php
-$pageTitle = "BS Digital Solution | 360&deg; Strategic Branding & Digital Growth Agency West Bengal";
-$pageDescription = "";
-$pageKeywords = "";
+$pageTitle = "BS Digital Solutions | 360&deg; Strategic Branding & Digital Growth Agency West Bengal";
+$pageDescription = "Led by specialist Bidhan Sarkar (15+ years exp), we are a premier marketing consultancy in North Dumdum. Expert Meta Ads, Google Ads, SEO, and cinematic branding for global growth.";
+$pageKeywords = "Digital Marketing Agency North Dumdum, Marketing Consultancy West Bengal, Bidhan Sarkar Marketing Specialist, 360 Advertising Agency Kolkata, Meta Ads Expert West Bengal";
 include 'components/head.php';
 include 'components/header.php';
+$companyName = "BS Digital Solutions";
 ?>
 
 <?php include 'components/hero-index.php'; ?>
@@ -29,8 +30,16 @@ include 'components/header.php';
 </section>
 
 <?php include 'components/cta-uiux.php'; ?>
+<?php include 'components/testimonials.php'; ?>
+<?php include 'components/testimonial-images.php'; ?>
+<?php include 'components/testimonial-videos.php'; ?>
+<?php include 'components/expertise-domains.php'; ?>
+<?php include 'components/clients.php'; ?>
+<?php include 'components/featured-portfolio.php'; ?>
+
 <?php include 'components/mission.php'; ?>
 <?php include 'components/premium-branding.php'; ?>
+<?php include 'components/why-top-agency.php'; ?>
 <?php include 'components/why-choose-us.php'; ?>
 <?php include 'components/numbers.php'; ?>
 

@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "";
-$pageDescription = "";
-$pageKeywords = "";
+$pageTitle = "About Us | Two Decades of Marketing Excellence | Bidhan Sarkar";
+$pageDescription = "Meet BS Digital Solutions, a leading 360° marketing consultancy led by Bidhan Sarkar (15+ years exp). Learn about our journey from North Dumdum to global brand building.";
+$pageKeywords = "Marketing consultant West Bengal, Bidhan Sarkar biography, 360 degree advertising agency, Digital marketing history, North Dumdum marketing agency";
 include 'components/head.php';
 include 'components/header.php';
 ?>
@@ -10,107 +10,108 @@ include 'components/header.php';
     <div class="container">
       <div class="row">
         <div class="col-lg-12 mt-4">
-          <h1 class="g-gap" style="text-align: center;">About BS Digital Solutions</h1>
+          <h1 class="g-gap" style="text-align: center;">Two Decades of Excellence. One Mission: Your Growth.</h1>
           <section class="agency-sec-page">
             <div class="container">
               <div class="row">
                 <div class="col-lg-12 text-center">
                   <h5 class="ag-5 mb-2">Our agency</h5>
-                  <h2 class="ag-2 mb-4">Our <span>urban creativity</span> sets us apart as a leading independent global
-                    agency, shaping and elevating the <span>world&rsquo;s best brands.</span></h2>
-                  <p class="ag-p">At <strong>Houses of Communication</strong>, we don&rsquo;t work in silos&mdash;we
-                    orchestrate ideas. By seamlessly uniting <strong>Strategy &amp; Consulting, Creative &amp; Content,
-                      Media &amp; Data, and Platform &amp; Technology,</strong> we deliver powerful, customized
-                    communication solutions from <strong>one trusted, integrated branding and advertising
-                      agency</strong>.</p>
-                  <p class="ag-p">Because the world&rsquo;s most successful brands don&rsquo;t just win
-                    markets&mdash;they win hearts. They spark emotion, inspire belief, and create moments people
-                    remember. These are brands known for their innovation, optimism, and meaningful connections with
-                    audiences.</p>
-                  <p class="ag-p">As a <strong>leading branding agency,</strong> we help you build more than
-                    visibility&mdash;we help you build impact. Brands that stand out in the noise, resonate with
-                    purpose, and stay unforgettable long after the first interaction. We don&rsquo;t just shape brands
-                    for today&mdash;we create experiences that live on in the minds and emotions of your audience.</p>
-                  <p class="ag-p">BS Digital Solutions isn&rsquo;t just another agency&mdash;it&rsquo;s a <strong
-                      data-start="206" data-end="293">creative engine where strategy fuels imagination and ideas create
-                      real-world
-                      impact</strong>.</p>
-                  <p class="ag-p">Since 2020, we&rsquo;ve been building brands through a <strong data-start="345"
-                      data-end="380">360-degree advertising approach</strong> that seamlessly blends creativity, design,
-                    technology, and storytelling. Backed by a powerhouse team with <strong data-start="487"
-                      data-end="524">20+ years of collective expertise</strong>, we deliver everything from branding and
-                    high-performance business websites to web and mobile applications, corporate films, and digital
-                    marketing solutions.</p>
-                  <p class="ag-p">But we don&rsquo;t believe in just delivering projects.<br data-start="733"
-                      data-end="736" />We <strong data-start="739" data-end="796">craft experiences, shape identities,
-                      and tell stories</strong> that make brands memorable, meaningful, and market-ready. As a <strong
-                      data-start="860" data-end="887">leading branding agency</strong>, every pixel we design, every
-                    frame we film, and every campaign we launch is driven by one purpose&mdash;helping brands grow,
-                    stand out, and lead with confidence in a competitive digital world.</p>
+                  <h2 class="ag-2 mb-4">The Legacy of <span>Strategy</span></h2>
+                  <p class="ag-p">BS Digital Solutions isn't just an agency; it’s a culmination of 15+ years of specialized marketing mastery. Led by Bidhan Sarkar, we bridge the gap between vision and reality for brands worldwide.</p>
+                  
+                  <h3 class="ag-3 mt-5">Our Story: From Vision to 360° Magic</h3>
+                  <p class="ag-p">At BS Digital Solutions, we don’t just build brands—we craft unforgettable stories. Our journey began with a simple observation: most businesses have a product that "rocks," but their strategy or UI/UX "sucks." They lack the 360-degree vision needed to truly amplify their presence.</p>
+                  <p class="ag-p">Based in North Dumdum, West Bengal, we have grown into a leading marketing consultancy that serves both local startups and legacy global brands. Our foundation is built on the belief that every pixel, frame, and word must be crafted with purpose, powered by strategy, and delivered with flair.</p>
                 </div>
               </div>
             </div>
           </section>
+
           <section class="agency-sec-page">
             <div class="container">
               <div class="row">
                 <div class="col-lg-12 text-center">
-                  <h5 class="ag-5 mb-2">Vision &amp; Mission</h5>
-                  <h2 class="ag-2 mb-4">Driving Growth Through <span>Innovation</span></h2>
-                  <p class="ag-p mb-4">Our vision is to become a leading digital marketing agency, recognized for delivering exceptional results. We aim to help businesses of all sizes succeed in the digital landscape by providing tailored solutions that foster growth, innovation, and long term success.</p>
-                  <p class="ag-p mb-4">Our mission is to empower businesses with cutting-edge digital marketing strategies. We strive to enhance brand visibility, drive customer engagement, and generate high quality leads through innovative and data driven solutions.</p>
+                  <h5 class="ag-5 mb-2">Leadership</h5>
+                  <h2 class="ag-2 mb-4">Meet <span>Bidhan Sarkar</span></h2>
+                  <h6 class="ag-6">The Specialist Behind the Magic</h6>
+                  <p class="ag-p">BS Digital Solutions is led by Bidhan Sarkar, a marketing specialist with over 15 years of professional expertise. Bidhan doesn't believe in "vendor" relationships; he believes in strategic partnerships.</p>
+                  <p class="ag-p">With deep-rooted expertise in Meta Ads, Google Ads, and SEO, Bidhan has spent nearly two decades helping business owners navigate the complex digital ecosystem. His approach is simple: cut through the noise with data-driven strategies that respect the brand's unique voice.</p>
+                  <p class="ag-p"><em>"We don’t just run campaigns. We build profit engines. My goal has always been to provide the kind of strategic clarity that turns a business into a market leader."</em> — <strong>Bidhan Sarkar</strong></p>
                 </div>
               </div>
             </div>
           </section>
+
           <section class="agency-sec-page">
             <div class="container">
               <div class="row">
                 <div class="col-lg-12 text-center">
-                  <h5 class="ag-5 mb-2">Our values</h5>
-                  <h2 class="ag-2 mb-4">The Values That <span>Shape Us</span></h2>
-                  <p class="ag-p mb-3">At the heart of everything we do is staying true to our core beliefs. Our mission
-                    is simple: to have fun while creating outstanding work with incredible people for brands that make a
-                    positive impact. We&rsquo;re driven by a passion for shaping a better future through what we create.
-                  </p>
-                  <p class="ag-p">To guide us on this journey, we live by <strong>five core values</strong> that keep us
-                    focused, grounded, and committed to the way we work.</p>
-                  <h3 class="ag-3">Be brilliant. Be <span>Humble.</span></h3>
-                  <h6 class="ag-6">We're confident in our skills, but we keep the ego in check. Our team thrives on
-                    collaboration, humility, and support&mdash;because being brilliant doesn&rsquo;t mean overshadowing
-                    others. Shine bright, but with grace.</h6>
-                  <h3 class="ag-3">Be Second Date <span>Material</span></h3>
-                  <h6 class="ag-6">We&rsquo;re not just a one-hit wonder. Whether you're new or a loyal client, we
-                    deliver top-notch results every time. We&rsquo;re in this for the long haul, building lasting
-                    partnerships that thrive together.</h6>
-                  <h3 class="ag-3">Give someone a <span>surprise</span> today</h3>
-                  <h6 class="ag-6">We&rsquo;re not just a one-hit wonder. Whether you're new or a loyal client, we
-                    deliver top-notch results every time. We&rsquo;re in this for the long haul, building lasting
-                    partnerships that thrive together.</h6>
-                  <h3 class="ag-3">Be protective of the <span>planet</span></h3>
-                  <h6 class="ag-6">Surprises aren't just "wow" moments&mdash;they're in the fresh ideas, thoughtful
-                    touches, and the little details that make every day extraordinary. Let&rsquo;s keep rethinking,
-                    reinventing, and delivering the unexpected at every turn.</h6>
-                  <h3 class="ag-3">Do the right <span>thing</span></h3>
-                  <h6 class="ag-6">A wise person once said, &ldquo;If I had eight hours to chop down a tree, I&rsquo;d
-                    spend six sharpening my axe.&rdquo; Strategic thinking upfront ensures we use time, budget, and
-                    resources wisely, leading to faster, more efficient, and better results.</h6>
+                  <h5 class="ag-5 mb-2">Our Philosophy</h5>
+                  <h2 class="ag-2 mb-4">We Don’t Just Advertise. <span>We Amplify.</span></h2>
+                  <p class="ag-p mb-4">We are guided by courage and creativity. At BS Digital Solutions, we thrive on fearless innovation, turning every challenge into an opportunity for groundbreaking solutions.</p>
+                  <div class="row">
+                    <div class="col-md-4">
+                        <h3 class="ag-3">We Connect</h3>
+                        <p class="ag-p">We find the heartbeat of your audience.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <h3 class="ag-3">We Create</h3>
+                        <p class="ag-p">We build visual and digital identities that stick.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <h3 class="ag-3">We Create Magic</h3>
+                        <p class="ag-p">We deliver results that transcend traditional advertising.</p>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
           </section>
+
+          <section class="agency-sec-page">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-12 text-center">
+                  <h5 class="ag-5 mb-2">Why Choose Us?</h5>
+                  <div class="row text-start mt-4">
+                    <div class="col-md-6 mb-3">
+                        <h4 class="ag-3">Expert-Led Strategy</h4>
+                        <p class="ag-p">Your brand isn't handed off to a junior intern. Every project is overseen by Bidhan Sarkar himself.</p>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <h4 class="ag-3">360° Integration</h4>
+                        <p class="ag-p">From the first logo sketch to cinematic brand films and high-ROI ad scaling, we handle the entire lifecycle.</p>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <h4 class="ag-3">Result-Driven Thinking</h4>
+                        <p class="ag-p">We measure success in conversion rates and brand equity, not just vanity metrics.</p>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <h4 class="ag-3">Global Standard, Local Heart</h4>
+                        <p class="ag-p">We provide world-class branding solutions right here from West Bengal, ensuring a personal, consultative experience.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
           <section class="agency-sec-page" style="border-bottom: 1px solid #ddd;">
             <div class="container">
               <div class="row">
                 <div class="col-lg-12 text-center">
-                  <h5 class="ag-5">Our ethos</h5>
-                  <h2 class="ag-2">We don&rsquo;t just build brands &mdash; we build <span>legacies</span></h2>
-                  <p class="ag-p">It&rsquo;s not just here to create great work &mdash; it&rsquo;s here to make waves.
-                    We measure success by the real difference we make, not just the applause we get. Impact is
-                    everything.</p>
-                  <p class="ag-p">&nbsp;</p>
-                  <p class="ag-p">&nbsp;</p>
-                  <p class="ag-p">&nbsp;</p>
+                  <h5 class="ag-5 mb-2">Our Global Footprint</h5>
+                  <h2 class="ag-2 mb-4">North Dumdum to <span>the World</span></h2>
+                  <p class="ag-p">While our roots are in North Dumdum, our impact is global. We have successfully positioned brands across diverse domains, including Health & Wellness, Global Logistics, E-commerce, and SaaS, helping them compete at a world-class level.</p>
+                  
+                  <div class="mt-5 mb-5">
+                    <h3 class="ag-3">Ready to Create Your Own Story?</h3>
+                    <p class="ag-p">Whether you are a startup with big dreams or a legacy brand looking to reimagine your presence, we are ready to amplify your voice.</p>
+                    <div class="mt-4">
+                        <a href="contact.php" class="right-viewbtn">Talk to Bidhan Sarkar</a>
+                        <a href="portfolio.php" class="right-viewbtn ms-3">View Our Portfolio</a>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -119,6 +120,7 @@ include 'components/header.php';
       </div>
     </div>
   </section>
+  
   <?php include 'components/contact-form.php'; ?>
   <?php include 'components/instagram.php'; ?>
   <?php include 'components/footer-services.php'; ?>

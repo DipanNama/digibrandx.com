@@ -79,3 +79,44 @@
             }
         });
     </script>
+    <script>
+        // FAQ Accordion
+        const accordionBtns = document.querySelectorAll('.accordion-btn');
+        accordionBtns.forEach(btn => {
+            btn.addEventListener('click', function () {
+                const item = this.parentElement;
+                const panel = this.nextElementSibling;
+                const isOpen = item.classList.contains('open');
+
+                document.querySelectorAll('.accordion-item').forEach(i => {
+                    i.classList.remove('open');
+                    i.querySelector('.accordion-btn').setAttribute('aria-expanded', 'false');
+                });
+
+                if (!isOpen) {
+                    item.classList.add('open');
+                    this.setAttribute('aria-expanded', 'true');
+                }
+            });
+        });
+
+        // Why Top Agency Description Toggle
+        const descToggles = document.querySelectorAll('.desc-toggle');
+        descToggles.forEach(toggle => {
+            toggle.addEventListener('click', function () {
+                const body = this.previousElementSibling.querySelector('.desc-body');
+                if (body) {
+                    const isCollapsed = body.classList.contains('collapsed');
+                    if (isCollapsed) {
+                        body.classList.remove('collapsed');
+                        this.setAttribute('aria-expanded', 'true');
+                    } else {
+                        body.classList.add('collapsed');
+                        this.setAttribute('aria-expanded', 'false');
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

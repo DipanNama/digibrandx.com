@@ -720,11 +720,18 @@ a {
 
 .right-viewbtn {
     display: inline-block;
-    float: right;
-    color: var(--primary-color);
+    color: var(--bg-white);
+    text-decoration: none;
     font-weight: 600;
     margin-bottom: 15px;
-    font-size: 14px
+    font-size: 14px;
+    background-color: var(--primary-color);
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+
+.right-viewbtn:hover {
+    color: var(--vibrant-green);
 }
 
 .contact-heading {
@@ -2127,13 +2134,16 @@ div#jconfirm-box98152 p {
 
 .pricing-card .badge {
     position: absolute;
-    top: 20px;
-    right: 20px;
+    top: -15px;
+    left: 50%;
+    transform: translateX(-50%);
     background: var(--primary-color);
     color: #fff;
-    padding: 5px 15px;
+    padding: 8px 20px;
     border-radius: 50px;
-    font-size: 12px;
+    font-size: 14px;
+    font-weight: 700;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .price-header h3 {

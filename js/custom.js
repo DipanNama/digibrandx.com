@@ -159,6 +159,29 @@ $(document).ready(function() {
       }
     });
 
+    var swiper = new Swiper(".video_testi_area", {
+      slidesPerView: 3,
+      spaceBetween: 30,
+      autoplay: {
+        delay: 5000,
+        disableOnInteraction: true, // stop when user plays video
+      },
+      breakpoints: {
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 10
+        },
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 20
+        },
+        1024: {
+          slidesPerView: 3,
+          spaceBetween: 30
+        }
+      }
+    });
+
     var swiper = new Swiper(".client-area", {
       slidesPerView: 6,
 	  slidesPerGroup: 6,
