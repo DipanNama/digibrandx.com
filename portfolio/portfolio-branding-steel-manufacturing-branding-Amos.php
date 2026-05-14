@@ -141,7 +141,7 @@ include '../components/header.php';
               </ul>
               <p class="mt-4 mb-4">Whether you are a <strong>branding agency for small business </strong>in the steel
                 sector or a global <strong>enterprise mobile app development company</strong>'s industrial counterpart,
-                BS Digital Solutions provides the <a href="https://www.BS Digital Solutions.com" target="_blank"
+                BS Digital Solutions provides the <a href="https://www.bs-digital-solutions.com" target="_blank"
                   rel="noopener"><strong>branding solutions company</strong></a> expertise you need.</p>
               <p>Are you ready to forge a stronger brand? <a href="contact.php" target="_blank"
                   rel="noopener"><strong>Contact BS Digital Solutions today</strong></a>&mdash;the best steel

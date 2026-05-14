@@ -83,7 +83,7 @@ include '../components/header.php';
               translating complex code and technical jargon into a compelling brand story. If you are <strong>looking
                 for a creative branding agency for an IT company</strong>, you aren't just looking for a
               designer&mdash;you are looking for a translator who can turn innovation into market leadership.</p>
-            <p>At <a href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>BS Digital
+            <p>At <a href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>BS Digital
                   Solutions</strong></a>,
               we specialize in <strong>branding for IT firm</strong> growth. With a team backed by 20 years of
               experience, we understand the nuances of the tech sector, helping you discover your brand&rsquo;s true

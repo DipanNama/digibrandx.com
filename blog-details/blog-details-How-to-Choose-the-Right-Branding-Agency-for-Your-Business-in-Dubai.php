@@ -25,7 +25,7 @@ include '../components/header.php';
               target="_blank" rel="noopener"><strong>branding agency in Dubai </strong></a>is not about selecting the
             most stylish portfolio; it is about finding a strategic partner who understands business, culture, and
             growth.</p>
-          <p>The <strong><a href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener">best creative
+          <p>The <strong><a href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener">best creative
                 agencies in
                 Dubai</a> </strong>go beyond logos and visuals.&nbsp;Branding defines who you are, shows what you stand
             for, and helps customers decide why they should choose you. No matter whether you are just starting out,
@@ -147,7 +147,7 @@ include '../components/header.php';
             <p>At DigiBraAt BS Digital Solutions, branding is a strategic craft. We start with insight, not logos. We
               build
               relevance, not trends. Whether you are a startup, an <strong>established corporate,</strong> or entering
-              new markets, <a href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>BS
+              new markets, <a href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>BS
                   Digital Solutions</strong></a> helps you build a brand that is clear, confident, and
               future-ready. In Dubai&rsquo;s competitive landscape, the brands that win are not just seen&mdash;they are
               trusted, remembered, and chosen.</p>

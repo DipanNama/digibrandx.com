@@ -99,7 +99,7 @@ include '../components/header.php';
               strategic asset that communicates credibility and innovation.</p>
             <p>If you are<strong> looking for a fintech branding agency</strong> for your company, you need a partner
               that understands the intersection of finance and user psychology. <a
-                href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>BS Digital
+                href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>BS Digital
                   Solutions</strong></a> has established itself as a
               <strong>creative branding agency for fintech company</strong> growth, helping brands like Crezo stand out
               in a saturated market.

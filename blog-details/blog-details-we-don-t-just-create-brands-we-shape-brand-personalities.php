@@ -97,7 +97,7 @@ include '../components/header.php';
             </h4>
             <h3>The Importance of Brand Strategy in Defining Personality</h3>
             <p>Every successful brand begins with a solid strategy. At BS Digital Solutions, a <strong><a
-                  href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener">creative design agency in
+                  href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener">creative design agency in
                   Dubai</a>,</strong> we take a holistic approach, going beyond visual design to understand your core
               values, vision, and mission. These elements combine to create a cohesive personality that resonates with
               your target audience.</p>

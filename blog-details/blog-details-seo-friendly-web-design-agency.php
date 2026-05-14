@@ -63,7 +63,7 @@ include '../components/header.php';
               low organic traffic.</p>
             <p>Incorporating SEO website design elements such as clean code, structured data, and optimized images from
               the design phase ensures seamless integration of SEO into your website. By working with an <a
-                href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>SEO-friendly web
+                href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>SEO-friendly web
                   design
                   agency</strong> </a>from the outset, you ensure that both design and SEO work harmoniously together.
             </p>

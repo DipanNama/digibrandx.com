@@ -34,7 +34,7 @@ include 'components/header.php';
         <div class="col-lg-6">
           <div class="blog-area">
             <a href="blog-details/blog-details-looking-for-a-creative-logo-design-agency-in-mumbai-for-startup.php">
-              <div class="blog-img"><img src="upload/news/Id_708-DigiBrandX-best logo design_01.webp"
+              <div class="blog-img"><img src="upload/news/Id_708-bs-digital-solutions-best logo design_01.webp"
                   alt="Best logo agency in Mumbai for professional corporate branding solutions"
                   class="active img-fluid"></div>
               <div class="blog-content">
@@ -56,7 +56,7 @@ include 'components/header.php';
         <div class="col-lg-6">
           <div class="blog-area">
             <a href="blog-details/blog-details-how-to-choosing-the-right-corporate-website-design-and-development-agency.php">
-              <div class="blog-img"><img src="upload/news/Id_704-DigiBrandX-Corporate website_01.webp"
+              <div class="blog-img"><img src="upload/news/Id_704-bs-digital-solutions-Corporate website_01.webp"
                   alt="Responsive corporate website displayed on multiple devices" class="img-fluid"></div>
               <div class="blog-content">
                 <h5>Why Choosing the Right Corporate Website Design and Development Agency Defines Your Brand</h5>

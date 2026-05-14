@@ -21,7 +21,7 @@ include '../components/header.php';
           <h1>How can a <strong>web development agency in Mumbai</strong> help your business create a strong online
             presence?</h1>
           <p>In today&rsquo;s digital-first economy, your website is your most valuable business asset. However, many
-            businesses select a <a href="https://BS Digital Solutions.com/service-area/branding-agency-in-mumbai/"
+            businesses select a <a href="https://bs-digital-solutions.com/service-area/branding-agency-in-mumbai/"
               target="_blank" rel="noopener"><strong>website development agency in Mumbai </strong></a>based solely on
             price or
             portfolio, often neglecting the strategic foundation required for an effective website. The key
@@ -98,7 +98,7 @@ include '../components/header.php';
         <div class="col-lg-12">
           <div class="port-details-content">
             <h2 class="mt-4 mb-4">The BS Digital Solutions Approach: Creativity First, Technology Always</h2>
-            <p>At BS Digital Solutions, a <a href="https://www.BS Digital Solutions.com" target="_blank"
+            <p>At BS Digital Solutions, a <a href="https://www.bs-digital-solutions.com" target="_blank"
                 rel="noopener"><strong>web design
                   and development company in Mumbai</strong></a>, our philosophy is clear: creative thinking leads,
               technology enables, and strategy connects the two. With over 20 years of experience, we know websites

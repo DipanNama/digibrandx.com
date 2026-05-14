@@ -138,7 +138,7 @@ include '../components/header.php';
                 design, we provide a 360-degree digital experience.</li>
             </ul>
             <p class="mt-4 mb-4">Stop searching for "web development companies near me" and partner with a global
-              expert. BS Digital Solutions is the <a href="https://www.BS Digital Solutions.com" target="_blank"
+              expert. BS Digital Solutions is the <a href="https://www.bs-digital-solutions.com" target="_blank"
                 rel="noopener"><strong>website development agency </strong></a>for media company growth, dedicated to
               making your post-production house the most popular and iconic name in the industry.</p>
             <p>Ready to bring your creative vision to life? <a href="contact.php" target="_blank"

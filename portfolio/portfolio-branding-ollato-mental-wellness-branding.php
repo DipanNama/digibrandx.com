@@ -234,7 +234,7 @@ include '../components/header.php';
             <p><strong>2. Prioritize Strategic Empathy</strong></p>
             <p>A <strong>creative ad agency for mental health care</strong> must prioritize the patient
               journey.&nbsp;<span style="box-sizing: border-box; margin: 0px; padding: 0px;">When searching for
-                a&nbsp;<a href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>creative
+                a&nbsp;<a href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>creative
                     branding
                     agency near me</strong></a>, ask whether</span>&nbsp;they conduct user research. The best brand
               identity agencies will focus on how your brand makes a person feel at their lowest point and how it offers

@@ -20,7 +20,7 @@ include '../components/header.php';
         <div class="col-lg-12">
           <h1>How to Choose the Right Social Media Agency in Mumbai for Your Business Growth?</h1>
           <p>Social media is now a powerful business tool. In today&rsquo;s digital marketplace, selecting the right
-            <strong><a href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener">social media agency in
+            <strong><a href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener">social media agency in
                 Mumbai</a></strong> can determine your brand&rsquo;s success. It is important to assess whether your
             current agency meets your needs.
           </p>

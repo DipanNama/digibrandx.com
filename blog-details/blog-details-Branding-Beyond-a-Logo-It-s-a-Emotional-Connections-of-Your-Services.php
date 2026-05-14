@@ -52,7 +52,7 @@ include '../components/header.php';
               experienced. While features may be forgotten, stories are remembered.</p>
             <p>Iconic global brands are remembered for what they stand for, not just what they sell. Values such as
               innovation, empowerment, reliability, and aspiration are communicated through narrative, not solely
-              through design. At <a href="https://www.BS Digital Solutions.com" target="_blank"
+              through design. At <a href="https://www.bs-digital-solutions.com" target="_blank"
                 rel="noopener"><strong>BS Digital Solutions</strong></a>, we help brands define and express their
               authentic story,
               turning business intent into brand meaning. This forms the foundation of effective branding.</p>

@@ -110,7 +110,7 @@ include '../components/header.php';
             </p>
             <h3>1. A Diverse and Human-Centric Portfolio</h3>
             <p>Do not focus solely on visual appeal. Test the websites: Are they easy to use and quick to load? A <a
-                href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>user-friendly web
+                href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>user-friendly web
                   development
                   agency</strong></a> will have a portfolio that is both functional and attractive.</p>
             <h3>2. Deep Technical Expertise</h3>

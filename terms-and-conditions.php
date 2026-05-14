@@ -85,7 +85,7 @@ include 'components/header.php';
                             staff or
                             affiliates unless explicitly stated.</p>
                         <h3>LOGOS AND TRADEMARKS DISCLAIMER</h3>
-                        <p>All logos and trademarks of third parties referenced on BS Digital Solutions.com are the
+                        <p>All logos and trademarks of third parties referenced on bs-digital-solutions.com are the
                             trademarks and
                             logos of their respective owners. Any inclusion of such trademarks or logos does not imply
                             or constitute any approval, endorsement, or sponsorship of BS Digital Solutions by such

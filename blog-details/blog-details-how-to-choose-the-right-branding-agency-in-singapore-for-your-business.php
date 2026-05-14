@@ -21,7 +21,7 @@ include '../components/header.php';
           <h1>How to Choose the Right Branding Agency in Singapore for Your Business</h1>
           <p>In today&rsquo;s competitive market, branding is essential. Whether you are a startup or an established
             business, your brand identity shapes customer perceptions and interactions. Selecting the right <a
-              href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>branding agency in
+              href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>branding agency in
                 Singapore</strong></a> is a key decision to ensure your brand stands out and connects with your
             audience.</p>
           <p>With many options available, choosing the right branding agency can be overwhelming. This article outlines

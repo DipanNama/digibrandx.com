@@ -119,18 +119,11 @@ $(document).ready(function() {
 
 
     var swiper = new Swiper(".testimonial_area", {
-      pagination: {
-        el: ".swiper-pagination",
-        clickable: true,
-        renderBullet: function (index, className) {
-          return '<span class="' + className + '">' + (index + 1) + "</span>";
-        },
-      },
       autoplay: {
-    delay: 4000, // 3 seconds between slides
-    disableOnInteraction: false, // continue autoplay after user interaction
-  },
-            navigation: {
+        delay: 4000, 
+        disableOnInteraction: false,
+      },
+      navigation: {
         nextEl: ".swiper-button-next",
         prevEl: ".swiper-button-prev",
       },
@@ -180,6 +173,15 @@ $(document).ready(function() {
           spaceBetween: 30
         }
       }
+    });
+
+    // Play/Pause video testimonials on click
+    $(document).on('click', '.video_testi_area video', function() {
+        if (this.paused) {
+            this.play();
+        } else {
+            this.pause();
+        }
     });
 
     var swiper = new Swiper(".client-area", {

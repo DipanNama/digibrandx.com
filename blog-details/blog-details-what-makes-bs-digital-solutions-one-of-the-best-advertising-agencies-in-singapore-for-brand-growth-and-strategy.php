@@ -89,7 +89,7 @@ include '../components/header.php';
               communicates, whether in a tweet, on your website, or in an email. A consistent and recognizable brand
               voice establishes whether your brand is playful, serious, authoritative, or casual. Like individuals,
               brands have distinct personalities that should be evident in all content.</p>
-            <p>At BS Digital Solutions, a <a href="https://www.BS Digital Solutions.com" target="_blank"
+            <p>At BS Digital Solutions, a <a href="https://www.bs-digital-solutions.com" target="_blank"
                 rel="noopener"><strong>marketing
                   and branding consultant</strong></a>, we believe your brand voice should reflect your core values and
               connect with your audience. Whether you are creating social media content or <strong><a
@@ -198,16 +198,16 @@ include '../components/header.php';
             <p>Posted on 31st&nbsp;July&nbsp;2025</p>
             <ol>
               <li><a
-                  href="https://twitter.com/intent/tweet?url=https://bssoliution.dgcrafter.com/blog-details.php?url=what-makes-BS Digital Solutions-one-of-the-best-advertising-agencies-in-singapore-for-brand-growth-and-strategy"><i
+                  href="https://twitter.com/intent/tweet?url=https://bssoliution.dgcrafter.com/blog-details.php?url=what-makes-bs-digital-solutions-one-of-the-best-advertising-agencies-in-singapore-for-brand-growth-and-strategy"><i
                     class="fa-brands fa-twitter"></i></a></li>
               <li><a
-                  href="https://www.facebook.com/sharer/sharer.php?u=https://bssoliution.dgcrafter.com/blog-details.php?url=what-makes-BS Digital Solutions-one-of-the-best-advertising-agencies-in-singapore-for-brand-growth-and-strategy"><i
+                  href="https://www.facebook.com/sharer/sharer.php?u=https://bssoliution.dgcrafter.com/blog-details.php?url=what-makes-bs-digital-solutions-one-of-the-best-advertising-agencies-in-singapore-for-brand-growth-and-strategy"><i
                     class="fa-brands fa-facebook"></i></a></li>
               <li><a
-                  href="https://www.linkedin.com/shareArticle?title=What makes BS Digital Solutions one of the best advertising agencies in Singapore for brand growth and strategy?&url=https://bssoliution.dgcrafter.com/blog-details.php?url=what-makes-BS Digital Solutions-one-of-the-best-advertising-agencies-in-singapore-for-brand-growth-and-strategy"><i
+                  href="https://www.linkedin.com/shareArticle?title=What makes BS Digital Solutions one of the best advertising agencies in Singapore for brand growth and strategy?&url=https://bssoliution.dgcrafter.com/blog-details.php?url=what-makes-bs-digital-solutions-one-of-the-best-advertising-agencies-in-singapore-for-brand-growth-and-strategy"><i
                     class="fa-brands fa-linkedin"></i></a></li>
               <li><a
-                  href="whatsapp://send?text=https://bssoliution.dgcrafter.com/blog-details.php?url=what-makes-BS Digital Solutions-one-of-the-best-advertising-agencies-in-singapore-for-brand-growth-and-strategy"><i
+                  href="whatsapp://send?text=https://bssoliution.dgcrafter.com/blog-details.php?url=what-makes-bs-digital-solutions-one-of-the-best-advertising-agencies-in-singapore-for-brand-growth-and-strategy"><i
                     class="fa-brands fa-whatsapp"></i></a></li>
             </ol>
           </div>

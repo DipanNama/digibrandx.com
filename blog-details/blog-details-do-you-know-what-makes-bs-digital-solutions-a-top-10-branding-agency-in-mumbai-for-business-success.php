@@ -46,7 +46,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/971BediBrandX. branding agency im Mumbai_02.webp"
+      src="upload/media/971bs-digital-solutions. branding agency im Mumbai_02.webp"
       alt="BS Digital Solutions logo design for corporate branding agency in Mumbai" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -118,7 +118,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/719BediBrandX. branding agency im Mumbai_03.webp"
+      src="upload/media/719bs-digital-solutions. branding agency im Mumbai_03.webp"
       alt="Creative branding agency in Mumbai providing brand development" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -149,7 +149,7 @@ include '../components/header.php';
             <h4 class="mt-4 mb-4">4. Long-Term Partnership</h4>
             <p>Branding is an ongoing journey. A great agency won&rsquo;t just create your brand and walk
               away&mdash;they&rsquo;ll be there to support you as your brand grows and evolves. Look for the<strong> <a
-                  href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener">top creative agencies
+                  href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener">top creative agencies
                   in&nbsp;
                   Mumbai</a></strong> that are interested in building a long-term relationship with you, offering
               guidance and support as your brand scales.</p>
@@ -159,7 +159,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/577BediBrandX. branding agency im Mumbai_04.webp"
+      src="upload/media/577bs-digital-solutions. branding agency im Mumbai_04.webp"
       alt="Team working on brand strategy for a global brand in Mumbai" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -194,16 +194,16 @@ include '../components/header.php';
             <p>Posted on 30th&nbsp;September&nbsp;2025</p>
             <ol>
               <li><a
-                  href="https://twitter.com/intent/tweet?url=https://bssoliution.dgcrafter.com/blog-details.php?url=do-you-know-what-makes-BS Digital Solutions-a-top-10-branding-agency-in-mumbai-for-business-success"><i
+                  href="https://twitter.com/intent/tweet?url=https://bssoliution.dgcrafter.com/blog-details.php?url=do-you-know-what-makes-bs-digital-solutions-a-top-10-branding-agency-in-mumbai-for-business-success"><i
                     class="fa-brands fa-twitter"></i></a></li>
               <li><a
-                  href="https://www.facebook.com/sharer/sharer.php?u=https://bssoliution.dgcrafter.com/blog-details.php?url=do-you-know-what-makes-BS Digital Solutions-a-top-10-branding-agency-in-mumbai-for-business-success"><i
+                  href="https://www.facebook.com/sharer/sharer.php?u=https://bssoliution.dgcrafter.com/blog-details.php?url=do-you-know-what-makes-bs-digital-solutions-a-top-10-branding-agency-in-mumbai-for-business-success"><i
                     class="fa-brands fa-facebook"></i></a></li>
               <li><a
-                  href="https://www.linkedin.com/shareArticle?title=What makes BS Digital Solutions stand among the top 10 advertising agencies in Mumbai for driving real business success?&url=https://bssoliution.dgcrafter.com/blog-details.php?url=do-you-know-what-makes-BS Digital Solutions-a-top-10-branding-agency-in-mumbai-for-business-success"><i
+                  href="https://www.linkedin.com/shareArticle?title=What makes BS Digital Solutions stand among the top 10 advertising agencies in Mumbai for driving real business success?&url=https://bssoliution.dgcrafter.com/blog-details.php?url=do-you-know-what-makes-bs-digital-solutions-a-top-10-branding-agency-in-mumbai-for-business-success"><i
                     class="fa-brands fa-linkedin"></i></a></li>
               <li><a
-                  href="whatsapp://send?text=https://bssoliution.dgcrafter.com/blog-details.php?url=do-you-know-what-makes-BS Digital Solutions-a-top-10-branding-agency-in-mumbai-for-business-success"><i
+                  href="whatsapp://send?text=https://bssoliution.dgcrafter.com/blog-details.php?url=do-you-know-what-makes-bs-digital-solutions-a-top-10-branding-agency-in-mumbai-for-business-success"><i
                     class="fa-brands fa-whatsapp"></i></a></li>
             </ol>
           </div>

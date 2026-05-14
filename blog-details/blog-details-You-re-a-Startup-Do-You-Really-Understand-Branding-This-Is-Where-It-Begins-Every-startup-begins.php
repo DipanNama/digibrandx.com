@@ -178,7 +178,7 @@ include '../components/header.php';
             <p>If you&rsquo;re a startup asking whether branding is right for you,<strong> the answer is
                 yes</strong>.<br />If you&rsquo;re wondering whether to do it alone, <strong>the answer is
                 no</strong>.<br />If you&rsquo;re looking for a partner who treats your brand like their own,
-              <strong>the answer is <a href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener">BS
+              <strong>the answer is <a href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener">BS
                   Digital Solutions</a></strong>.
             </p>
             <p><strong>Let&rsquo;s work together</strong> to create a brand that is not just launched&mdash;but

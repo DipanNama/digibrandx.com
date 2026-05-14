@@ -151,7 +151,7 @@ include '../components/header.php';
               agency websites in the industry.
             </p>
             <p>Stop searching for "web development companies near me" and start working with a <a
-                href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>creative web
+                href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>creative web
                   development
                   agency</strong></a> that understands the heart of your business. BS Digital Solutions is ready to
               build the top

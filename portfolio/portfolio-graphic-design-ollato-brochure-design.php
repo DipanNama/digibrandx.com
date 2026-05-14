@@ -95,7 +95,7 @@ include '../components/header.php';
             <p>If you are looking for the <strong>best corporate brochure design agency</strong> near me or a global
               creative brochure design agency, the differentiator should always be the level of partnership. A vendor
               follows instructions; a partner challenges them to find a better way to reach your goals.</p>
-            <p>At <a href="https://www.BS Digital Solutions.com"><strong>BS Digital Solutions,</strong></a> we take
+            <p>At <a href="https://www.bs-digital-solutions.com"><strong>BS Digital Solutions,</strong></a> we take
               pride in being the best
               corporate brochure design company for those who value technical excellence and creative flair. We help you
               choose corporate brochure design agency standards that move the needle for your business, ensuring that

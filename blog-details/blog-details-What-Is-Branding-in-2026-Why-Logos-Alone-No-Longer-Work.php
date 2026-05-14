@@ -28,7 +28,7 @@ include '../components/header.php';
             adept, and driven by emotion, brands are evaluated instantly. Leading branding in 2026 focuses on creating
             meaningful experiences, not just visibility. While a logo may attract attention, it is the complete
             experience that fosters trust, loyalty, and advocacy. As a result, more businesses are partnering with <a
-              href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>top creative agencies
+              href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>top creative agencies
                 in Dubai
               </strong></a>that prioritize culture, emotion, and strategy over fleeting design trends.</p>
         </div>

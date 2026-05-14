@@ -158,7 +158,7 @@ include '../components/header.php';
                 href="../portfolio/portfolio-web-design-be-the-wind-e-commerce-website-design-and-development.php" target="_blank"
                 rel="noopener"><strong>don't just optimize websites&mdash;we build brands</strong></a>. If you&rsquo;re
               looking for an SEO agency in Bangalore that can help your brand rise, at <a
-                href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>BS Digital
+                href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>BS Digital
                   Solutions</strong></a>, we do
               more than optimize websites; we build brands. If you need an <strong>SEO agency in Bangalore </strong>to
               elevate your brand&rsquo;s search engine rankings, our team is ready to help you create a powerful,

@@ -27,7 +27,7 @@ include '../components/header.php';
             to a single factor: <strong>branding</strong>.</p>
           <p>For a business to thrive in this environment, branding cannot be a secondary thought or a simple cosmetic
             fix. It is a core strategic function. Choosing the right <a
-              href="https://BS Digital Solutions.com/service-area/branding-agency-in-mumbai/" target="_blank"
+              href="https://bs-digital-solutions.com/service-area/branding-agency-in-mumbai/" target="_blank"
               rel="noopener"><strong>branding agency in Mumbai </strong></a>means finding a partner capable of
             navigating this complexity to build trust, command authority, and drive sustainable growth. At BS Digital
             Solutions,

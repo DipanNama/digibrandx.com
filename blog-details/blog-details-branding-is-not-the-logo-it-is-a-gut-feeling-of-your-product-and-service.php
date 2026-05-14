@@ -180,7 +180,7 @@ include '../components/header.php';
                 </strong></a>helps your business stand out and be remembered. It shapes how people see you, builds
               trust, and gives your brand a clear, confident voice in a busy market.</p>
             <p>If you want to create a strong brand identity or update your logo, BS Digital Solutions can help. We are
-              the <a href="https://BS Digital Solutions.com/service-area/branding-agency-in-mumbai/" target="_blank"
+              the <a href="https://bs-digital-solutions.com/service-area/branding-agency-in-mumbai/" target="_blank"
                 rel="noopener"><strong>best ad agency in Mumbai</strong></a>, and we work with businesses that care
               about their purpose to build brands that show their vision, values, and ambition.</p>
             <p>Work with professionals who know strategy and creativity and have real experience.<br /><strong>Let us

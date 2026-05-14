@@ -82,7 +82,7 @@ $companyName = "BS Digital Solutions";
             <div class="col-lg-6">
                 <div class="blog-area">
                     <a
-                        href="blog-details/blog-details-do-you-know-what-makes-digiBrandX-a-top-10-branding-agency-in-mumbai-for-business-success.php">
+                        href="blog-details/blog-details-do-you-know-what-makes-bs-digital-solutions-a-top-10-branding-agency-in-mumbai-for-business-success.php">
                         <div class="blog-img"><img
                                 src="https://www.justinmind.com/wp-content/uploads/2019/10/best-20-web-development-blogs.png"
                                 alt="BS Digital Solution" class="img-fluid"></div>

@@ -24,7 +24,7 @@ include '../components/header.php';
             consumer attention, simply entering the market is not enough. Your product or service must stand out, and
             effective brand positioning is essential.</p>
           <p>At BS Digital Solutions,&nbsp;<span style="box-sizing: border-box; margin: 0px; padding: 0px;">a </span><a
-              href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>digital branding agency
+              href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>digital branding agency
                 in
                 Singapore</strong></a>, we know that a startup&rsquo;s success starts with positioning your brand to
             resonate with your target audience. Whether launching a new brand, introducing a product, or rebranding,

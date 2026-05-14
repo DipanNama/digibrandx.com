@@ -46,7 +46,7 @@ include 'components/header.php';
                         part of one of the top 10 web development companies in the world, we want to hear from you.</p>
                     <h2>Apply Today</h2>
                     <p>Ready to elevate your career at the full-service advertising agency award-winner?</p>
-                    <p>Please send your CV to: <strong>career@BS Digital Solutions.com</strong></p>
+                    <p>Please send your CV to: <strong>career@bs-digital-solutions.com</strong></p>
                     <p>Join the best corporate website design agency and help us build the next generation of the web.
                         Your journey toward becoming a leader in a top 10 corporate website design and development
                         agency starts here.</p>

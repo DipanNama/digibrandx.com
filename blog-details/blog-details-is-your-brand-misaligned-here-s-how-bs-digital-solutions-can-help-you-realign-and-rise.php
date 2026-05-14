@@ -189,7 +189,7 @@ include '../components/header.php';
             <p>Whether you are launching a new venture, rebranding, or addressing a <a
                 href="../portfolio/portfolio-branding-Fintech-Branding-One-Bharat.php" target="_blank" rel="noopener"><strong>brand
                   identity</strong></a> challenge, BS Digital Solutions will guide you through the process. As the <a
-                href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>best ad agencies in
+                href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>best ad agencies in
                   Dubai</strong>,</a> we deliver global solutions that resonate with your audience, elevate your
               business, and set you apart in a competitive market.</p>
             <p>Ready to realign and grow? <a href="contact.php" target="_blank" rel="noopener"><strong>Contact
@@ -209,16 +209,16 @@ include '../components/header.php';
             <p>Posted on 30th&nbsp;June&nbsp;2025</p>
             <ol>
               <li><a
-                  href="https://twitter.com/intent/tweet?url=https://bssoliution.dgcrafter.com/blog-details.php?url=is-your-brand-misaligned-here-s-how-BS Digital Solutions-can-help-you-realign-and-rise"><i
+                  href="https://twitter.com/intent/tweet?url=https://bssoliution.dgcrafter.com/blog-details.php?url=is-your-brand-misaligned-here-s-how-bs-digital-solutions-can-help-you-realign-and-rise"><i
                     class="fa-brands fa-twitter"></i></a></li>
               <li><a
-                  href="https://www.facebook.com/sharer/sharer.php?u=https://bssoliution.dgcrafter.com/blog-details.php?url=is-your-brand-misaligned-here-s-how-BS Digital Solutions-can-help-you-realign-and-rise"><i
+                  href="https://www.facebook.com/sharer/sharer.php?u=https://bssoliution.dgcrafter.com/blog-details.php?url=is-your-brand-misaligned-here-s-how-bs-digital-solutions-can-help-you-realign-and-rise"><i
                     class="fa-brands fa-facebook"></i></a></li>
               <li><a
-                  href="https://www.linkedin.com/shareArticle?title=Is Your Brand Misaligned? Here&#39;s How BS Digital Solutions Can Help You Realign and Rise&url=https://bssoliution.dgcrafter.com/blog-details.php?url=is-your-brand-misaligned-here-s-how-BS Digital Solutions-can-help-you-realign-and-rise"><i
+                  href="https://www.linkedin.com/shareArticle?title=Is Your Brand Misaligned? Here&#39;s How BS Digital Solutions Can Help You Realign and Rise&url=https://bssoliution.dgcrafter.com/blog-details.php?url=is-your-brand-misaligned-here-s-how-bs-digital-solutions-can-help-you-realign-and-rise"><i
                     class="fa-brands fa-linkedin"></i></a></li>
               <li><a
-                  href="whatsapp://send?text=https://bssoliution.dgcrafter.com/blog-details.php?url=is-your-brand-misaligned-here-s-how-BS Digital Solutions-can-help-you-realign-and-rise"><i
+                  href="whatsapp://send?text=https://bssoliution.dgcrafter.com/blog-details.php?url=is-your-brand-misaligned-here-s-how-bs-digital-solutions-can-help-you-realign-and-rise"><i
                     class="fa-brands fa-whatsapp"></i></a></li>
             </ol>
           </div>

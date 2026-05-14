@@ -233,7 +233,7 @@ include '../components/header.php';
               success.</p>
             <h2 class="mt-4 mb-4">Let&rsquo;s Build Your Digital Success</h2>
             <p>Your website is central to your brand in the digital world. With <a
-                href="https://www.BS Digital Solutions.com"><strong>BS Digital Solutions</strong></a>, a trusted
+                href="https://www.bs-digital-solutions.com"><strong>BS Digital Solutions</strong></a>, a trusted
               <strong>responsive website
                 designing company in Delhi</strong>, you receive a creative, strategic, and future-ready platform that
               inspires, engages, and converts.
@@ -261,16 +261,16 @@ include '../components/header.php';
             <p>Posted on 17th&nbsp;September&nbsp;2025</p>
             <ol>
               <li><a
-                  href="https://twitter.com/intent/tweet?url=https://bssoliution.dgcrafter.com/blog-details.php?url=why-do-businesses-consider-BS Digital Solutions-the-best-website-designing-company-in-delhi"><i
+                  href="https://twitter.com/intent/tweet?url=https://bssoliution.dgcrafter.com/blog-details.php?url=why-do-businesses-consider-bs-digital-solutions-the-best-website-designing-company-in-delhi"><i
                     class="fa-brands fa-twitter"></i></a></li>
               <li><a
-                  href="https://www.facebook.com/sharer/sharer.php?u=https://bssoliution.dgcrafter.com/blog-details.php?url=why-do-businesses-consider-BS Digital Solutions-the-best-website-designing-company-in-delhi"><i
+                  href="https://www.facebook.com/sharer/sharer.php?u=https://bssoliution.dgcrafter.com/blog-details.php?url=why-do-businesses-consider-bs-digital-solutions-the-best-website-designing-company-in-delhi"><i
                     class="fa-brands fa-facebook"></i></a></li>
               <li><a
-                  href="https://www.linkedin.com/shareArticle?title=Why do businesses consider BS Digital Solutions the best website designing company in Delhi for driving growth and success?&url=https://bssoliution.dgcrafter.com/blog-details.php?url=why-do-businesses-consider-BS Digital Solutions-the-best-website-designing-company-in-delhi"><i
+                  href="https://www.linkedin.com/shareArticle?title=Why do businesses consider BS Digital Solutions the best website designing company in Delhi for driving growth and success?&url=https://bssoliution.dgcrafter.com/blog-details.php?url=why-do-businesses-consider-bs-digital-solutions-the-best-website-designing-company-in-delhi"><i
                     class="fa-brands fa-linkedin"></i></a></li>
               <li><a
-                  href="whatsapp://send?text=https://bssoliution.dgcrafter.com/blog-details.php?url=why-do-businesses-consider-BS Digital Solutions-the-best-website-designing-company-in-delhi"><i
+                  href="whatsapp://send?text=https://bssoliution.dgcrafter.com/blog-details.php?url=why-do-businesses-consider-bs-digital-solutions-the-best-website-designing-company-in-delhi"><i
                     class="fa-brands fa-whatsapp"></i></a></li>
             </ol>
           </div>

@@ -133,44 +133,52 @@ a {
 }
 
 /* Services Dropdown Overlay */
-.drop-panel {
+.nav-links>li.has-drop {
+    position: relative;
+}
+
+/* Hover Bridge: ensure mouse can move from link to panel without losing hover state */
+.nav-links>li.has-drop::after {
+    content: "";
     position: absolute;
-    top: 90%;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 99vw;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background: transparent;
+    z-index: 10;
+}
+
+.drop-panel {
+    position: fixed;
+    top: 80px;
+    left: 0;
+    width: 100vw;
+    height: calc(100vh - 80px);
     background: var(--bg-white);
     max-height: 0;
     overflow: hidden;
     opacity: 0;
     pointer-events: none;
-    transition: max-height .36s ease, opacity .26s ease;
+    transition: max-height .4s ease, opacity .3s ease;
     box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.1);
-    padding-bottom: 30px;
     z-index: 10000;
-}
-
-/* Hover Bridge: ensure mouse can move from link to panel without losing hover state */
-.drop-panel::before {
-    content: "";
-    position: absolute;
-    top: -100px;
-    left: 0;
-    width: 100%;
-    height: 100px;
-    background: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .nav-links>li.has-drop:hover .drop-panel {
-    max-height: 800px;
+    max-height: 100vh;
     opacity: 1;
     pointer-events: all;
 }
 
 .drop-inner {
-    max-width: 800px;
+    max-width: 1000px;
+    width: 100%;
     margin: 0 auto;
-    padding: 0 32px;
+    padding: 40px 32px;
 }
 
 .drop-inner h4 {

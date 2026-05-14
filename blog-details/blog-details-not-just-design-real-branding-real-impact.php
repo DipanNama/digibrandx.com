@@ -24,7 +24,7 @@ include '../components/header.php';
             memory&mdash;not just a logo or website. At BS Digital Solutions, we believe branding influences how people
             view your
             business before any interaction. This approach makes us the trusted <strong><a
-                href="https://BS Digital Solutions.com/service-area/branding-agency-in-mumbai/" target="_blank"
+                href="https://bs-digital-solutions.com/service-area/branding-agency-in-mumbai/" target="_blank"
                 rel="noopener">best ad agency in&nbsp; Mumbai</a> </strong>for businesses seeking lasting impact.</p>
         </div>
       </div>
@@ -53,7 +53,7 @@ include '../components/header.php';
             <p>Many businesses see branding as a cost, not a strategic investment. In fact, branding is a valuable
               long-term asset. It builds trust, drives preference, supports premium positioning, and strengthens
               loyalty.</p>
-            <p>As one of the <a href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener"><strong>top
+            <p>As one of the <a href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>top
                   10 digital
                   marketing agencies in Mumbai,</strong></a> BS Digital Solutions takes a business-first approach. We
               help brands
@@ -172,7 +172,7 @@ include '../components/header.php';
             <p>If you seek more than design&mdash;branding that builds trust, drives growth, and creates emotional
               impact&mdash;BS Digital Solutions is your partner.</p>
             <p>Choose strategic branding.<br />Choose a meaningful identity.<br />Choose real impact.</p>
-            <p>Choose <strong><a href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener">BS Digital
+            <p>Choose <strong><a href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener">BS Digital
                   Solutions</a>.</strong> More than design. <strong>Real branding. Real impact.</strong>
             </p>
           </div>

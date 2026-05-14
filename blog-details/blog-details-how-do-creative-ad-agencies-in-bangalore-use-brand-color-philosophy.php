@@ -154,7 +154,7 @@ include '../components/header.php';
                 every stage</strong>. We shape not only your brand&rsquo;s appearance but also how it is perceived,
               remembered, and chosen.</p>
             <h3>Are you looking to refresh your brand with creative ideas and smart use of color?</h3>
-            <p>Work with the <strong><a href="https://www.BS Digital Solutions.com" target="_blank" rel="noopener">best
+            <p>Work with the <strong><a href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener">best
                   design
                   agencies in Bangalore</a>&nbsp;</strong>to help your brand stand out and achieve real results. At
               BS Digital Solutions, our team blends fresh design with a strong grasp of color strategy to build brands

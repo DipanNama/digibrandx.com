@@ -25,7 +25,7 @@ include '../components/header.php';
             Middle East into the competitive landscapes of the USA, Europe, and Australia, the challenge isn't just
             logistics&mdash;it&rsquo;s resonance. To succeed, a brand must move beyond being a service provider to
             becoming a symbol of trust.</p>
-          <p>This is where the expertise of a <strong><a href="https://www.BS Digital Solutions.com" target="_blank"
+          <p>This is where the expertise of a <strong><a href="https://www.bs-digital-solutions.com" target="_blank"
                 rel="noopener">top branding &amp; digital marketing agency in Dubai</a> </strong>becomes a strategic
             pivot point. At BS Digital Solutions, we recognize that global expansion requires a masterclass in emotional
             intelligence and cultural fluidity. By partnering with the best advertising agencies in Dubai, brands gain

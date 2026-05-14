@@ -30,7 +30,7 @@ include '../components/header.php';
             <p>LAST UPDATED: 2025-04-10</p>
             <h3>INTRODUCTION</h3>
             <p>Welcome to BS Digital Solutions.</p>
-            <p>BS Digital Solutions ("us", "we", or "our") operates the website BS Digital Solutions.com (hereinafter
+            <p>BS Digital Solutions ("us", "we", or "our") operates the website bs-digital-solutions.com (hereinafter
               referred to as the
               "Service").</p>
             <p>This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit
@@ -40,7 +40,7 @@ include '../components/header.php';
             <p>Our Terms and Conditions ("Terms") govern your use of our Service and, together with this Privacy Policy,
               form your agreement with us.</p>
             <h3>DEFINITIONS</h3>
-            <p><strong>Service:</strong> The BS Digital Solutions.com website operated by BS Digital
+            <p><strong>Service:</strong> The bs-digital-solutions.com website operated by BS Digital
               Solutions.<br /><strong>Personal
                 Data:</strong> Any information relating to an identified or identifiable natural
               person.<br /><strong>Usage Data:</strong> Data collected automatically when using the

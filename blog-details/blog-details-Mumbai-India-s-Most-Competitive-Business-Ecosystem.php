@@ -67,7 +67,7 @@ include '../components/header.php';
                 ads</strong>. When your visuals, tone, and messages all match, people feel confident working with you.
               This consistency helps your brand get noticed, remembered, and turns new customers into loyal fans.
               Without a strategy, it's just decoration. A strong brand always begins with a clear brand strategy. As a
-              <a href="https://BS Digital Solutions.com" target="_blank" rel="noopener"><strong>logo design agency in
+              <a href="https://bs-digital-solutions.com" target="_blank" rel="noopener"><strong>logo design agency in
                   Mumbai,</strong></a> BS Digital Solutions helps businesses define their positioning, audience, values,
               personality, and communication pillars. Brand strategy gives direction to every creative
               decision&mdash;from logo design to <strong>marketing campaigns</strong>. It ensures that your brand is not
