@@ -139,6 +139,7 @@ a {
 
 /* Desktop Hover Effects */
 @media (min-width: 992px) {
+
     /* Hover Bridge: ensure mouse can move from link to panel without losing hover state */
     .nav-links>li.has-drop::after {
         content: "";
@@ -149,6 +150,7 @@ a {
         height: 40px;
         background: transparent;
         z-index: 10;
+        align-items: center;
     }
 
     .nav-links>li.has-drop:hover .drop-panel {
@@ -250,7 +252,7 @@ a {
 
     .srow {
         padding: 10px 0;
-        text-align: left;
+        text-align: center;
     }
 }
 
