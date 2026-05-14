@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="testi-heading text-center">
-                    <div class="section-title" style="color:var(--accent-color);">Testimonials</div>
+                    <div class="section-title" style="color:var(--accent-color);">Meeting with Clients</div>
                 </div>
                 <div class="swiper image_testi_area">
                     <div class="swiper-wrapper">

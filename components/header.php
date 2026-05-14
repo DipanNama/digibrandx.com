@@ -97,17 +97,46 @@
     </header>
 
     <script>
-        const isMobile = () => window.innerWidth <= 900;
-        document.querySelectorAll('.drop-panel .srow-head').forEach(head => {
-            head.addEventListener('click', () => {
-                const row = head.closest('.srow');
-                const wasOpen = row.classList.contains('open');
-                document.querySelectorAll('.drop-panel .srow').forEach(r => {
-                    r.classList.remove('open');
+        document.addEventListener('DOMContentLoaded', function() {
+            const srvLink = document.querySelector('#deskSrvLi > a');
+            const srvLi = document.getElementById('deskSrvLi');
+
+            if (srvLink) {
+                srvLink.addEventListener('click', function(e) {
+                    if (window.innerWidth <= 991) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        srvLi.classList.toggle('open');
+                        
+                        // Rotate caret icon
+                        const caret = this.querySelector('.caret');
+                        if (caret) {
+                            caret.style.transform = srvLi.classList.contains('open') ? 'rotate(180deg)' : 'rotate(0deg)';
+                        }
+                    }
                 });
-                if (!wasOpen) {
-                    row.classList.add('open');
-                }
+            }
+
+            // Sub-item toggle (if any)
+            document.querySelectorAll('.drop-panel .srow-head').forEach(head => {
+                head.addEventListener('click', function(e) {
+                    if (window.innerWidth <= 991) {
+                        const row = this.closest('.srow');
+                        // Only prevent default if there are sub-links to show (accordion style)
+                        // If it's just a direct link, let it navigate
+                        const subLinks = row.querySelector('.srow-list');
+                        if (subLinks) {
+                            e.preventDefault();
+                            const wasOpen = row.classList.contains('open');
+                            document.querySelectorAll('.drop-panel .srow').forEach(r => {
+                                r.classList.remove('open');
+                            });
+                            if (!wasOpen) {
+                                row.classList.add('open');
+                            }
+                        }
+                    }
+                });
             });
         });
     </script>

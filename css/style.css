@@ -137,16 +137,25 @@ a {
     position: relative;
 }
 
-/* Hover Bridge: ensure mouse can move from link to panel without losing hover state */
-.nav-links>li.has-drop::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 0;
-    width: 100%;
-    height: 40px;
-    background: transparent;
-    z-index: 10;
+/* Desktop Hover Effects */
+@media (min-width: 992px) {
+    /* Hover Bridge: ensure mouse can move from link to panel without losing hover state */
+    .nav-links>li.has-drop::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        height: 40px;
+        background: transparent;
+        z-index: 10;
+    }
+
+    .nav-links>li.has-drop:hover .drop-panel {
+        max-height: 100vh;
+        opacity: 1;
+        pointer-events: all;
+    }
 }
 
 .drop-panel {
@@ -166,12 +175,6 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-
-.nav-links>li.has-drop:hover .drop-panel {
-    max-height: 100vh;
-    opacity: 1;
-    pointer-events: all;
 }
 
 .drop-inner {
@@ -220,17 +223,21 @@ a {
         left: 0;
         transform: none;
         width: 100%;
-        max-height: none;
-        opacity: 1;
-        pointer-events: all;
+        height: auto;
+        max-height: 0;
+        opacity: 0;
+        pointer-events: none;
+        overflow: hidden;
         box-shadow: none;
         padding-bottom: 0;
-        display: none;
-        /* Toggle via JS if needed, or keep expanded on mobile */
+        display: block;
+        transition: max-height .4s ease, opacity .3s ease;
     }
 
     .nav-links>li.has-drop.open .drop-panel {
-        display: block;
+        max-height: 1000px;
+        opacity: 1;
+        pointer-events: all;
     }
 
     .drop-inner {
