@@ -171,3 +171,36 @@ button[type="submit"] {
 .image_testi_area {
     padding-bottom: 0;
 }
+
+/* 10. Footer Fixes */
+.ft-srv-area h4 {
+    color: var(--vibrant-yellow) !important;
+    margin-bottom: 20px;
+}
+
+.footer-srv-sec {
+    background: var(--black) !important;
+}
+
+.copy-right ul li a {
+    color: var(--text-light) !important;
+}
+
+/* 11. Number Animation Styles */
+.numbers-speak h2 {
+    color: var(--vibrant-yellow) !important;
+}
+
+.numbers-speak p {
+    color: var(--white) !important;
+}
+
+/* 12. Slider CTA Center */
+.banner-text {
+    text-align: center !important;
+}
+
+.banner-text .right-viewbtn {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}

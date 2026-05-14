@@ -7,21 +7,21 @@
     "location": "North Dumdum, West Bengal"
   },
   "links": {
-    "home": "./index.html",
-    "branding": "branding.html",
-    "ux_design": "ux-design.html",
-    "visual_design": "visual-design.html",
-    "app_dev": "application-development.html",
-    "graphic_design": "graphic-design.html",
-    "social_media": "social-media-branding.html",
-    "digital_marketing": "digital-marketing.html",
-    "video_production": "video-production.html",
-    "portfolio": "portfolio.html",
-    "case_study": "case-study.html",
-    "team": "team.html",
-    "about": "about.html",
-    "blogs": "blogs.html",
-    "contact": "contact.html"
+    "home": "./index.php",
+    "branding": "services/services-branding.php",
+    "ux_design": "services/services-application-development.php",
+    "visual_design": "services/services-graphics-design.php",
+    "app_dev": "services/services-application-development.php",
+    "graphic_design": "services/services-graphics-design.php",
+    "social_media": "services/services-social-media-branding.php",
+    "digital_marketing": "services/services-digital-marketing.php",
+    "video_production": "services/services-graphics-design.php",
+    "portfolio": "portfolio.php",
+    "case_study": "case-study.php",
+    "team": "team.php",
+    "about": "about.php",
+    "blogs": "blogs.php",
+    "contact": "contact.php"
   },
   "header": {
     "services_title": "Expertise Across Diverse Domains"

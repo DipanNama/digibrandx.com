@@ -3,11 +3,27 @@
 - [x] implement all the legal pages
 - [x] contact page images 
 - [x] blogs and portfolios show properly
-- [ ] fix the breadcrumbs they are still redirecting to the external website
-- [ ] fix the LET'S WORK TOGETHER form
-- [ ] fix the favicon
-- [ ] fix the logo 
-- [ ] case study fix
-- [ ] portfolio all fix
-- [ ] footer links header color is transparent
+- [x] fix the breadcrumbs they are still redirecting to the external website
+- [x] fix the LET'S WORK TOGETHER form
+- [x] fix the favicon
+- [x] fix the logo 
+- [x] case study fix
+- [x] portfolio all fix
+- [x] footer links header color is transparent
+- [x] make the call to action button in the center of each slider and clicking on it should take to the pricing page
+- [x] number speak section numbers should animate from 0 to the number defined and the number and below number text should be white and yellow
+- [x] footer section google(for google search address/google business profile) icon add and gmail icon add
+- [x] footer should be same in all the pages
+- [x] choosing the package should redirect to the contact page with auto selecting the budget in the form and in the form show only the three budget option not the dummy $ ranges, budget should be in inr rupees
+- [x] pricing page footer should be as same as the other pages like index.html page
+- [x] pricing page services (header) dropdown should be as same as the other pages services dropdown don't change the format
+- [x] update the contact form in all the pages and make it like the index.html page form
+- [x] implement all the features described in the note.txt page as it's the new flow of the application and needs to be implemented in the website
+- [x] for sub services show each service in the header service dropdown and clicking on any service should open the service page with showing all the sub service available in that service in cards format with showing the same exact data that is present in the note.txt file. do this for all the services available. remove extra services.
+- [x] add cta button in each card and clicking on it will open the contact page
+- [ ] home page slider cta button should be in the middle horizontally
+- [ ] home page case study cards are not present
+- [ ] pricing section middle card 'most popular' text is slightly mis alligned and need to be in the middle
+- [ ] contact page information update
+- [ ] 'Branding Agency FAQs Answers to Your Top Branding Questions' home page faq section is not having the faqs and clicking on the faqs don't open the faqs 
 - [ ] 

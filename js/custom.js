@@ -297,6 +297,43 @@ inputs.forEach(input => {
 
 AOS.init();
 
+/* 10. Counter Animation */
+const animateCounters = () => {
+    const counters = document.querySelectorAll('.counter');
+    const speed = 200;
+
+    counters.forEach(counter => {
+        const updateCount = () => {
+            const target = +counter.getAttribute('data-target');
+            const currentText = counter.innerText.replace('+', '').replace('%', '');
+            const count = +currentText;
+            const inc = target / speed;
+
+            if (count < target) {
+                counter.innerText = Math.ceil(count + inc) + (counter.innerText.includes('%') ? '%' : '+');
+                setTimeout(updateCount, 1);
+            } else {
+                counter.innerText = target + (counter.innerText.includes('%') ? '%' : '+');
+            }
+        };
+        updateCount();
+    });
+};
+
+const numbersSection = document.querySelector('.numbers-speak');
+if (numbersSection) {
+    const observerOptions = { threshold: 0.5 };
+    const observer = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                animateCounters();
+                observer.unobserve(entry.target);
+            }
+        });
+    }, observerOptions);
+    observer.observe(numbersSection);
+}
+
 
 
 

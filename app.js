@@ -57,7 +57,7 @@ const DynamicLoader = {
      */
     setActiveLink() {
         // Handle local filesystem (empty pop or pop with .html)
-        const currentPath = window.location.pathname.split('/').pop() || 'index.html';
+        const currentPath = window.location.pathname.split('/').pop() || 'index.php';
         
         document.querySelectorAll('.nav-link').forEach(link => {
             const href = link.getAttribute('href');
