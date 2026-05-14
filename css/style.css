@@ -135,7 +135,7 @@ a {
 /* Services Dropdown Overlay */
 .drop-panel {
     position: absolute;
-    top: 100%;
+    top: 90%;
     left: 50%;
     transform: translateX(-50%);
     width: 99vw;
@@ -147,17 +147,17 @@ a {
     transition: max-height .36s ease, opacity .26s ease;
     box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.1);
     padding-bottom: 30px;
-    z-index: 1000;
+    z-index: 10000;
 }
 
 /* Hover Bridge: ensure mouse can move from link to panel without losing hover state */
 .drop-panel::before {
     content: "";
     position: absolute;
-    top: -40px;
+    top: -100px;
     left: 0;
     width: 100%;
-    height: 40px;
+    height: 100px;
     background: transparent;
 }
 
@@ -2132,7 +2132,7 @@ div#jconfirm-box98152 p {
     z-index: 1;
 }
 
-.pricing-card .badge {
+.pricing-card .pricing-badge {
     position: absolute;
     top: -15px;
     left: 50%;
@@ -2144,6 +2144,15 @@ div#jconfirm-box98152 p {
     font-size: 14px;
     font-weight: 700;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    width: auto;
+    white-space: nowrap;
+}
+
+.banner-text .right-viewbtn {
+    display: inline-block;
+    float: none !important;
+    margin: 20px auto 0 !important;
 }
 
 .price-header h3 {

@@ -26,20 +26,20 @@
 - [ ] add all the video testimonials
 - [x] add proper contect details
 - [ ] add meta contents properly for all the pages and update the contents of all the pages from /content folder
-- [ ] add some more new sections like 'What Clients Think About DigiBrandX' & 'Expertise Across Diverse Business Domains' & 'Trusted Clients Across Industries' & 'Featured Portfolio' & 'What makes DigiBrandX a top full-service advertising agency?' & two new section below 'What Clients Think About DigiBrandX' regarding our client testimonials section one will be images with carousal(no pagination is needed to show) and the other one is videos carousal(same no pagination is needed to show, instead of that use the video player to play the video when user clicks on the play button in the video) and all these sections you can find in the @backup_index.php page and use these sections to replace the current sections with converting these new sections into components and also make sure the sections don't include the text 'digibrandx' in any form instead use 'BS Digital Solutions' in the text. Also while calling components make sure to use 'BS Digital Solutions' as the prop value for the company name and for videos and images they can be found in the /images/testimonials/images and /images/testimonials/videos in these two folders
-- [ ] home page slider cta button should be in the middle horizontally
+- [x] add some more new sections like 'What Clients Think About DigiBrandX' & 'Expertise Across Diverse Business Domains' & 'Trusted Clients Across Industries' & 'Featured Portfolio' & 'What makes DigiBrandX a top full-service advertising agency?' & two new section below 'What Clients Think About DigiBrandX' regarding our client testimonials section one will be images with carousal(no pagination is needed to show) and the other one is videos carousal(same no pagination is needed to show, instead of that use the video player to play the video when user clicks on the play button in the video) and all these sections you can find in the @backup_index.php page and use these sections to replace the current sections with converting these new sections into components and also make sure the sections don't include the text 'digibrandx' in any form instead use 'BS Digital Solutions' in the text. Also while calling components make sure to use 'BS Digital Solutions' as the prop value for the company name and for videos and images they can be found in the /images/testimonials/images and /images/testimonials/videos in these two folders
+- [x] home page slider cta button should be in the middle horizontally
 - [ ] home page case study cards are not present
 - [x] pricing section middle card 'most popular' text is slightly mis alligned and need to be in the middle
-- [ ] 'Branding Agency FAQs Answers to Your Top Branding Questions' home page faq section is not having the faqs and clicking on the faqs don't open the faqs 
+- [ ] 'Branding Agency FAQs Answers to Your Top Branding Questions' home page faq section is not having the faqs and clicking on the faqs opens without any content 
 - [ ] the header services section after hover it shows the overlay of the services but i can't click on it as if i remove my cursor from the services section it immedaitely removes the overlay
-- [ ] pricing fix
+- [x] pricing fix
 - [ ] delay 5 to 3 second
-- [ ] vidoes section smaller video card show 4 in a row with carousal
-- [ ] 'What makes BS Digital Solutions a top full-service advertising agency?' bottom arrow not working
-- [ ] latest blogs image update
-- [ ] faqs section update
-- [ ] case study section case study cards show
+- [x] vidoes section smaller video card show 4 in a row with carousal
+- [x] 'What makes BS Digital Solutions a top full-service advertising agency?' bottom arrow not working
+- [x] latest blogs image update
+- [x] faqs section update
+- [x] case study section case study cards show
 - [ ] form data submit to email
-- [ ] text testimonial section text decrease
-- [ ] trusted client section pagination numbers not visible
+- [x] text testimonial section text decrease
+- [ ] trusted client section pagination numbers barely visible
 - [ ] 

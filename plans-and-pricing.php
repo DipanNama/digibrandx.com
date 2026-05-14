@@ -43,7 +43,7 @@ include 'components/header.php';
             </div>
             <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="pricing-card popular">
-                    <span class="badge">MOST POPULAR</span>
+                    <span class="pricing-badge">MOST POPULAR</span>
                     <div class="price-header">
                         <h3>STANDARD PACKAGE</h3>
                         <div class="price-value">₹14,999</div>

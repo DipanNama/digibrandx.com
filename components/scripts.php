@@ -91,21 +91,29 @@
                 document.querySelectorAll('.accordion-item').forEach(i => {
                     i.classList.remove('open');
                     i.querySelector('.accordion-btn').setAttribute('aria-expanded', 'false');
+                    const p = i.querySelector('.accordion-panel');
+                    if (p) p.style.maxHeight = null;
                 });
 
                 if (!isOpen) {
                     item.classList.add('open');
                     this.setAttribute('aria-expanded', 'true');
+                    if (panel) panel.style.maxHeight = panel.scrollHeight + 'px';
                 }
             });
+        });
+
+        // Initialize open FAQ
+        document.querySelectorAll('.accordion-item.open .accordion-panel').forEach(p => {
+            p.style.maxHeight = p.scrollHeight + 'px';
         });
 
         // Why Top Agency Description Toggle
         const descToggles = document.querySelectorAll('.desc-toggle');
         descToggles.forEach(toggle => {
             toggle.addEventListener('click', function () {
-                const body = this.previousElementSibling.querySelector('.desc-body');
-                if (body) {
+                const body = this.previousElementSibling;
+                if (body && body.classList.contains('desc-body')) {
                     const isCollapsed = body.classList.contains('collapsed');
                     if (isCollapsed) {
                         body.classList.remove('collapsed');
