@@ -21,9 +21,15 @@
 - [x] implement all the features described in the note.txt page as it's the new flow of the application and needs to be implemented in the website
 - [x] for sub services show each service in the header service dropdown and clicking on any service should open the service page with showing all the sub service available in that service in cards format with showing the same exact data that is present in the note.txt file. do this for all the services available. remove extra services.
 - [x] add cta button in each card and clicking on it will open the contact page
+- [x] contact page information update
+- [ ] expertise page links fix and text alignment fix
+- [ ] add all the video testimonials
+- [x] add proper contect details
+- [ ] add meta contents properly for all the pages and update the contents of all the pages from /content folder
+
+
 - [ ] home page slider cta button should be in the middle horizontally
 - [ ] home page case study cards are not present
 - [ ] pricing section middle card 'most popular' text is slightly mis alligned and need to be in the middle
-- [ ] contact page information update
 - [ ] 'Branding Agency FAQs Answers to Your Top Branding Questions' home page faq section is not having the faqs and clicking on the faqs don't open the faqs 
-- [ ] 
+- [ ] the header services section after hover it shows the overlay of the services but i can't click on it as if i remove my cursor from the services section it immedaitely removes the overlay

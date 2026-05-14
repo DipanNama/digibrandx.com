@@ -1641,8 +1641,9 @@ a {
     color: #555;
     display: flex;
     align-items: flex-start;
-    gap: 15px;
+    /* gap: 15px; */
     text-align: left !important;
+    align-items: center;
 }
 
 .ct_info_area i {
@@ -2090,7 +2091,7 @@ div#jconfirm-box98152 p {
 }
 
 #dark-service-heading {
-    color: var(--accent-color) !important;
+    color: var(--vibrant-yellow) !important;
 }
 
 /* Pricing Section Styles */
@@ -2242,3 +2243,5 @@ div#jconfirm-box98152 p {
 .ft-srv-area ul li a {
     transition: color 0.3s ease-in-out;
 }
+
+.img-responsive {}

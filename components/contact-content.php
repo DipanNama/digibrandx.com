@@ -24,14 +24,14 @@
       <div class="col-lg-6 mt-4">
         <div class="ct_info_area">
           <p><i><img src="<?php echo $prefix; ?>upload/news/e4hgqde7o1m8o25vppf54g1vm9_q.svg" alt=""
-                class="active img-responsive" /></i><span>Office:</span> Mira Road, Mumbai, Maharashtra, Indian,
-            401107</p>
+                class="active img-responsive" /></i><span>Office:</span> kol-78, Dipali Apts, 67, Belghoria Expy,
+            Narayanpally, Rajbari, Dum Dum, Kolkata, North Dumdum, West Bengal 700079</p>
         </div>
       </div>
       <div class="col-lg-6 mt-4">
         <div class="ct_info_area">
           <p><i><img src="<?php echo $prefix; ?>upload/news/986dbcde8dfa510bc244d1955ab0b1e0_call.svg" alt=""
-                class="img-responsive" /></i><span>Phone:</span> +91 98203 88325</p>
+                class="img-responsive" /></i><span>Phone:</span> +91 86488 32418</p>
         </div>
       </div>
     </div>
