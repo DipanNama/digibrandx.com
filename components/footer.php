@@ -2,6 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
+                <div class="footer-seo-text text-center text-white mb-4" data-aos="fade-up" data-aos-duration="1000">
+                    <p style="font-size: 14px; color: var(--border-color);"><strong>BS Digital Solutions:</strong> Leading Marketing Consultancy in North Dumdum, West Bengal.</p>
+                </div>
                 <div class="social_list" data-aos="fade-up" data-aos-duration="1000">
                     <ul>
                         <li><a href="https://share.google/eY2NBN46cJBnavWLc" target="_blank" title="Google Search"><i

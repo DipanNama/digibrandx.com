@@ -20,16 +20,10 @@
                                 </div>
                                 <div class="testi-content text-white">
                                     <h5><strong>
-                                            <p><strong>Managing Director:</strong></p>
+                                            <p><strong>Director:</strong></p>
                                         </strong> Mr. Nilesh Avhad, SOMA Universal Logistics </h5>
                                     <p>
-                                    <p>Partnering with
-                                        <?php echo isset($companyName) ? $companyName : 'BS Digital Solutions'; ?> has
-                                        been a game-changer. As a leading branding
-                                        agency, they consistently deliver brands that are thoughtful, distinctive,
-                                        and strategically sound. Every project reflects their deep understanding of
-                                        brand vision and execution, making them a true world-class brand strategy
-                                        agency. Highly recommended for brands aiming to compete at a global level.
+                                    <p>"Bidhan&rsquo;s strategic clarity is rare. <?php echo isset($companyName) ? $companyName : 'BS Digital Solutions'; ?> transformed our brand from a local presence to a global competitor."
                                     </p>
                                     </p>
                                 </div>
@@ -43,15 +37,10 @@
                                 </div>
                                 <div class="testi-content text-white">
                                     <h5><strong>
-                                            <p><strong>Director of Engineering:</strong></p>
+                                            <p><strong>CEO:</strong></p>
                                         </strong> Mr. Satyajit Nath, CrowdStrike </h5>
                                     <p>
-                                    <p style="text-align: left;">Working with
-                                        <?php echo isset($companyName) ? $companyName : 'BS Digital Solutions'; ?> has
-                                        been an exceptional
-                                        experience. As a trusted UI and UX agency, they bring clarity, creativity,
-                                        and strong product thinking to every project. From concept to execution,
-                                        their team knows how to build scalable, high-impact digital experiences.
+                                    <p style="text-align: left;">"The best UI/UX agency we've worked with. They bring product thinking to the design table, not just pretty pictures."
                                     </p>
                                     </p>
                                 </div>

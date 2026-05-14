@@ -6,17 +6,13 @@
                     <div class="row align-items-center">
                         <div class="col-lg-12">
                             <div class="banner-text banner-index text-center">
-                                <h3 class="h2" data-content-key="hero.slides.0.h2">Bridging the Gap</h3>
-                                <h3 class="section-title" data-content-key="hero.slides.0.title">Between Your Brand
-                                    and Your <span>Audience</span>
-                                </h3>
-                                <p data-content-key="hero.slides.0.description">From creative web design to high-
-                                    converting social media campaigns— experience a 360° approach to digital
-                                    growth with Kolkata’s premier marketing consultants
-                                </p>
-                                <div class="text-center mt-4">
-                                    <a href="plans-and-pricing.php" class="right-viewbtn"
-                                        style="width: fit-content; margin: 0 auto; float: none;">Choose Your Plan</a>
+                                <h3 class="h2">Bringing the Gap Between</h3>
+                                <h3 class="section-title">Your Brand and Your <span>Audience</span></h3>
+                                <p>From creative web design to high-converting social media campaigns— experience a 360°
+                                    approach to digital growth with Kolkata’s premier marketing consultants</p>
+                                <div class="text-center mt-2">
+                                    <a href="contact.php" class="right-viewbtn"
+                                        style="width: fit-content; margin: 0 auto; float: none;">Get Started</a>
                                 </div>
                             </div>
                         </div>

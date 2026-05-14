@@ -24,21 +24,20 @@ include 'components/header.php';
                     <div class="price-header">
                         <h3>STARTER PACKAGE</h3>
                         <div class="price-value">₹5,999</div>
-                        <p class="pricing-target">Perfect for startups, local brands, and small businesses ready to go
-                            digital!</p>
+                        <p class="pricing-target">Perfect for startups, local brands, and small businesses ready to go digital!</p>
                     </div>
                     <ul class="price-features">
-                        <li><i class="fas fa-check-circle"></i> Page/Account Creation & Management</li>
-                        <li><i class="fas fa-check-circle"></i> Meta links integration (FB & IG)</li>
-                        <li><i class="fas fa-check-circle"></i> 2 Weekly Posts (Designed & Edited)</li>
-                        <li><i class="fas fa-check-circle"></i> Festival Posts Included</li>
-                        <li><i class="fas fa-check-circle"></i> 2 Promotional Videos/Reels per month</li>
-                        <li><i class="fas fa-check-circle"></i> Captions & Hashtag Research</li>
-                        <li><i class="fas fa-check-circle"></i> 1 Monthly Awareness Campaign</li>
-                        <li><i class="fas fa-check-circle"></i> Monthly Performance Report</li>
+                        <li><i class="fas fa-check-circle"></i> Page/Account Creation & Full Management (Facebook & Instagram)</li>
+                        <li><i class="fas fa-check-circle"></i> Meta links integration (fb & ig)</li>
+                        <li><i class="fas fa-check-circle"></i> 2 weekly posts - professionally designed & edited</li>
+                        <li><i class="fas fa-check-circle"></i> Festival posts included - free</li>
+                        <li><i class="fas fa-check-circle"></i> 2 promotional videos/reels per month (with editing)</li>
+                        <li><i class="fas fa-check-circle"></i> Captions writing, hashtag research & trend analysis</li>
+                        <li><i class="fas fa-check-circle"></i> 1 Monthly Campaign for Higher Reach & Awareness (Setup Included)</li>
+                        <li><i class="fas fa-check-circle"></i> Monthly growth & performance report</li>
                     </ul>
                     <a href="contact.php?budget=₹10,000 - ₹30,000" class="pricing-btn">Get Started</a>
-                    <!-- <p class="pricing-note">Note: GET 5% OFF ON 6-MONTH OR 1-YEAR VENDORSHIP</p> -->
+                    <p class="pricing-note">Note: GET 5% OFF ON EVERY PACKAGE WITH 6-MONTH OR 1-YEAR VENDORSHIP</p>
                 </div>
             </div>
             <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
@@ -61,6 +60,7 @@ include 'components/header.php';
                         <li><i class="fas fa-check-circle"></i> Bi-weekly Performance Review</li>
                     </ul>
                     <a href="contact.php?budget=₹40,000 - ₹80,000" class="pricing-btn">Choose Standard</a>
+                    <p class="pricing-note">Note: GET 5% OFF ON 6-MONTH OR 1-YEAR VENDORSHIP</p>
                 </div>
             </div>
             <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
@@ -82,7 +82,7 @@ include 'components/header.php';
                         <li><i class="fas fa-check-circle"></i> Motion Graphics & Premium Content</li>
                     </ul>
                     <a href="contact.php?budget=₹1,00,000 and Above" class="pricing-btn">Go Premium</a>
-                    <!-- <p class="pricing-note">Note: GET 5% OFF ON 6-MONTH OR 1-YEAR VENDORSHIP</p> -->
+                    <p class="pricing-note">Note: GET 5% OFF ON 6-MONTH OR 1-YEAR VENDORSHIP</p>
                 </div>
             </div>
         </div>

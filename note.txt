@@ -7,7 +7,6 @@
       "details": [
         "Bringing the Gap Between Your Brand and Your Audience",
         "From creative web design to high- converting social media campaigns— experience a 360° approach to digital growth with Kolkata’s premier marketing consultants ",
-        "CTA (Call to Action) Button"
       ]
     },
     {
