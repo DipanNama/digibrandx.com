@@ -119,6 +119,13 @@ $(document).ready(function() {
 
 
     var swiper = new Swiper(".testimonial_area", {
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+        renderBullet: function (index, className) {
+          return '<span class="' + className + '">' + (index + 1) + "</span>";
+        },
+      },
       autoplay: {
         delay: 4000, 
         disableOnInteraction: false,
