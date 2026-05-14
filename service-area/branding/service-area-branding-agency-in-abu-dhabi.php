@@ -175,9 +175,9 @@ include '../../components/cta-branding.php';
           corporate brand aiming for global positioning, we deliver branding that is structured, credible, and scalable.
         </p>
         <h3>Looking for a premium branding agency in Abu Dhabi?</h3>
-        <p>Work with <a href="index.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a> to
+        <p>Work with <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a> to
           build a
-          brand that shows leadership, connects with local culture, and stands out globally.<br /><a href="contact.php"
+          brand that shows leadership, connects with local culture, and stands out globally.<br /><a href="<?php echo $base_path; ?>contact.php"
             target="_blank" rel="noopener"><strong>Let&rsquo;s build a brand</strong></a> that&rsquo;s ready for the
           future.</p>
       </div>

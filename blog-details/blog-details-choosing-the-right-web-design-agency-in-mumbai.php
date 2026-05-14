@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Choosing the Right Professional Web Designing Company
               in Mumbai: 10 Key Considerations</li>
           </ol>
@@ -39,7 +39,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/601BS Digital Solutions is the Best web design company in Mumbai_02.webp"
+      src="<?php echo $base_path; ?>upload/media/601BS Digital Solutions is the Best web design company in Mumbai_02.webp"
       alt="Web Design Process by BS Digital Solutions - Web Design Agency in Mumbai" width="1920" height="992" />
   </section>
   <section class="portfolio-details_sec">
@@ -69,7 +69,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/445BS Digital Solutions is the Best web design company in Mumbai_03.webp"
+      src="<?php echo $base_path; ?>upload/media/445BS Digital Solutions is the Best web design company in Mumbai_03.webp"
       alt="Custom Website Design Solution by BS Digital Solutions - Website Development Company in Mumbai" width="1920"
       height="1262" /></section>
   <section class="portfolio-details_sec">
@@ -97,7 +97,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/161BS Digital Solutions is the Best web design company in Mumbai_04.webp"
+      src="<?php echo $base_path; ?>upload/media/161BS Digital Solutions is the Best web design company in Mumbai_04.webp"
       alt="Corporate Website Process by BS Digital Solutions - Web Design Agency in Mumbai" width="1920" height="729" />
   </section>
   <section class="portfolio-details_sec">
@@ -122,7 +122,7 @@ include '../components/header.php';
             <p>At BS Digital Solutions, we combine creativity and technology to deliver <strong>custom web design
                 solutions</strong> that drive business growth. Whether you need a corporate website, an SEO-optimized
               platform, or a responsive design, we are ready to help you achieve your goals.</p>
-            <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact us today to get
+            <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact us today to get
                   started.</strong></a></p>
           </div>
         </div>

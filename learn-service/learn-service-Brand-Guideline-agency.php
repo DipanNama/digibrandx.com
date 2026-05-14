@@ -35,7 +35,7 @@ include '../components/cta-branding.php';
             inconsistency is bound to happen. Established brands often face diluted messaging, mixed visuals, and uneven
             customer experiences. This isn&rsquo;t due to a lack of talent, but rather the lack of a clear system. Brand
             guidelines address this by providing a single reliable reference. That&rsquo;s why global organizations work
-            with <a href="index.php" target="_blank" rel="noopener"><strong>specialized Brand Guideline agencies
+            with <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>specialized Brand Guideline agencies
               </strong></a>to keep control, consistency, and credibility across every channel.</span></p>
         <h4>The Strategic Purpose of Brand Guidelines Beyond Design</h4>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Many people think brand guidelines are just
@@ -125,7 +125,7 @@ include '../components/cta-branding.php';
         <p>Let BS Digital Solutions help you build a strong, consistent brand. As your trusted brand-guideline agency,
           we develop
           clear strategies to keep your identity unified across every platform. If you want to boost your brand and stay
-          consistent everywhere, <a href="contact.php" target="_blank" rel="noopener"><strong>reach out to
+          consistent everywhere, <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>reach out to
               BS Digital Solutions</strong></a> to make it memorable.</p>
         <p>&nbsp;</p>
       </div>

@@ -30,7 +30,7 @@ include '../components/cta-branding.php';
             goals to ensure clarity, credibility, and strong performance.</span></p>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">In today&rsquo;s digital landscape, a
             website is often the first and most influential brand touchpoint. Partnering with one of the <strong><a
-                href="index.php" target="_blank" rel="noopener">top 10 web design agencies</a>&nbsp;</strong>provides a
+                href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">top 10 web design agencies</a>&nbsp;</strong>provides a
             strategic advantage by enabling seamless user journeys, faster decision-making, and stronger customer
             connections. Effective website design builds trust, increases engagement, and drives measurable results,
             including lead generation, inquiries, and sales, particularly for B2B and D2C brands that rely on digital

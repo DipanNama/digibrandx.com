@@ -33,27 +33,27 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_680-BS Digital Solutions, Branding agency in Parisi_04.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_680-BS Digital Solutions, Branding agency in Parisi_04.webp"
           title="Branding Agency in Paris_01"><img
-          src="upload/news/Id_681-BS Digital Solutions, Branding agency in Parisi_08.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_681-BS Digital Solutions, Branding agency in Parisi_08.webp"
           title="Branding Agency in Paris_02">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_682-BS Digital Solutions, Branding agency in Parisi_07.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_682-BS Digital Solutions, Branding agency in Parisi_07.webp"
           title="Branding Agency in Paris_03"><img
-          src="upload/news/Id_683-BS Digital Solutions, Branding agency in Parisi_01.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_683-BS Digital Solutions, Branding agency in Parisi_01.webp"
           title="Branding Agency in Paris_04">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_684-BS Digital Solutions, Branding agency in Parisi_03.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_684-BS Digital Solutions, Branding agency in Parisi_03.webp"
           title="Branding Agency in Paris_05"><img
-          src="upload/news/Id_685-BS Digital Solutions, Branding agency in Parisi_06.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_685-BS Digital Solutions, Branding agency in Parisi_06.webp"
           title="Branding Agency in Paris_06">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_686-BS Digital Solutions, Branding agency in Parisi_05.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_686-BS Digital Solutions, Branding agency in Parisi_05.webp"
           title="Branding Agency in Paris_07"><img
-          src="upload/news/0ip1tij1k5k5hqpufqsbtcbtv3_BS Digital SolutionsBrandingagencyinParisi02.webp"
+          src="<?php echo $base_path; ?>upload/news/0ip1tij1k5k5hqpufqsbtcbtv3_BS Digital SolutionsBrandingagencyinParisi02.webp"
           title="Branding Agency in Paris_08"></div>
     </div>
   </section>
@@ -123,7 +123,7 @@ include '../../components/cta-branding.php';
           globally.</p>
         <h3>Why Should Businesses Partner With an Online Marketing Agency Paris?</h3>
         <p>In competitive European and global markets, clarity and differentiation are essential. The <a
-            href="index.php" target="_blank" rel="noopener"><strong>best creative advertising agency in Paris
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>best creative advertising agency in Paris
             </strong></a>helps businesses define their identity, values, and purpose. Whether you are a startup entering
           France or an established organization refining your brand, strategic branding ensures consistency and builds
           audience trust. <strong>BS Digital Solutions aligns purpose, positioning</strong>, and performance to create
@@ -166,7 +166,7 @@ include '../../components/cta-branding.php';
           expertise in
           luxury, business, and global growth, BS Digital Solutions delivers brands built for relevance, resilience, and
           recognition.</p>
-        <h3><a href="contact.php" target="_blank" rel="noopener">Let&rsquo;s Shape </a>a Powerful Brand Strategy
+        <h3><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Let&rsquo;s Shape </a>a Powerful Brand Strategy
           Designed for Paris and Global Markets</h3>
       </div>
     </div>

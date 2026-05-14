@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">How to Choose the Right Branding Agency in Singapore
               for Your Business</li>
           </ol>
@@ -43,7 +43,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/163BS Digital Solutions is the Best branding Agency in Singapore_02.webp"
+      src="<?php echo $base_path; ?>upload/media/163BS Digital Solutions is the Best branding Agency in Singapore_02.webp"
       alt="Brand Strategy Development by BS Digital Solutions" width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -131,7 +131,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/617BS Digital Solutions is the Best branding Agency in Singapore_03.webp"
+      src="<?php echo $base_path; ?>upload/media/617BS Digital Solutions is the Best branding Agency in Singapore_03.webp"
       alt="Creative Branding Solutions from BS Digital Solutions" width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -194,7 +194,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/327BS Digital Solutions is the Best branding Agency in Singapore_04.webp"
+      src="<?php echo $base_path; ?>upload/media/327BS Digital Solutions is the Best branding Agency in Singapore_04.webp"
       alt="corporate Branding Solutions from BS Digital Solutions" width="1920" height="1049" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -234,7 +234,7 @@ include '../components/header.php';
             <h3><span>Looking to elevate your brand in Singapore?</span></h3>
             <p><span>Partner with a creative branding agency that blends strategy, design, and storytelling to deliver
                 impact. From brand identity to digital campaigns, we help you stand out and grow confidently.
-                Let&rsquo;s build a brand that connects, converts, and lasts. <strong><a href="contact.php"
+                Let&rsquo;s build a brand that connects, converts, and lasts. <strong><a href="<?php echo $base_path; ?>contact.php"
                     target="_blank" rel="noopener">Contact us today.</a></strong></span></p>
           </div>
         </div>

@@ -135,7 +135,7 @@ include '../components/cta-branding.php';
             interactive, and aligned with strategic objectives. </span><span
             style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">shboard
             solutions. We approach dashboard design as a collaborative process that aligns stakeholders, technical
-            teams, and business objectives. As a</span><a href="index.php" target="_blank" rel="noopener"><strong
+            teams, and business objectives. As a</span><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong
               style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
               best dashboard design agency</strong></a><span
             style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">,

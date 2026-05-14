@@ -47,7 +47,7 @@ include '../components/cta-branding.php';
             informs design. This approach ensures branding decisions are intentional. Skipping discovery weakens
             strategy and reduces long-term brand value.</span></p>
         <h3>How BS Digital Solutions Approaches Brand Discovery as a Strategic Branding Agency</h3>
-        <p>BS Digital Solutions is not just a design studio&mdash;we operate as a<a href="index.php" target="_blank"
+        <p>BS Digital Solutions is not just a design studio&mdash;we operate as a<a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"> <strong>brand discovery agency</strong></a> and brand strategy agency. We believe strong
           brands are built from insight, not instinct. Our branding agency's brand discovery approach is structured,
           collaborative, and research-driven. We work closely with founders, leadership teams, and key stakeholders to
@@ -121,7 +121,7 @@ include '../components/cta-branding.php';
             brands.</span></p>
         <p><strong><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Build clarity, consistency, and
               competitive advantage.</span></strong></p>
-        <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><a href="contact.php" target="_blank"
+        <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><a href="<?php echo $base_path; ?>contact.php" target="_blank"
               rel="noopener"><strong>Partner with BS Digital Solutions</strong></a> to enhance your brand
             foundation.</span></p>
         <p>&nbsp;</p>

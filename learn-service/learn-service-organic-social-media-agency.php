@@ -93,7 +93,7 @@ include '../components/cta-branding.php';
           connections, encourages engagement, and increases brand loyalty. A strong organic presence keeps your business
           relevant and connected to your community. Over time, this means you rely less on paid ads and can lower
           customer acquisition costs, as your content keeps working for you long after it's posted.</p>
-        <p><span><strong><a href="index.php" target="_blank" rel="noopener">Affordable social media marketing
+        <p><span><strong><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">Affordable social media marketing
                 services</a> </strong></span>also help improve SEO and digital performance. More visibility can bring
           more visitors to your website and boost your search rankings. At BS Digital Solutions, we combine organic
           social media,
@@ -107,7 +107,7 @@ include '../components/cta-branding.php';
         <p>Ready to elevate your brand with organic social media? Let BS Digital Solutions help you build trust, engage
           your
           audience, and drive long-term growth. Our expert team crafts personalized, sustainable social media strategies
-          that deliver results. <a href="contact.php" target="_blank" rel="noopener"><strong>Connect with us
+          that deliver results. <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Connect with us
               today</strong></a> to start growing your brand organically. Reach out for a consultation.</p>
       </div>
     </div>

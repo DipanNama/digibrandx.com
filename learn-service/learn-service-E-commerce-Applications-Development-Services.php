@@ -82,7 +82,7 @@ include '../components/cta-branding.php';
           quality work on time and within your budget. An agency that keeps up with new trends will help your platform
           stay ahead of the competition.</p>
         <h3>Why BS Digital Solutions Is the E-commerce Application Development Agency to Grow Your Business</h3>
-        <p>BS Digital Solutions is a trusted <a href="index.php" target="_blank" rel="noopener"><strong>e-commerce
+        <p>BS Digital Solutions is a trusted <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>e-commerce
               application
               development company</strong></a> with years of experience building custom, high-performing online stores.
           We provide a complete range of services, from planning and design to development and ongoing support. Our
@@ -93,7 +93,7 @@ include '../components/cta-branding.php';
         <p>Are you ready to grow your online store? Work with BS Digital Solutions to build a custom solution that fits
           your
           business and makes your customers happy. Whether you need to hire developers or want a complete e-commerce
-          platform, we can help. <a href="contact.php" target="_blank" rel="noopener"><strong>Get in touch
+          platform, we can help. <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Get in touch
             </strong></a>with us today to talk about your project and start building your e-commerce future.</p>
       </div>
     </div>

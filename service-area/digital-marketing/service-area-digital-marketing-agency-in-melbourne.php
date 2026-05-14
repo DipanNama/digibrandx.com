@@ -99,7 +99,7 @@ include '../../components/cta-branding.php';
         <h1>Which brands trust the Top 10 Digital Marketing Agencies in Melbourne to build resilient, market-ready
           digital growth strategies today?</h1>
         <div>
-          <p>At BS Digital Solutions, we are the <a href="index.php" target="_blank" rel="noopener"><strong>best
+          <p>At BS Digital Solutions, we are the <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>best
                 digital
                 marketing company in Melbourne</strong></a> with a deep understanding of the local market. Through
             thorough research and market analysis, we identify your brand&rsquo;s unique challenges and opportunities.

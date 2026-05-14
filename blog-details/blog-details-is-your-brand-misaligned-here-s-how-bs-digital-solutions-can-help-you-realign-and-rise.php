@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Is Your Brand Misaligned? Here&#39;s How BS Digital
               Solutions
               Can Help You Realign and Rise</li>
@@ -50,7 +50,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/440BS Digital Solutions, branding consulting agency in Dubai market_02.webp"
+      src="<?php echo $base_path; ?>upload/media/440BS Digital Solutions, branding consulting agency in Dubai market_02.webp"
       alt="Brand consulting services by BS Digital Solutions in Dubai" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -93,7 +93,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/945BS Digital Solutions, branding consulting agency in Dubai market_03.webp"
+      src="<?php echo $base_path; ?>upload/media/945BS Digital Solutions, branding consulting agency in Dubai market_03.webp"
       alt="Powerful brand experience design by BS Digital Solutions, Dubai" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -148,7 +148,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/839BS Digital Solutions, branding consulting agency in Dubai market_04.webp"
+      src="<?php echo $base_path; ?>upload/media/839BS Digital Solutions, branding consulting agency in Dubai market_04.webp"
       alt="Global branding agency BS Digital Solutions in Dubai" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -192,7 +192,7 @@ include '../components/header.php';
                 href="https://www.bs-digital-solutions.com" target="_blank" rel="noopener"><strong>best ad agencies in
                   Dubai</strong>,</a> we deliver global solutions that resonate with your audience, elevate your
               business, and set you apart in a competitive market.</p>
-            <p>Ready to realign and grow? <a href="contact.php" target="_blank" rel="noopener"><strong>Contact
+            <p>Ready to realign and grow? <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact
                   BS Digital Solutions today</strong></a> to transform your brand into a powerful asset that drives your
               business
               forward.</p>

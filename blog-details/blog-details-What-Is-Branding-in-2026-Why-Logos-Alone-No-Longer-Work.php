@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">What makes the top branding companies in Dubai stand
               out in 2026, beyond just logo design?</li>
           </ol>
@@ -47,7 +47,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/464Branding agency in Dunai_04.webp"
+      src="<?php echo $base_path; ?>upload/media/464Branding agency in Dunai_04.webp"
       alt="branding in 2026 focused on emotional brand experience" width="1920" height="2859" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -74,7 +74,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/949Branding agency in Dunai_02.webp" alt="Dubai branding agency building future-ready brands"
+      src="<?php echo $base_path; ?>upload/media/949Branding agency in Dunai_02.webp" alt="Dubai branding agency building future-ready brands"
       width="1920" height="1440" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -99,7 +99,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/214Branding agency in Dunai_01.webp" alt="brand strategy agency in Dubai for global businesses"
+      src="<?php echo $base_path; ?>upload/media/214Branding agency in Dunai_01.webp" alt="brand strategy agency in Dubai for global businesses"
       width="1920" height="1365" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -134,7 +134,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/42Branding agency in Dunai_05.webp" alt="modern branding beyond logo design in Dubai"
+      src="<?php echo $base_path; ?>upload/media/42Branding agency in Dunai_05.webp" alt="modern branding beyond logo design in Dubai"
       width="1920" height="1357" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -158,7 +158,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/776Branding agency in Dunai_06.webp"
+      src="<?php echo $base_path; ?>upload/media/776Branding agency in Dunai_06.webp"
       alt="creative branding agency in Dubai shaping brand identity" width="1920" height="1280" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -180,7 +180,7 @@ include '../components/header.php';
             <p>Because in 2026, branding isn&rsquo;t about looking good.<br />It&rsquo;s about feeling right.</p>
             <p><strong>Are you looking to strengthen your brand in 2026? </strong>Work with Dubai&rsquo;s top branding
               agency to develop an identity that truly connects with your audience. We focus on strategy and emotion to
-              help your brand stand out for years to come. <a href="contact.php" target="_blank"
+              help your brand stand out for years to come. <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                 rel="noopener"><strong>Get in touch</strong></a> with us to start your brand&rsquo;s transformation.</p>
           </div>
         </div>

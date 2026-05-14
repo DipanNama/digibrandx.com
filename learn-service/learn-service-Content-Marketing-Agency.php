@@ -25,7 +25,7 @@ include '../components/cta-branding.php';
           interested, and encourages them to take action&mdash;without pushing for a sale. Instead of using traditional
           ads, content marketing helps brands connect with people by offering relevant information and education. This
           approach supports goals like building brand awareness, generating leads, and keeping customers coming back. At
-          BS Digital Solutions, a <a href="index.php"><strong>content marketing agency</strong></a>, we see it as a key
+          BS Digital Solutions, a <a href="<?php echo $base_path; ?>index.php"><strong>content marketing agency</strong></a>, we see it as a key
           way to
           build brand authority and earn customer loyalty.</p>
         <p>At BS Digital Solutions, we help brands get noticed online by creating smart, <strong>SEO-friendly content
@@ -96,7 +96,7 @@ include '../components/cta-branding.php';
           creation, SEO, and social media, <strong>BS Digital Solutions is your ideal partner.</strong></p>
         <p>Ready to elevate your content marketing? Let BS Digital Solutions guide you toward sustainable growth,
           stronger brand
-          recognition, and greater customer loyalty. <a href="contact.php" target="_blank"
+          recognition, and greater customer loyalty. <a href="<?php echo $base_path; ?>contact.php" target="_blank"
             rel="noopener"><strong>Contact us today </strong></a>to get started.</p>
         <p>&nbsp;</p>
       </div>

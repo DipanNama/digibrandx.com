@@ -31,20 +31,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_509-BS Digital Solutions, branding agency in Boston_08.webp" title="Boston"><img
-          src="upload/news/Id_510-BS Digital Solutions, branding agency in Boston_01.webp" title="Boston">
+          src="<?php echo $base_path; ?>upload/news/Id_509-BS Digital Solutions, branding agency in Boston_08.webp" title="Boston"><img
+          src="<?php echo $base_path; ?>upload/news/Id_510-BS Digital Solutions, branding agency in Boston_01.webp" title="Boston">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_511-BS Digital Solutions, branding agency in Boston_03.webp" title="Boston"><img
-          src="upload/news/Id_512-BS Digital Solutions, branding agency in Boston_07.webp" title="Boston">
+          src="<?php echo $base_path; ?>upload/news/Id_511-BS Digital Solutions, branding agency in Boston_03.webp" title="Boston"><img
+          src="<?php echo $base_path; ?>upload/news/Id_512-BS Digital Solutions, branding agency in Boston_07.webp" title="Boston">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_514-BS Digital Solutions, branding agency in Boston_06.webp" title="Boston"><img
-          src="upload/news/Id_513-BS Digital Solutions, branding agency in Boston_02.webp" title="Boston">
+          src="<?php echo $base_path; ?>upload/news/Id_514-BS Digital Solutions, branding agency in Boston_06.webp" title="Boston"><img
+          src="<?php echo $base_path; ?>upload/news/Id_513-BS Digital Solutions, branding agency in Boston_02.webp" title="Boston">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_516-BS Digital Solutions, branding agency in Boston_04.webp" title="Boston"><img
-          src="upload/news/Id_515-BS Digital Solutions, branding agency in Boston_05.webp" title="Boston">
+          src="<?php echo $base_path; ?>upload/news/Id_516-BS Digital Solutions, branding agency in Boston_04.webp" title="Boston"><img
+          src="<?php echo $base_path; ?>upload/news/Id_515-BS Digital Solutions, branding agency in Boston_05.webp" title="Boston">
       </div>
     </div>
   </section>
@@ -201,7 +201,7 @@ include '../../components/cta-branding.php';
         <p>Our experience across industries and business sizes makes us a strong partner for organizations seeking
           strategic clarity and creative execution.</p>
         <h3>Ready to Transform Your Brand?</h3>
-        <p><strong>At <a href="index.php" target="_blank" rel="noopener">BS Digital Solutions</a>,</strong> we help
+        <p><strong>At <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">BS Digital Solutions</a>,</strong> we help
           Boston
           businesses stand out, grow, and thrive. Whether you need startup branding, corporate rebranding, or a global
           brand identity, we are committed to your success. <strong>Your brand for future growth</strong>.</p>

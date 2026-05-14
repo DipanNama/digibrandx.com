@@ -31,20 +31,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_501-BS Digital Solutions, branding agency in Austin_01.webp" title="Austin"><img
-          src="upload/news/Id_502-BS Digital Solutions, branding agency in Austin_08.webp" title="Austin">
+          src="<?php echo $base_path; ?>upload/news/Id_501-BS Digital Solutions, branding agency in Austin_01.webp" title="Austin"><img
+          src="<?php echo $base_path; ?>upload/news/Id_502-BS Digital Solutions, branding agency in Austin_08.webp" title="Austin">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_503-BS Digital Solutions, branding agency in Austin_07.webp" title="Austin"><img
-          src="upload/news/Id_504-BS Digital Solutions, branding agency in Austin_02.webp" title="Austin">
+          src="<?php echo $base_path; ?>upload/news/Id_503-BS Digital Solutions, branding agency in Austin_07.webp" title="Austin"><img
+          src="<?php echo $base_path; ?>upload/news/Id_504-BS Digital Solutions, branding agency in Austin_02.webp" title="Austin">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_505-BS Digital Solutions, branding agency in Austin_03.webp" title="Austin"><img
-          src="upload/news/Id_506-BS Digital Solutions, branding agency in Austin_06.webp" title="Austin">
+          src="<?php echo $base_path; ?>upload/news/Id_505-BS Digital Solutions, branding agency in Austin_03.webp" title="Austin"><img
+          src="<?php echo $base_path; ?>upload/news/Id_506-BS Digital Solutions, branding agency in Austin_06.webp" title="Austin">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_507-BS Digital Solutions, branding agency in Austin_05.webp" title="Austin"><img
-          src="upload/news/Id_508-BS Digital Solutions, branding agency in Austin_04.webp" title="Austin">
+          src="<?php echo $base_path; ?>upload/news/Id_507-BS Digital Solutions, branding agency in Austin_05.webp" title="Austin"><img
+          src="<?php echo $base_path; ?>upload/news/Id_508-BS Digital Solutions, branding agency in Austin_04.webp" title="Austin">
       </div>
     </div>
   </section>
@@ -151,7 +151,7 @@ include '../../components/cta-branding.php';
         <h4>Digital Marketing Agency in Austin, Focused on Business-Driven Strategy</h4>
         <p>Effective digital marketing begins with a strong strategy. We recognize that each business has unique goals,
           challenges, and audiences, so we develop business-driven strategies tailored to your specific needs.</p>
-        <p>As a <a href="index.php" target="_blank" rel="noopener"><strong>leading digital marketing agency in
+        <p>As a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>leading digital marketing agency in
               Austin</strong></a>, we offer a comprehensive range of services to support business growth. From SEO to
           viral marketing, our solutions are designed to attract visitors and convert them into loyal customers. Our
           customized approach aligns every tactic with your business objectives for sustained success.</p>
@@ -195,7 +195,7 @@ include '../../components/cta-branding.php';
             marketing agency in Austin</strong>. From SEO and viral marketing to email campaigns and affiliate
           marketing, we have the tools and expertise to help your business thrive.
         </p>
-        <p><strong><a href="contact.php" target="_blank" rel="noopener">Contact us today</a> </strong>to schedule a
+        <p><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Contact us today</a> </strong>to schedule a
           free consultation and learn how our customized, ROI-driven digital marketing strategies can elevate your
           brand.</p>
       </div>

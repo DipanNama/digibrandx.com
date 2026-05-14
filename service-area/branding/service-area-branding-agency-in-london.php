@@ -31,20 +31,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_579-BS Digital Solutions, branding agency in London_01.webp" title="London"><img
-          src="upload/news/Id_580-BS Digital Solutions, branding agency in London_02.webp" title="London">
+          src="<?php echo $base_path; ?>upload/news/Id_579-BS Digital Solutions, branding agency in London_01.webp" title="London"><img
+          src="<?php echo $base_path; ?>upload/news/Id_580-BS Digital Solutions, branding agency in London_02.webp" title="London">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_581-BS Digital Solutions, branding agency in London_04.webp" title="London"><img
-          src="upload/news/Id_582-BS Digital Solutions, branding agency in London_03.webp" title="London">
+          src="<?php echo $base_path; ?>upload/news/Id_581-BS Digital Solutions, branding agency in London_04.webp" title="London"><img
+          src="<?php echo $base_path; ?>upload/news/Id_582-BS Digital Solutions, branding agency in London_03.webp" title="London">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_584-BS Digital Solutions, branding agency in London_05.webp" title="London"><img
-          src="upload/news/Id_583-BS Digital Solutions, branding agency in London_06.webp" title="London">
+          src="<?php echo $base_path; ?>upload/news/Id_584-BS Digital Solutions, branding agency in London_05.webp" title="London"><img
+          src="<?php echo $base_path; ?>upload/news/Id_583-BS Digital Solutions, branding agency in London_06.webp" title="London">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_586-BS Digital Solutions, branding agency in London_08.webp" title="London"><img
-          src="upload/news/Id_585-BS Digital Solutions, branding agency in London_07.webp" title="London">
+          src="<?php echo $base_path; ?>upload/news/Id_586-BS Digital Solutions, branding agency in London_08.webp" title="London"><img
+          src="<?php echo $base_path; ?>upload/news/Id_585-BS Digital Solutions, branding agency in London_07.webp" title="London">
       </div>
     </div>
   </section>
@@ -186,7 +186,7 @@ include '../../components/cta-branding.php';
             corporate,</strong> or global enterprise, we help you build a credible, competitive, and future-ready
           brand.nd future-ready.</p>
         <p><strong>Build a brand designed for London&rsquo;s market&mdash;with strategy at its core.</strong></p>
-        <p>Partner with <a href="index.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>, a
+        <p>Partner with <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>, a
           branding
           agency focused on clarity, consistency, and measurable growth.</p>
       </div>

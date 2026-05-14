@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-branding.php">Branding</a></li>
             <li class="breadcrumb-item active" aria-current="page">UBQ Technologies I IT Branding</li>
           </ol>
@@ -31,18 +31,18 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/427Frame-3.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/427Frame-3.jpg"
       alt="UBQ Technologies global IT solutions brand logo" width="1920" height="2859" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/861Business-Card-(EU).jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/861Business-Card-(EU).jpg"
       alt="UBQ Technologies information technology branding logo" width="1920" height="1440" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/616Mug_08.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/616Mug_08.jpg" alt="" width="1920"
       height="1365" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/847Office_04.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/847Office_04.jpg"
       alt="UBQ Technologies information technology branding office" width="1920" height="1357" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/747Office_07.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/747Office_07.jpg" alt=""
       width="1920" height="1357" /></section>
   <section class="port-img-sec"><img class="img-fluid fullscreen"
-      src="upload/media/836vecteezy_public-shopping-center-mall-or-business-center-advertisement_22456052.jpg" alt=""
+      src="<?php echo $base_path; ?>upload/media/836vecteezy_public-shopping-center-mall-or-business-center-advertisement_22456052.jpg" alt=""
       width="1920" height="1280" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -157,7 +157,7 @@ include '../components/header.php';
               offers the
               expertise you need.</p>
             <p>Stop the search for a 360 branding agency for IT company and start your journey with the experts. <a
-                href="contact.php" target="_blank" rel="noopener"><strong>Let BS Digital Solutions</strong></a> be the
+                href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Let BS Digital Solutions</strong></a> be the
               creative
               branding agency for IT firm success that helps you lead the next tech revolution.</p>
           </div>

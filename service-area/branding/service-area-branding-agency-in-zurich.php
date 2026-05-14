@@ -132,7 +132,7 @@ include '../../components/cta-branding.php';
         <p>For growing businesses, we create brand systems that evolve with you. We ensure that as you expand, your
           brand remains consistent, adaptable, and true to its core mission.</p>
         <h3>Why Hire BS Digital Solutions as Your Branding Agency in Zurich?</h3>
-        <p>BS Digital Solutions is a <a href="index.php"><strong>creative advertising agency in
+        <p>BS Digital Solutions is a <a href="<?php echo $base_path; ?>index.php"><strong>creative advertising agency in
               Zurich</strong></a>&nbsp;known
           for results-driven solutions. Whether you need brand identity, <a
             href="../../portfolio/portfolio-branding-steel-manufacturing-branding-Amos.php" target="_blank"
@@ -144,7 +144,7 @@ include '../../components/cta-branding.php';
         <h3>Ready to Transform Your Brand?</h3>
         <p>If you&rsquo;re ready to establish a trusted, scalable, and competitive brand,<strong> </strong>BS Digital
           Solutions is
-          your reliable Zurich branding agency. <a href="contact.php" target="_blank" rel="noopener"><strong>Contact us
+          your reliable Zurich branding agency. <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact us
               today </strong></a>to begin your branding journey.</p>
       </div>
     </div>

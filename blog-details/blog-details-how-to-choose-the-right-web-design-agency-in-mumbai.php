@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">How can a web development agency in Mumbai help your
               business create a strong online presence?</li>
           </ol>
@@ -50,7 +50,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/804BS Digital Solutions is the Best web design Agency in Mumbai_02.webp"
+      src="<?php echo $base_path; ?>upload/media/804BS Digital Solutions is the Best web design Agency in Mumbai_02.webp"
       alt="Creative SEO friendly web design by BS Digital Solutions Mumbai" width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -90,7 +90,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/533BS Digital Solutions is the Best web design Agency in Mumbai_03.webp"
+      src="<?php echo $base_path; ?>upload/media/533BS Digital Solutions is the Best web design Agency in Mumbai_03.webp"
       alt="Professional corporate website design agency in Mumbai" width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -115,7 +115,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/192BS Digital Solutions is the Best web design Agency in Mumbai_04.webp"
+      src="<?php echo $base_path; ?>upload/media/192BS Digital Solutions is the Best web design Agency in Mumbai_04.webp"
       alt="Website development agency in Mumbai working on modern UI" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -138,7 +138,7 @@ include '../components/header.php';
                 strong SEO performance</strong>. At BS Digital Solutions, we use over 20 years of experience to build
               websites
               that look great and help your business grow. Want a digital presence that&rsquo;s ready for the future?
-              Reach out to BS Digital Solutions and<strong> <a href="contact.php" target="_blank"
+              Reach out to BS Digital Solutions and<strong> <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                   rel="noopener">let&rsquo;s make
                   something great together</a></strong>.</p>
           </div>

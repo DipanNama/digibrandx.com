@@ -1,18 +1,32 @@
 <?php
-// Determine the base path relative to the project root
-// Assuming the project root is 'html_site'
-$current_path = $_SERVER['PHP_SELF'];
-$path_parts = explode('/', trim($current_path, '/'));
+/**
+ * Dynamic Base Path Calculation
+ * This script determines the relative path from the current page to the project root.
+ * It works by comparing the filesystem path of the calling script to the project root.
+ */
 
-// Find the index of 'html_site' in the path
-$root_index = array_search('html_site', $path_parts);
+// The root directory is the parent of the 'components' directory where this file resides
+$project_root = realpath(__DIR__ . '/..');
 
-if ($root_index !== false) {
-    // Correct depth: total parts - (index of root + 1 for root itself + 1 for the filename)
-    $depth = count($path_parts) - $root_index - 2;
-    $base_path = ($depth > 0) ? str_repeat('../', $depth) : '';
-} else {
-    // Fallback if 'html_site' is not in the path (e.g. hosted at domain root)
-    $base_path = ''; 
-}
+// The absolute path to the script being executed
+$current_script = realpath($_SERVER['SCRIPT_FILENAME']);
+
+// Normalize slashes for cross-platform compatibility
+$project_root = str_replace('\\', '/', $project_root);
+$current_script = str_replace('\\', '/', $current_script);
+
+// Determine the depth by comparing the paths
+// We count how many directories are between the project root and the current script
+$root_parts = explode('/', trim($project_root, '/'));
+$script_parts = explode('/', trim($current_script, '/'));
+
+// The number of levels deep is the difference in path segments
+// (minus 1 because script_parts includes the filename itself)
+$depth = count($script_parts) - count($root_parts) - 1;
+
+// Ensure depth is not negative
+$depth = max(0, $depth);
+
+// Build the base path prefix
+$base_path = ($depth > 0) ? str_repeat('../', $depth) : '';
 ?>

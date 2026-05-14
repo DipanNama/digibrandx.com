@@ -11,7 +11,7 @@ include 'components/header.php';
             <div class="row">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Global 360-Degree Advertising Solutions
                             by BS Digital Solutions: Transforming Brands Across the World</li>
                     </ol>
@@ -21,7 +21,7 @@ include 'components/header.php';
                         World</h1>
                     <p>
                     <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">BS Digital Solutions is
-                            a&nbsp;<a href="index.php" target="_blank" rel="noopener"><strong>global branding
+                            a&nbsp;<a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>global branding
                                     agency</strong></a><strong>&nbsp;</strong>serving ambitious brands in cities
                             including Mumbai, Delhi NCR, Bengaluru, Dubai, London, New York, and Singapore. We combine
                             brand strategy, web and UI/UX design, corporate films, digital marketing, and social media

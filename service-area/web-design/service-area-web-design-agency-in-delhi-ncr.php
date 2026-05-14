@@ -32,17 +32,17 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_662-BS Digital Solutions, web design agency in Delhi_02.webp" title="Web_Delho_01"><img
-          src="upload/news/Id_663-BS Digital Solutions, web design agency in Delhi_08.webp" title="Web_Delho_02"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_662-BS Digital Solutions, web design agency in Delhi_02.webp" title="Web_Delho_01"><img
+          src="<?php echo $base_path; ?>upload/news/Id_663-BS Digital Solutions, web design agency in Delhi_08.webp" title="Web_Delho_02"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_664-BS Digital Solutions, web design agency in Delhi_07.webp" title="Web_Delho_03"><img
-          src="upload/news/Id_665-BS Digital Solutions, web design agency in Delhi_01.webp" title="Web_Delho_04"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_664-BS Digital Solutions, web design agency in Delhi_07.webp" title="Web_Delho_03"><img
+          src="<?php echo $base_path; ?>upload/news/Id_665-BS Digital Solutions, web design agency in Delhi_01.webp" title="Web_Delho_04"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_666-BS Digital Solutions, web design agency in Delhi_03.webp" title="Web_Delho_05"><img
-          src="upload/news/Id_667-BS Digital Solutions, web design agency in Delhi_06.webp" title="Web_Delho_06"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_666-BS Digital Solutions, web design agency in Delhi_03.webp" title="Web_Delho_05"><img
+          src="<?php echo $base_path; ?>upload/news/Id_667-BS Digital Solutions, web design agency in Delhi_06.webp" title="Web_Delho_06"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_668-BS Digital Solutions, web design agency in Delhi_05.webp" title="Web_Delho_07"><img
-          src="upload/news/Id_669-BS Digital Solutions, web design agency in Delhi_04.webp" title="Web_Delho_08"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_668-BS Digital Solutions, web design agency in Delhi_05.webp" title="Web_Delho_07"><img
+          src="<?php echo $base_path; ?>upload/news/Id_669-BS Digital Solutions, web design agency in Delhi_04.webp" title="Web_Delho_08"></div>
     </div>
   </section>
   <?php 
@@ -147,7 +147,7 @@ include '../../components/cta-branding.php';
             style="box-sizing: border-box; margin: 0px; padding: 0px;"><strong>Top web development companies in
               Delhi</strong> choose the right one to stand out.</span>&nbsp;An experienced agency provides valuable
           insights, creative solutions, and technical expertise to help your website attract and convert visitors.</p>
-        <p>BS Digital Solutions is the <a href="index.php" target="_blank" rel="noopener"><strong>best website
+        <p>BS Digital Solutions is the <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>best website
               development
               company in Delhi NCR</strong></a>, providing comprehensive services beyond traditional design. We offer
           responsive design, web development, strategic branding, and SEO integration to create websites that are
@@ -180,7 +180,7 @@ include '../../components/cta-branding.php';
           choice for businesses seeking to make an impact online.</p>
         <h3>Get Started with BS Digital Solutions Today</h3>
         <p><strong>Ready to elevate your online presence? </strong></p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong>,</a> a
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong>,</a> a
           premier
           <strong>web design agency in Delhi</strong>, to transform your business website into a powerful digital asset.
           Whether you are starting fresh or updating an existing site, our team will guide you through every step.

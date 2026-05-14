@@ -69,7 +69,7 @@ include '../components/cta-branding.php';
         <h3>Paid Social Media for Lead Generation and Business Growth</h3>
         <p>Paid social media is a powerful tool for lead generation. With advanced targeting, social platforms help
           businesses reach users who are most likely to become customers. At BS Digital Solutions, our <a
-            href="index.php" target="_blank" rel="noopener"><strong>social media advertising services</strong></a>
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>social media advertising services</strong></a>
           build lead-generation
           funnels that use creative ads, optimized landing pages, and seamless CRM processes to make it easy for people
           to convert. By connecting ad content with a strong follow-up experience, we help your business grow by
@@ -113,7 +113,7 @@ include '../components/cta-branding.php';
         <p>Are you looking to grow your brand with effective paid social media campaigns? At BS Digital Solutions, we
           create ads
           that help you connect with your audience, get more leads, and see better results. We can help you share the
-          right message with the right people when it matters most. Reach out to us today, and <a href="contact.php"
+          right message with the right people when it matters most. Reach out to us today, and <a href="<?php echo $base_path; ?>contact.php"
             target="_blank" rel="noopener"><strong>let&rsquo;s get started </strong></a>on your growth.</p>
       </div>
     </div>

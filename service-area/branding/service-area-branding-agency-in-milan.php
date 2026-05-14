@@ -102,7 +102,7 @@ include '../../components/cta-branding.php';
           branding brings together strategy, positioning, identity, tone of voice, storytelling, <strong>digital
             presence</strong>, and customer experience. <strong>best agencies</strong> align creativity with business
           goals, ensuring your brand stays consistent across all channels, including campaigns, e-commerce, social
-          media, and digital ads. <a href="index.php" target="_blank" rel="noopener"><strong>BS Digital Solutions is a
+          media, and digital ads. <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>BS Digital Solutions is a
               full-service partner</strong></a> that builds brand systems for lasting growth, not just quick wins.</p>
         <h3>Fashion and Lifestyle Branding in Milan&rsquo;s Competitive Ecosystem</h3>
         <p>Fashion and lifestyle brands in Milan work in one of the world&rsquo;s toughest markets. Great visuals are a

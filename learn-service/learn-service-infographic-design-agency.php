@@ -51,7 +51,7 @@ include '../components/cta-branding.php';
         <h3>Why Corporate Brands Rely on Infographics</h3>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Corporate brands require clarity,
             credibility, and efficient communication. Infographics present reports, insights, processes, and data in a
-            structured, visually engaging format. BS Digital Solutions, a <a href="index.php" target="_blank"
+            structured, visually engaging format. BS Digital Solutions, a <a href="<?php echo $base_path; ?>index.php" target="_blank"
               rel="noopener"><strong>design agency,</strong></a> helps brands communicate complex information, such as
             market insights, performance metrics, product processes, and strategic roadmaps, without overwhelming
             audiences. Infographics enable decision-makers to quickly and confidently absorb information.</span></p>

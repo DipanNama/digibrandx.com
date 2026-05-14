@@ -141,7 +141,7 @@ include '../../components/cta-branding.php';
         <p>&nbsp;</p>
         <h3>Looking for a Web Design and Development Agency in Dallas?</h3>
         <p>At BS Digital Solutions, we have a deep understanding of the Dallas market.&nbsp;<span
-            style="box-sizing: border-box; margin: 0px; padding: 0px;"><strong><a href="index.php" target="_blank"
+            style="box-sizing: border-box; margin: 0px; padding: 0px;"><strong><a href="<?php echo $base_path; ?>index.php" target="_blank"
                 rel="noopener">Web design and development agency Dallas</a>,&nbsp;</strong>our creative, results-driven
             approach supports business growth for startups and established enterprises alike.</span>&nbsp;We deliver
           tailored solutions that reflect your brand identity and achieve measurable outcomes. Our expertise includes
@@ -196,7 +196,7 @@ include '../../components/cta-branding.php';
             agency Dallas, </strong>whether you need local web design services or a BS Digital Solutions, is your
           trusted partner.
         </p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Connect with us today</strong></a> and let
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Connect with us today</strong></a> and let
           BS Digital Solutions fuel your brand with a website that makes an impact!</p>
       </div>
     </div>

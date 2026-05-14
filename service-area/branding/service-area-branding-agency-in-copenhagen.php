@@ -79,7 +79,7 @@ include '../../components/cta-branding.php';
         <p>&nbsp;</p>
         <h4>Why Branding Matters in Copenhagen&rsquo;s Design-Driven Market</h4>
         <p>Branding in Copenhagen comes with high expectations. People here appreciate honesty, usability, and
-          thoughtful design. Too much flash or exaggeration can hurt your credibility. A <a href="index.php"
+          thoughtful design. Too much flash or exaggeration can hurt your credibility. A <a href="<?php echo $base_path; ?>index.php"
             target="_blank" rel="noopener"><strong>reliable branding agency in Copenhagen</strong></a> helps define a
           clear brand purpose, strong positioning, and a simple, confident identity. For businesses, branding
           demonstrates responsibility, professionalism, and cultural fit, all of which are important for building trust

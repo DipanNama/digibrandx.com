@@ -86,7 +86,7 @@ include '../components/cta-branding.php';
           testing evaluates navigation structure, content clarity, form usability, accessibility, and responsiveness
           across devices. BS Digital Solutions conducts website usability testing to identify drop-off points, friction
           in
-          conversion flows, and content misalignment. As a <a href="index.php" target="_blank"
+          conversion flows, and content misalignment. As a <a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"><strong>professional usability testing company,</strong> </a>we help businesses improve lead
           generation, reduce bounce rates, and enhance user confidence. Website usability testing ensures that design
           aesthetics are supported by functional clarity and performance.</p>

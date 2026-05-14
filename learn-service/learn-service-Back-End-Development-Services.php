@@ -81,7 +81,7 @@ include '../components/cta-branding.php';
         <p><strong>4. Collaboration and communication:<br /></strong>Select an agency that communicates clearly and
           collaborates closely to understand your goals.</p>
         <h3>Why BS Digital Solutions Is the Back-End Development Agency for Business-Centric Products</h3>
-        <p>BS Digital Solutions is a <a href="index.php" target="_blank" rel="noopener"><strong>leading back-end
+        <p>BS Digital Solutions is a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>leading back-end
               development
               agency</strong></a> specializing in high-performance, scalable, and secure digital products. Our
           experienced developers build systems that support business growth and adaptability. We focus on back-end web
@@ -90,7 +90,7 @@ include '../components/cta-branding.php';
         <p>Whether you are a startup or an established enterprise, BS Digital Solutions provides tailored back-end
           solutions to
           meet your business needs. If you are seeking developers to build future-ready digital products, <a
-            href="contact.php" target="_blank" rel="noopener"><strong>contact us today.</strong></a> Together, we will
+            href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>contact us today.</strong></a> Together, we will
           create a strong foundation for your success in the competitive digital landscape.</p>
       </div>
     </div>

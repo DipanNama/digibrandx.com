@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-ui-ux.php">UI & UX</a></li>
             <li class="breadcrumb-item active" aria-current="page">A service mobile app design</li>
           </ol>
@@ -31,7 +31,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/Cover.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/Cover.jpg" alt=""
       width="1920" height="2115" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -69,52 +69,52 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_01.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_01.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_02.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_02.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_03.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_03.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_04.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_04.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_05.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_05.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_06.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_06.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_07.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_07.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_08.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_08.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_09.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_09.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_10.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_10.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_11.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_11.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_12.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_12.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_13.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_13.jpg" alt="" width="1400"
       height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_14.jpg" alt="" width="1400"
-      height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen"
-      style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
-      src="upload/media/Mockup_15.jpg" alt="" width="1400" height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_16.jpg" alt="" width="1400"
-      height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_17.jpg" alt="" width="1400"
-      height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_18.jpg" alt="" width="1400"
-      height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_19.jpg" alt="" width="1400"
-      height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_20.jpg" alt="" width="1400"
-      height="1100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_21.jpg" alt="" width="1400"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_14.jpg" alt="" width="1400"
       height="1100" /></section>
   <section class="port-img-sec"><img class="img-fluid fullscreen"
       style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
-      src="upload/media/Mockup_22.jpg" alt="" width="1400" height="490" /></section>
+      src="<?php echo $base_path; ?>upload/media/Mockup_15.jpg" alt="" width="1400" height="1100" /></section>
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_16.jpg" alt="" width="1400"
+      height="1100" /></section>
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_17.jpg" alt="" width="1400"
+      height="1100" /></section>
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_18.jpg" alt="" width="1400"
+      height="1100" /></section>
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_19.jpg" alt="" width="1400"
+      height="1100" /></section>
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_20.jpg" alt="" width="1400"
+      height="1100" /></section>
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_21.jpg" alt="" width="1400"
+      height="1100" /></section>
+  <section class="port-img-sec"><img class="img-fluid fullscreen"
+      style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
+      src="<?php echo $base_path; ?>upload/media/Mockup_22.jpg" alt="" width="1400" height="490" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
       <div class="row">

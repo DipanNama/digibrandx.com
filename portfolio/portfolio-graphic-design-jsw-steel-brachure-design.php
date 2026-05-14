@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-graphic-design.php">Graphic Design</a></li>
             <li class="breadcrumb-item active" aria-current="page">JSW Steel</li>
           </ol>
@@ -29,9 +29,9 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_Cover_01.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_Cover_01.jpg" alt=""
       width="1920" height="1536" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Mockup_Inside_01.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Mockup_Inside_01.jpg" alt=""
       width="1920" height="1280" /></section>
   <?php include '../components/contact-form.php'; ?>
   <?php include '../components/instagram.php'; ?>

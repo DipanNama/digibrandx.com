@@ -54,7 +54,7 @@ include '../components/cta-branding.php';
         <p>Email marketing is a scalable strategy that allows businesses to send targeted, permission-based messages to
           prospects and customers. This approach nurtures relationships, increases engagement, and delivers measurable
           results. Unlike social media or paid advertising, email marketing provides brands with complete control over
-          their audience and messaging. BS Digital Solutions, a <a href="index.php" target="_blank"
+          their audience and messaging. BS Digital Solutions, a <a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"><strong>leading digital advertising agency,</strong></a> leverages this channel to help
           brands communicate with precision and relevance. Email marketing enables businesses to share stories, promote
           products, announce updates, educate customers, and drive action through a personal, cost-effective channel.
@@ -150,7 +150,7 @@ include '../components/cta-branding.php';
             strategically,&nbsp;<strong>email marketing supports&nbsp;</strong>acquisition, engagement, conversion, and
             retention, making it a complete growth engine. Partnering with a&nbsp;<strong>leading email marketing
               agency</strong> ensures your campaigns are effective today and scalable for the future. At <a
-              href="index.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>, we view email
+              href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>, we view email
             marketing
             as a long-term investment in brand value and customer relationships. For businesses seeking sustainable
             growth, higher ROI, and deeper audience connections, email marketing remains one of the most powerful tools

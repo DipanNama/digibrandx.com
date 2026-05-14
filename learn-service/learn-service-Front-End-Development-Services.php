@@ -34,7 +34,7 @@ include '../components/cta-branding.php';
         <p>A strong digital presence is essential for product or service success. Front-end development makes digital
           products visually appealing, functional, intuitive, and responsive. For <strong>eCommerce, SaaS platforms, or
             corporate portals</strong>, effective front-end design engages users and encourages return visits.</p>
-        <p>An effective <a href="index.php" target="_blank" rel="noopener"><strong>front-end development
+        <p>An effective <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>front-end development
               agency</strong></a> builds trust, enhances user experience, and increases conversions. Technologies like
           HTML, CSS, and JavaScript create faster, more interactive websites. Slow or poorly designed sites lead to high
           bounce rates, lower user satisfaction, and reduced search engine rankings.</p>
@@ -96,7 +96,7 @@ include '../components/cta-branding.php';
           solutions to prepare your website for the future.</p>
         <p>At BS Digital Solutions, we transform your ideas into seamless, engaging digital experiences that drive
           business
-          growth. Product with a top-rated front-end development agency? <strong><a href="contact.php" target="_blank"
+          growth. Product with a top-rated front-end development agency? <strong><a href="<?php echo $base_path; ?>contact.php" target="_blank"
               rel="noopener">Contact BS Digital Solutions today</a> </strong>to start your custom website design and
           development
           project.</p>

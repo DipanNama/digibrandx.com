@@ -36,7 +36,7 @@ include '../components/cta-branding.php';
           performance. User Personas address this risk by bringing clarity and focus to UX decisions. They help
           organizations understand their users, the reasons behind user behavior, and how digital experiences can
           support both user and business goals.</p>
-        <p>As providers of the <a href="index.php" target="_blank" rel="noopener"><strong>best user persona services
+        <p>As providers of the <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>best user persona services
               for app design</strong></a>, BS Digital Solutions uses personas to bridge the gap between user needs and
           commercial
           objectives. Personas align cross-functional teams&mdash;design, engineering, marketing, and

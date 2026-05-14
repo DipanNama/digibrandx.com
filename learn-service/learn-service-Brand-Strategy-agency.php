@@ -45,8 +45,8 @@ include '../components/cta-branding.php';
             important to know its components. Brand strategy includes several interconnected elements: brand purpose,
             vision, positioning, value proposition, target audience personas, competitive differentiation, brand
             personality, tone of voice, and messaging architecture. These elements work together to create clarity and
-            consistency. A <strong><a href="index.php" target="_blank" rel="noopener">brand strategy consulting
-                agency</a></strong><a href="index.php" target="_blank" rel="noopener"> </a>builds a cohesive system
+            consistency. A <strong><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">brand strategy consulting
+                agency</a></strong><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"> </a>builds a cohesive system
             where each part supports the others. This structure forms the foundation for design, communication, and
             marketing.</span></p>
         <h3>Why Established Brands Still Need Brand Strategy</h3>

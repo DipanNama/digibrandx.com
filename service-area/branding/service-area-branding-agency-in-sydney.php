@@ -31,20 +31,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_388-BS Digital Solutions, branding agency in Sydney_01.webp" title="Sydney"><img
-          src="upload/news/Id_389-BS Digital Solutions, branding agency in Sydney_03.webp" title="Sydney">
+          src="<?php echo $base_path; ?>upload/news/Id_388-BS Digital Solutions, branding agency in Sydney_01.webp" title="Sydney"><img
+          src="<?php echo $base_path; ?>upload/news/Id_389-BS Digital Solutions, branding agency in Sydney_03.webp" title="Sydney">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_390-BS Digital Solutions, branding agency in Sydney_04.webp" title="Sydney"><img
-          src="upload/news/Id_391-BS Digital Solutions, branding agency in Sydney_02.webp" title="Sydney">
+          src="<?php echo $base_path; ?>upload/news/Id_390-BS Digital Solutions, branding agency in Sydney_04.webp" title="Sydney"><img
+          src="<?php echo $base_path; ?>upload/news/Id_391-BS Digital Solutions, branding agency in Sydney_02.webp" title="Sydney">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_392-BS Digital Solutions, branding agency in Sydney_05.webp" title="Sydney"><img
-          src="upload/news/Id_393-BS Digital Solutions, branding agency in Sydney_08.webp" title="Sydney">
+          src="<?php echo $base_path; ?>upload/news/Id_392-BS Digital Solutions, branding agency in Sydney_05.webp" title="Sydney"><img
+          src="<?php echo $base_path; ?>upload/news/Id_393-BS Digital Solutions, branding agency in Sydney_08.webp" title="Sydney">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/1468f8do63jsg4o2tp6ct9u7t3_BS Digital SolutionsbrandingagencyinSydney06.webp"
-          title="Sydney"><img src="upload/news/Id_395-BS Digital Solutions, branding agency in Sydney_07.webp"
+          src="<?php echo $base_path; ?>upload/news/1468f8do63jsg4o2tp6ct9u7t3_BS Digital SolutionsbrandingagencyinSydney06.webp"
+          title="Sydney"><img src="<?php echo $base_path; ?>upload/news/Id_395-BS Digital Solutions, branding agency in Sydney_07.webp"
           title="Sydney"></div>
     </div>
   </section>
@@ -141,7 +141,7 @@ include '../../components/cta-branding.php';
         <p>Sydney stands out as a leading business and financial center in the <strong>Asia-Pacific region</strong>. Its
           strong, fast-growing economy attracts multinational companies, startups, and financial institutions. In this
           environment, branding is about more than just creativity. It calls for strategic thinking and a solid grasp of
-          commercial realities. <strong><a href="index.php">Brand design agency Sydney</a> </strong>knows how to help
+          commercial realities. <strong><a href="<?php echo $base_path; ?>index.php">Brand design agency Sydney</a> </strong>knows how to help
           brands grow, perform, and stay relevant in global markets. BS Digital Solutions aims to be that partner,
           working with
           businesses to build brands that are clear, consistent, and deliver real results.</p>
@@ -183,7 +183,7 @@ include '../../components/cta-branding.php';
           regional
           and global ambitions.</p>
         <h3>A Global Branding Agency with Industry-Focused Expertise</h3>
-        <p>With over <a href="team.php" target="_blank" rel="noopener"><strong>20 years of experience in advertising
+        <p>With over <a href="<?php echo $base_path; ?>team.php" target="_blank" rel="noopener"><strong>20 years of experience in advertising
               and branding</strong>,</a> BS Digital Solutions brings strategic maturity and executional excellence to
           every
           engagement. We act as business partners, understanding how branding drives growth in complex markets. Our
@@ -198,7 +198,7 @@ include '../../components/cta-branding.php';
           delivers
           clarity, structure, and confidence to your brand journey.</p>
         <p><strong>Build a Brand for Sydney&rsquo;s Market&mdash;Strategic, Scalable, and Growth-Ready</strong></p>
-        <p>Partner with <a href="contact.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>,
+        <p>Partner with <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>,
           a
           branding agency focused on clarity, consistency, and measurable growth.</p>
       </div>

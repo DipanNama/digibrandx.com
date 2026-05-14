@@ -76,7 +76,7 @@ include '../../components/cta-branding.php';
         <h4>A Modern Branding Agency in Stockholm Delivers More Than Visuals</h4>
         <p>A branding agency in Stockholm must offer more than logos and colour palettes. Effective branding demands
           strategic thinking, cultural insight, and digital expertise. Scandinavian markets prioritize simplicity,
-          purpose, and transparency, which are central to design thinking. As a <a href="index.php" target="_blank"
+          purpose, and transparency, which are central to design thinking. As a <a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"><strong>branding and design agency in Stockholm</strong></a>, BS Digital Solutions operates
           at the
           intersection of<strong> <a href="../../portfolio/portfolio--details-amore-care-branding.php" target="_blank"

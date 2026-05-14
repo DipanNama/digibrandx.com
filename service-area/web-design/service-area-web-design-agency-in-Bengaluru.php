@@ -163,7 +163,7 @@ include '../../components/cta-branding.php';
           team&rsquo;s design and technical expertise ensure your website delivers measurable results, from improved
           visibility to higher ROI.</p>
         <h3>Ready to Hire a Web Design Company for Startups in Bangalore for Your Business?</h3>
-        <p>If you are seeking a <a href="index.php" target="_blank" rel="noopener"><strong>web design &amp; development
+        <p>If you are seeking a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>web design &amp; development
               company for startups in Bangalore</strong></a>, BS Digital Solutions offers a balance of creativity and
           technical
           expertise. We create websites that reflect your brand identity and enhance performance. Our team collaborates
@@ -198,7 +198,7 @@ include '../../components/cta-branding.php';
           conversions. We take the time to understand your brand, audience, and vision to deliver impactful results.</p>
         <p><strong>Contact us today</strong> to begin your website transformation and let us help you build an online
           presence that delivers results.</p>
-        <p>Ready to elevate your business? <a href="contact.php" target="_blank" rel="noopener"><strong>Contact
+        <p>Ready to elevate your business? <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact
               BS Digital Solutions today </strong></a>to start building a website that grows with your business.</p>
       </div>
     </div>

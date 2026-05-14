@@ -67,7 +67,7 @@ include '../components/cta-branding.php';
           these brands improve customer satisfaction and build trust in their online presence.
         </p>
         <h3>How to Choose a Responsive Website Development Agency for Your Web Application?</h3>
-        <p>Picking the right <a href="index.php" target="_blank" rel="noopener"><strong>Responsive Website Development
+        <p>Picking the right <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>Responsive Website Development
               Agency</strong></a> is an important choice for your website&rsquo;s success. Look for a company with a
           strong track record of delivering high-quality web development. Check their experience with responsive and
           mobile-friendly sites and their ability to adapt designs for different devices. A good agency should
@@ -86,7 +86,7 @@ include '../components/cta-branding.php';
         <p>At BS Digital Solutions, we focus on responsive web design and offer solutions that grow with your business.
           We aim to
           build web applications that improve user experience, build trust in your brand, and help you stand out from
-          the competition. If you want a web application that works well on any device, <a href="contact.php"
+          the competition. If you want a web application that works well on any device, <a href="<?php echo $base_path; ?>contact.php"
             target="_blank" rel="noopener"><strong>get in touch with us today </strong></a>to see how we can help your
           digital product succeed.</p>
       </div>

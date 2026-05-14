@@ -39,7 +39,7 @@ include '../components/cta-branding.php';
             decision supports business objectives, technical feasibility, and long-term growth for both<strong>&nbsp;B2B
               and D2C applications</strong>.</span></p>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">BS Digital Solutions delivers <a
-              href="index.php" target="_blank" rel="noopener"><strong>custom mobile application development
+              href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>custom mobile application development
                 services</strong>&nbsp;</a>tailored to the needs of modern digital businesses. Our design systems are
             optimized for performance, usability, and consistency, ensuring seamless experiences across platforms and
             devices. Whether developing enterprise B2B tools or consumer D2C applications, we create engaging,

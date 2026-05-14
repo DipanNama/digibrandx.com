@@ -37,7 +37,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Environmental Graphic Design shapes how
             people experience a brand offline. Physical spaces serve as direct and emotional touchpoints between a brand
             and its audience. A well-designed environment can quickly create clarity, comfort, excitement, or trust.
-            BS Digital Solutions, an <a href="index.php" target="_blank" rel="noopener"><strong>environmental graphic
+            BS Digital Solutions, an <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>environmental graphic
                 design
                 firms</strong></a> ensure these environments consistently communicate the intended message, aligning
             physical experiences with digital branding and marketing.</span></p>

@@ -144,7 +144,7 @@ include '../../components/cta-branding.php';
             rel="noopener"><strong>portfolio</strong>,</a>
           and design approach. Prioritize agencies that deliver responsive, <strong>SEO-friendly,</strong> and
           mobile-optimized websites for optimal performance.</p>
-        <p><a href="index.php" target="_blank" rel="noopener"><strong>Leading web design agencies</strong></a> offer
+        <p><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>Leading web design agencies</strong></a> offer
           strategic guidance and build websites for future growth. They provide web application design and development
           to enhance site functionality and user experience. Partnering with an agency familiar with Calgary&rsquo;s
           business landscape ensures your website appeals to both local and global audiences.</p>
@@ -166,7 +166,7 @@ include '../../components/cta-branding.php';
           values and goals.
         </p>
         <h4>Contact BS Digital Solutions Today to Start Your Website Transformation</h4>
-        <p>Do not wait to create a website that represents your business. <a href="contact.php" target="_blank"
+        <p>Do not wait to create a website that represents your business. <a href="<?php echo $base_path; ?>contact.php" target="_blank"
             rel="noopener"><strong>Partner with BS Digital Solutions</strong></a> and benefit from our experience as a
           leading
           Calgary web design agency. We guide you through every stage, from concept to launch, ensuring your website

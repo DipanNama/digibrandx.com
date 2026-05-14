@@ -135,7 +135,7 @@ include '../../components/cta-branding.php';
           fast-moving market.</p>
         <p>&nbsp;</p>
         <h4>How to Identify the Best Website Design Agency in Madrid</h4>
-        <p>Finding the right <a href="index.php" target="_blank" rel="noopener"><strong>web design agency in
+        <p>Finding the right <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>web design agency in
               Madrid</strong></a> can feel overwhelming, but it&rsquo;s key to building a strong online presence. You
           want a partner who knows the local market and can turn your business vision into a user-friendly, engaging
           website. Look for an agency with experience, a portfolio that matches your style, and knowledge of
@@ -180,7 +180,7 @@ include '../../components/cta-branding.php';
           face, and our goal is to help you succeed in Madrid&rsquo;s busy business world with a website that shows off
           your brand.</p>
         <h4>Ready to build a website that helps your business grow?</h4>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Let BS Digital Solutions</strong></a> guide you
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Let BS Digital Solutions</strong></a> guide you
           through
           every step. Contact us today, and let&rsquo;s start building your brand&rsquo;s future online.</p>
       </div>

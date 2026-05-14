@@ -136,7 +136,7 @@ include '../../components/cta-branding.php';
         <h4>The Strategic Role of Branding in Seoul&rsquo;s Consumer-First Economy</h4>
         <p>Seoul&rsquo;s audiences are digitally mature, brand-aware, and highly selective. They value consistency,
           innovation, and authenticity, and quickly dismiss brands that appear generic or disconnected. An <a
-            href="index.php" target="_blank" rel="noopener"><strong>ad agency in Seoul </strong></a>recognizes that
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>ad agency in Seoul </strong></a>recognizes that
           branding is about relevance, credibility, and emotional connection, not just visibility. Whether supporting
           startups or established enterprises, strategic branding delivers clear communication and builds consumer
           confidence at every touchpoint.</p>
@@ -189,7 +189,7 @@ include '../../components/cta-branding.php';
           and digital branding.</p>
         <p><strong>Are you ready to build a brand that connects with Seoul&rsquo;s consumers and scales
             digitally?</strong></p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
           today and
           transform your brand into a powerful business asset.</p>
       </div>

@@ -32,17 +32,17 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_380-BS Digital Solutions, branding agency in Hong Kong_01.webp" title="Hong Kong"><img
-          src="upload/news/Id_381-BS Digital Solutions, branding agency in Hong Kong_02.webp" title="Hong Kong"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_380-BS Digital Solutions, branding agency in Hong Kong_01.webp" title="Hong Kong"><img
+          src="<?php echo $base_path; ?>upload/news/Id_381-BS Digital Solutions, branding agency in Hong Kong_02.webp" title="Hong Kong"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_382-BS Digital Solutions, branding agency in Hong Kong_03.webp" title="Hong Kong"><img
-          src="upload/news/Id_383-BS Digital Solutions, branding agency in Hong Kong_08.webp" title="Hong Kong"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_382-BS Digital Solutions, branding agency in Hong Kong_03.webp" title="Hong Kong"><img
+          src="<?php echo $base_path; ?>upload/news/Id_383-BS Digital Solutions, branding agency in Hong Kong_08.webp" title="Hong Kong"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_384-BS Digital Solutions, branding agency in Hong Kong_07.webp" title="Hong Kong"><img
-          src="upload/news/Id_385-BS Digital Solutions, branding agency in Hong Kong_06.webp" title="Hong Kong"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_384-BS Digital Solutions, branding agency in Hong Kong_07.webp" title="Hong Kong"><img
+          src="<?php echo $base_path; ?>upload/news/Id_385-BS Digital Solutions, branding agency in Hong Kong_06.webp" title="Hong Kong"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_386-BS Digital Solutions, branding agency in Hong Kong_04.webp" title="Hong Kong"><img
-          src="upload/news/Id_387-BS Digital Solutions, branding agency in Hong Kong_05.webp" title="Hong Kong"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_386-BS Digital Solutions, branding agency in Hong Kong_04.webp" title="Hong Kong"><img
+          src="<?php echo $base_path; ?>upload/news/Id_387-BS Digital Solutions, branding agency in Hong Kong_05.webp" title="Hong Kong"></div>
     </div>
   </section>
   <?php 
@@ -138,7 +138,7 @@ include '../../components/cta-branding.php';
         <h1>How can a branding agency in Hong Kong build globally competitive, future-ready brands?</h1>
         <p>Hong Kong is among the world&rsquo;s most competitive business environments, where finance, global trade,
           technology, and innovation converge. In this market, branding is a strategic necessity. Companies need a <a
-            href="index.php" target="_blank" rel="noopener"><strong>Hong Kong branding agency</strong> </a>that
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>Hong Kong branding agency</strong> </a>that
           understands how brand perception drives trust, partnerships, and growth. Whether <strong>B2B or B2C</strong>,
           brands must demonstrate credibility, clarity, and global relevance from the outset. BS Digital Solutions
           builds brand
@@ -212,7 +212,7 @@ include '../../components/cta-branding.php';
               strategy</strong></a>, identity, digital branding, social media, and brand management. We understand Hong
           Kong&rsquo;s business culture, cross-border trade, and global expectations, enabling us to build brands that
           are credible, scalable, and future-ready.</p>
-        <p><strong>Looking for a trusted branding agency in Hong Kong?</strong><br />Partner with <a href="contact.php"
+        <p><strong>Looking for a trusted branding agency in Hong Kong?</strong><br />Partner with <a href="<?php echo $base_path; ?>contact.php"
             target="_blank" rel="noopener"><strong>BS Digital Solutions </strong></a>to build a brand designed for
           clarity, scale,
           and global impact.<br /><strong>Let&rsquo;s create a brand that competes confidently in Hong Kong and

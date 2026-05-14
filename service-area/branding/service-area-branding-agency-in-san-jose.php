@@ -32,17 +32,17 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_485-BS Digital Solutions, branding agency in San Jose _02.webp" title="San Jose"><img
-          src="upload/news/Id_486-BS Digital Solutions, branding agency in San Jose _08.webp" title="San Jose"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_485-BS Digital Solutions, branding agency in San Jose _02.webp" title="San Jose"><img
+          src="<?php echo $base_path; ?>upload/news/Id_486-BS Digital Solutions, branding agency in San Jose _08.webp" title="San Jose"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_487-BS Digital Solutions, branding agency in San Jose _07.webp" title="San Jose"><img
-          src="upload/news/Id_488-BS Digital Solutions, branding agency in San Jose _01.webp" title="San Jose"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_487-BS Digital Solutions, branding agency in San Jose _07.webp" title="San Jose"><img
+          src="<?php echo $base_path; ?>upload/news/Id_488-BS Digital Solutions, branding agency in San Jose _01.webp" title="San Jose"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_489-BS Digital Solutions, branding agency in San Jose _03.webp" title="San Jose"><img
-          src="upload/news/Id_490-BS Digital Solutions, branding agency in San Jose _06.webp" title="San Jose"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_489-BS Digital Solutions, branding agency in San Jose _03.webp" title="San Jose"><img
+          src="<?php echo $base_path; ?>upload/news/Id_490-BS Digital Solutions, branding agency in San Jose _06.webp" title="San Jose"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_491-BS Digital Solutions, branding agency in San Jose _05.webp" title="San Jose"><img
-          src="upload/news/Id_492-BS Digital Solutions, branding agency in San Jose _04.webp" title="San Jose"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_491-BS Digital Solutions, branding agency in San Jose _05.webp" title="San Jose"><img
+          src="<?php echo $base_path; ?>upload/news/Id_492-BS Digital Solutions, branding agency in San Jose _04.webp" title="San Jose"></div>
     </div>
   </section>
   <?php 
@@ -186,7 +186,7 @@ include '../../components/cta-branding.php';
         <p>Every stage of business demands a unique branding approach. BS Digital Solutions supports startups with clear
           identity
           creation and market-entry strategies while working with enterprises to evolve their brands through rebranding
-          or digital transformation. As a <a href="index.php" target="_blank" rel="noopener"><strong>corporate branding
+          or digital transformation. As a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>corporate branding
               agency in San Jose</strong></a>, we understand the needs of both new and established businesses, ensuring
           that your branding strategy is tailored to your specific growth objectives.</p>
         <h3>Why BS Digital Solutions is the Best Branding Agency in San Jose</h3>
@@ -202,7 +202,7 @@ include '../../components/cta-branding.php';
           brands that drive growth, inspire trust, and stand out in the marketplace. Whether you&rsquo;re a startup or a
           <strong>corporate brand</strong>, BS Digital Solutions can help you achieve your branding goals.
         </p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
           today to
           transform your brand into a powerful business asset that fosters trust, drives lasting engagement, and ensures
           long-term success. <strong>Let&rsquo;s build your future-ready brand together.</strong></p>

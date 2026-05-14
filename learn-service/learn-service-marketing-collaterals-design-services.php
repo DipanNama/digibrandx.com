@@ -73,7 +73,7 @@ include '../components/cta-branding.php';
         <h3>Why Marketing Collaterals Are Essential for Branding</h3>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">In a crowded market, visibility is not
             enough; consistency builds trust. Marketing collateral reinforces brand identity through consistent colors,
-            typography, tone, and messaging. The <strong><a href="index.php">brand management consulting
+            typography, tone, and messaging. The <strong><a href="<?php echo $base_path; ?>index.php">brand management consulting
                 firms</a>&nbsp;</strong>are ensuring every asset aligns with your brand strategy. Consistent visual and
             verbal language strengthens recall and recognition. Familiarity builds confidence, which is essential for
             brand growth.</span></p>

@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Why PHP is the Smarter Choice with Top Application
               Development Agency in India</li>
           </ol>
@@ -40,7 +40,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/693Inside-Graphic_02.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/693Inside-Graphic_02.jpg"
       alt="" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -72,7 +72,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/345Inside-Graphic_01.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/345Inside-Graphic_01.jpg"
       alt="" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">

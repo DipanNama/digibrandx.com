@@ -15,7 +15,7 @@
                         <div class="swiper-slide">
                             <div class="testi-item">
                                 <div class="testi-img">
-                                    <img src="upload/news/tvaqdv0tublkvj8lippise600v_NileshAvhadSOMAUniversalLogistics.webp"
+                                    <img src="<?php echo $base_path; ?>upload/news/tvaqdv0tublkvj8lippise600v_NileshAvhadSOMAUniversalLogistics.webp"
                                         alt="Nilesh Avhad, SOMA Universal Logistics" class="active img-fluid">
                                 </div>
                                 <div class="testi-content text-white">
@@ -32,7 +32,7 @@
                         <div class="swiper-slide">
                             <div class="testi-item">
                                 <div class="testi-img">
-                                    <img src="upload/news/jgah8hgpcgm05qhat1q7peqqa2_SatyajitNathCrowdStrike.webp"
+                                    <img src="<?php echo $base_path; ?>upload/news/jgah8hgpcgm05qhat1q7peqqa2_SatyajitNathCrowdStrike.webp"
                                         alt="Satyajit Nath, Director of Engineering, CrowdStrike" class="img-fluid">
                                 </div>
                                 <div class="testi-content text-white">
@@ -49,7 +49,7 @@
                         <div class="swiper-slide">
                             <div class="testi-item">
                                 <div class="testi-img">
-                                    <img src="upload/news/4mnkasmke12ts9equ546dmoblq_Frame167111.webp"
+                                    <img src="<?php echo $base_path; ?>upload/news/4mnkasmke12ts9equ546dmoblq_Frame167111.webp"
                                         alt="Nirmal Savjibhai Patel, MasterPay" class="img-fluid">
                                 </div>
                                 <div class="testi-content text-white">
@@ -71,7 +71,7 @@
                         <div class="swiper-slide">
                             <div class="testi-item">
                                 <div class="testi-img">
-                                    <img src="upload/news/pj94kgqmolv1d1v0s6po6ac2o1_Mr.KedarKarnikSOMAUniversalLogistics.webp"
+                                    <img src="<?php echo $base_path; ?>upload/news/pj94kgqmolv1d1v0s6po6ac2o1_Mr.KedarKarnikSOMAUniversalLogistics.webp"
                                         alt="Kedar Karnik, SOMA Universal Logistics" class="img-fluid">
                                 </div>
                                 <div class="testi-content text-white">
@@ -93,7 +93,7 @@
                         <div class="swiper-slide">
                             <div class="testi-item">
                                 <div class="testi-img">
-                                    <img src="upload/news/72dqgcl8i316afn3htlne2q04r_DebuChatterjeeCEOofKonfer.webp"
+                                    <img src="<?php echo $base_path; ?>upload/news/72dqgcl8i316afn3htlne2q04r_DebuChatterjeeCEOofKonfer.webp"
                                         alt="Mr. Debu Chatterjee, CEO of Konfer" class="img-fluid">
                                 </div>
                                 <div class="testi-content text-white">
@@ -113,7 +113,7 @@
                         <div class="swiper-slide">
                             <div class="testi-item">
                                 <div class="testi-img">
-                                    <img src="upload/news/Id_409-Frame 16711.webp"
+                                    <img src="<?php echo $base_path; ?>upload/news/Id_409-Frame 16711.webp"
                                         alt="Mr. Razaq Baloch, Vision Unlimited" class="img-fluid">
                                 </div>
                                 <div class="testi-content text-white">

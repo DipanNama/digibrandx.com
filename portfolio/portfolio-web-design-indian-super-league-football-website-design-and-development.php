@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-web-design.php">Web Design</a></li>
             <li class="breadcrumb-item active" aria-current="page">Hero Indian Super League</li>
           </ol>
@@ -35,13 +35,13 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Cove_-Hero.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Cove_-Hero.jpg" alt="" width="1920"
       height="1981" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Style-Guide_Hero_01.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Style-Guide_Hero_01.jpg" alt=""
       width="1920" height="3452" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Style-Guide_UI.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Style-Guide_UI.jpg" alt=""
       width="1920" height="1812" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Home.jpg" alt="" width="1440"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Home.jpg" alt="" width="1440"
       height="7240" /></section>
   <?php include '../components/contact-form.php'; ?>
   <?php include '../components/instagram.php'; ?>

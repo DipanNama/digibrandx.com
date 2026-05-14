@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">How can a creative design agency in Mumbai strengthen
               your brand identity to drive business success?</li>
           </ol>
@@ -48,7 +48,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/471Mug.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/471Mug.webp"
       alt="BS Digital Solutions leading branding agency in Mumbai for modern businesses" width="1920" height="1366" />
   </section>
   <section class="portfolio-details_sec">
@@ -116,7 +116,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/788MacBook_Pro_2 1.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/788MacBook_Pro_2 1.jpg"
       alt="Top branding and digital agency in Mumbai building powerful brands" width="1588" height="1270" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -158,7 +158,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/79901.09_Primary Logo.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/79901.09_Primary Logo.jpg"
       alt="Premium branding agency in Mumbai specializing in brand strategy and identity" width="1920" height="1200" />
   </section>
   <section class="portfolio-details_sec">
@@ -201,7 +201,7 @@ include '../components/header.php';
               your
               business. Whether you need a full rebrand or targeted support, our experts are ready to guide you
               throughout the process.</p>
-            <p>Ready to build a brand that stands out? <a href="contact.php" target="_blank"
+            <p>Ready to build a brand that stands out? <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                 rel="noopener"><strong>Contact BS Digital Solutions</strong></a> today to begin your journey to success.
             </p>
           </div>

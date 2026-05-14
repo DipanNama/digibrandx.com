@@ -25,7 +25,7 @@ include '../components/cta-branding.php';
           give companies access to many potential customers. This approach is about attracting, engaging, and converting
           prospects using targeted content, ads, and interactive campaigns. By using smart messaging, platform tools,
           and audience targeting, businesses can identify leads more likely to become customers.</p>
-        <p>Both B2B and D2C brands can benefit from working with a <a href="index.php" target="_blank"
+        <p>Both B2B and D2C brands can benefit from working with a <a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"><strong>social media lead generation agency</strong></a>. These agencies create custom
           campaigns that help guide leads through every stage of the customer journey. They use creative content, clear
           calls to action, and track results to make campaigns more effective and lower costs. The right agency helps
@@ -149,7 +149,7 @@ include '../components/cta-branding.php';
             with BS Digital Solutions, a leading social media lead generation agency, to launch targeted campaigns that
             deliver
             real results. Our data-driven approach and creative content can help you reach quality leads and grow your
-            business. <a href="contact.php" target="_blank" rel="noopener"><strong>Get in touch with us
+            business. <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Get in touch with us
                 today</strong></a> to start building a steady pipeline for lasting success.</span></p>
         <p>&nbsp;</p>
       </div>

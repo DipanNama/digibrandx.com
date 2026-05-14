@@ -136,7 +136,7 @@ include '../../components/cta-branding.php';
             and digital expertise</strong> into a unified system.</p>
         <p>&nbsp;</p>
         <h3>A Brand Consulting Agency in Leeds That Thinks Beyond Design</h3>
-        <p>BS Digital Solutions acts as a strategic partner, not just a service provider. As a <a href="index.php"
+        <p>BS Digital Solutions acts as a strategic partner, not just a service provider. As a <a href="<?php echo $base_path; ?>index.php"
             target="_blank" rel="noopener"><strong>brand consulting agency in Leeds</strong></a>, we help businesses
           define their identity, values, and market perception. Our approach aligns brand purpose, positioning,
           messaging, and experience with business objectives.</p>
@@ -177,7 +177,7 @@ include '../../components/cta-branding.php';
         <h3>Turn your brand into a powerful business asset.</h3>
         <p>Partner with <strong>BS Digital Solutions</strong>, your strategic branding team in Leeds, to bring clarity,
           consistency, and real growth to your business.</p>
-        <p>Ready to grow your brand? <a href="contact.php" target="_blank" rel="noopener"><strong>Let&rsquo;s get
+        <p>Ready to grow your brand? <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Let&rsquo;s get
               started.</strong></a></p>
       </div>
     </div>

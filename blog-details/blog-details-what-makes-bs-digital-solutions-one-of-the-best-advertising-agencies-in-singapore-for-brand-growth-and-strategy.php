@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">What makes BS Digital Solutions one of the best
               advertising
               agencies in Singapore for brand growth and strategy?</li>
@@ -49,7 +49,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/487BS Digital Solutions, branding agency in Singapore_02.webp"
+      src="<?php echo $base_path; ?>upload/media/487BS Digital Solutions, branding agency in Singapore_02.webp"
       alt="Brand imagery strategy with BS Digital Solutions for brand consistency" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -77,7 +77,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/192BS Digital Solutions, branding agency in Singapore_03.webp"
+      src="<?php echo $base_path; ?>upload/media/192BS Digital Solutions, branding agency in Singapore_03.webp"
       alt="ffective brand voice and tone strategy for business growth" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -112,7 +112,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/468BS Digital Solutions, branding agency in Singapore_04.webp"
+      src="<?php echo $base_path; ?>upload/media/468BS Digital Solutions, branding agency in Singapore_04.webp"
       alt="Corporate branding visuals and messaging created by BS Digital Solutions" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -146,7 +146,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/641BS Digital Solutions, branding agency in Singapore_05.webp"
+      src="<?php echo $base_path; ?>upload/media/641BS Digital Solutions, branding agency in Singapore_05.webp"
       alt="How BS Digital Solutions crafts your brand voice for emotional connections" width="1920" height="1270" />
   </section>
   <section class="portfolio-details_sec">
@@ -182,7 +182,7 @@ include '../components/header.php';
             <p><strong>With BS Digital Solutions, you will not only communicate with your audience but also connect,
                 engage, and
                 grow.</strong></p>
-            <p>Ready to build a brand that stands out? <a href="contact.php" target="_blank"
+            <p>Ready to build a brand that stands out? <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                 rel="noopener"><strong>Contact BS Digital Solutions today</strong></a> to define your brand voice with
               Singapore&rsquo;s leading branding agency.</p>
           </div>

@@ -81,7 +81,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Affiliate marketing allows brands to reach
             new audiences across platforms, industries, and regions. Affiliates serve as independent advocates,
             introducing products to niche communities and engaging buyers through blogs, influencer content, and review
-            platforms. BS Digital Solutions, a <a href="index.php" target="_blank" rel="noopener"><strong>digital
+            platforms. BS Digital Solutions, a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>digital
                 advertising
                 agency,</strong></a> curates affiliate partnerships that align with brand values and audience intent,
             ensuring consistent visibility and accelerating market penetration.</span></p>

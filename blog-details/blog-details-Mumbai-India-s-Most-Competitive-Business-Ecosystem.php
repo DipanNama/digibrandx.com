@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Why do top creative agencies in Mumbai deliver
               stronger branding advantages in highly competitive business markets?</li>
           </ol>
@@ -44,7 +44,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/72601.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/72601.webp"
       alt="Ollato, corporate branding strategy helping Mumbai businesses stand out in competitive markets" width="1920"
       height="762" /></section>
   <section class="portfolio-details_sec">
@@ -87,7 +87,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/55003.05_Reel.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/55003.05_Reel.jpg"
       alt="Social media branding, brand positioning and identity design by branding agency in Mumbai" width="1920"
       height="1200" /></section>
   <section class="portfolio-details_sec">
@@ -125,7 +125,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/70505.01_Digital Standee.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/70505.01_Digital Standee.jpg"
       alt="Mumbai business landscape highlighting the importance of strong branding" width="1920" height="1200" />
   </section>
   <section class="portfolio-details_sec">
@@ -156,7 +156,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/20705.04_Billboard.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/20705.04_Billboard.jpg"
       alt="Strategic branding solutions for growing businesses in Mumbai" width="1920" height="1200" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -171,7 +171,7 @@ include '../components/header.php';
                 rel="noopener"><strong>branding agency in Mumbai</strong> </a>that values strategy, creativity, and
               consistency, <strong>BS Digital Solutions</strong> is ready to help.</p>
             <h3><strong>Ready to build a powerful brand?</strong></h3>
-            <p>Visit our website, check out our portfolio, or book a consultation with <a href="contact.php"
+            <p>Visit our website, check out our portfolio, or book a consultation with <a href="<?php echo $base_path; ?>contact.php"
                 target="_blank" rel="noopener"><strong>BS Digital Solutions today</strong></a>. Let&rsquo;s work
               together to
               create a brand that stands out.</p>

@@ -32,17 +32,17 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_327-BS Digital Solutions, advertising agency in Pune_02.webp" title="Pune"><img
-          src="upload/news/Id_328-BS Digital Solutions, advertising agency in Pune_01.webp" title="Pune"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_327-BS Digital Solutions, advertising agency in Pune_02.webp" title="Pune"><img
+          src="<?php echo $base_path; ?>upload/news/Id_328-BS Digital Solutions, advertising agency in Pune_01.webp" title="Pune"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_329-BS Digital Solutions, advertising agency in Pune_06.webp" title="Pune"><img
-          src="upload/news/Id_330-BS Digital Solutions, advertising agency in Pune_08.webp" title="Pune"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_329-BS Digital Solutions, advertising agency in Pune_06.webp" title="Pune"><img
+          src="<?php echo $base_path; ?>upload/news/Id_330-BS Digital Solutions, advertising agency in Pune_08.webp" title="Pune"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_331-BS Digital Solutions, advertising agency in Pune_07.webp" title="Pune"><img
-          src="upload/news/Id_332-BS Digital Solutions, advertising agency in Pune_05.webp" title="Pune"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_331-BS Digital Solutions, advertising agency in Pune_07.webp" title="Pune"><img
+          src="<?php echo $base_path; ?>upload/news/Id_332-BS Digital Solutions, advertising agency in Pune_05.webp" title="Pune"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_333-BS Digital Solutions, advertising agency in Pune_04.webp" title="Pune"><img
-          src="upload/news/6922ct78qq4nno275kq80g8d11_BS Digital SolutionsadvertisingagencyinPune01.webp" title="Pune">
+          src="<?php echo $base_path; ?>upload/news/Id_333-BS Digital Solutions, advertising agency in Pune_04.webp" title="Pune"><img
+          src="<?php echo $base_path; ?>upload/news/6922ct78qq4nno275kq80g8d11_BS Digital SolutionsadvertisingagencyinPune01.webp" title="Pune">
       </div>
     </div>
   </section>
@@ -159,7 +159,7 @@ include '../../components/cta-branding.php';
         <h3>Performance-Driven Lead Generation for Growing Brands</h3>
         <p><a
             style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
-            href="index.php" target="_blank" rel="noopener"><strong>Online marketing companies in
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>Online marketing companies in
               Pune</strong></a><span
             style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">,
             BS Digital Solutions, as a results-focused agency, specializes in lead-generation strategies that drive
@@ -193,7 +193,7 @@ include '../../components/cta-branding.php';
           strategy with business goals. Whether you are a startup seeking traction or an established brand looking to
           scale, BS Digital Solutions provides clarity, consistency, and conversion-focused marketing.</p>
         <h3>Ready to grow your business with a trusted digital marketing agency in Pune?</h3>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions
             </strong></a>to
           strengthen your brand, generate high-quality leads, and achieve measurable digital
           growth.<br /><strong>Let&rsquo;s build performance-driven digital success together, starting today.</strong>

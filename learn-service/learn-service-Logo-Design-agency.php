@@ -58,7 +58,7 @@ include '../components/cta-branding.php';
             clear message without extra details. They stand out, endure over time, and align with the brand&rsquo;s main
             message. Iconic logos don&rsquo;t follow trends&mdash;they set them aside. Whether it&rsquo;s a wordmark,
             symbol, or a mix, the logo should show the brand&rsquo;s personality and values. At BS Digital Solutions, a
-            <a href="index.php" target="_blank" rel="noopener"><strong>custom logo agency</strong></a>, we design logos
+            <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>custom logo agency</strong></a>, we design logos
             with purpose, making sure every detail has meaning.</span></p>
         <h4>Why Established Brands Need Iconic Logo Design More Than Ever</h4>
         <p>Many established brands assume they no longer need to invest in logo design because they already have
@@ -127,7 +127,7 @@ include '../components/cta-branding.php';
         <div><span>Give your brand a unique identity that gets noticed. At BS Digital Solutions, we design logos that
             help you
             connect with your audience and grow your business. Want to make a great first impression? Work with us and
-            <a href="contact.php" target="_blank" rel="noopener"><strong>let&rsquo;s bring your brand vision to
+            <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>let&rsquo;s bring your brand vision to
                 life.</strong></a></span></div>
       </div>
     </div>

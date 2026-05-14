@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-web-design.php">Web Design</a></li>
             <li class="breadcrumb-item active" aria-current="page">Vision Unlimited Website</li>
           </ol>
@@ -49,11 +49,11 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/490Cove_-Hero.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/490Cove_-Hero.jpg" alt=""
       width="1920" height="1981" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/936Style-Guide_Hero.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/936Style-Guide_Hero.jpg" alt=""
       width="1920" height="4100" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/380Design.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/380Design.jpg" alt="" width="1920"
       height="9422" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -66,7 +66,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/619Banner01.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/619Banner01.webp" alt=""
       width="1920" height="488" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -141,7 +141,7 @@ include '../components/header.php';
               expert. BS Digital Solutions is the <a href="https://www.bs-digital-solutions.com" target="_blank"
                 rel="noopener"><strong>website development agency </strong></a>for media company growth, dedicated to
               making your post-production house the most popular and iconic name in the industry.</p>
-            <p>Ready to bring your creative vision to life? <a href="contact.php" target="_blank"
+            <p>Ready to bring your creative vision to life? <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                 rel="noopener"><strong>Let's build a website</strong></a> that performs as perfectly as your best edit.
             </p>
           </div>

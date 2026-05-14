@@ -32,24 +32,24 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_688-BS Digital Solutions, web design agency in Kolkata_01.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_688-BS Digital Solutions, web design agency in Kolkata_01.webp"
           title="Web Design agency in Kolkata_01"><img
-          src="upload/news/Id_689-BS Digital Solutions, web design agency in Kolkata_05.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_689-BS Digital Solutions, web design agency in Kolkata_05.webp"
           title="Web Design agency in Kolkata_02"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_690-BS Digital Solutions, web design agency in Kolkata_07.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_690-BS Digital Solutions, web design agency in Kolkata_07.webp"
           title="Web Design agency in Kolkata_03"><img
-          src="upload/news/Id_691-BS Digital Solutions, web design agency in Kolkata_02.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_691-BS Digital Solutions, web design agency in Kolkata_02.webp"
           title="Web Design agency in Kolkata_04"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_692-BS Digital Solutions, web design agency in Kolkata_03.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_692-BS Digital Solutions, web design agency in Kolkata_03.webp"
           title="Web Design agency in Kolkata_05"><img
-          src="upload/news/Id_693-BS Digital Solutions, web design agency in Kolkata_06.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_693-BS Digital Solutions, web design agency in Kolkata_06.webp"
           title="Web Design agency in Kolkata_06"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_694-BS Digital Solutions, web design agency in Kolkata_08.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_694-BS Digital Solutions, web design agency in Kolkata_08.webp"
           title="Web Design agency in Kolkata_07"><img
-          src="upload/news/Id_695-BS Digital Solutions, web design agency in Kolkata_04.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_695-BS Digital Solutions, web design agency in Kolkata_04.webp"
           title="Web Design agency in Kolkata_08"></div>
     </div>
   </section>
@@ -150,7 +150,7 @@ include '../../components/cta-branding.php';
           BS Digital Solutions is ready to be your trusted web design partner in Kolkata.</p>
         <p>&nbsp;</p>
         <h3>How to Identify the Best Web Development Company in Kolkata</h3>
-        <p>When selecting a <a href="index.php" target="_blank" rel="noopener"><strong>web development company in
+        <p>When selecting a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>web development company in
               Kolkata,</strong></a> consider both creative and technical expertise. Leading agencies deliver responsive,
           SEO-optimized, and mobile-friendly websites with intuitive interfaces that drive conversions. Choose an agency
           with industry experience, comprehensive services from branding to development, and a commitment to long-term
@@ -202,7 +202,7 @@ include '../../components/cta-branding.php';
           <strong>BS Digital Solutions</strong> is here to bring your vision to life. Contact us today to discuss your
           project and
           let our expert team craft a website that drives growth and success for your business in Kolkata. Your digital
-          transformation starts now.<strong> <a href="contact.php" target="_blank" rel="noopener">Let's create
+          transformation starts now.<strong> <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Let's create
               something amazing together!</a></strong>
         </p>
       </div>

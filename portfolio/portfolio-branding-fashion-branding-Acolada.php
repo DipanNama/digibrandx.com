@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-branding.php">Branding</a></li>
             <li class="breadcrumb-item active" aria-current="page">ACOLADA I Fashion Branding</li>
           </ol>
@@ -28,23 +28,23 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/997Cover_Acolada.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/997Cover_Acolada.jpg" alt=""
       width="1920" height="1708" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/776Acolada_logo.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/776Acolada_logo.jpg" alt=""
       width="1921" height="4200" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/124V-Card_07.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/124V-Card_07.jpg" alt=""
       width="1920" height="1280" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/780Kit_02.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/780Kit_02.jpg" alt="" width="1920"
       height="1536" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/475Bag_01.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/475Bag_01.jpg" alt="" width="1920"
       height="1536" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/842Acolada_logo.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/842Acolada_logo.webp" alt=""
       width="1920" height="1536" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/523Acolada_logo.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/523Acolada_logo.webp" alt=""
       width="1920" height="1361" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/858Acolada_logo (1).webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/858Acolada_logo (1).webp" alt=""
       width="1920" height="1361" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/907Billboard_01.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/907Billboard_01.jpg" alt=""
       width="1920" height="1445" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -154,7 +154,7 @@ include '../components/header.php';
             <h4 class="mt-4 mb-4">Conclusion: Crafting Your Legacy</h4>
             <p>Fashion is fleeting, but a brand is forever. By partnering with the right fashion &amp; lifestyle
               branding agency, you ensure that your creative vision is backed by world-class strategy.</p>
-            <p>Seeking a branding agency for fashion &amp; lifestyle that delivers results? <a href="contact.php"
+            <p>Seeking a branding agency for fashion &amp; lifestyle that delivers results? <a href="<?php echo $base_path; ?>contact.php"
                 target="_blank" rel="noopener"><strong>Trust BS Digital Solutions </strong></a>to be the creative agency
               for small
               businesses and enterprise fashion brands alike. Let us build the iconic identity your vision deserves.</p>

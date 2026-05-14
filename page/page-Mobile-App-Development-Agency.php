@@ -39,39 +39,39 @@ include '../components/header.php';
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/e4hgqde7o1m8o25vppf54g1vm9_q.svg" alt=""
+            <p><i><img src="<?php echo $base_path; ?>upload/news/e4hgqde7o1m8o25vppf54g1vm9_q.svg" alt=""
                   class="active img-responsive" /></i><span>Office:</span> Mira Road, Mumbai, Maharashtra, Indian,
               401107</p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/986dbcde8dfa510bc244d1955ab0b1e0_call.svg" alt=""
+            <p><i><img src="<?php echo $base_path; ?>upload/news/986dbcde8dfa510bc244d1955ab0b1e0_call.svg" alt=""
                   class="img-responsive" /></i><span>Phone:</span> +91 98203 88325</p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/qisuhmtd1eia4u394qj2ll2acv_q.svg" alt=""
+            <p><i><img src="<?php echo $base_path; ?>upload/news/qisuhmtd1eia4u394qj2ll2acv_q.svg" alt=""
                   class="img-responsive" /></i><span>Office:</span> 413 Marshalldale, Dr. Arlington, Texas 76013, USA
             </p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/g2dnhcv638b775b8f1sm5r2i4r_Group.svg" alt=""
+            <p><i><img src="<?php echo $base_path; ?>upload/news/g2dnhcv638b775b8f1sm5r2i4r_Group.svg" alt=""
                   class="img-responsive" /></i><span>Phone:</span> +1 (945) 209-1205</p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/Id_172-location_on_FILL0_wght400_GRAD0_opsz24 1.svg" alt=""
+            <p><i><img src="<?php echo $base_path; ?>upload/news/Id_172-location_on_FILL0_wght400_GRAD0_opsz24 1.svg" alt=""
                   class="img-responsive" /></i><span>Office:</span> 2 Havelock Rd, 07-12, Singapore 059763</p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/34rbr5efggq2g7infbc3s4i2sg_Group.svg" alt=""
+            <p><i><img src="<?php echo $base_path; ?>upload/news/34rbr5efggq2g7infbc3s4i2sg_Group.svg" alt=""
                   class="img-responsive" /></i><span>Phone:</span> +65 9277 9751</p>
           </div>
         </div>
@@ -86,7 +86,7 @@ include '../components/header.php';
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/1f81d2ba1b00607c27d283802dac5fb9_mail.svg"
+            <p><i><img src="<?php echo $base_path; ?>upload/news/1f81d2ba1b00607c27d283802dac5fb9_mail.svg"
                   alt="BS Digital Solutions mail us icon link" class="active img-responsive" /></i><span>Mail</span> <a
                 href="mailto:bidhans1990@gmail.com.php" target="_blank" rel="noopener">sales@BS Digital
                 Solutions.com</a></p>
@@ -94,7 +94,7 @@ include '../components/header.php';
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/p0mnjvea7gso995rjhcr7dh5n3_IsolationMode.svg"
+            <p><i><img src="<?php echo $base_path; ?>upload/news/p0mnjvea7gso995rjhcr7dh5n3_IsolationMode.svg"
                   alt="BS Digital Solutions Behance icon link" class="img-responsive" /></i><span>Behance</span> <a
                 href="https://www.behance.net/kishoreflance" target="_blank" rel="noopener">@BS Digital Solutions</a>
             </p>
@@ -102,7 +102,7 @@ include '../components/header.php';
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/7609fa7hf8bllhuqkd7e794mpn_mailFILL0wght400GRAD0opsz241.svg"
+            <p><i><img src="<?php echo $base_path; ?>upload/news/7609fa7hf8bllhuqkd7e794mpn_mailFILL0wght400GRAD0opsz241.svg"
                   alt="BS Digital Solutions Instagram icon link" class="img-responsive" /></i><span>Instagram</span> <a
                 href="https://www.instagram.com/bsdigital2023" target="_blank" rel="noopener">@BS Digital
                 Solutions</a></p>
@@ -110,7 +110,7 @@ include '../components/header.php';
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/d4aec6b76060012e3529f4c3b475e73f_fb.svg"
+            <p><i><img src="<?php echo $base_path; ?>upload/news/d4aec6b76060012e3529f4c3b475e73f_fb.svg"
                   alt="BS Digital Solutions Facebook icon link" class="img-responsive" /></i><span>Facebook</span> <a
                 href="https://www.facebook.com/BS Digital Solutions/" target="_blank" rel="noopener">@BS Digital
                 Solutions</a>&nbsp;</p>
@@ -118,14 +118,14 @@ include '../components/header.php';
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/382ffb5229f7ab3087817d7bcf3c5fbb_x.svg"
+            <p><i><img src="<?php echo $base_path; ?>upload/news/382ffb5229f7ab3087817d7bcf3c5fbb_x.svg"
                   alt="BS Digital Solutions Twitter icon link" class="img-responsive" /></i><span>Twitter</span> <a
                 href="https://x.com/BrandxDigi98057" target="_blank" rel="noopener">@BrandxDigi98057</a></p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/393f37054360b5da50850f5e2612b0f8_pinterest.svg"
+            <p><i><img src="<?php echo $base_path; ?>upload/news/393f37054360b5da50850f5e2612b0f8_pinterest.svg"
                   alt="BS Digital Solutions Pinterest icon link" class="img-responsive" /></i><span>Pinterest</span> <a
                 href="https://in.pinterest.com/BS Digital Solutions/" target="_blank" rel="noopener">@BS Digital
                 Solutions</a></p>
@@ -133,7 +133,7 @@ include '../components/header.php';
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/8ddaee738cb3deb2d1b45fa7dea9eaee_linkedin.svg"
+            <p><i><img src="<?php echo $base_path; ?>upload/news/8ddaee738cb3deb2d1b45fa7dea9eaee_linkedin.svg"
                   alt="BS Digital Solutions LinkedIn icon link" class="img-responsive" /></i><span>Linkedin</span> <a
                 href="https://www.linkedin.com/company/digibrandexofficial/?viewAsMember=true" target="_blank"
                 rel="noopener">@digibrandexofficial</a></p>
@@ -141,7 +141,7 @@ include '../components/header.php';
         </div>
         <div class="col-lg-6">
           <div class="ct_info_area">
-            <p><i><img src="upload/news/610005aa12954dbcc15fad6fece8b25c_yt.svg"
+            <p><i><img src="<?php echo $base_path; ?>upload/news/610005aa12954dbcc15fad6fece8b25c_yt.svg"
                   alt="BS Digital Solutions YouTube icon link" class="img-responsive" /></i><span>YouTube</span> <a
                 href="https://www.youtube.com/@BS Digital Solutions" target="_blank" rel="noopener">@BS Digital
                 Solutions</a></p>

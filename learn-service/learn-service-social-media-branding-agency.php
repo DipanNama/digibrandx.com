@@ -47,8 +47,8 @@ include '../components/cta-branding.php';
           reinforce your brand&rsquo;s identity. Whether through <strong>Instagram reels, LinkedIn posts, or YouTube
             videos</strong>, every piece of content should strengthen your brand&rsquo;s tone and values. BS Digital
           Solutions, a
-          <a href="index.php" target="_blank" rel="noopener"><strong>social media marketing agency</strong></a><span><a
-              href="index.php" target="_blank" rel="noopener"></a>,&nbsp;</span> ensures these interactions are
+          <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>social media marketing agency</strong></a><span><a
+              href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"></a>,&nbsp;</span> ensures these interactions are
           consistent and impactful, turning everyday content into a cohesive brand experience that builds familiarity
           and trust.
         </p>
@@ -98,7 +98,7 @@ include '../components/cta-branding.php';
         <p>Want to take your brand to the next level with effective social media strategies? Reach out to our team at
           BS Digital Solutions. We offer social media branding, ad management, and organic marketing to help your brand
           stand out
-          online. <a href="contact.php" target="_blank" rel="noopener">Get in touch</a> and let&rsquo;s grow your
+          online. <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Get in touch</a> and let&rsquo;s grow your
           business together.</p>
       </div>
     </div>

@@ -11,7 +11,7 @@ include 'components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php">Home</a></li>
             <li class="breadcrumb-item active" aria-current="page">Expertise</li>
           </ol>
         </nav>
@@ -185,8 +185,8 @@ include 'components/header.php';
         <h2>Ready to Amplify Your Brand?</h2>
         <p>We don't just advertise. We create magic. Let's work together to turn your vision into a global leader.</p>
         <div class="mt-4">
-            <a href="contact.php" class="right-viewbtn">Talk to Our Specialists</a>
-            <a href="contact.php" class="right-viewbtn ms-3">Request a Custom Quote</a>
+            <a href="<?php echo $base_path; ?>contact.php" class="right-viewbtn">Talk to Our Specialists</a>
+            <a href="<?php echo $base_path; ?>contact.php" class="right-viewbtn ms-3">Request a Custom Quote</a>
         </div>
     </div>
 </section>

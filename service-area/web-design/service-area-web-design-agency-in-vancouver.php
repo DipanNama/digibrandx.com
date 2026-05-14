@@ -142,7 +142,7 @@ include '../../components/cta-branding.php';
           your target audience&rsquo;s preferences while reflecting your brand identity. Leading Vancouver agencies
           create strategic, search-optimized websites that help your business remain competitive online.</p>
         <h4>Why BS Digital Solutions Is a Trusted Web Design Agency in Vancouver</h4>
-        <p>BS Digital Solutions is a <strong><a href="index.php" target="_blank" rel="noopener">full-service digital
+        <p>BS Digital Solutions is a <strong><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">full-service digital
               branding
               agency in Vancouver</a> </strong>with expertise in building businesses from the ground up. Our team
           delivers tailored website solutions aligned with your business goals. We offer custom web design and web
@@ -167,7 +167,7 @@ include '../../components/cta-branding.php';
           website that supports your digital marketing and growth objectives.</p>
         <h4>Contact BS Digital Solutions Today to Start Your Website Transformation</h4>
         <p><strong>Ready to elevate your business? </strong></p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a> to
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a> to
           discover how
           our Vancouver web design agency can transform your online presence. Whether launching a startup or updating
           your website, our experts are here to help.</p>

@@ -49,7 +49,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">SEO delivers measurable business impact by
             increasing website visibility, attracting qualified traffic, building brand credibility, and generating
             leads and sales over time. Unlike short-term paid campaigns, SEO continues to provide value long after
-            implementation.&nbsp;<a href="index.php" target="_blank" rel="noopener"><strong>BS Digital
+            implementation.&nbsp;<a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>BS Digital
                 Solutions</strong></a>
             helps businesses transition from reliance on ads to sustainable organic growth. SEO also strengthens brand
             authority, improves conversion efficiency, and reduces long-term customer acquisition costs, making it a

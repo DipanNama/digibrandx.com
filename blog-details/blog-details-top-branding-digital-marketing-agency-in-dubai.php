@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">How does a top branding & digital marketing agency in
               Dubai build globally connected and emotionally engaging brand personalities?</li>
           </ol>
@@ -47,7 +47,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/814BS Digital Solutions, branding agency in Dubai_02.webp"
+      src="<?php echo $base_path; ?>upload/media/814BS Digital Solutions, branding agency in Dubai_02.webp"
       alt="BS Digital Solutions global brand strategy and development" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -95,7 +95,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/10BS Digital Solutions, branding agency in Dubai_03.webp"
+      src="<?php echo $base_path; ?>upload/media/10BS Digital Solutions, branding agency in Dubai_03.webp"
       alt="Corporate branding agency in Dubai creative process" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -177,7 +177,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/236BS Digital Solutions, branding agency in Dubai_04.webp"
+      src="<?php echo $base_path; ?>upload/media/236BS Digital Solutions, branding agency in Dubai_04.webp"
       alt="Brand consulting agency in Dubai working on brand personality" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -215,7 +215,7 @@ include '../components/header.php';
               flourish.
               Whether you are a startup looking for an affordable web development company or an enterprise seeking the
               best ad agency in the world, we are here to turn your vision into a compelling global reality.</p>
-            <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions
+            <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions
                   today.</strong></a>
               Let&rsquo;s build a brand that doesn't just reach the world&mdash;it moves it.</p>
             <h3>Our Core Competencies at a Glance:</h3>

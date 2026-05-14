@@ -188,10 +188,10 @@ include '../../components/cta-branding.php';
           agency, we understand the local business environment and market trends, ensuring your marketing efforts
           resonate with your target audience.</p>
         <h4>Ready to Grow Your Business with BS Digital Solutions?</h4>
-        <p>If you are seeking a <a href="index.php" target="_blank" rel="noopener"><strong>digital marketing agency in
+        <p>If you are seeking a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>digital marketing agency in
               Montreal </strong></a>to help grow your business and deliver results, choose BS Digital Solutions. We will
           strengthen your online presence and boost your brand&rsquo;s visibility.</p>
-        <p><strong><a href="contact.php" target="_blank" rel="noopener">Contact us today</a> to start building your
+        <p><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Contact us today</a> to start building your
             path to success.</strong></p>
       </div>
     </div>

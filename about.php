@@ -153,8 +153,8 @@ include 'components/header.php';
                   <p class="ag-p">Whether you are a startup with big dreams or a legacy brand looking to reimagine your
                     presence, we are ready to amplify your voice.</p>
                   <div class="mt-4">
-                    <a href="contact.php" class="right-viewbtn">Talk to Bidhan Sarkar</a>
-                    <a href="portfolio.php" class="right-viewbtn ms-3">View Our Portfolio</a>
+                    <a href="<?php echo $base_path; ?>contact.php" class="right-viewbtn">Talk to Bidhan Sarkar</a>
+                    <a href="<?php echo $base_path; ?>portfolio.php" class="right-viewbtn ms-3">View Our Portfolio</a>
                   </div>
                 </div>
               </div>

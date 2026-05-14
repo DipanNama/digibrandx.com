@@ -35,7 +35,7 @@ include '../components/cta-branding.php';
               target="_blank" rel="noopener"><strong>brand communicates</strong></a>, reflecting its values, attitude,
             and character. This personality&mdash;whether confident, friendly, authoritative, playful, or
             premium&mdash;should remain constant across all communications. At BS Digital Solutions, a <strong><a
-                href="index.php" target="_blank" rel="noopener">leading branding agency</a>, </strong>we define brand
+                href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">leading branding agency</a>, </strong>we define brand
             voice strategically to align with business goals, audience expectations, and market positioning. Voice
             remains consistent across platforms and serves as the brand&rsquo;s identity in words.</span></p>
         <h4>What Is Brand Tone? Understanding Contextual Communication</h4>

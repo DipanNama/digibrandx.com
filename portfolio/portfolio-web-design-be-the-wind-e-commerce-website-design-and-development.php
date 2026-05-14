@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-web-design.php">Web Design</a></li>
             <li class="breadcrumb-item active" aria-current="page">Be The Wind I E-commerce Application</li>
           </ol>
@@ -34,15 +34,15 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/629Cover_Crezo.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/629Cover_Crezo.webp"
       alt="Be The Wind e-commerce website homepage designed by BS Digital Solutions" width="1920" height="2500" />
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/792Banner.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/792Banner.webp" alt="" width="1920"
       height="488" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/742Home.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/742Home.webp"
       alt="Be The Wind e-commerce website homepage designed by BS Digital Solutions" width="1920" height="8968" />
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/619Banner01.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/619Banner01.webp" alt=""
       width="1920" height="488" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -122,7 +122,7 @@ include '../components/header.php';
             <p>By combining web marketing and design with expert web design company technical skills, we deliver more
               than just an app; we deliver a business engine. Stop browsing for "web development companies near me" and
               partner with a creative web development agency that understands the startup hustle.</p>
-            <p>Ready to launch? <a href="contact.php" target="_blank" rel="noopener"><strong>Contact
+            <p>Ready to launch? <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact
                   BS Digital Solutions</strong></a>&mdash;the best ecommerce website development company for modern
               startups.</p>
           </div>

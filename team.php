@@ -50,7 +50,7 @@ include 'components/header.php';
         <div class="col-lg-12">
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/3447ff2af343f067c456d3de193b893c_Untitled1.jpg"
+              <img src="<?php echo $base_path; ?>upload/news/3447ff2af343f067c456d3de193b893c_Untitled1.jpg"
                 alt="Kishore Pratim Biswas is a successful creative director in 360 degree advertising agency"
                 class="active img-fluid">
             </div>
@@ -75,7 +75,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/53bcev5cm58c0qpq7f74b2rako_Untitled1.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/53bcev5cm58c0qpq7f74b2rako_Untitled1.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Marketing Head:</strong> Samuel Sudhakar </h5>
@@ -92,7 +92,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/Id_698-Pooja_ghatak_BS Digital Solutions.webp" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/Id_698-Pooja_ghatak_BS Digital Solutions.webp" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Business Head:</strong> Pooja Ghatak </h5>
@@ -108,7 +108,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/Id_107-Ki.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/Id_107-Ki.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Digital Marketing Head:</strong> Debalay Acharya </h5>
@@ -127,7 +127,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/73319169dad6bac1f009934515970e26_Profilepiccanva.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/73319169dad6bac1f009934515970e26_Profilepiccanva.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Head of Content Strategy:</strong> Amit Roy </h5>
@@ -142,7 +142,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/224cd7de87e4f86e3af097a790658f21_Untitled2.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/224cd7de87e4f86e3af097a790658f21_Untitled2.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Conceptual Thinker:</strong> Sagarika Sadhukhan </h5>
@@ -157,7 +157,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/0020d91e545074b77be72443467ab1bd_Untitled2.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/0020d91e545074b77be72443467ab1bd_Untitled2.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Cinematographer:</strong> Debnath Sadhukhan </h5>
@@ -172,7 +172,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/f12a40d12fd255c856baf6ee61168bdd_Untitled1.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/f12a40d12fd255c856baf6ee61168bdd_Untitled1.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Head of Application Development:</strong> Atri Bhattacharyya </h5>
@@ -189,7 +189,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/c80a68564a9f6fa7c4c5fe338d5f74cc_Untitled5.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/c80a68564a9f6fa7c4c5fe338d5f74cc_Untitled5.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Brand Specialist:</strong> Asad Shaikh </h5>
@@ -206,7 +206,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/Id_106-Ki.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/Id_106-Ki.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Producer / Director:</strong> Anirban Dutta </h5>
@@ -223,7 +223,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/Id_55-Untitled-1.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/Id_55-Untitled-1.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Head of Photography / Videography:</strong> Bhaskar Roy </h5>
@@ -239,7 +239,7 @@ include 'components/header.php';
           </div>
           <div class="testi-item">
             <div class="testi-img">
-              <img src="upload/news/5970bee8091066c6291d8a919780808b_Untitled1.jpg" alt="" class="img-fluid">
+              <img src="<?php echo $base_path; ?>upload/news/5970bee8091066c6291d8a919780808b_Untitled1.jpg" alt="" class="img-fluid">
             </div>
             <div class="testi-content">
               <h5><strong>Creative Head:</strong> Milton Roy </h5>
@@ -268,43 +268,43 @@ include 'components/header.php';
           </div>
           <div class="swiper client-area" data-aos="fade-up" data-aos-duration="1500">
             <div class="swiper-wrapper">
-              <div class="swiper-slide"><img src="upload/news/21cfd8a490b8fd859b75589831bd6fb3_11.jpg"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/21cfd8a490b8fd859b75589831bd6fb3_11.jpg"
                   class="active img-fluid" title="Zee5"></div>
-              <div class="swiper-slide"><img src="upload/news/66ae3e5f3eae5347cef1eedbd8a33e73_11.jpg" class="img-fluid"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/66ae3e5f3eae5347cef1eedbd8a33e73_11.jpg" class="img-fluid"
                   title="Franklin"></div>
-              <div class="swiper-slide"><img src="upload/news/Id_71-Untitled-1.jpg" class="img-fluid"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_71-Untitled-1.jpg" class="img-fluid"
                   title="Tata Steel"></div>
-              <div class="swiper-slide"><img src="upload/news/Id_72-Untitled-1.jpg" class="img-fluid" title="ITC"></div>
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_72-Untitled-1.jpg" class="img-fluid" title="ITC"></div>
               <div class="swiper-slide"><img
-                  src="upload/news/rfmp1de3tllj2pboiqliddhpbk_Amossteelmanufacturingbrand.webp" class="img-fluid"
+                  src="<?php echo $base_path; ?>upload/news/rfmp1de3tllj2pboiqliddhpbk_Amossteelmanufacturingbrand.webp" class="img-fluid"
                   title="Amos Steel "></div>
-              <div class="swiper-slide"><img src="upload/news/d5lpop4nc1pscsonc81ol3ilb2_AcoladaFashionBrand.webp"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/d5lpop4nc1pscsonc81ol3ilb2_AcoladaFashionBrand.webp"
                   class="img-fluid" title="Acolada"></div>
-              <div class="swiper-slide"><img src="upload/news/ehkc7ou8r38t4mn7cs59heo0kg_somaUniversalLogistics.webp"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/ehkc7ou8r38t4mn7cs59heo0kg_somaUniversalLogistics.webp"
                   class="img-fluid" title="SOMA Universal Logistics"></div>
-              <div class="swiper-slide"><img src="upload/news/hcctros0grhl0fm3a1dgkmanit_masterpay.webp"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/hcctros0grhl0fm3a1dgkmanit_masterpay.webp"
                   class="img-fluid" title="Masterpay"></div>
-              <div class="swiper-slide"><img src="upload/news/Id_103-Untitled-2.jpg" class="img-fluid"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_103-Untitled-2.jpg" class="img-fluid"
                   title="Indian Oil"></div>
-              <div class="swiper-slide"><img src="upload/news/Id_184-Ollato_Mental_Health_Wellness.webp"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_184-Ollato_Mental_Health_Wellness.webp"
                   class="img-fluid" title="Ollato Mental Health Wellness"></div>
-              <div class="swiper-slide"><img src="upload/news/Id_185-OneBharat_Fintech_brand.webp" class="img-fluid"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_185-OneBharat_Fintech_brand.webp" class="img-fluid"
                   title="OneBharat Fintech Brand"></div>
-              <div class="swiper-slide"><img src="upload/news/Id_74-Untitled-1.jpg" class="img-fluid" title="Tiscon">
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_74-Untitled-1.jpg" class="img-fluid" title="Tiscon">
               </div>
-              <div class="swiper-slide"><img src="upload/news/Id_73-Untitled-1.jpg" class="img-fluid" title="Rupa">
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_73-Untitled-1.jpg" class="img-fluid" title="Rupa">
               </div>
-              <div class="swiper-slide"><img src="upload/news/Id_100-t.jpg" class="img-fluid" title="Tata Structura">
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_100-t.jpg" class="img-fluid" title="Tata Structura">
               </div>
-              <div class="swiper-slide"><img src="upload/news/t0f3afecqul9rp7peu01266f4g_Untitled6.jpg"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/t0f3afecqul9rp7peu01266f4g_Untitled6.jpg"
                   class="img-fluid" title="UBQ"></div>
-              <div class="swiper-slide"><img src="upload/news/85a6e175355bf0e6fc387893405b0095_Untitled1.jpg"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/85a6e175355bf0e6fc387893405b0095_Untitled1.jpg"
                   class="img-fluid" title="Sapphire"></div>
-              <div class="swiper-slide"><img src="upload/news/Id_68-Untitled-1.jpg" class="img-fluid" title="Golaundry">
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_68-Untitled-1.jpg" class="img-fluid" title="Golaundry">
               </div>
-              <div class="swiper-slide"><img src="upload/news/Id_67-Untitled-1.jpg" class="img-fluid" title="Amos">
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_67-Untitled-1.jpg" class="img-fluid" title="Amos">
               </div>
-              <div class="swiper-slide"><img src="upload/news/119112929f0d6c1ee7c00185a45c4315_11.jpg" class="img-fluid"
+              <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/119112929f0d6c1ee7c00185a45c4315_11.jpg" class="img-fluid"
                   title="Synemedia"></div>
             </div>
             <div class="swiper-pagination"></div>

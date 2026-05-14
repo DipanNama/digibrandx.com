@@ -33,20 +33,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_278-BS Digital Solutions, advertising agency in Hyderabad_04.webp" title="Hyderabad"><img
-          src="upload/news/Id_277-BS Digital Solutions, advertising agency in Hyderabad_02.webp" title="Hyderabad">
+          src="<?php echo $base_path; ?>upload/news/Id_278-BS Digital Solutions, advertising agency in Hyderabad_04.webp" title="Hyderabad"><img
+          src="<?php echo $base_path; ?>upload/news/Id_277-BS Digital Solutions, advertising agency in Hyderabad_02.webp" title="Hyderabad">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_279-BS Digital Solutions, advertising agency in Hyderabad_03.webp" title="Hyderabad"><img
-          src="upload/news/Id_280-BS Digital Solutions, advertising agency in Hyderabad_06.webp" title="Hyderabad">
+          src="<?php echo $base_path; ?>upload/news/Id_279-BS Digital Solutions, advertising agency in Hyderabad_03.webp" title="Hyderabad"><img
+          src="<?php echo $base_path; ?>upload/news/Id_280-BS Digital Solutions, advertising agency in Hyderabad_06.webp" title="Hyderabad">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_281-BS Digital Solutions, advertising agency in Hyderabad_01.webp" title="Hyderabad"><img
-          src="upload/news/Id_282-BS Digital Solutions, advertising agency in Hyderabad_08.webp" title="Hyderabad">
+          src="<?php echo $base_path; ?>upload/news/Id_281-BS Digital Solutions, advertising agency in Hyderabad_01.webp" title="Hyderabad"><img
+          src="<?php echo $base_path; ?>upload/news/Id_282-BS Digital Solutions, advertising agency in Hyderabad_08.webp" title="Hyderabad">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_284-BS Digital Solutions, advertising agency in Hyderabad_05.jpg" title="Hyderabad"><img
-          src="upload/news/Id_283-BS Digital Solutions, advertising agency in Hyderabad_07.webp" title="Hyderabad">
+          src="<?php echo $base_path; ?>upload/news/Id_284-BS Digital Solutions, advertising agency in Hyderabad_05.jpg" title="Hyderabad"><img
+          src="<?php echo $base_path; ?>upload/news/Id_283-BS Digital Solutions, advertising agency in Hyderabad_07.webp" title="Hyderabad">
       </div>
     </div>
   </section>
@@ -143,7 +143,7 @@ include '../../components/cta-branding.php';
           your business?</h1>
         <p>Hyderabad has become one of India&rsquo;s leading digital and IT hubs, home to innovative startups, global
           technology companies, and fast-growing enterprises. In such a competitive environment, a website is more than
-          just an online presence&mdash;it is a powerful business asset. Choosing the right <a href="index.php"
+          just an online presence&mdash;it is a powerful business asset. Choosing the right <a href="<?php echo $base_path; ?>index.php"
             target="_blank" rel="noopener"><strong>corporate web design agency in Hyderabad</strong></a>&nbsp;is crucial
           for shaping brand credibility, improving user engagement, and driving business growth.</p>
         <p>A professionally designed website should reflect your brand identity, clearly communicate with your target
@@ -204,7 +204,7 @@ include '../../components/cta-branding.php';
         <p>Collaborate with BS Digital Solutions<strong> </strong>to develop a robust website that accurately represents
           your
           brand, engages your target audience, and delivers measurable business outcomes.<br />Let&rsquo;s build your
-          digital success&mdash;<a href="contact.php" target="_blank" rel="noopener"><strong>start with
+          digital success&mdash;<a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>start with
               BS Digital Solutions.</strong></a></p>
       </div>
     </div>

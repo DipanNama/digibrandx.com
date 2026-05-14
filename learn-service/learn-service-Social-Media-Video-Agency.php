@@ -83,7 +83,7 @@ include '../components/cta-branding.php';
         <p>Social Media Video is essential for building brand recall. Visual storytelling enables brands to convey
           identity, values, and personality more effectively than static content. Consistent visuals and messaging make
           brands more recognizable and memorable, which is vital in competitive digital markets.</p>
-        <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">A&nbsp;<a href="index.php" target="_blank"
+        <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">A&nbsp;<a href="<?php echo $base_path; ?>index.php" target="_blank"
               rel="noopener"><strong>leading Social Media marketing agency</strong></a> creates emotionally engaging
             narratives that extend beyond promotion. Story-driven videos humanize brands, making them more relatable and
             trustworthy. BS Digital Solutions helps brands produce videos that leave a lasting impression, turning

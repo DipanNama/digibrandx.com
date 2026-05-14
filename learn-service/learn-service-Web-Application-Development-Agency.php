@@ -73,7 +73,7 @@ include '../components/cta-branding.php';
         <p>These products are popular because they are easy to use, load quickly, and work well with other services and
           platforms. They use modern technology to stay responsive and keep up with what users want.</p>
         <h3>How to Choose a Web Application Development Agency for Your Web Application</h3>
-        <p>Picking the right <a href="index.php" target="_blank" rel="noopener"><strong>web app development
+        <p>Picking the right <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>web app development
               firm</strong></a>&nbsp;is key to your digital product&rsquo;s success. Find an agency that has a history
           of building great, user-focused web applications. The best agencies know the whole process, from design to
           launch, and can support you even after your site goes live.</p>
@@ -90,7 +90,7 @@ include '../components/cta-branding.php';
           business grow and keep your customers coming back. We focus on quality, user experience, and new ideas so your
           web application stands out from the competition.</p>
         <p><strong>Are you ready to build your next web application? </strong></p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Get in touch</strong></a> with us to see how
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Get in touch</strong></a> with us to see how
           BS Digital Solutions can help your business grow with custom web application solutions that deliver real
           results.</p>
       </div>

@@ -65,7 +65,7 @@ include '../components/cta-branding.php';
             a strategic purpose and supports informed decision-making.</span></p>
         <h3>User Research Step 1: Business and Stakeholder Alignment</h3>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">The User Research process begins with
-            business alignment. BS Digital Solutions, a <a href="index.php" target="_blank" rel="noopener"><strong>user
+            business alignment. BS Digital Solutions, a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>user
                 experience research firm, </strong></a>collaborates with leadership to define research objectives,
             success metrics, assumptions, and constraints. This ensures research outcomes support business priorities
             such as growth, efficiency, or differentiation. We align research questions with strategic goals so insights

@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">How to Choose the Right Branding Agency for Your
               Business in Dubai</li>
           </ol>
@@ -51,7 +51,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/98501.01.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/98501.01.webp"
       alt="Corporate branding agency in Dubai delivering brand strategy, brand identity, and design solutions"
       width="1920" height="798" /></section>
   <section class="portfolio-details_sec">
@@ -72,7 +72,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/44602.01.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/44602.01.webp"
       alt="Creative agency in Dubai collaborating on brand strategy and experience design for modern brands"
       width="1920" height="1279" /></section>
   <section class="portfolio-details_sec">
@@ -89,7 +89,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/69702.04.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/69702.04.webp"
       alt="Brand strategy agency in Dubai conducting research, competitive analysis, and brand discovery sessions"
       width="1920" height="1043" /></section>
   <section class="portfolio-details_sec">
@@ -110,7 +110,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/19802.05.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/19802.05.webp"
       alt="Brand identity agency in Dubai designing logos, typography, office badge and visual systems for businesses"
       width="1920" height="1419" /></section>
   <section class="portfolio-details_sec">
@@ -132,7 +132,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/7602.06.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/7602.06.webp"
       alt="B2B branding agency in Dubai building professional brand identity and market positioning" width="1920"
       height="1410" /></section>
   <section class="portfolio-details_sec">
@@ -155,7 +155,7 @@ include '../components/header.php';
               started!</h3>
             <p>Looking for a <strong>creative advertising agency in Dubai</strong>? Our agency offers innovative
               branding solutions that resonate with your target audience. From brand strategy to captivating campaigns,
-              we ensure your business stands out.<a href="contact.php" target="_blank" rel="noopener"><strong>
+              we ensure your business stands out.<a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>
                   Let&rsquo;s create lasting impressions and drive growth together.</strong></a></p>
           </div>
         </div>

@@ -24,7 +24,7 @@ include '../components/cta-branding.php';
             Help Create Scalable, Future-Ready Digital Solutions for Businesses?</span></h1>
         <p>Enterprise application development means creating large-scale software that helps make your core business
           operations run more smoothly. These systems manage complex tasks, handle large volumes of data, and support
-          teams such as finance, HR, and sales. At BS Digital Solutions, an <a href="index.php" target="_blank"
+          teams such as finance, HR, and sales. At BS Digital Solutions, an <a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"><strong>application development agency</strong></a>, we build secure, scalable solutions that
           align with your business goals. We start by learning about your organization&rsquo;s challenges, then turn
           those needs into systems that boost productivity. Whether you need an ERP, a CRM, or a custom dashboard, we
@@ -127,7 +127,7 @@ include '../components/cta-branding.php';
             scalable, future-ready digital solutions? </span></h3>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Partner with BS Digital Solutions for expert
             enterprise application development that drives efficiency, innovation, and growth. Our team creates
-            tailored, high-performance applications to meet your unique business needs. <a href="contact.php"
+            tailored, high-performance applications to meet your unique business needs. <a href="<?php echo $base_path; ?>contact.php"
               target="_blank" rel="noopener"><strong>Contact us today </strong></a>to start building your enterprise
             application and elevate your business.</span></p>
       </div>

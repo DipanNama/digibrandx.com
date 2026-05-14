@@ -32,17 +32,17 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_319-BS Digital Solutions, advertising agency in Chennai_01.webp" title="Chennai"><img
-          src="upload/news/Id_320-BS Digital Solutions, advertising agency in Chennai_03.webp" title="Chennai"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_319-BS Digital Solutions, advertising agency in Chennai_01.webp" title="Chennai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_320-BS Digital Solutions, advertising agency in Chennai_03.webp" title="Chennai"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_321-BS Digital Solutions, advertising agency in Chennai_02.webp" title="Chennai"><img
-          src="upload/news/Id_322-BS Digital Solutions, advertising agency in Chennai_05.jpg" title="Chennai"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_321-BS Digital Solutions, advertising agency in Chennai_02.webp" title="Chennai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_322-BS Digital Solutions, advertising agency in Chennai_05.jpg" title="Chennai"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_323-BS Digital Solutions, advertising agency in Chennai_04.webp" title="Chennai"><img
-          src="upload/news/Id_324-BS Digital Solutions, advertising agency in Chennai_06.webp" title="Chennai"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_323-BS Digital Solutions, advertising agency in Chennai_04.webp" title="Chennai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_324-BS Digital Solutions, advertising agency in Chennai_06.webp" title="Chennai"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_325-BS Digital Solutions, advertising agency in Chennai_07.webp" title="Chennai"><img
-          src="upload/news/Id_326-BS Digital Solutions, advertising agency in Chennai_08.webp" title="Chennai"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_325-BS Digital Solutions, advertising agency in Chennai_07.webp" title="Chennai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_326-BS Digital Solutions, advertising agency in Chennai_08.webp" title="Chennai"></div>
     </div>
   </section>
   <?php 
@@ -167,7 +167,7 @@ include '../../components/cta-branding.php';
         </p>
         <h4>Branding Services for Startups, SMEs, and Growing Businesses</h4>
         <p>Startups and SMEs need branding that is flexible, scalable, and cost-effective. As an SME <a
-            href="index.php" target="_blank" rel="noopener"><strong>branding agency in Chennai</strong>,</a> BS Digital
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>branding agency in Chennai</strong>,</a> BS Digital
           Solutions
           helps early-stage and growing businesses define their identity, clarify their value proposition, and build a
           strong market presence. For startups, branding should attract customers, talent, and investors simultaneously.
@@ -190,7 +190,7 @@ include '../../components/cta-branding.php';
           ROI-focused branding solutions. Our goal is to promote your brand with clarity, consistency, and confidence,
           supporting your growth from a local presence to a global brand.</p>
         <p><strong>Are you seeking a trusted branding agency in Chennai?</strong></p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
           to craft a
           brand that embodies your vision, captivates your audience, and grows across markets.<br />Ready to elevate
           your brand to new heights? Let&rsquo;s start your transformation today.</p>

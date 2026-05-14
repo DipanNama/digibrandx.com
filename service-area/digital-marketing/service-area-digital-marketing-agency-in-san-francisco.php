@@ -32,24 +32,24 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_477-BS Digital Solutions, branding agency in San Francisco _08.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_477-BS Digital Solutions, branding agency in San Francisco _08.webp"
           title="San francisco"><img
-          src="upload/news/Id_478-BS Digital Solutions, branding agency in San Francisco _01.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_478-BS Digital Solutions, branding agency in San Francisco _01.webp"
           title="San francisco"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_480-BS Digital Solutions, branding agency in San Francisco _02.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_480-BS Digital Solutions, branding agency in San Francisco _02.webp"
           title="San francisco"><img
-          src="upload/news/Id_479-BS Digital Solutions, branding agency in San Francisco _07.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_479-BS Digital Solutions, branding agency in San Francisco _07.webp"
           title="San francisco"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_481-BS Digital Solutions, branding agency in San Francisco _06.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_481-BS Digital Solutions, branding agency in San Francisco _06.webp"
           title="San francisco"><img
-          src="upload/news/Id_482-BS Digital Solutions, branding agency in San Francisco _03.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_482-BS Digital Solutions, branding agency in San Francisco _03.webp"
           title="San francisco"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_483-BS Digital Solutions, branding agency in San Francisco _04.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_483-BS Digital Solutions, branding agency in San Francisco _04.webp"
           title="San francisco"><img
-          src="upload/news/Id_484-BS Digital Solutions, branding agency in San Francisco _05.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_484-BS Digital Solutions, branding agency in San Francisco _05.webp"
           title="San francisco"></div>
     </div>
   </section>

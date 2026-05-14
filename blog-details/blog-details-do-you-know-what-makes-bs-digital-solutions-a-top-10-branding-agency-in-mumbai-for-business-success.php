@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">What makes BS Digital Solutions stand among the top
               10
               advertising agencies in Mumbai for driving real business success?</li>
@@ -46,7 +46,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/971bs-digital-solutions. branding agency im Mumbai_02.webp"
+      src="<?php echo $base_path; ?>upload/media/971bs-digital-solutions. branding agency im Mumbai_02.webp"
       alt="BS Digital Solutions logo design for corporate branding agency in Mumbai" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -118,7 +118,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/719bs-digital-solutions. branding agency im Mumbai_03.webp"
+      src="<?php echo $base_path; ?>upload/media/719bs-digital-solutions. branding agency im Mumbai_03.webp"
       alt="Creative branding agency in Mumbai providing brand development" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -159,7 +159,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/577bs-digital-solutions. branding agency im Mumbai_04.webp"
+      src="<?php echo $base_path; ?>upload/media/577bs-digital-solutions. branding agency im Mumbai_04.webp"
       alt="Team working on brand strategy for a global brand in Mumbai" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -176,7 +176,7 @@ include '../components/header.php';
             <p>Make your brand <strong>unshakable, unforgettable, and unstoppable</strong>. Partner with the <a
                 href="../learn-service/learn-service-Affiliate-Marketing-Agency.php" target="_blank" rel="noopener"><strong>top 10
                   digital marketing agencies in Mumbai</strong> </a>to help your business stand out.</p>
-            <p>Want to take your brand to the next level? <a href="contact.php"><strong>Reach out to
+            <p>Want to take your brand to the next level? <a href="<?php echo $base_path; ?>contact.php"><strong>Reach out to
                   BS Digital Solutions</strong></a>, ranked among Mumbai&rsquo;s top 10 advertising agencies. Our team
               can help
               you with smart branding, creative design, and digital solutions that make your business stand out, connect

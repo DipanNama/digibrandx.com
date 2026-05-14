@@ -60,7 +60,7 @@ include '../components/cta-branding.php';
         </p>
         <h3>Branding Steps and Process: A Structured Approach</h3>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Effective branding relies on a structured
-            process rather than intuition. BS Digital Solutions, a <a href="index.php" target="_blank"
+            process rather than intuition. BS Digital Solutions, a <a href="<?php echo $base_path; ?>index.php" target="_blank"
               rel="noopener"><strong>premium branding agency</strong></a>, uses a proven framework that includes
             <strong>discovery, research, strategy development, identity creation,</strong> and activation. We begin by
             understanding the business, industry, and audience, then define positioning and messaging before designing
@@ -108,7 +108,7 @@ include '../components/cta-branding.php';
             consistency. Our goal is to build brands that scale, endure, and lead their
             markets.<br /><br /><strong>Build a brand designed to compete globally.<br /></strong></span><span
             style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"><strong><a
-                href="contact.php" target="_blank" rel="noopener">Partner with BS Digital Solutions</a> </strong>for
+                href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Partner with BS Digital Solutions</a> </strong>for
             strategic
             branding excellence.<br /></span></p>
       </div>

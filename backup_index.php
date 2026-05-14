@@ -623,7 +623,7 @@ ux research firms" />
             <div class="row">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="/"><img src="images/logo.svg" alt="DigiBrandX"
+                        <a class="navbar-brand" href="/"><img src="<?php echo $base_path; ?>images/logo.svg" alt="DigiBrandX"
                                 class="img-fluid"></a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -655,7 +655,7 @@ ux research firms" />
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
 
-                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <!-- <div class="srow-icon"><img src="<?php echo $base_path; ?>images/menu-icon.svg" alt=""></div> -->
                                                         <span class="srow-name">Branding</span>
 
                                                     </div>
@@ -666,7 +666,7 @@ ux research firms" />
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
 
-                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <!-- <div class="srow-icon"><img src="<?php echo $base_path; ?>images/menu-icon.svg" alt=""></div> -->
                                                         <span class="srow-name">UX Design</span>
 
                                                     </div>
@@ -677,7 +677,7 @@ ux research firms" />
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
 
-                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <!-- <div class="srow-icon"><img src="<?php echo $base_path; ?>images/menu-icon.svg" alt=""></div> -->
                                                         <span class="srow-name">Visual Design</span>
 
                                                     </div>
@@ -688,7 +688,7 @@ ux research firms" />
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
 
-                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <!-- <div class="srow-icon"><img src="<?php echo $base_path; ?>images/menu-icon.svg" alt=""></div> -->
                                                         <span class="srow-name">Application Development</span>
 
                                                     </div>
@@ -699,7 +699,7 @@ ux research firms" />
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
 
-                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <!-- <div class="srow-icon"><img src="<?php echo $base_path; ?>images/menu-icon.svg" alt=""></div> -->
                                                         <span class="srow-name">Graphics Design</span>
 
                                                     </div>
@@ -710,7 +710,7 @@ ux research firms" />
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
 
-                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <!-- <div class="srow-icon"><img src="<?php echo $base_path; ?>images/menu-icon.svg" alt=""></div> -->
                                                         <span class="srow-name">Social Media Branding</span>
 
                                                     </div>
@@ -721,7 +721,7 @@ ux research firms" />
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
 
-                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <!-- <div class="srow-icon"><img src="<?php echo $base_path; ?>images/menu-icon.svg" alt=""></div> -->
                                                         <span class="srow-name">Digital Marketing</span>
 
                                                     </div>
@@ -732,7 +732,7 @@ ux research firms" />
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
 
-                                                        <!-- <div class="srow-icon"><img src="images/menu-icon.svg" alt=""></div> -->
+                                                        <!-- <div class="srow-icon"><img src="<?php echo $base_path; ?>images/menu-icon.svg" alt=""></div> -->
                                                         <span class="srow-name">Video Production</span>
 
                                                     </div>
@@ -1308,7 +1308,7 @@ ux research firms" />
                         <a href="case-study-details/Ollato-Mental-Health-Wellness-Brand-Case-Study">
                             <div class="case-img"
                                 style="display: flex; justify-content: center; height: 300px; overflow: hidden;"><img
-                                    src="upload/news/ie5k0ht5t4ftapjmf1fotfamnb_Cover.jpg" alt="[ALT_TAG]"
+                                    src="<?php echo $base_path; ?>upload/news/ie5k0ht5t4ftapjmf1fotfamnb_Cover.jpg" alt="[ALT_TAG]"
                                     class="img-fluid"></div>
                             <div class="case-content" style="height:253px; overflow:hidden;">
                                 <h5>Ollato</h5>
@@ -1334,7 +1334,7 @@ ux research firms" />
                         <a href="case-study-details/soma-universal-logistics-brand-case-study">
                             <div class="case-img"
                                 style="display: flex; justify-content: center; height: 300px; overflow: hidden;"><img
-                                    src="upload/news/Id_155-Cover.jpg" alt="[ALT_TAG]" class="img-fluid"></div>
+                                    src="<?php echo $base_path; ?>upload/news/Id_155-Cover.jpg" alt="[ALT_TAG]" class="img-fluid"></div>
                             <div class="case-content" style="height:253px; overflow:hidden;">
                                 <h5>Soma Universal Logistics</h5>
                                 <p>
@@ -1375,7 +1375,7 @@ ux research firms" />
                             <div class="swiper-slide">
                                 <div class="testi-item">
                                     <div class="testi-img">
-                                        <img src="upload/news/tvaqdv0tublkvj8lippise600v_NileshAvhadSOMAUniversalLogistics.webp"
+                                        <img src="<?php echo $base_path; ?>upload/news/tvaqdv0tublkvj8lippise600v_NileshAvhadSOMAUniversalLogistics.webp"
                                             alt="Nilesh Avhad, SOMA Universal Logistics" class="active img-fluid">
                                     </div>
                                     <div class="testi-content text-white">
@@ -1396,7 +1396,7 @@ ux research firms" />
                             <div class="swiper-slide">
                                 <div class="testi-item">
                                     <div class="testi-img">
-                                        <img src="upload/news/jgah8hgpcgm05qhat1q7peqqa2_SatyajitNathCrowdStrike.webp"
+                                        <img src="<?php echo $base_path; ?>upload/news/jgah8hgpcgm05qhat1q7peqqa2_SatyajitNathCrowdStrike.webp"
                                             alt="Satyajit Nath, Director of Engineering, CrowdStrike" class="img-fluid">
                                     </div>
                                     <div class="testi-content text-white">
@@ -1417,7 +1417,7 @@ ux research firms" />
                             <div class="swiper-slide">
                                 <div class="testi-item">
                                     <div class="testi-img">
-                                        <img src="upload/news/4mnkasmke12ts9equ546dmoblq_Frame167111.webp"
+                                        <img src="<?php echo $base_path; ?>upload/news/4mnkasmke12ts9equ546dmoblq_Frame167111.webp"
                                             alt="Nirmal Savjibhai Patel, MasterPay" class="img-fluid">
                                     </div>
                                     <div class="testi-content text-white">
@@ -1436,7 +1436,7 @@ ux research firms" />
                             <div class="swiper-slide">
                                 <div class="testi-item">
                                     <div class="testi-img">
-                                        <img src="upload/news/pj94kgqmolv1d1v0s6po6ac2o1_Mr.KedarKarnikSOMAUniversalLogistics.webp"
+                                        <img src="<?php echo $base_path; ?>upload/news/pj94kgqmolv1d1v0s6po6ac2o1_Mr.KedarKarnikSOMAUniversalLogistics.webp"
                                             alt="Kedar Karnik, SOMA Universal Logistics" class="img-fluid">
                                     </div>
                                     <div class="testi-content text-white">
@@ -1457,7 +1457,7 @@ ux research firms" />
                             <div class="swiper-slide">
                                 <div class="testi-item">
                                     <div class="testi-img">
-                                        <img src="upload/news/72dqgcl8i316afn3htlne2q04r_DebuChatterjeeCEOofKonfer.webp"
+                                        <img src="<?php echo $base_path; ?>upload/news/72dqgcl8i316afn3htlne2q04r_DebuChatterjeeCEOofKonfer.webp"
                                             alt="Mr. Debu Chatterjee, CEO of Konfer" class="img-fluid">
                                     </div>
                                     <div class="testi-content text-white">
@@ -1476,7 +1476,7 @@ ux research firms" />
                             <div class="swiper-slide">
                                 <div class="testi-item">
                                     <div class="testi-img">
-                                        <img src="upload/news/Id_409-Frame 16711.webp"
+                                        <img src="<?php echo $base_path; ?>upload/news/Id_409-Frame 16711.webp"
                                             alt="Mr. Razaq Baloch, Vision Unlimited" class="img-fluid">
                                     </div>
                                     <div class="testi-content text-white">
@@ -1547,50 +1547,50 @@ ux research firms" />
                     </div>
                     <div class="swiper client-area" data-aos="fade-up" data-aos-duration="1500">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide"><img src="upload/news/21cfd8a490b8fd859b75589831bd6fb3_11.jpg"
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/21cfd8a490b8fd859b75589831bd6fb3_11.jpg"
                                     alt="Poster design for Zee5" class="active img-fluid" title="Zee5"></div>
-                            <div class="swiper-slide"><img src="upload/news/66ae3e5f3eae5347cef1eedbd8a33e73_11.jpg"
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/66ae3e5f3eae5347cef1eedbd8a33e73_11.jpg"
                                     alt="" class="img-fluid" title="Franklin"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_71-Untitled-1.jpg" alt=""
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_71-Untitled-1.jpg" alt=""
                                     class="img-fluid" title="Tata Steel"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_72-Untitled-1.jpg" alt=""
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_72-Untitled-1.jpg" alt=""
                                     class="img-fluid" title="ITC"></div>
                             <div class="swiper-slide"><img
-                                    src="upload/news/rfmp1de3tllj2pboiqliddhpbk_Amossteelmanufacturingbrand.webp"
+                                    src="<?php echo $base_path; ?>upload/news/rfmp1de3tllj2pboiqliddhpbk_Amossteelmanufacturingbrand.webp"
                                     alt="Amos Steel Manufacturing Brand" class="img-fluid" title="Amos Steel "></div>
                             <div class="swiper-slide"><img
-                                    src="upload/news/d5lpop4nc1pscsonc81ol3ilb2_AcoladaFashionBrand.webp"
+                                    src="<?php echo $base_path; ?>upload/news/d5lpop4nc1pscsonc81ol3ilb2_AcoladaFashionBrand.webp"
                                     alt="Acolada is a Fashion Brand" class="img-fluid" title="Acolada"></div>
                             <div class="swiper-slide"><img
-                                    src="upload/news/ehkc7ou8r38t4mn7cs59heo0kg_somaUniversalLogistics.webp"
+                                    src="<?php echo $base_path; ?>upload/news/ehkc7ou8r38t4mn7cs59heo0kg_somaUniversalLogistics.webp"
                                     alt="SOMA Universal Logistics" class="img-fluid" title="SOMA Universal Logistics">
                             </div>
-                            <div class="swiper-slide"><img src="upload/news/hcctros0grhl0fm3a1dgkmanit_masterpay.webp"
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/hcctros0grhl0fm3a1dgkmanit_masterpay.webp"
                                     alt="masterpay a fintech brand" class="img-fluid" title="Masterpay"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_103-Untitled-2.jpg" alt=""
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_103-Untitled-2.jpg" alt=""
                                     class="img-fluid" title="Indian Oil"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_184-Ollato_Mental_Health_Wellness.webp"
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_184-Ollato_Mental_Health_Wellness.webp"
                                     alt="Ollato Mental Health Wellness" class="img-fluid"
                                     title="Ollato Mental Health Wellness"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_185-OneBharat_Fintech_brand.webp"
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_185-OneBharat_Fintech_brand.webp"
                                     alt="OneBharat is a Fintech Brand" class="img-fluid"
                                     title="OneBharat Fintech Brand"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_74-Untitled-1.jpg" alt=""
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_74-Untitled-1.jpg" alt=""
                                     class="img-fluid" title="Tiscon"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_73-Untitled-1.jpg" alt=""
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_73-Untitled-1.jpg" alt=""
                                     class="img-fluid" title="Rupa"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_100-t.jpg" alt="" class="img-fluid"
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_100-t.jpg" alt="" class="img-fluid"
                                     title="Tata Structura"></div>
-                            <div class="swiper-slide"><img src="upload/news/t0f3afecqul9rp7peu01266f4g_Untitled6.jpg"
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/t0f3afecqul9rp7peu01266f4g_Untitled6.jpg"
                                     alt="" class="img-fluid" title="UBQ"></div>
                             <div class="swiper-slide"><img
-                                    src="upload/news/85a6e175355bf0e6fc387893405b0095_Untitled1.jpg" alt=""
+                                    src="<?php echo $base_path; ?>upload/news/85a6e175355bf0e6fc387893405b0095_Untitled1.jpg" alt=""
                                     class="img-fluid" title="Sapphire"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_68-Untitled-1.jpg" alt=""
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_68-Untitled-1.jpg" alt=""
                                     class="img-fluid" title="Golaundry"></div>
-                            <div class="swiper-slide"><img src="upload/news/Id_67-Untitled-1.jpg" alt=""
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/Id_67-Untitled-1.jpg" alt=""
                                     class="img-fluid" title="Amos"></div>
-                            <div class="swiper-slide"><img src="upload/news/119112929f0d6c1ee7c00185a45c4315_11.jpg"
+                            <div class="swiper-slide"><img src="<?php echo $base_path; ?>upload/news/119112929f0d6c1ee7c00185a45c4315_11.jpg"
                                     alt="" class="img-fluid" title="Synemedia"></div>
                         </div>
                         <div class="swiper-pagination"></div>
@@ -1619,7 +1619,7 @@ ux research firms" />
                 <div class="col-lg-4">
                     <div class="portfolio-card">
                         <a href="portfolio-details/amore-care-branding">
-                            <div class="port-img"><img src="upload/news/8tsm65ri7emlvj35i4bg2a67pt_Frame16671.jpg"
+                            <div class="port-img"><img src="<?php echo $base_path; ?>upload/news/8tsm65ri7emlvj35i4bg2a67pt_Frame16671.jpg"
                                     alt="[ALT_TAG]" class="img-fluid"></div>
                         </a>
                         <div class="port-content">
@@ -1633,7 +1633,7 @@ ux research firms" />
                 <div class="col-lg-4">
                     <div class="portfolio-card">
                         <a href="portfolio-details/ollato-mental-wellness-branding">
-                            <div class="port-img"><img src="upload/news/46id3kackoiotauq81o7ipbveq_Thembnail.webp"
+                            <div class="port-img"><img src="<?php echo $base_path; ?>upload/news/46id3kackoiotauq81o7ipbveq_Thembnail.webp"
                                     alt="[ALT_TAG]" class="img-fluid"></div>
                         </a>
                         <div class="port-content">
@@ -1647,7 +1647,7 @@ ux research firms" />
                 <div class="col-lg-4">
                     <div class="portfolio-card">
                         <a href="portfolio-details/shree-sanatan-trust-website-design-and-development">
-                            <div class="port-img"><img src="upload/news/1s0hqc6l267qig02je2pk0ndju_Frame6.jpg"
+                            <div class="port-img"><img src="<?php echo $base_path; ?>upload/news/1s0hqc6l267qig02je2pk0ndju_Frame6.jpg"
                                     alt="[ALT_TAG]" class="img-fluid"></div>
                         </a>
                         <div class="port-content">
@@ -1678,7 +1678,7 @@ ux research firms" />
                         <a
                             href="blog-details/how-to-choose-the-best-branding-agency-in-mumbai-a-complete-guide-for-growing-businesses">
                             <div class="blog-img"><img
-                                    src="upload/news/qlmhjan5j6p9795bk0fcbk46ck_cubgqzwmynq0hhbas3ks.webp"
+                                    src="<?php echo $base_path; ?>upload/news/qlmhjan5j6p9795bk0fcbk46ck_cubgqzwmynq0hhbas3ks.webp"
                                     alt="[ALT_TAG]" class="img-fluid"></div>
                             <div class="blog-content">
                                 <h5>What sets the best creative agencies in Mumbai apart when it comes to building a
@@ -1703,7 +1703,7 @@ ux research firms" />
                         <a
                             href="blog-details/do-you-know-what-makes-digiBrandX-a-top-10-branding-agency-in-mumbai-for-business-success">
                             <div class="blog-img"><img
-                                    src="upload/news/p1nae08evs6opiutg2or3ss484_BediBrandX.brandingagencyimMumbai01.webp"
+                                    src="<?php echo $base_path; ?>upload/news/p1nae08evs6opiutg2or3ss484_BediBrandX.brandingagencyimMumbai01.webp"
                                     alt="[ALT_TAG]" class="img-fluid"></div>
                             <div class="blog-content">
                                 <h5>What makes DigiBrandX stand among the top 10 advertising agencies in Mumbai for
@@ -2293,11 +2293,11 @@ ux research firms" />
 
 
 
-                    <!--<div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>
-              <div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>
-              <div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>
-              <div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>
-              <div class="instra-item"><img src="images/ft-slider.png" class="img-fluid"></div>-->
+                    <!--<div class="instra-item"><img src="<?php echo $base_path; ?>images/ft-slider.png" class="img-fluid"></div>
+              <div class="instra-item"><img src="<?php echo $base_path; ?>images/ft-slider.png" class="img-fluid"></div>
+              <div class="instra-item"><img src="<?php echo $base_path; ?>images/ft-slider.png" class="img-fluid"></div>
+              <div class="instra-item"><img src="<?php echo $base_path; ?>images/ft-slider.png" class="img-fluid"></div>
+              <div class="instra-item"><img src="<?php echo $base_path; ?>images/ft-slider.png" class="img-fluid"></div>-->
                 </div>
             </div>
         </div>
@@ -2572,18 +2572,18 @@ ux research firms" />
                     <div class="social_list" data-aos="fade-up" data-aos-duration="1000">
                         <ul>
                             <li><a href="https://www.linkedin.com/company/digibrandexperience/" target="_blank"><img
-                                        src="upload/news/Id_76-f-in.svg" class="active img-fluid"></a></li>
+                                        src="<?php echo $base_path; ?>upload/news/Id_76-f-in.svg" class="active img-fluid"></a></li>
                             <li><a href="https://www.instagram.com/digibrandx/" target="_blank"><img
-                                        src="upload/news/7fd49f9e3f911d60b7788897b344a9a2_fl.svg" class="img-fluid"></a>
+                                        src="<?php echo $base_path; ?>upload/news/7fd49f9e3f911d60b7788897b344a9a2_fl.svg" class="img-fluid"></a>
                             </li>
                             <li><a href="https://www.facebook.com/profile.php?id=61574758856950" target="_blank"><img
-                                        src="upload/news/Id_79-f-fb.svg" class="img-fluid"></a></li>
+                                        src="<?php echo $base_path; ?>upload/news/Id_79-f-fb.svg" class="img-fluid"></a></li>
                             <li><a href="https://in.pinterest.com/digibrandx/" target="_blank"><img
-                                        src="upload/news/Id_81-f-pin.svg" class="img-fluid"></a></li>
+                                        src="<?php echo $base_path; ?>upload/news/Id_81-f-pin.svg" class="img-fluid"></a></li>
                             <li><a href="https://www.youtube.com/@digibrandx" target="_blank"><img
-                                        src="upload/news/Id_82-f-you.svg" class="img-fluid"></a></li>
+                                        src="<?php echo $base_path; ?>upload/news/Id_82-f-you.svg" class="img-fluid"></a></li>
                             <li><a href="https://x.com/BrandxDigi98057" target="_blank"><img
-                                        src="upload/news/Id_83-f-x.svg" class="img-fluid"></a></li>
+                                        src="<?php echo $base_path; ?>upload/news/Id_83-f-x.svg" class="img-fluid"></a></li>
                         </ul>
                     </div>
                     <div class="page-list" data-aos="fade-down" data-aos-duration="1000">

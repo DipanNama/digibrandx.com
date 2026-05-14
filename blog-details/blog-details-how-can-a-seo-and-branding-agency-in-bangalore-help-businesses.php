@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">How can an SEO and Branding Agency in Bangalore help
               businesses integrate SEO strategies for stronger branding?</li>
           </ol>
@@ -46,7 +46,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/699BS Digital Solutions, SEO agency in Banglore_02.webp"
+      src="<?php echo $base_path; ?>upload/media/699BS Digital Solutions, SEO agency in Banglore_02.webp"
       alt="Digital brand development agency in Bangalore creating growth-driven websites" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -84,7 +84,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/839BS Digital Solutions, SEO agency in Banglore_04.webp"
+      src="<?php echo $base_path; ?>upload/media/839BS Digital Solutions, SEO agency in Banglore_04.webp"
       alt="Professional SEO consulting agency in Bangalore" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -120,7 +120,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/998BS Digital Solutions, SEO agency in Banglore_03.webp"
+      src="<?php echo $base_path; ?>upload/media/998BS Digital Solutions, SEO agency in Banglore_03.webp"
       alt="BS Digital Solutions SEO agency in Bangalore helping businesses grow online" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -165,7 +165,7 @@ include '../components/header.php';
               visible, and sustainable digital presence.</p>
             <p>Unlock your brand's full potential with expert SEO strategies. Partner with the top <strong>search engine
                 optimization company in Bangalore</strong>&nbsp;to boost visibility, improve rankings, and create a
-              lasting brand presence. <a href="contact.php" target="_blank" rel="noopener"><strong>Contact us
+              lasting brand presence. <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact us
                   today</strong></a> to start enhancing your brand&rsquo;s online success through powerful SEO-driven
               branding!</p>
           </div>

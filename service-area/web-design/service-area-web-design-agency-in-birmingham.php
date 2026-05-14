@@ -30,20 +30,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_596-BS Digital Solutions, web design agency in Birmingham_04.webp" title="Birmingham"><img
-          src="upload/news/Id_597-BS Digital Solutions, web design agency in Birmingham_08.webp" title="Birmingham">
+          src="<?php echo $base_path; ?>upload/news/Id_596-BS Digital Solutions, web design agency in Birmingham_04.webp" title="Birmingham"><img
+          src="<?php echo $base_path; ?>upload/news/Id_597-BS Digital Solutions, web design agency in Birmingham_08.webp" title="Birmingham">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_598-BS Digital Solutions, web design agency in Birmingham_07.webp" title="Birmingham"><img
-          src="upload/news/Id_599-BS Digital Solutions, web design agency in Birmingham_01.webp" title="Birmingham">
+          src="<?php echo $base_path; ?>upload/news/Id_598-BS Digital Solutions, web design agency in Birmingham_07.webp" title="Birmingham"><img
+          src="<?php echo $base_path; ?>upload/news/Id_599-BS Digital Solutions, web design agency in Birmingham_01.webp" title="Birmingham">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_600-BS Digital Solutions, web design agency in Birmingham_03.webp" title="Birmingham"><img
-          src="upload/news/Id_601-BS Digital Solutions, web design agency in Birmingham_06.webp" title="Birmingham">
+          src="<?php echo $base_path; ?>upload/news/Id_600-BS Digital Solutions, web design agency in Birmingham_03.webp" title="Birmingham"><img
+          src="<?php echo $base_path; ?>upload/news/Id_601-BS Digital Solutions, web design agency in Birmingham_06.webp" title="Birmingham">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_602-BS Digital Solutions, web design agency in Birmingham_05.webp" title="Birmingham"><img
-          src="upload/news/Id_603-BS Digital Solutions, web design agency in Birmingham_02.webp" title="Birmingham">
+          src="<?php echo $base_path; ?>upload/news/Id_602-BS Digital Solutions, web design agency in Birmingham_05.webp" title="Birmingham"><img
+          src="<?php echo $base_path; ?>upload/news/Id_603-BS Digital Solutions, web design agency in Birmingham_02.webp" title="Birmingham">
       </div>
     </div>
   </section>
@@ -183,11 +183,11 @@ include '../../components/cta-branding.php';
         <h4>Partner with BS Digital Solutions to Transform Your Website</h4>
         <p>A well-designed website is an investment in your brand&rsquo;s future. Partnering with BS Digital Solutions
           gives you a
-          <a href="index.php" target="_blank" rel="noopener"><strong>Birmingham web design agency </strong></a>focused
+          <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>Birmingham web design agency </strong></a>focused
           on strategy, creativity, and long-term success. From concept to deployment, we optimize your website for
           performance, usability, and growth.
         </p>
-        <p><strong><a href="contact.php" target="_blank" rel="noopener">Contact BS Digital Solutions today</a>
+        <p><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Contact BS Digital Solutions today</a>
           </strong>to begin
           your website transformation and position your Birmingham business for digital excellence.</p>
       </div>

@@ -33,20 +33,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_571-BS Digital Solutions, branding agency in Chicago_05.webp" title="Chicago"><img
-          src="upload/news/Id_572-BS Digital Solutions, branding agency in Chicago_01.webp" title="Chicago">
+          src="<?php echo $base_path; ?>upload/news/Id_571-BS Digital Solutions, branding agency in Chicago_05.webp" title="Chicago"><img
+          src="<?php echo $base_path; ?>upload/news/Id_572-BS Digital Solutions, branding agency in Chicago_01.webp" title="Chicago">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_573-BS Digital Solutions, branding agency in Chicago_02.webp" title="Chicago"><img
-          src="upload/news/Id_574-BS Digital Solutions, branding agency in Chicago_06.webp" title="Chicago">
+          src="<?php echo $base_path; ?>upload/news/Id_573-BS Digital Solutions, branding agency in Chicago_02.webp" title="Chicago"><img
+          src="<?php echo $base_path; ?>upload/news/Id_574-BS Digital Solutions, branding agency in Chicago_06.webp" title="Chicago">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_575-BS Digital Solutions, branding agency in Chicago_07.webp" title="Chicago"><img
-          src="upload/news/Id_576-BS Digital Solutions, branding agency in Chicago_03.webp" title="Chicago">
+          src="<?php echo $base_path; ?>upload/news/Id_575-BS Digital Solutions, branding agency in Chicago_07.webp" title="Chicago"><img
+          src="<?php echo $base_path; ?>upload/news/Id_576-BS Digital Solutions, branding agency in Chicago_03.webp" title="Chicago">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_577-BS Digital Solutions, branding agency in Chicago_04.webp" title="Chicago"><img
-          src="upload/news/Id_578-BS Digital Solutions, branding agency in Chicago_08.webp" title="Chicago">
+          src="<?php echo $base_path; ?>upload/news/Id_577-BS Digital Solutions, branding agency in Chicago_04.webp" title="Chicago"><img
+          src="<?php echo $base_path; ?>upload/news/Id_578-BS Digital Solutions, branding agency in Chicago_08.webp" title="Chicago">
       </div>
     </div>
   </section>
@@ -166,7 +166,7 @@ include '../../components/cta-branding.php';
           to create authentic, relevant brands. Our global experience ensures scalability across regions and platforms,
           enabling brands to resonate locally and perform globally.</p>
         <h3>Brand Strategy, Positioning, and Identity That Scale</h3>
-        <p>A strong brand begins with clarity. BS Digital Solutions is a <a href="index.php" target="_blank"
+        <p>A strong brand begins with clarity. BS Digital Solutions is a <a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"><strong>top 10 branding agency in Chicago for startups</strong></a>, delivering comprehensive
           brand strategy and identity systems. We define brand purpose, positioning, and tone of voice, and develop
           <strong>logo design</strong>, visual identity, and brand guidelines to ensure consistency across all
@@ -203,7 +203,7 @@ include '../../components/cta-branding.php';
         <h3>Ready to Build a Brand That Leads in Chicago?</h3>
         <p>Partner with <strong>BS Digital Solutions</strong>&mdash;the branding agency in Chicago that combines
           strategy,
-          creativity, and performance.<br /><a href="contact.php" target="_blank" rel="noopener"><strong>Let's work
+          creativity, and performance.<br /><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Let's work
               together </strong></a>to build a scalable brand designed for long-term business success.</p>
       </div>
     </div>

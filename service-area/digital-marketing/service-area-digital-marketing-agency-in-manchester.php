@@ -30,26 +30,26 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_587-BS Digital Solutions, Digital Marketing agency in Manchester_01.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_587-BS Digital Solutions, Digital Marketing agency in Manchester_01.webp"
           title="Manchester"><img
-          src="upload/news/Id_588-BS Digital Solutions, Digital Marketing agency in Manchester_05.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_588-BS Digital Solutions, Digital Marketing agency in Manchester_05.webp"
           title="Manchester"><img
-          src="upload/news/Id_589-BS Digital Solutions, Digital Marketing agency in Manchester_05.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_589-BS Digital Solutions, Digital Marketing agency in Manchester_05.webp"
           title="Manchester"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_590-BS Digital Solutions, Digital Marketing agency in Manchester_06.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_590-BS Digital Solutions, Digital Marketing agency in Manchester_06.webp"
           title="Manchester"><img
-          src="upload/news/Id_591-BS Digital Solutions, Digital Marketing agency in Manchester_02.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_591-BS Digital Solutions, Digital Marketing agency in Manchester_02.webp"
           title="Manchester"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_592-BS Digital Solutions, Digital Marketing agency in Manchester_03.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_592-BS Digital Solutions, Digital Marketing agency in Manchester_03.webp"
           title="Manchester"><img
-          src="upload/news/Id_593-BS Digital Solutions, Digital Marketing agency in Manchester_07.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_593-BS Digital Solutions, Digital Marketing agency in Manchester_07.webp"
           title="Manchester"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_594-BS Digital Solutions, Digital Marketing agency in Manchester_08.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_594-BS Digital Solutions, Digital Marketing agency in Manchester_08.webp"
           title="Manchester"><img
-          src="upload/news/Id_595-BS Digital Solutions, Digital Marketing agency in Manchester_04.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_595-BS Digital Solutions, Digital Marketing agency in Manchester_04.webp"
           title="Manchester"></div>
     </div>
   </section>
@@ -202,7 +202,7 @@ include '../../components/cta-branding.php';
           We offer a full suite of digital marketing services, including viral and affiliate marketing, to meet your
           needs.<br /><strong>4. Tailored Strategies &ndash;</strong> We develop customized marketing strategies to
           drive measurable growth for your business.</p>
-        <p><strong>Contact BS Digital Solutions,</strong> your trusted <a href="index.php" target="_blank"
+        <p><strong>Contact BS Digital Solutions,</strong> your trusted <a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"><strong>digital marketing agency in Manchester</strong></a>. Together, we will help your
           business become a market leader.</p>
       </div>

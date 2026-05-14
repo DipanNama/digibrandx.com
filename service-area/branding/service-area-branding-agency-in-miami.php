@@ -157,7 +157,7 @@ include '../../components/cta-branding.php';
           our experience-led approach, where perception, <strong>storytelling</strong>, and attention to detail define
           value. At every stage, we build brands for scale, credibility, and long-term relevance.</p>
         <h4>Why BS Digital Solutions Is the Right Branding Partner in Miami</h4>
-        <p>Selecting the right <a href="index.php" target="_blank" rel="noopener"><strong>branding agency in
+        <p>Selecting the right <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>branding agency in
               Miami</strong></a> shapes your market presence for the long term. <strong>BS Digital Solutions</strong>
           offers a
           global perspective and regional expertise, uniting strategy, creativity, and execution. From consulting and <a

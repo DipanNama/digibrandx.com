@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">You a Startup. Do You Really Understand Branding?
               This Is Where It Begins. </li>
           </ol>
@@ -48,7 +48,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/475BS Digital Solutions is the Best branding Agency in Delhi_02.webp"
+      src="<?php echo $base_path; ?>upload/media/475BS Digital Solutions is the Best branding Agency in Delhi_02.webp"
       alt="rand strategy workshop by BS Digital Solutions branding agency in Delhi" width="1920" height="992" />
   </section>
   <section class="portfolio-details_sec">
@@ -77,7 +77,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/883BS Digital Solutions is the Best branding Agency in Delhi_03.webp"
+      src="<?php echo $base_path; ?>upload/media/883BS Digital Solutions is the Best branding Agency in Delhi_03.webp"
       alt="Brand identity design process by a professional design agency in Delhi" width="1920" height="992" />
   </section>
   <section class="portfolio-details_sec">
@@ -130,7 +130,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/829BS Digital Solutions is the Best branding Agency in Delhi_04.webp"
+      src="<?php echo $base_path; ?>upload/media/829BS Digital Solutions is the Best branding Agency in Delhi_04.webp"
       alt="Corporate branding strategy developed by BS Digital Solutions in Delhi" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">

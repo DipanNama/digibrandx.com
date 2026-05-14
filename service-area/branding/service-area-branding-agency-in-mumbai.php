@@ -50,19 +50,19 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/shtg9sfjk9t61i41kjnl34feod_BS Digital Solutionsadvertisingagency03.webp" title="Mumbai"><img
-          src="upload/news/lhtit5lvglejaafchglrhh32ib_BS Digital Solutionsadvertisingagency01.webp" title="Mumbai">
+          src="<?php echo $base_path; ?>upload/news/shtg9sfjk9t61i41kjnl34feod_BS Digital Solutionsadvertisingagency03.webp" title="Mumbai"><img
+          src="<?php echo $base_path; ?>upload/news/lhtit5lvglejaafchglrhh32ib_BS Digital Solutionsadvertisingagency01.webp" title="Mumbai">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/2u4bh4quj92tucs14n4glh25ap_BS Digital Solutionsadvertisingagency04.webp" title="Mumbai"><img
-          src="upload/news/Id_237-BS Digital Solutions, advertising agency_02.webp" title="Mumbai"></div>
+          src="<?php echo $base_path; ?>upload/news/2u4bh4quj92tucs14n4glh25ap_BS Digital Solutionsadvertisingagency04.webp" title="Mumbai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_237-BS Digital Solutions, advertising agency_02.webp" title="Mumbai"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/1gdltf0nunn7dpc9f1dgf5ugan_BS Digital Solutionsadvertisingagency061.webp" title="Mumbai"><img
-          src="upload/news/rsielv1mkfsjgu7mfg69o8cfr1_BS Digital Solutionsadvertisingagency05.webp" title="Mumbai">
+          src="<?php echo $base_path; ?>upload/news/1gdltf0nunn7dpc9f1dgf5ugan_BS Digital Solutionsadvertisingagency061.webp" title="Mumbai"><img
+          src="<?php echo $base_path; ?>upload/news/rsielv1mkfsjgu7mfg69o8cfr1_BS Digital Solutionsadvertisingagency05.webp" title="Mumbai">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/i04aqhrksvd7bpfeolkflp41qo_BS Digital Solutionsadvertisingagency071.webp" title="Mumbai"><img
-          src="upload/news/Id_242-BS Digital Solutions, advertising agency_08.webp" title="Mumbai"></div>
+          src="<?php echo $base_path; ?>upload/news/i04aqhrksvd7bpfeolkflp41qo_BS Digital Solutionsadvertisingagency071.webp" title="Mumbai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_242-BS Digital Solutions, advertising agency_08.webp" title="Mumbai"></div>
     </div>
   </section>
   <?php 
@@ -165,7 +165,7 @@ include '../../components/cta-branding.php';
         <p>&nbsp;</p>
         <h3>Branding Agency in Mumbai Focused on Business-Driven Design</h3>
         <p>Mumbai moves quickly. Decisions are rapid, stakes are high, and brands must deliver results, not just ideas.
-          <strong><a href="index.php" target="_blank" rel="noopener">Creative agencies in
+          <strong><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">Creative agencies in
               Mumbai</a>&nbsp;</strong><span
             style="box-sizing: border-box; margin: 0px; padding: 0px;">successfully<strong>&nbsp;</strong>recognize</span>&nbsp;this
           environment. Branding must be practical, scalable, and ROI-focused. BS Digital Solutions partners with
@@ -225,7 +225,7 @@ include '../../components/cta-branding.php';
           environment,
           the agency delivers clarity, consistency, and creative impact that drives results.</p>
         <h3><br />Looking for a reliable branding agency in Mumbai?</h3>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
           to build a
           brand that reflects your vision, engages your audience, and adapts effectively to new markets.</p>
         <p><strong>We help drive your brand&rsquo;s growth from local achievement to global recognition.</strong></p>

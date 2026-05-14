@@ -34,7 +34,7 @@ include 'components/header.php';
       <div class="col-lg-6">
         <div class="blog-area">
           <a href="blog-details/blog-details-looking-for-a-creative-logo-design-agency-in-mumbai-for-startup.php">
-            <div class="blog-img"><img src="upload/news/ie5k0ht5t4ftapjmf1fotfamnb_Cover.jpg"
+            <div class="blog-img"><img src="<?php echo $base_path; ?>upload/news/ie5k0ht5t4ftapjmf1fotfamnb_Cover.jpg"
                 alt="Best logo agency in Mumbai for professional corporate branding solutions" class="active img-fluid">
             </div>
             <div class="blog-content">
@@ -57,7 +57,7 @@ include 'components/header.php';
         <div class="blog-area">
           <a
             href="blog-details/blog-details-how-to-choosing-the-right-corporate-website-design-and-development-agency.php">
-            <div class="blog-img"><img src="upload/news/dn32ujgi75n3o0d060i05jep9v_Frame7.jpg"
+            <div class="blog-img"><img src="<?php echo $base_path; ?>upload/news/dn32ujgi75n3o0d060i05jep9v_Frame7.jpg"
                 alt="Responsive corporate website displayed on multiple devices" class="img-fluid"></div>
             <div class="blog-content">
               <h5>Why Choosing the Right Corporate Website Design and Development Agency Defines Your Brand</h5>

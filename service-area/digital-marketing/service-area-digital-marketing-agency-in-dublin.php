@@ -154,12 +154,12 @@ include '../../components/cta-branding.php';
           succeed online.</p>
         <h3>Take Your Business to the Next Level with BS Digital Solutions</h3>
         <p><strong>Want to grow your business and boost sales? </strong></p>
-        <p>BS Digital Solutions stands among the <strong><a href="index.php" target="_blank" rel="noopener">best
+        <p>BS Digital Solutions stands among the <strong><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">best
               digital
               marketing agencies for startups in Dublin</a></strong>, delivering bespoke strategies that drive growth.
           We act as your dedicated partner, blending technical expertise with creative vision to ensure your new venture
           thrives in a competitive landscape. Get in touch today to book a consultation and get started.</p>
-        <div><span>Are you looking to grow your business?</span><span> <a href="contact.php" target="_blank"
+        <div><span>Are you looking to grow your business?</span><span> <a href="<?php echo $base_path; ?>contact.php" target="_blank"
               rel="noopener"><strong>Partner with BS Digital Solutions,</strong></a> and we&rsquo;ll create a digital
             marketing
             plan tailored to your needs. Get in touch to book a consultation and start building your online

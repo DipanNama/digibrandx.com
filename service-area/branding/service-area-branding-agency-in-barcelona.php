@@ -145,7 +145,7 @@ include '../../components/cta-branding.php';
           and keeps things consistent across websites, packaging, campaigns, and company communication.</p>
         <h3>Creative and Digital Branding for Modern Barcelona Businesses</h3>
         <p>Creativity helps brands stand out, especially when it follows a clear strategy. A <strong><a
-              href="index.php" target="_blank" rel="noopener">branding agency in Barcelona</a> </strong>uses
+              href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">branding agency in Barcelona</a> </strong>uses
           storytelling, design, and new ideas to turn your brand&rsquo;s position into real experiences. Today, digital
           platforms are the main way brands connect with people.</p>
         <p>The <strong>best branding agency in Barcelona </strong>brings brand strategy into UI/UX design, <a
@@ -163,7 +163,7 @@ include '../../components/cta-branding.php';
           meets global standards, BS Digital Solutions is your <strong>long-term partner.</strong></p>
         <h3>Let&rsquo;s create a brand that distinguishes itself in Barcelona&rsquo;s competitive
           market.<strong><br /></strong></h3>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions today</strong></a>
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions today</strong></a>
           to
           strengthen your brand with a clear purpose and precision.</p>
       </div>

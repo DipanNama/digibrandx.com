@@ -47,7 +47,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Many established brands assume positioning
             is only for startups, but mature brands often need it more. Markets evolve, customer expectations shift, and
             competitors continually reposition. Without revisiting brand positioning, established brands risk becoming
-            generic or outdated. A <a href="index.php" target="_blank" rel="noopener"><strong>brand positioning agency
+            generic or outdated. A <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>brand positioning agency
                 for startups</strong>&nbsp;</a>helps legacy brands refine, modernize, and enhance their relevance while
             preserving the trust and equity built over time.</span></p>
         <h3>The Risks of Weak or Undefined Brand Positioning</h3>
@@ -99,7 +99,7 @@ include '../components/cta-branding.php';
             relevance. For growing businesses, it enables scale. Partnering with a leading Brand Positioning agency
             ensures your brand is not only visible but also meaningful, trusted, and preferred.</span></p>
         <h3>Build a brand position that leads in globally competitive markets.</h3>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
           to shape
           your brand&rsquo;s future&mdash;strategically and sustainably.</p>
       </div>

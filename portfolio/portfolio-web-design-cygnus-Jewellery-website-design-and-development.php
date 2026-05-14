@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-web-design.php">Web Design</a></li>
             <li class="breadcrumb-item active" aria-current="page">Cygnus Jewellery</li>
           </ol>
@@ -34,7 +34,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/Behance-Cover.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/Behance-Cover.jpg" alt=""
       width="1400" height="894" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -75,11 +75,11 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/c_Home_01.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/c_Home_01.jpg" alt=""
       width="1920" height="4700" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/c_Product-Listing_01.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/c_Product-Listing_01.jpg" alt=""
       width="1920" height="5000" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/c_Product-details_01.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/c_Product-details_01.jpg" alt=""
       width="1920" height="3550" /></section>
   <?php include '../components/contact-form.php'; ?>
   <?php include '../components/instagram.php'; ?>

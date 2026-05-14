@@ -124,8 +124,8 @@ include '../../components/cta-branding.php';
         <h4>Ready to Drive Business Growth? Partner with BS Digital Solutions Today</h4>
         <p>Your business deserves visibility and recognition. Let&rsquo;s develop a digital marketing strategy that
           connects you with your ideal audience, drives traffic, and increases sales.</p>
-        <p><strong><a href="contact.php" target="_blank" rel="noopener">Contact us today</a> </strong>to begin building
-          a stronger online presence with BS Digital Solutions, your <a href="index.php" target="_blank"
+        <p><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Contact us today</a> </strong>to begin building
+          a stronger online presence with BS Digital Solutions, your <a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"><strong>digital marketing agency in Berlin</strong></a>.</p>
       </div>
     </div>

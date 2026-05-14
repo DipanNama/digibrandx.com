@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-branding.php">Branding</a></li>
             <li class="breadcrumb-item active" aria-current="page">OneBharat I Fintech Branding</li>
           </ol>
@@ -39,16 +39,16 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/8601.01_Brand-Story.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/8601.01_Brand-Story.jpg"
       alt="Fintech brand visuals and logo design developed by BS Digital Solutions." width="1920" height="1920" />
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/32601.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/32601.jpg" alt="" width="1920"
       height="1920" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/152Brand-Philosophy.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/152Brand-Philosophy.jpg" alt=""
       width="1920" height="1920" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/45101.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/45101.jpg" alt="" width="1920"
       height="1920" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/185Logo-Concept.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/185Logo-Concept.jpg" alt=""
       width="1920" height="1920" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -61,25 +61,25 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/77102.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/77102.jpg"
       alt="Visual identity system designed for a fintech brand, including logo and digital assets." width="1920"
       height="1538" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/59404.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/59404.jpg"
       alt="Best fintech branding project by BS Digital Solutions featuring strategic brand identity design."
       width="1920" height="1084" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/27205.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/27205.jpg"
       alt="Fintech brand identity and digital experience design by BS Digital Solutions branding agency." width="1920"
       height="1084" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/20201.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/20201.jpg" alt="" width="1920"
       height="1426" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/88702.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/88702.jpg" alt="" width="1920"
       height="1426" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/80203.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/80203.jpg"
       alt="Visual identity system designed for a fintech brand, including logo and digital assets." width="1920"
       height="1426" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/66104.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/66104.jpg" alt="" width="1920"
       height="1426" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/29505.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/29505.jpg" alt="" width="1920"
       height="1118" /></section>
   <section class="portfolio-details_sec">
     <div class="container">

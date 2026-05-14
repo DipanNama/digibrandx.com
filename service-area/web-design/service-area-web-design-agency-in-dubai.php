@@ -32,17 +32,17 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_646-BS Digital Solutions, web design agency in Dubai_08.webp" title="Web_Dubai_01"><img
-          src="upload/news/Id_647-BS Digital Solutions, web design agency in Dubai_01.webp" title="Web_Dubai_02"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_646-BS Digital Solutions, web design agency in Dubai_08.webp" title="Web_Dubai_01"><img
+          src="<?php echo $base_path; ?>upload/news/Id_647-BS Digital Solutions, web design agency in Dubai_01.webp" title="Web_Dubai_02"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_648-BS Digital Solutions, web design agency in Dubai_03.webp" title="Web_Dubai_03"><img
-          src="upload/news/Id_649-BS Digital Solutions, web design agency in Dubai_05.webp" title="Web_Dubai_04"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_648-BS Digital Solutions, web design agency in Dubai_03.webp" title="Web_Dubai_03"><img
+          src="<?php echo $base_path; ?>upload/news/Id_649-BS Digital Solutions, web design agency in Dubai_05.webp" title="Web_Dubai_04"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_650-BS Digital Solutions, web design agency in Dubai_06.webp" title="Web_Dubai_05"><img
-          src="upload/news/Id_651-BS Digital Solutions, web design agency in Dubai_02.webp" title="Web_Dubai_06"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_650-BS Digital Solutions, web design agency in Dubai_06.webp" title="Web_Dubai_05"><img
+          src="<?php echo $base_path; ?>upload/news/Id_651-BS Digital Solutions, web design agency in Dubai_02.webp" title="Web_Dubai_06"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_653-BS Digital Solutions, web design agency in Dubai_04.webp" title="Web_Dubai_08"><img
-          src="upload/news/Id_652-BS Digital Solutions, web design agency in Dubai_07.webp" title="Web_Dubai_07"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_653-BS Digital Solutions, web design agency in Dubai_04.webp" title="Web_Dubai_08"><img
+          src="<?php echo $base_path; ?>upload/news/Id_652-BS Digital Solutions, web design agency in Dubai_07.webp" title="Web_Dubai_07"></div>
     </div>
   </section>
   <?php 
@@ -137,7 +137,7 @@ include '../../components/cta-branding.php';
       <div class="content-wrapper landing-page-content">
         <h1>Is a Cutting-Edge Website Design Agency Crucial for Success in Dubai's Competitive Business Landscape?</h1>
         <p>In today&rsquo;s digital landscape, a high-quality website is essential, particularly in a competitive market
-          like Dubai. Partnering with a <a href="index.php" target="_blank" rel="noopener"><strong>web design agency in
+          like Dubai. Partnering with a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>web design agency in
               Dubai</strong></a> helps your business stand out. A well-designed website strengthens your brand,
           increases customer engagement, and supports business growth.</p>
         <p>&nbsp;</p>
@@ -180,7 +180,7 @@ include '../../components/cta-branding.php';
           success.</p>
         <h3>Contact BS Digital Solutions Today to Start Your Website Transformation</h3>
         <p>Ready to elevate your business with a professionally designed website?</p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a> today
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a> today
           to create
           a website that drives growth and engagement. Our team will guide you through every stage, from concept to
           launch.</p>

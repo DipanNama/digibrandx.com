@@ -62,7 +62,7 @@ include '../components/cta-branding.php';
             engagement.</span></p>
         <h3>UI Design: Creating Consistent and Scalable Interfaces</h3>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">UI design transforms UX logic into a clear,
-            consistent, and brand-aligned visual system. <strong><a href="index.php" target="_blank"
+            consistent, and brand-aligned visual system. <strong><a href="<?php echo $base_path; ?>index.php" target="_blank"
                 rel="noopener">Premium web application design agency</a>, </strong>BS Digital Solutions, develops UI
             components,
             layouts, typography, and color systems that enhance usability and reinforce brand credibility. We focus on

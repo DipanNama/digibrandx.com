@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Why Choosing the Right Corporate Website Design and
               Development Agency Defines Your Brand</li>
           </ol>
@@ -68,7 +68,7 @@ include '../components/header.php';
             <h3>The Power of the Creative Director and Copywriting</h3>
             <p>While many agencies focus solely on the visual or the code, BS Digital Solutions places a massive
               emphasis on the
-              narrative. Our most <strong><a href="team.php" target="_blank" rel="noopener">experienced Creative
+              narrative. Our most <strong><a href="<?php echo $base_path; ?>team.php" target="_blank" rel="noopener">experienced Creative
                   Director</a>,</strong> who specializes in high-level <strong>copywriting</strong>, personally oversees
               the messaging for the homepage and core landing pages.</p>
             <p>A corporate web development agency shouldn't just give you a "lorem ipsum" template. We provide a voice.
@@ -192,7 +192,7 @@ include '../components/header.php';
             <p>Let's build something extraordinary together. Whether you need a construction web design company, an
               e-commerce web design &amp; development powerhouse, or a B2B web design company, we have the expertise to
               make your vision a reality.</p>
-            <p><a href="contact.php" target="_blank" rel="noopener"><strong>BS Digital Solutions:</strong></a> Where
+            <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>BS Digital Solutions:</strong></a> Where
               Creativity
               Meets Technical Perfection.</p>
           </div>

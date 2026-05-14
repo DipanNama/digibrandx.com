@@ -62,7 +62,7 @@ include '../components/cta-branding.php';
               design</strong> serve as communication bridges among stakeholders, designers, developers, and product
             managers. These artifacts turn strategy into tangible systems that everyone can understand. For startups,
             this provides clarity for investors. For enterprises, it supports cross-functional alignment. As a&nbsp;<a
-              href="index.php" target="_blank" rel="noopener"><strong>wireframe and prototype agency</strong></a>,
+              href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>wireframe and prototype agency</strong></a>,
             BS Digital Solutions ensures every stakeholder shares the same product vision before development
             begins.</span></p>
         <h3>Wireframe and Prototype Steps in UX Design</h3>

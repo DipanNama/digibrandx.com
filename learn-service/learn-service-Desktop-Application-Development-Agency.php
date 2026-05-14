@@ -86,7 +86,7 @@ include '../components/cta-branding.php';
           transparent throughout the development process, and have a portfolio that demonstrates it can handle complex
           software projects.&nbsp;</p>
         <h3>Why BS Digital Solutions Is the Best Desktop Application Development Agency in the Industry</h3>
-        <p>BS Digital Solutions is a <a href="index.php" target="_blank" rel="noopener"><strong>top desktop application
+        <p>BS Digital Solutions is a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>top desktop application
               development agency</strong></a> with a strong record of building high-performance, scalable, and secure
           apps. Their skilled team focuses on creating custom solutions that fit each client&rsquo;s unique needs.</p>
         <p>BS Digital Solutions works with a wide range of businesses, from B2B companies to startups. They ensure every
@@ -98,7 +98,7 @@ include '../components/cta-branding.php';
           creativity, and customer focus to help bring your ideas to life. Partner with BS Digital Solutions today and
           hire
           desktop application developers who can create customized, scalable solutions for your business. <a
-            href="contact.php" target="_blank" rel="noopener"><strong>Reach out now</strong></a> to learn more about
+            href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Reach out now</strong></a> to learn more about
           our desktop application development services!</p>
       </div>
     </div>

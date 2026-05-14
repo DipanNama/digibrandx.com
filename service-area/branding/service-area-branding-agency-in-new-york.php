@@ -32,17 +32,17 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_469-BS Digital Solutions, branding agency in New York _01.webp" title="New York"><img
-          src="upload/news/Id_470-BS Digital Solutions, branding agency in New York _08.webp" title="New York"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_469-BS Digital Solutions, branding agency in New York _01.webp" title="New York"><img
+          src="<?php echo $base_path; ?>upload/news/Id_470-BS Digital Solutions, branding agency in New York _08.webp" title="New York"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_471-BS Digital Solutions, branding agency in New York _07.webp" title="New York"><img
-          src="upload/news/Id_472-BS Digital Solutions, branding agency in New York _02.webp" title="New York"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_471-BS Digital Solutions, branding agency in New York _07.webp" title="New York"><img
+          src="<?php echo $base_path; ?>upload/news/Id_472-BS Digital Solutions, branding agency in New York _02.webp" title="New York"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_473-BS Digital Solutions, branding agency in New York _03.webp" title="New York"><img
-          src="upload/news/Id_474-BS Digital Solutions, branding agency in New York _06.webp" title="New York"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_473-BS Digital Solutions, branding agency in New York _03.webp" title="New York"><img
+          src="<?php echo $base_path; ?>upload/news/Id_474-BS Digital Solutions, branding agency in New York _06.webp" title="New York"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_475-BS Digital Solutions, branding agency in New York _05.webp" title="New York"><img
-          src="upload/news/Id_476-BS Digital Solutions, branding agency in New York _04.webp" title="New York"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_475-BS Digital Solutions, branding agency in New York _05.webp" title="New York"><img
+          src="<?php echo $base_path; ?>upload/news/Id_476-BS Digital Solutions, branding agency in New York _04.webp" title="New York"></div>
     </div>
   </section>
   <?php 
@@ -187,7 +187,7 @@ include '../../components/cta-branding.php';
           combines insight, creativity, and execution, BS Digital Solutions delivers results across markets and
           industries.</p>
         <h3><strong>Looking to build or transform your brand in New York?</strong></h3>
-        <p><strong><a href="contact.php" target="_blank" rel="noopener">Partner with BS Digital Solutions</a>,</strong>
+        <p><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Partner with BS Digital Solutions</a>,</strong>
           a
           future-ready branding companies in New York, and create a brand designed for credibility, growth, and global
           impPartner with BS Digital Solutions, a future-ready branding agency in New York, to build a brand focused on

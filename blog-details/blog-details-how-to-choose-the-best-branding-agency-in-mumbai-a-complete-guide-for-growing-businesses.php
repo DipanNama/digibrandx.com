@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">What sets the best creative agencies in Mumbai apart
               when it comes to building a strong brand?</li>
           </ol>
@@ -47,7 +47,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/644Bag.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/644Bag.webp"
       alt="Leading branding agency in Mumbai delivering strategic brand solutions" width="1920" height="1366" />
   </section>
   <section class="portfolio-details_sec">
@@ -111,7 +111,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/53103.06_T-Shirt.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/53103.06_T-Shirt.webp"
       alt="BS Digital Solutions leading branding agency in Mumbai for corporate and startup brands" width="1920"
       height="1732" />
   </section>
@@ -159,7 +159,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/37703.06_Badge.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/37703.06_Badge.webp"
       alt="Professional branding services by leading branding agency in Mumbai" width="1920" height="1366" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -220,7 +220,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/98414_Calender.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/98414_Calender.webp"
       alt="Top creative team at leading branding agency in Mumbai" width="1920" height="1732" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -267,7 +267,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/66214_Envelope.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/66214_Envelope.webp"
       alt="Premium brand strategy by leading branding agency in Mumbai" width="1920" height="1732" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -326,7 +326,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/27503.Cap.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/27503.Cap.webp"
       alt="best brand strategy agency in Mumbai" width="1920" height="1366" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -342,7 +342,7 @@ include '../components/header.php';
               the best design agencies in Mumbai, BS Digital Solutions is dedicated to one thing: making your brand
               unforgettable.
             </p>
-            <p>The journey to becoming a market leader starts with a single strategic decision. <a href="contact.php"
+            <p>The journey to becoming a market leader starts with a single strategic decision. <a href="<?php echo $base_path; ?>contact.php"
                 target="_blank" rel="noopener"><strong>Let that decision be the right branding partner.</strong></a></p>
             <p><strong>BS Digital Solutions: Elevating Brands. Dominating Markets. Defining the Future.</strong></p>
           </div>

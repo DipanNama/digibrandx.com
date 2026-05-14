@@ -26,8 +26,8 @@ include '../components/cta-branding.php';
           audiences in real time. Platforms like <strong>LinkedIn, Instagram, Facebook, and YouTube</strong> help
           businesses share content and shape how people see their brand. <strong>Successful social media
             branding</strong> is more than just posting; it means having a consistent look, clear messaging, and a
-          strong story across every channel. At BS Digital Solutions, a<strong> <a href="index.php" target="_blank"
-              rel="noopener">social media advertising agency</a></strong><a href="index.php" target="_blank"
+          strong story across every channel. At BS Digital Solutions, a<strong> <a href="<?php echo $base_path; ?>index.php" target="_blank"
+              rel="noopener">social media advertising agency</a></strong><a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener">,</a> we focus on ensuring your design, content, and messaging support your business goals,
           helping you earn recognition and trust.&nbsp;</p>
         <p>With our social media marketing services, including organic strategies and ad management, we help brands
@@ -50,7 +50,7 @@ include '../components/cta-branding.php';
         <p>Working with a <strong><a href="../services/services-social-media-branding.php" target="_blank" rel="noopener">digital
               and social media marketing agency</a> </strong>can make a big difference for your business. These
           professionals know how each platform works and can build a strategy that fits your goals. Whether you want to
-          grow your reach, run ads, or create content your audience loves, a <a href="index.php" target="_blank"
+          grow your reach, run ads, or create content your audience loves, a <a href="<?php echo $base_path; ?>index.php" target="_blank"
             rel="noopener"><strong>social media design agency</strong></a> helps make your efforts more focused and
           successful.</p>
         <h3>Why Social Media Is Crucial for Growing Your Modern Brand</h3>
@@ -95,7 +95,7 @@ include '../components/cta-branding.php';
           and create content that connects with your audience.</p>
         <p>If you want to boost your social media presence and grow your business for the long term, BS Digital
           Solutions is here
-          to help. <a href="contact.php" target="_blank" rel="noopener"><strong>Get in touch with us today
+          to help. <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Get in touch with us today
             </strong></a>to see how professional, brand-consistent social media graphics can make a real difference for
           your business.</p>
         <p>&nbsp;</p>

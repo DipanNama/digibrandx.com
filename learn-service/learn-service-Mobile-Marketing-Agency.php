@@ -82,7 +82,7 @@ include '../components/cta-branding.php';
             personalized and contextual communication. Mobile devices provide data on location, behavior, preferences,
             and purchase patterns, enabling brands to segment audiences and send relevant messages. Personalized
             notifications, tailored offers, and behavior-based campaigns improve engagement and response
-            rates.&nbsp;<strong><a href="index.php" target="_blank" rel="noopener">BS Digital
+            rates.&nbsp;<strong><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">BS Digital
                 Solutions</a>&nbsp;</strong>uses
             analytics and automation to create adaptive mobile campaigns that deliver timely and valuable
             interactions.</span></p>

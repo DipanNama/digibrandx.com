@@ -36,7 +36,7 @@ include '../components/cta-branding.php';
           relatable way. It answers why the brand exists, what problem it solves, who it serves, and why it matters.
           Instead of relying on promotional messages, storytelling builds emotional connections and helps customers
           identify with the brand. Leading brands prioritize storytelling because it transforms businesses into
-          communities with shared beliefs. At BS Digital Solutions, a <strong><a href="index.php" target="_blank"
+          communities with shared beliefs. At BS Digital Solutions, a <strong><a href="<?php echo $base_path; ?>index.php" target="_blank"
               rel="noopener">brand strategy consulting agency</a>,</strong> we use storytelling to connect strategy and
           experience, translating vision and values into clear narratives across digital platforms. Effective
           storytelling ensures consistency, credibility, and emotional depth&mdash;qualities essential to strong brands.

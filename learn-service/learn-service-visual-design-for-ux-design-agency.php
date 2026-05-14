@@ -44,7 +44,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Visual design matters because users scan
             interfaces rather than read them. A clear visual hierarchy helps people spot main actions, extra details,
             and supporting content right away. Without this structure, digital products can become confusing and lead to
-            mistakes. At BS Digital Solutions, a <a href="index.php" target="_blank" rel="noopener"><strong>top 10
+            mistakes. At BS Digital Solutions, a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>top 10
                 visual design
                 for ux design agency</strong></a>, we use visual design<strong>&nbsp;</strong>to ensure interfaces
             support business goals, such as boosting conversions, engagement, and retention. For startups, D2C brands,

@@ -36,7 +36,7 @@ include 'components/header.php';
           <div class="case-sudy-area">
             <a href="case-study-details/case-study-details-Ollato-Mental-Health-Wellness-Brand-Case-Study.php">
               <div class="case-img" style="display: flex; justify-content: center; height: 300px; overflow: hidden;">
-                <img src="upload/news/ie5k0ht5t4ftapjmf1fotfamnb_Cover.jpg"
+                <img src="<?php echo $base_path; ?>upload/news/ie5k0ht5t4ftapjmf1fotfamnb_Cover.jpg"
                   alt="Ollato mental health and wellness brand logo designed by BS Digital Solutions"
                   class="active img-fluid">
               </div>
@@ -61,7 +61,7 @@ include 'components/header.php';
           <div class="case-sudy-area">
             <a href="case-study-details/case-study-details-forum-estates-real-estate-developer-case-study.php">
               <div class="case-img" style="display: flex; justify-content: center; height: 300px; overflow: hidden;">
-                <img src="upload/news/dn32ujgi75n3o0d060i05jep9v_Frame7.jpg" alt="" class="img-fluid">
+                <img src="<?php echo $base_path; ?>upload/news/dn32ujgi75n3o0d060i05jep9v_Frame7.jpg" alt="" class="img-fluid">
               </div>
               <div class="case-content" style="height:253px; overflow:hidden;">
                 <h5>Forum Estates</h5>
@@ -85,7 +85,7 @@ include 'components/header.php';
           <div class="case-sudy-area">
             <a href="case-study-details/case-study-details-go-mobile-app-case-study.php">
               <div class="case-img" style="display: flex; justify-content: center; height: 300px; overflow: hidden;">
-                <img src="upload/news/b34f8cb1c84f5dbd178d90c83bd7df22_Untitled2.jpg" alt="" class="img-fluid">
+                <img src="<?php echo $base_path; ?>upload/news/b34f8cb1c84f5dbd178d90c83bd7df22_Untitled2.jpg" alt="" class="img-fluid">
               </div>
               <div class="case-content" style="height:253px; overflow:hidden;">
                 <h5>Go</h5>
@@ -109,7 +109,7 @@ include 'components/header.php';
           <div class="case-sudy-area">
             <a href="case-study-details/case-study-details-soma-universal-logistics-brand-case-study.php">
               <div class="case-img" style="display: flex; justify-content: center; height: 300px; overflow: hidden;">
-                <img src="upload/news/Id_155-Cover.jpg"
+                <img src="<?php echo $base_path; ?>upload/news/Id_155-Cover.jpg"
                   alt="Soma Universal Logistics brand identity showcasing global delivery and trust" class="img-fluid">
               </div>
               <div class="case-content" style="height:253px; overflow:hidden;">

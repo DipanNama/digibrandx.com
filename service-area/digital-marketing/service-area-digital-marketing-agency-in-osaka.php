@@ -138,7 +138,7 @@ include '../../components/cta-branding.php';
         <p>&nbsp;</p>
         <h3>Looking for the Best Digital Advertising Agencies for Startups in Osaka to boost your online presence?</h3>
         <p>At BS Digital Solutions, we craft tailored digital marketing strategies that deliver measurable results. As
-          the <a href="index.php" target="_blank" rel="noopener"><strong>best digital marketing agencies for startups
+          the <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>best digital marketing agencies for startups
               in
               Osaka</strong></a>, we offer services including <strong>SEO, Google Ads, social media</strong> marketing,
           and content creation, all designed to drive traffic and increase conversions.</p>
@@ -185,7 +185,7 @@ include '../../components/cta-branding.php';
           business and delivers measurable results, BS Digital Solutions can help you build a strong, competitive online
           presence.
         </p>
-        <p>Let&rsquo;s elevate your business with tailored digital marketing strategies.<strong> <a href="contact.php"
+        <p>Let&rsquo;s elevate your business with tailored digital marketing strategies.<strong> <a href="<?php echo $base_path; ?>contact.php"
               target="_blank" rel="noopener">Contact us today </a></strong>to begin your journey to digital success.</p>
       </div>
     </div>

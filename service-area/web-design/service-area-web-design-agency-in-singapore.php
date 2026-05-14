@@ -32,27 +32,27 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/6n6k41g84ljvk9rhh20664m1t7_BS Digital SolutionswebdesignagencyinSIngapore04.webp"
+          src="<?php echo $base_path; ?>upload/news/6n6k41g84ljvk9rhh20664m1t7_BS Digital SolutionswebdesignagencyinSIngapore04.webp"
           title="Singapore_01"><img
-          src="upload/news/61fqs531cn33cqmoiqkrp52ogv_BS Digital SolutionswebdesignagencyinSIngapore08.webp"
+          src="<?php echo $base_path; ?>upload/news/61fqs531cn33cqmoiqkrp52ogv_BS Digital SolutionswebdesignagencyinSIngapore08.webp"
           title="Singapore_02">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/17bidf8lg3c52ja0ttff60ubfb_BS Digital SolutionswebdesignagencyinSIngapore06.webp"
+          src="<?php echo $base_path; ?>upload/news/17bidf8lg3c52ja0ttff60ubfb_BS Digital SolutionswebdesignagencyinSIngapore06.webp"
           title="Singapore_04"><img
-          src="upload/news/tk1jd382rcim2hcbmsfkf7attk_BS Digital SolutionswebdesignagencyinSIngapore01.webp"
+          src="<?php echo $base_path; ?>upload/news/tk1jd382rcim2hcbmsfkf7attk_BS Digital SolutionswebdesignagencyinSIngapore01.webp"
           title="Singapore_03">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/m1th7skn8f1q0k7sla4u7nqik9_BS Digital SolutionswebdesignagencyinSIngapore03.webp"
+          src="<?php echo $base_path; ?>upload/news/m1th7skn8f1q0k7sla4u7nqik9_BS Digital SolutionswebdesignagencyinSIngapore03.webp"
           title="Singapore_05"><img
-          src="upload/news/57qjmnbdap2n6v79fh7t8u8747_BS Digital SolutionswebdesignagencyinSIngapore07.webp"
+          src="<?php echo $base_path; ?>upload/news/57qjmnbdap2n6v79fh7t8u8747_BS Digital SolutionswebdesignagencyinSIngapore07.webp"
           title="Singapore_06">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/0qp3k18l6ujts0oam6cf0qb4qo_BS Digital SolutionswebdesignagencyinSIngapore05.webp"
+          src="<?php echo $base_path; ?>upload/news/0qp3k18l6ujts0oam6cf0qb4qo_BS Digital SolutionswebdesignagencyinSIngapore05.webp"
           title="Singapore_07"><img
-          src="upload/news/rcjshnhp59ht7771551jbktsuv_BS Digital SolutionswebdesignagencyinSIngapore02.webp"
+          src="<?php echo $base_path; ?>upload/news/rcjshnhp59ht7771551jbktsuv_BS Digital SolutionswebdesignagencyinSIngapore02.webp"
           title="Singapore_08">
       </div>
     </div>
@@ -189,7 +189,7 @@ include '../../components/cta-branding.php';
             href="../../portfolio/portfolio-web-design-vision-unlimited-website-design-and-development.php" target="_blank"
             rel="noopener"><strong>high-quality web design solutions</strong></a>.</p>
         <h3>Choosing the Best Web Design Agency in Singapore</h3>
-        <p>Choosing the <a href="index.php" target="_blank" rel="noopener"><strong>web design and development company
+        <p>Choosing the <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>web design and development company
               in Singapore</strong></a>&nbsp;is essential for building an effective website. Look for an agency with a
           proven track record, industry knowledge, and a transparent, collaborative process. The ideal team will have
           expertise in both technical and creative aspects, including <strong>UI/UX design</strong>, mobile
@@ -203,7 +203,7 @@ include '../../components/cta-branding.php';
           help. Our
           team is committed to delivering web design and development services that align with your business objectives.
         </p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a> today
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a> today
           to start
           your website transformation. We will help you build a digital presence that enhances your brand, attracts
           customers, and supports long-term success in Singapore&rsquo;s competitive market.</p>

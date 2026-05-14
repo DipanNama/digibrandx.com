@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Your Branding Is Awesome, But Your UX Is Poor. What
               Now?</li>
           </ol>
@@ -36,7 +36,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/299BS Digital Solutions, UX design agency in Bangluru_02.webp"
+      src="<?php echo $base_path; ?>upload/media/299BS Digital Solutions, UX design agency in Bangluru_02.webp"
       alt="UX design process enhancing user experience" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -72,7 +72,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/906BS Digital Solutions, UX design agency in Bangluru_03.webp"
+      src="<?php echo $base_path; ?>upload/media/906BS Digital Solutions, UX design agency in Bangluru_03.webp"
       alt="How to fix poor UX and improve brand experience" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -107,7 +107,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/993BS Digital Solutions, UX design agency in Bangluru_04.webp"
+      src="<?php echo $base_path; ?>upload/media/993BS Digital Solutions, UX design agency in Bangluru_04.webp"
       alt="BS Digital Solutions UX design services creating seamless user journeys" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">

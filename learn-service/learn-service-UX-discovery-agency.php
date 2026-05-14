@@ -40,7 +40,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Discovery starts with understanding the
             people behind the product. BS Digital Solutions, a<a
               href="../portfolio/portfolio-mobile-app-Be-The-Wind-mobile-app-design.php" target="_blank" rel="noopener">
-              <strong>UI UX design company</strong></a><a href="index.php" target="_blank" rel="noopener">,</a>
+              <strong>UI UX design company</strong></a><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">,</a>
             conducts in-depth stakeholder interviews to capture business vision,
             priorities, and expectations. These sessions identify strategic objectives, success metrics, internal
             workflows, and organizational challenges. We ensure alignment across leadership, marketing, operations, and

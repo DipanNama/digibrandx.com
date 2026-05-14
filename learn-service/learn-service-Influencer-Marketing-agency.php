@@ -66,7 +66,7 @@ include '../components/cta-branding.php';
           it fits naturally into their feed while still highlighting your brand and encouraging action.</p>
         <h3>Why Influencer Marketing Builds Brand Trust</h3>
         <p>Trust is essential in digital marketing. Influencer marketing is effective because people view influencer
-          recommendations as personal opinions rather than just ads. At BS Digital Solutions, an <a href="index.php"
+          recommendations as personal opinions rather than just ads. At BS Digital Solutions, an <a href="<?php echo $base_path; ?>index.php"
             target="_blank" rel="noopener"><strong>influencer marketing agency</strong></a>, we build long-term
           partnerships with influencers to create credibility and consistency. When influencers truly support a brand,
           their content feels real and relatable, which helps build stronger connections and trust.</p>
@@ -98,7 +98,7 @@ include '../components/cta-branding.php';
         <p>Want to grow your brand with real influencer partnerships? Work with BS Digital Solutions to build campaigns
           that make
           a difference. If you want to reach more people or earn trust, we&rsquo;ll connect you with the right
-          influencers and help you engage your audience. <a href="contact.php" target="_blank"
+          influencers and help you engage your audience. <a href="<?php echo $base_path; ?>contact.php" target="_blank"
             rel="noopener"><strong>Get in touch with us to begin.</strong></a></p>
       </div>
     </div>

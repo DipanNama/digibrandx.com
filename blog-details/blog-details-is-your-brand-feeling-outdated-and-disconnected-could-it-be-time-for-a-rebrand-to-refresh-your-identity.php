@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Is your brand feeling outdated and disconnected?
               Could it be time for a rebrand to refresh your identity?</li>
           </ol>
@@ -48,7 +48,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/408BS Digital Solutions-Rebranding agency in Mumbai_03.webp"
+      src="<?php echo $base_path; ?>upload/media/408BS Digital Solutions-Rebranding agency in Mumbai_03.webp"
       alt="Branding process at a top creative agency in Mumbai, including logo development and visual elements."
       width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
@@ -100,7 +100,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/708BS Digital Solutions-Rebranding agency in Mumbai_04.webp"
+      src="<?php echo $base_path; ?>upload/media/708BS Digital Solutions-Rebranding agency in Mumbai_04.webp"
       alt="Creative professionals discussing rebranding ideas and brand vision at a branding agency in Mumbai."
       width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
@@ -156,7 +156,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/521BS Digital Solutions-Rebranding agency in Mumbai_02.webp"
+      src="<?php echo $base_path; ?>upload/media/521BS Digital Solutions-Rebranding agency in Mumbai_02.webp"
       alt="A team of brand consultants and designers reviewing new packaging design at a creative agency in Mumbai."
       width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
@@ -183,7 +183,7 @@ include '../components/header.php';
                   Mumbai</strong></a><strong>.</strong> We are dedicated to building brands that are authentic,
               memorable, and aligned with your vision.</p>
             <p><strong>Let&rsquo;s partner </strong>to create the best branding for your business and make it stand out.
-              <a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions
+              <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions
                   today!</strong></a>
             </p>
           </div>

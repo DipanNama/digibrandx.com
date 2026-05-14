@@ -49,7 +49,7 @@ $companyName = "BS Digital Solutions";
             <div class="col-lg-12">
                 <div class="testi-heading text-center">
                     <div class="section-title">Latest Blogs</div>
-                    <!-- <a data-link-key="blogs" href="blogs.php" class="right-viewbtn"><i class="fas fa-angle-right"></i>
+                    <!-- <a data-link-key="blogs" href="<?php echo $base_path; ?>blogs.php" class="right-viewbtn"><i class="fas fa-angle-right"></i>
                         View All</a> -->
                 </div>
             </div>
@@ -57,7 +57,7 @@ $companyName = "BS Digital Solutions";
             <div class="col-lg-6">
                 <div class="blog-area">
                     <a
-                        href="blog-details/blog-details-how-to-choose-the-best-branding-agency-in-mumbai-a-complete-guide-for-growing-businesses.php">
+                        href="<?php echo $base_path; ?>blog-details/blog-details-how-to-choose-the-best-branding-agency-in-mumbai-a-complete-guide-for-growing-businesses.php">
                         <div class="blog-img"><img
                                 src="https://immenseart.com/wp-content/uploads/2023/05/Web-Design-Blog-Topics.jpg"
                                 alt="BS Digital Solution" class="img-fluid"></div>
@@ -82,7 +82,7 @@ $companyName = "BS Digital Solutions";
             <div class="col-lg-6">
                 <div class="blog-area">
                     <a
-                        href="blog-details/blog-details-do-you-know-what-makes-bs-digital-solutions-a-top-10-branding-agency-in-mumbai-for-business-success.php">
+                        href="<?php echo $base_path; ?>blog-details/blog-details-do-you-know-what-makes-bs-digital-solutions-a-top-10-branding-agency-in-mumbai-for-business-success.php">
                         <div class="blog-img"><img
                                 src="https://www.justinmind.com/wp-content/uploads/2019/10/best-20-web-development-blogs.png"
                                 alt="BS Digital Solution" class="img-fluid"></div>
@@ -159,7 +159,7 @@ $companyName = "BS Digital Solutions";
 
             <div class="col-lg-6">
                 <div class="case-sudy-area">
-                    <a href="case-study-details/case-study-details-Ollato-Mental-Health-Wellness-Brand-Case-Study.php">
+                    <a href="<?php echo $base_path; ?>case-study-details/case-study-details-Ollato-Mental-Health-Wellness-Brand-Case-Study.php">
                         <div class="case-img"
                             style="display: flex; justify-content: center; height: 300px; overflow: hidden;"><img
                                 src="<?php echo $base_path; ?>upload/news/ie5k0ht5t4ftapjmf1fotfamnb_Cover.jpg"
@@ -186,7 +186,7 @@ $companyName = "BS Digital Solutions";
             </div>
             <div class="col-lg-6">
                 <div class="case-sudy-area">
-                    <a href="case-study-details/case-study-details-soma-universal-logistics-brand-case-study.php">
+                    <a href="<?php echo $base_path; ?>case-study-details/case-study-details-soma-universal-logistics-brand-case-study.php">
                         <div class="case-img"
                             style="display: flex; justify-content: center; height: 300px; overflow: hidden;"><img
                                 src="<?php echo $base_path; ?>upload/news/Id_155-Cover.jpg"

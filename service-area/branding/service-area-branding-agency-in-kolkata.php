@@ -32,18 +32,18 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_269-BS Digital Solutions, advertising agency in Kolkata_04.webp" title="Kolkata"><img
-          src="upload/news/Id_270-BS Digital Solutions, advertising agency in Kolkata_01.webp" title="Kolkata"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_269-BS Digital Solutions, advertising agency in Kolkata_04.webp" title="Kolkata"><img
+          src="<?php echo $base_path; ?>upload/news/Id_270-BS Digital Solutions, advertising agency in Kolkata_01.webp" title="Kolkata"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_271-BS Digital Solutions, advertising agency in Kolkata_03.webp" title="Kolkata"><img
-          src="upload/news/Id_272-BS Digital Solutions, advertising agency in Kolkata_02.webp" title="Kolkata"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_271-BS Digital Solutions, advertising agency in Kolkata_03.webp" title="Kolkata"><img
+          src="<?php echo $base_path; ?>upload/news/Id_272-BS Digital Solutions, advertising agency in Kolkata_02.webp" title="Kolkata"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_273-BS Digital Solutions, advertising agency in Kolkata_06.webp" title="Kolkata"><img
-          src="upload/news/Id_274-BS Digital Solutions, advertising agency in Kolkata_05 (1).webp" title="Kolkata">
+          src="<?php echo $base_path; ?>upload/news/Id_273-BS Digital Solutions, advertising agency in Kolkata_06.webp" title="Kolkata"><img
+          src="<?php echo $base_path; ?>upload/news/Id_274-BS Digital Solutions, advertising agency in Kolkata_05 (1).webp" title="Kolkata">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_275-BS Digital Solutions, advertising agency in Kolkata_07.webp" title="Kolkata"><img
-          src="upload/news/Id_276-BS Digital Solutions, advertising agency in Kolkata_08.webp" title="Kolkata"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_275-BS Digital Solutions, advertising agency in Kolkata_07.webp" title="Kolkata"><img
+          src="<?php echo $base_path; ?>upload/news/Id_276-BS Digital Solutions, advertising agency in Kolkata_08.webp" title="Kolkata"></div>
     </div>
   </section>
   <?php 
@@ -109,7 +109,7 @@ include '../../components/cta-branding.php';
         <h1>Ready to Boost Your Business Growth with a creative branding agency in Kolkata?</h1>
         <p>Kolkata is a city where heritage meets enterprise. From traditional family-run businesses and MSMEs to
           fast-growing startups and corporates, the city has a unique commercial rhythm shaped by culture, intellect,
-          creativity, and trust. As a <a href="index.php" target="_blank" rel="noopener"><strong>branding agency in
+          creativity, and trust. As a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>branding agency in
               Kolkata</strong></a>, BS Digital Solutions approaches branding not as surface-level design but as a
           business growth
           system. We understand that branding in Kolkata must respect local sentiment while aligning with modern digital
@@ -196,7 +196,7 @@ include '../../components/cta-branding.php';
           future-ready brands, BS Digital Solutions is here to help you grow with clarity, creativity, and confidence.
         </p>
         <div><span><strong>Are you looking to grow your brand?</strong> Partner with us and see real results from start
-            to finish. Reach out to our team at <strong><a href="contact.php" target="_blank" rel="noopener">BS Digital
+            to finish. Reach out to our team at <strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">BS Digital
                 Solutions</a></strong> to begin.</span></div>
       </div>
     </div>

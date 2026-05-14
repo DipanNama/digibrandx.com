@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">The Visionary Guide: How to Choose a Startup Creative
               Agency in Mumbai to Scale Your Brand Globally</li>
           </ol>
@@ -47,7 +47,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/914BS Digital Solutions-branding agency for startup in Mumbai_04.webp"
+      src="<?php echo $base_path; ?>upload/media/914BS Digital Solutions-branding agency for startup in Mumbai_04.webp"
       alt="Designers working on branding concepts for a startup in Mumbai's creative agency." width="1920"
       height="1378" /></section>
   <section class="portfolio-details_sec">
@@ -101,7 +101,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/709BS Digital Solutions-branding agency for startup in Mumbai_03.webp"
+      src="<?php echo $base_path; ?>upload/media/709BS Digital Solutions-branding agency for startup in Mumbai_03.webp"
       alt="Creative branding agency in Mumbai designing innovative solutions for startups." width="1920" height="992" />
   </section>
   <section class="portfolio-details_sec">
@@ -132,7 +132,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/929BS Digital Solutions-branding agency for startup in Mumbai_02.webp"
+      src="<?php echo $base_path; ?>upload/media/929BS Digital Solutions-branding agency for startup in Mumbai_02.webp"
       alt="Team of creative professionals collaborating on startup branding in Mumbai." width="1920" height="992" />
   </section>
   <section class="portfolio-details_sec">
@@ -162,7 +162,7 @@ include '../components/header.php';
               entrepreneurial journey. It is the difference between being a "commodity" and being a "brand."</p>
             <p>If you want a team that values great design, encourages creative ideas, and respects what makes your
               business unique, you&rsquo;ve found the right place.</p>
-            <p>Ready to move from searching for vendors to building your brand? <a href="contact.php" target="_blank"
+            <p>Ready to move from searching for vendors to building your brand? <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                 rel="noopener"><strong>Get in touch with BS Digital Solutions today. </strong></a>We focus on delivering
               real
               results, not just designs.</p>

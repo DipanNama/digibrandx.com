@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-web-design.php">Web Design</a></li>
             <li class="breadcrumb-item active" aria-current="page">Soma Logistics I Corporate Website</li>
           </ol>
@@ -47,10 +47,10 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen"
-      src="upload/media/579BS Digital Solutions, Logistic Web Design_02.webp" alt="" width="1920" height="1708" />
+      src="<?php echo $base_path; ?>upload/media/579BS Digital Solutions, Logistic Web Design_02.webp" alt="" width="1920" height="1708" />
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen"
-      src="upload/media/490BS Digital Solutions, Logistic Web Design_03.webp" alt="" width="1920" height="1708" />
+      src="<?php echo $base_path; ?>upload/media/490BS Digital Solutions, Logistic Web Design_03.webp" alt="" width="1920" height="1708" />
   </section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -64,7 +64,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen"
-      src="upload/media/848BS Digital Solutions, Logistic Web Design_04.webp" alt="" width="1920" height="9043" />
+      src="<?php echo $base_path; ?>upload/media/848BS Digital Solutions, Logistic Web Design_04.webp" alt="" width="1920" height="9043" />
   </section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -156,7 +156,7 @@ include '../components/header.php';
                   agency</strong></a> that understands the heart of your business. BS Digital Solutions is ready to
               build the top
               logistics websites of tomorrow, today.</p>
-            <p>Ready to move your business forward? <a href="contact.php" target="_blank"
+            <p>Ready to move your business forward? <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                 rel="noopener"><strong>Contact us </strong></a>for expert web development services for logistics
               companies.</p>
           </div>

@@ -44,7 +44,7 @@ include '../components/header.php';
             resilience, and personal growth. Our audience values self-awareness and performance, aiming to balance
             ambition with well-being. Ollato provides tailored support to help them thrive mentally, emotionally, and
             professionally in their life journeys.</p>
-          <p><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/382Ollato_Intro_01.jpg" alt="" width="1920"
+          <p><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/382Ollato_Intro_01.jpg" alt="" width="1920"
               height="1241" /></p>
           <h4 data-start="94" data-end="556">Project Overview:</h4>
           <p data-start="94" data-end="556"><strong>Ollato</strong>, a forward-thinking mental health wellness brand,
@@ -61,7 +61,7 @@ include '../components/header.php';
             collaterals. Each element was rooted in Ollato&rsquo;s core belief: mental health is not just about
             healing&mdash;it's about rising.
           </p>
-          <p><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/519Ollato_Intro_02.jpg" alt="" width="1920"
+          <p><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/519Ollato_Intro_02.jpg" alt="" width="1920"
               height="1334" /></p>
           <h4 data-start="94" data-end="556">Challenges:</h4>
           <p>The rebranding of Ollato came with several key challenges. The existing brand lacked emotional resonance,
@@ -80,7 +80,7 @@ include '../components/header.php';
             the website with a clean, engaging user experience and optimized it for SEO performance. Every touchpoint
             was crafted to elevate engagement and reflect Ollato&rsquo;s empowering new direction.</p>
           <p>&nbsp;</p>
-          <p><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/440Ollato_Intro_03.jpg" alt="" width="1920"
+          <p><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/440Ollato_Intro_03.jpg" alt="" width="1920"
               height="1175" /></p>
           <h4 data-start="94" data-end="556">Result:</h4>
           <p>The rebranding of Ollato delivered measurable impact across every touchpoint. A strategic logo redesign led
@@ -96,10 +96,10 @@ include '../components/header.php';
             positioning, and engaging digital presence, Ollato now stands as a bold, empathetic voice in mental
             wellness&mdash;ready to inspire clarity, resilience, and growth across every mind.</p>
           <p>&nbsp;</p>
-          <p><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/329Ollato_Intro_05.jpg" alt="" width="1920"
-              height="1493" /><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/883Ollato_Intro_04.jpg"
+          <p><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/329Ollato_Intro_05.jpg" alt="" width="1920"
+              height="1493" /><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/883Ollato_Intro_04.jpg"
               alt="" width="1920" height="2169" /><img class="img-fluid fullscreen mt-4 mb-4"
-              src="upload/media/245Ollato_Intro_05.jpg" alt="" width="1920" height="2981" /></p>
+              src="<?php echo $base_path; ?>upload/media/245Ollato_Intro_05.jpg" alt="" width="1920" height="2981" /></p>
         </div>
       </div>
     </div>

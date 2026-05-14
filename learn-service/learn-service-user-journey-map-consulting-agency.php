@@ -41,7 +41,7 @@ include '../components/cta-branding.php';
             assumptions instead of validated user behavior. User journey mapping replaces guesswork with evidence.
             BS Digital Solutions uses structured research to document actual user behavior, not just team expectations.
             As
-            a&nbsp;<a href="index.php" target="_blank" rel="noopener"><strong>user journey map design
+            a&nbsp;<a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>user journey map design
                 agency</strong></a>, we ensure experience decisions are informed by data, interviews, analytics, and
             real-world context. This shift from opinion to insight reduces redesign cycles and development waste.</span>
         </p>

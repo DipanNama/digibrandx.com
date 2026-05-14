@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">What Makes a User-Friendly Website ÃÂ  Agency in
               Bangalore the Best Choice for Your Business Growth?</li>
           </ol>
@@ -44,7 +44,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/519BS Digital Solutions-user friendly website in Bangalore_02.webp"
+      src="<?php echo $base_path; ?>upload/media/519BS Digital Solutions-user friendly website in Bangalore_02.webp"
       alt="Web developers in Bangalore collaborating on a user-friendly website design." width="1920" height="992" />
   </section>
   <section class="portfolio-details_sec">
@@ -89,7 +89,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/858BS Digital Solutions-user friendly website in Bangalore_04.webp"
+      src="<?php echo $base_path; ?>upload/media/858BS Digital Solutions-user friendly website in Bangalore_04.webp"
       alt="User-friendly website design for enhanced browsing experience." width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -164,7 +164,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/584BS Digital Solutions-user friendly website in Bangalore_03.webp"
+      src="<?php echo $base_path; ?>upload/media/584BS Digital Solutions-user friendly website in Bangalore_03.webp"
       alt="Responsive web design ensuring smooth user experience on all devices." width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -179,7 +179,7 @@ include '../components/header.php';
               consider BS Digital Solutions. We specialize in user-friendly website development that delivers measurable
               results.
             </p>
-            <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a>
+            <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a>
               today,
               Bangalore's leading <strong>web design and development agency</strong>, and let us build a website your
               users will appreciate.</p>

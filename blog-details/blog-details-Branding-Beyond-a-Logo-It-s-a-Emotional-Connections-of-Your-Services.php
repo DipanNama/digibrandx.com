@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">How can a Creative Design Agency Hong Kong help build
               emotional connections through branding beyond just a logo?</li>
           </ol>
@@ -38,7 +38,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/530BS Digital Solutions_branding agency in Hong Kong_03.webp"
+      src="<?php echo $base_path; ?>upload/media/530BS Digital Solutions_branding agency in Hong Kong_03.webp"
       alt="Creative branding process by a corporate branding agency in Hong Kong" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -80,7 +80,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/48BS Digital Solutions_branding agency in Hong Kong_02.jpg"
+      src="<?php echo $base_path; ?>upload/media/48BS Digital Solutions_branding agency in Hong Kong_02.jpg"
       alt="Brand storytelling and positioning designed by a leading brand strategy agency in Hong Kong" width="1920"
       height="1134" /></section>
   <section class="portfolio-details_sec">
@@ -119,7 +119,7 @@ include '../components/header.php';
             <p>Looking for an <strong>HK creative agency</strong>? Choose a partner who understands strategy, emotion,
               and experience. Today, branding is more than just being seen&mdash;it is about building real connections.
             </p>
-            <p>At <a href="contact.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>, we
+            <p>At <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>, we
               don&rsquo;t
               just design brands.<br /><strong>We define what they mean&mdash;and why they matter.</strong></p>
           </div>

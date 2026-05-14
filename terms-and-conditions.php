@@ -11,7 +11,7 @@ include 'components/header.php';
             <div class="row">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Terms and Conditions</li>
                     </ol>
                 </nav>

@@ -26,16 +26,16 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_303-BS Digital Solutions, advertising agency in Bengalore_01.webp" title="Bengalore">
+          src="<?php echo $base_path; ?>upload/news/Id_303-BS Digital Solutions, advertising agency in Bengalore_01.webp" title="Bengalore">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_304-BS Digital Solutions, advertising agency in Bengalore_02.webp" title="Bengalore">
+          src="<?php echo $base_path; ?>upload/news/Id_304-BS Digital Solutions, advertising agency in Bengalore_02.webp" title="Bengalore">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_305-BS Digital Solutions, advertising agency in Bengalore_03.webp" title="Bengalore">
+          src="<?php echo $base_path; ?>upload/news/Id_305-BS Digital Solutions, advertising agency in Bengalore_03.webp" title="Bengalore">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_306-BS Digital Solutions, advertising agency in Bengalore_04.webp" title="Bengalore">
+          src="<?php echo $base_path; ?>upload/news/Id_306-BS Digital Solutions, advertising agency in Bengalore_04.webp" title="Bengalore">
       </div>
     </div>
   </section>
@@ -126,7 +126,7 @@ include '../../components/cta-branding.php';
     <div class="container">
       <div class="content-wrapper landing-page-content">
         <h1>Looking for a full-service branding agency in Bangalore to grow your brand?</h1>
-        <p>BS Digital Solutions is a <a href="index.php" target="_blank" rel="noopener"><strong>creative agency in
+        <p>BS Digital Solutions is a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>creative agency in
               Bengaluru</strong></a>, supporting startups, corporates, B2C brands, and B2B enterprises in building
           scalable, future-ready brands. In India&rsquo;s innovation capital, brands require more than strong visuals;
           they need strategy, consistency, and digital performance. BS Digital Solutions combines <strong>brand
@@ -208,7 +208,7 @@ include '../../components/cta-branding.php';
             combines
             strategy, creativity, and execution to make it a valuable business asset.</span></div>
         <div></div>
-        <div><strong>Ready to elevate your brand?</strong> Partner with <strong><a href="contact.php" target="_blank"
+        <div><strong>Ready to elevate your brand?</strong> Partner with <strong><a href="<?php echo $base_path; ?>contact.php" target="_blank"
               rel="noopener">BS Digital Solutions</a> </strong>today and drive growth with impactful branding strategies
           tailored
           for success!</div>

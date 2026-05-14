@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-branding.php">Branding</a></li>
             <li class="breadcrumb-item active" aria-current="page">Amore Care I Pharmacy Branding</li>
           </ol>
@@ -38,41 +38,41 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/780Cover.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/780Cover.webp" alt="" width="1920"
       height="1633" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/02_Index.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/02_Index.jpg" alt="" width="1920"
       height="1080" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/62802_Index.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/62802_Index.webp" alt=""
       width="1920" height="692" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/19903.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/19903.webp" alt="" width="1920"
       height="1712" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/89104 (1).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/89104 (1).webp" alt="" width="1920"
       height="1712" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/1605.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/1605.webp" alt="" width="1920"
       height="1712" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/19806.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/19806.webp" alt="" width="1920"
       height="2131" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/507.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/507.webp" alt="" width="1920"
       height="1640" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/53102_Index (1).webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/53102_Index (1).webp" alt=""
       width="1920" height="2256" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/73809.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/73809.webp" alt="" width="1920"
       height="1640" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/96110.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/96110.webp" alt="" width="1920"
       height="1640" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/55612.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/55612.webp" alt="" width="1920"
       height="2096" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/24913.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/24913.webp" alt="" width="1920"
       height="2096" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/95214.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/95214.webp" alt="" width="1920"
       height="2096" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/20415.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/20415.webp" alt="" width="1920"
       height="2096" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/84502_Index.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/84502_Index.webp" alt=""
       width="1920" height="2289" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/45102_Index (1).webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/45102_Index (1).webp" alt=""
       width="1920" height="692" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/12702_Index.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/12702_Index.webp" alt=""
       width="1920" height="692" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -85,27 +85,27 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/61502_Index.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/61502_Index.webp" alt=""
       width="1920" height="1428" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/56602_Index (1).webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/56602_Index (1).webp" alt=""
       width="1920" height="2866" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/250Logo.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/250Logo.webp" alt="" width="1920"
       height="2388" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/52402.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/52402.webp" alt="" width="1920"
       height="3888" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/37305 (1).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/37305 (1).webp" alt="" width="1920"
       height="2880" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/31307.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/31307.webp" alt="" width="1920"
       height="2880" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/83008.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/83008.webp" alt="" width="1920"
       height="2880" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/52509.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/52509.webp" alt="" width="1920"
       height="1780" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/7310.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/7310.webp" alt="" width="1920"
       height="1780" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/97611.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/97611.webp" alt="" width="1920"
       height="1780" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/43403 (1).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/43403 (1).webp" alt="" width="1920"
       height="1780" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -118,11 +118,11 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/43104 (1).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/43104 (1).webp" alt="" width="1920"
       height="2248" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/38814_Business Card.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/38814_Business Card.webp" alt=""
       width="1920" height="1442" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/50414_Letterhead.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/50414_Letterhead.webp" alt=""
       width="1920" height="1732" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -135,17 +135,17 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/32214_Envelope.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/32214_Envelope.webp" alt=""
       width="1920" height="1732" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/97714_Folder (1).webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/97714_Folder (1).webp" alt=""
       width="1920" height="1732" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/648gzdnqwaokt6lko1wdd2u.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/648gzdnqwaokt6lko1wdd2u.webp" alt=""
       width="1920" height="1732" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/14303.06_Brochure.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/14303.06_Brochure.webp" alt=""
       width="1920" height="1732" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/38806.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/38806.webp" alt="" width="1920"
       height="1366" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/78403.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/78403.webp" alt="" width="1920"
       height="1366" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -158,61 +158,61 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/41605.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/41605.webp" alt="" width="1920"
       height="1732" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/27404.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/27404.webp" alt="" width="1920"
       height="1366" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/112vbfucqi0idxedqni50za.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/112vbfucqi0idxedqni50za.webp" alt=""
       width="1920" height="1366" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/427Title_05.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/427Title_05.webp" alt=""
       width="1920" height="692" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/97001.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/97001.webp" alt="" width="1920"
       height="1366" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/98512.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/98512.webp" alt="" width="1920"
       height="1532" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/33013.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/33013.webp" alt="" width="1920"
       height="1366" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/53006 (1).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/53006 (1).webp" alt="" width="1920"
       height="1454" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/35007 (1).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/35007 (1).webp" alt="" width="1920"
       height="1260" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/16014.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/16014.webp" alt="" width="1920"
       height="1366" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/89215.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/89215.webp" alt="" width="1920"
       height="1366" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/391Title_06.webp" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/391Title_06.webp" alt=""
       width="1920" height="692" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/5307 (2).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/5307 (2).webp" alt="" width="1920"
       height="1260" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/57701 (1).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/57701 (1).webp" alt="" width="1920"
       height="1260" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/4302 (1).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/4302 (1).webp" alt="" width="1920"
       height="1260" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/37203 (2).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/37203 (2).webp" alt="" width="1920"
       height="1446" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/2004 (2).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/2004 (2).webp" alt="" width="1920"
       height="1446" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/1905 (2).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/1905 (2).webp" alt="" width="1920"
       height="1372" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/3606 (2).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/3606 (2).webp" alt="" width="1920"
       height="1372" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/54308 (1).webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/54308 (1).webp" alt="" width="1920"
       height="692" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/56907.01.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/56907.01.jpg" alt="" width="1920"
       height="1372" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/15107.05.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/15107.05.jpg" alt="" width="1920"
       height="1348" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/42807.06.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/42807.06.jpg" alt="" width="1920"
       height="1372" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/13307.02.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/13307.02.jpg" alt="" width="1920"
       height="1372" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/75407.03.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/75407.03.jpg" alt="" width="1920"
       height="1372" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/55107.04.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/55107.04.jpg" alt="" width="1920"
       height="1372" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/37907.07.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/37907.07.jpg" alt="" width="1920"
       height="1372" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/29Thanks.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/29Thanks.jpg" alt="" width="1920"
       height="692" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -274,7 +274,7 @@ include '../components/header.php';
               recognition, contact medical device marketing agency BS Digital Solutions. Our team is ready to develop an
               identity
               that builds trust, drives growth, and endures.</p>
-            <p>Ready to take your brand global? <a href="contact.php" target="_blank" rel="noopener"><strong>Contact
+            <p>Ready to take your brand global? <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact
                   BS Digital Solutions today</strong></a> to let our team create an identity that builds trust, supports
               growth,
               and endures.</p>

@@ -174,7 +174,7 @@ include '../components/cta-branding.php';
         <h3>Why BS Digital Solutions Is a Trusted Search Engine Marketing Partner</h3>
         <p>BS Digital Solutions combines strategic planning, technical expertise, and performance-driven execution to
           deliver
-          impactful SEM campaigns. As a <a href="index.php" target="_blank" rel="noopener"><strong>Search Engine
+          impactful SEM campaigns. As a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>Search Engine
               Marketing (SEM) agency</strong>,</a> we focus on driving qualified traffic, generating high-quality leads,
           and maximizing ROI. Our SEM services are designed for businesses that demand clarity, control, and measurable
           growth. With a strong emphasis on data, optimization, and accountability, BS Digital Solutions helps brands

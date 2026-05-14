@@ -31,20 +31,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_654-BS Digital Solutions, web design agency in Mumbai_08.webp" title="Web_Mumbai_01"><img
-          src="upload/news/Id_655-BS Digital Solutions, web design agency in Mumbai_03.webp" title="Web_Mumbai_02">
+          src="<?php echo $base_path; ?>upload/news/Id_654-BS Digital Solutions, web design agency in Mumbai_08.webp" title="Web_Mumbai_01"><img
+          src="<?php echo $base_path; ?>upload/news/Id_655-BS Digital Solutions, web design agency in Mumbai_03.webp" title="Web_Mumbai_02">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_656-BS Digital Solutions, web design agency in Mumbai_01.webp" title="Web_Mumbai_03"><img
-          src="upload/news/Id_657-BS Digital Solutions, web design agency in Mumbai_07.webp" title="Web_Mumbai_04">
+          src="<?php echo $base_path; ?>upload/news/Id_656-BS Digital Solutions, web design agency in Mumbai_01.webp" title="Web_Mumbai_03"><img
+          src="<?php echo $base_path; ?>upload/news/Id_657-BS Digital Solutions, web design agency in Mumbai_07.webp" title="Web_Mumbai_04">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_658-BS Digital Solutions, web design agency in Mumbai_06.webp" title="Web_Mumbai_05"><img
-          src="upload/news/Id_659-BS Digital Solutions, web design agency in Mumbai_04.webp" title="Web_Mumbai_06">
+          src="<?php echo $base_path; ?>upload/news/Id_658-BS Digital Solutions, web design agency in Mumbai_06.webp" title="Web_Mumbai_05"><img
+          src="<?php echo $base_path; ?>upload/news/Id_659-BS Digital Solutions, web design agency in Mumbai_04.webp" title="Web_Mumbai_06">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_660-BS Digital Solutions, web design agency in Mumbai_02.webp" title="Web_Mumbai_07"><img
-          src="upload/news/Id_661-BS Digital Solutions, web design agency in Mumbai_05.webp" title="Web_Mumbai_08">
+          src="<?php echo $base_path; ?>upload/news/Id_660-BS Digital Solutions, web design agency in Mumbai_02.webp" title="Web_Mumbai_07"><img
+          src="<?php echo $base_path; ?>upload/news/Id_661-BS Digital Solutions, web design agency in Mumbai_05.webp" title="Web_Mumbai_08">
       </div>
     </div>
   </section>
@@ -141,7 +141,7 @@ include '../../components/cta-branding.php';
           As India&rsquo;s financial capital, businesses here must build a strong digital presence to remain
           competitive. With more customers relying on the web, a strategically designed and visually appealing website
           is essential for success.</p>
-        <p>In this environment, selecting the right <a href="index.php" target="_blank" rel="noopener"><strong>web
+        <p>In this environment, selecting the right <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>web
               design and development company in Mumbai</strong> </a>is essential to creating a website that reflects
           your brand and delivers on functionality, usability, and SEO. BS Digital Solutions offers these capabilities
           as a
@@ -189,7 +189,7 @@ include '../../components/cta-branding.php';
           responsive web applications, tailored to your business needs.</p>
         <p><strong>Let&rsquo;s collaborate</strong> to create a website that reflects your brand, delivers excellent
           user experiences, and drives results.</p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions today</strong></a>
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions today</strong></a>
           to begin
           your journey to online success.</p>
         <h3>&nbsp;</h3>

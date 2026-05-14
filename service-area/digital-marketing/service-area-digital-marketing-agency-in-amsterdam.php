@@ -73,7 +73,7 @@ include '../../components/cta-branding.php';
           takes the time to understand your business, market, and objectives, so we create a strategy that meets your
           unique needs.</p>
         <p>Whether you're a startup establishing a presence or an established business aiming for growth, our <a
-            href="index.php" target="_blank" rel="noopener"><strong>digital marketing agency in Amsterdam</strong></a>
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>digital marketing agency in Amsterdam</strong></a>
           offers tailored solutions to bring your brand into the spotlight. Our approach integrates multiple strategies
           to drive sustainable growth.</p>
         <h3>Services Offered by Our Digital Marketing Agency in Amsterdam</h3>
@@ -140,7 +140,7 @@ include '../../components/cta-branding.php';
           leading digital
           marketing agency in Amsterdam, and let us create a tailored marketing strategy that drives growth and results.
         </p>
-        <p><strong><a href="contact.php" target="_blank" rel="noopener">Contact us today</a> </strong>to schedule a
+        <p><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Contact us today</a> </strong>to schedule a
           consultation and start your digital transformation.</p>
       </div>
     </div>

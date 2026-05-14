@@ -11,7 +11,7 @@
                                 <p>From creative web design to high-converting social media campaigns— experience a 360°
                                     approach to digital growth with Kolkata’s premier marketing consultants</p>
                                 <div class="text-center mt-2">
-                                    <a href="contact.php" class="right-viewbtn"
+                                    <a href="<?php echo $base_path; ?>contact.php" class="right-viewbtn"
                                         style="width: fit-content; margin: 0 auto; float: none;">Get Started</a>
                                 </div>
                             </div>
@@ -34,7 +34,7 @@
                                     </strong>blending creativity, strategy, and cutting-edge technology to craft
                                     exceptional, unforgettable digital products that leave a lasting impact.</p>
                                 <div class="text-center mt-4">
-                                    <a href="plans-and-pricing.php" class="right-viewbtn"
+                                    <a href="<?php echo $base_path; ?>plans-and-pricing.php" class="right-viewbtn"
                                         style="width: fit-content; margin: 0 auto; float: none;">View Pricing</a>
                                 </div>
                             </div>
@@ -58,7 +58,7 @@
                                     brand&rsquo;s story with purpose, passion, and precision.
                                 </p>
                                 <div class="text-center mt-4">
-                                    <a href="plans-and-pricing.php" class="right-viewbtn"
+                                    <a href="<?php echo $base_path; ?>plans-and-pricing.php" class="right-viewbtn"
                                         style="width: fit-content; margin: 0 auto; float: none;">Explore Plans</a>
                                 </div>
                             </div>
@@ -81,7 +81,7 @@
                                     that engage audiences, elevate brands, and drive measurable growth across
                                     today&rsquo;s competitive digital landscape.</p>
                                 <div class="text-center mt-4">
-                                    <a href="plans-and-pricing.php" class="right-viewbtn"
+                                    <a href="<?php echo $base_path; ?>plans-and-pricing.php" class="right-viewbtn"
                                         style="width: fit-content; margin: 0 auto; float: none;">Get Started Now</a>
                                 </div>
                             </div>

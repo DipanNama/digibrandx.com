@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">The Secret to Building SEO-Friendly Websites: How to
               Avoid Common Mistakes in Website Design</li>
           </ol>
@@ -42,7 +42,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/69BS Digital Solutions-SEO friendly website_02.webp"
+      src="<?php echo $base_path; ?>upload/media/69BS Digital Solutions-SEO friendly website_02.webp"
       alt="SEO-friendly web design with optimized content for better search engine ranking." width="1920"
       height="992" /></section>
   <section class="portfolio-details_sec">
@@ -88,7 +88,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/752BS Digital Solutions-SEO friendly website_03.webp"
+      src="<?php echo $base_path; ?>upload/media/752BS Digital Solutions-SEO friendly website_03.webp"
       alt="Mobile-optimized website showcasing modern responsive design." width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -152,7 +152,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/489BS Digital Solutions-SEO friendly website_04.webp"
+      src="<?php echo $base_path; ?>upload/media/489BS Digital Solutions-SEO friendly website_04.webp"
       alt="Creative website design with integrated SEO strategies for higher visibility." width="1920" height="992" />
   </section>
   <section class="portfolio-details_sec">
@@ -210,7 +210,7 @@ include '../components/header.php';
                 rel="noopener"><strong>top website design agency</strong></a>, we specialize in
               SEO-friendly web designs that combine great design with powerful SEO strategies. Let&rsquo;s work together
               to develop a website that not only looks great but also drives business growth.</p>
-            <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact us today</strong></a> to start
+            <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact us today</strong></a> to start
               building an SEO-friendly website that will give your business the online presence it deserves.</p>
           </div>
         </div>

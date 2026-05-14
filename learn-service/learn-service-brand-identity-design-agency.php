@@ -87,7 +87,7 @@ include '../components/cta-branding.php';
             Iconic brands are identified&nbsp;<span style="box-sizing: border-box; margin: 0px; padding: 0px;">solely
               by&nbsp;<a href="../portfolio/portfolio-branding-IT-Branding-UBQ-Technology.php" target="_blank"
                 rel="noopener"><strong>color, layout, tone, or imagery</strong></a></span>. This level of recall is
-            possible only when identity systems are applied consistently over time.&nbsp;<a href="index.php"
+            possible only when identity systems are applied consistently over time.&nbsp;<a href="<?php echo $base_path; ?>index.php"
               target="_blank" rel="noopener"><strong>Top creative advertising agencies</strong></a> design identities
             that are adaptable yet memorable.</span></p>
         <h3>How Do You Find the Best Brand Identity Agency for Your Business?</h3>
@@ -116,7 +116,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><strong>Want to make your brand stand
               out?</strong> Work with BS Digital Solutions to create a strong and consistent identity that connects with
             your
-            audience. We handle everything from logo design to full brand systems. <a href="contact.php"
+            audience. We handle everything from logo design to full brand systems. <a href="<?php echo $base_path; ?>contact.php"
               target="_blank" rel="noopener"><strong>Get in touch with us</strong></a> to start building a lasting
             brand.</span></p>
         <p>&nbsp;</p>

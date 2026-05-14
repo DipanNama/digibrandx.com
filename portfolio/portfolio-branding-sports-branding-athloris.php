@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-branding.php">Branding</a></li>
             <li class="breadcrumb-item active" aria-current="page">Athloris I Sports Branding</li>
           </ol>
@@ -40,9 +40,9 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/815Cover.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/815Cover.webp" alt="" width="1920"
       height="1920" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/287Frame 5.webp" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/287Frame 5.webp" alt="" width="1920"
       height="1920" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -146,7 +146,7 @@ include '../components/header.php';
               or a specialized athlete branding agency, BS Digital Solutions provides the elite expertise required to
               win.</p>
             <p>Stop the search for sports branding agency results and start building your legacy with <a
-                href="contact.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>. We are the
+                href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>BS Digital Solutions</strong></a>. We are the
               top
               sports design agency ready to take you to the podium.</p>
           </div>

@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="portfolio.php">Portfolio</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
             <li class="breadcrumb-item"><a href="../portfolio/portfolio-branding.php">Branding</a></li>
             <li class="breadcrumb-item active" aria-current="page">Amos I Steel Manufacturing Branding </li>
           </ol>
@@ -29,11 +29,11 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/Frame-2.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/Frame-2.jpg" alt="" width="1920"
       height="2422" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/265V-Card_02.jpg" alt=""
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/265V-Card_02.jpg" alt=""
       width="1920" height="1280" /></section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen" src="upload/media/666Kit_01.jpg" alt="" width="1920"
+  <section class="port-img-sec"><img class="img-fluid fullscreen" src="<?php echo $base_path; ?>upload/media/666Kit_01.jpg" alt="" width="1920"
       height="1365" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -143,7 +143,7 @@ include '../components/header.php';
                 sector or a global <strong>enterprise mobile app development company</strong>'s industrial counterpart,
                 BS Digital Solutions provides the <a href="https://www.bs-digital-solutions.com" target="_blank"
                   rel="noopener"><strong>branding solutions company</strong></a> expertise you need.</p>
-              <p>Are you ready to forge a stronger brand? <a href="contact.php" target="_blank"
+              <p>Are you ready to forge a stronger brand? <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                   rel="noopener"><strong>Contact BS Digital Solutions today</strong></a>&mdash;the best steel
                 manufacturing
                 company branding agency&mdash;and let&rsquo;s build your legacy.</p>

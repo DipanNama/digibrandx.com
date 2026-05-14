@@ -33,20 +33,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_493-BS Digital Solutions, branding agency in Seattle_01.webp" title="Seattle"><img
-          src="upload/news/Id_494-BS Digital Solutions, branding agency in Seattle_08.webp" title="Seattle">
+          src="<?php echo $base_path; ?>upload/news/Id_493-BS Digital Solutions, branding agency in Seattle_01.webp" title="Seattle"><img
+          src="<?php echo $base_path; ?>upload/news/Id_494-BS Digital Solutions, branding agency in Seattle_08.webp" title="Seattle">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_495-BS Digital Solutions, branding agency in Seattle_06.webp" title="Seattle"><img
-          src="upload/news/Id_496-BS Digital Solutions, branding agency in Seattle_02.webp" title="Seattle">
+          src="<?php echo $base_path; ?>upload/news/Id_495-BS Digital Solutions, branding agency in Seattle_06.webp" title="Seattle"><img
+          src="<?php echo $base_path; ?>upload/news/Id_496-BS Digital Solutions, branding agency in Seattle_02.webp" title="Seattle">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_497-BS Digital Solutions, branding agency in Seattle_03.webp" title="Seattle"><img
-          src="upload/news/Id_498-BS Digital Solutions, branding agency in Seattle_07.jpg" title="Seattle">
+          src="<?php echo $base_path; ?>upload/news/Id_497-BS Digital Solutions, branding agency in Seattle_03.webp" title="Seattle"><img
+          src="<?php echo $base_path; ?>upload/news/Id_498-BS Digital Solutions, branding agency in Seattle_07.jpg" title="Seattle">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_499-BS Digital Solutions, branding agency in Seattle_05.webp" title="Seattle"><img
-          src="upload/news/Id_500-BS Digital Solutions, branding agency in Seattle_04.webp" title="Seattle">
+          src="<?php echo $base_path; ?>upload/news/Id_499-BS Digital Solutions, branding agency in Seattle_05.webp" title="Seattle"><img
+          src="<?php echo $base_path; ?>upload/news/Id_500-BS Digital Solutions, branding agency in Seattle_04.webp" title="Seattle">
       </div>
     </div>
   </section>
@@ -193,7 +193,7 @@ include '../../components/cta-branding.php';
           we&rsquo;re committed to helping you achieve your business goals.</p>
         <p><strong>Contact BS Digital Solutions Today!</strong></p>
         <p>Don&rsquo;t let your business get lost in the crowd. Reach out to BS Digital Solutions, the <a
-            href="index.php" target="_blank" rel="noopener"><strong>best digital marketing agency in
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>best digital marketing agency in
               Seattle</strong></a>, and start your
           journey toward measurable growth today. Contact us to discuss how our tailored digital marketing strategies
           can help you transform your brand and drive ROI.</p>

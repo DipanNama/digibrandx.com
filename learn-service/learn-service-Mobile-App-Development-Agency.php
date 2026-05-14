@@ -72,14 +72,14 @@ include '../components/cta-branding.php';
           seeking innovative, high-performance mobile apps that drive growth. Our experienced team takes a
           customer-centric approach, tailoring each app to your business and audience. We build functional, scalable,
           and future-ready apps, focusing on both user experience and business results. BS Digital Solutions&nbsp;<span
-            style="box-sizing: border-box; margin: 0px; padding: 0px;">is a <a href="index.php" target="_blank"
+            style="box-sizing: border-box; margin: 0px; padding: 0px;">is a <a href="<?php echo $base_path; ?>index.php" target="_blank"
               rel="noopener"><strong>mobile app design agency</strong></a>&nbsp;that helps</span>&nbsp;your business
           succeed in a mobile-first world.</p>
         <p>If you are ready to enter the mobile market, BS Digital Solutions can help. Our expert developers will
           collaborate with
           you to create an app that aligns with your goals and exceeds customer expectations. Hire BS Digital Solutions
           today to
-          build a scalable, user-friendly, high-performance app that advances your business. <a href="contact.php"
+          build a scalable, user-friendly, high-performance app that advances your business. <a href="<?php echo $base_path; ?>contact.php"
             target="_blank" rel="noopener"><strong>Contact us </strong></a>to start your mobile app development journey.
         </p>
       </div>

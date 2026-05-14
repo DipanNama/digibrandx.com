@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Why choose the right advertising agency in Singapore
               to elevate your startup&#39;s brand positioning strategy?</li>
           </ol>
@@ -45,7 +45,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/912BS Digital Solutions_branding agency in Singapore_02.webp"
+      src="<?php echo $base_path; ?>upload/media/912BS Digital Solutions_branding agency in Singapore_02.webp"
       alt="Startup branding services by BS Digital Solutions, top branding agency in Singapore" width="1920"
       height="1134" />
   </section>
@@ -93,7 +93,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/24BS Digital Solutions_branding agency in Singapore_03.webp"
+      src="<?php echo $base_path; ?>upload/media/24BS Digital Solutions_branding agency in Singapore_03.webp"
       alt="Clear brand positioning helps startups stand out in competitive markets" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -141,7 +141,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/431BS Digital Solutions_branding agency in Singapore_04.webp"
+      src="<?php echo $base_path; ?>upload/media/431BS Digital Solutions_branding agency in Singapore_04.webp"
       alt="Effective brand strategy for new brands and startups by BS Digital Solutions" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -184,7 +184,7 @@ include '../components/header.php';
               and customer experience. At <strong>BS Digital Solutions</strong>, we ensure your brand is positioned to
               align with
               your values, engage your audience, and support long-term success.</p>
-            <p><strong><a href="contact.php" target="_blank" rel="noopener">Partner with BS Digital
+            <p><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Partner with BS Digital
                   Solutions</a>,</strong> a
               leading branding agency in Singapore, and let us help you build a brand that stands out and leads the
               market.</p>

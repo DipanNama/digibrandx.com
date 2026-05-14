@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Stop Treating Branding Like a Last-Minute Haircut -
               Here&#39;s Why It Deserves Your First Move</li>
           </ol>
@@ -48,7 +48,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/303Acolada logo_BS Digital Solutions_branding agency in Mumbai_02.jp1.webp"
+      src="<?php echo $base_path; ?>upload/media/303Acolada logo_BS Digital Solutions_branding agency in Mumbai_02.jp1.webp"
       alt="Strategic brand consulting and experience design by BS Digital Solutions in Mumbai" width="1920"
       height="1080" />
   </section>
@@ -88,7 +88,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/146Acolada logo_BS Digital Solutions_branding agency in Mumbai_02.webp"
+      src="<?php echo $base_path; ?>upload/media/146Acolada logo_BS Digital Solutions_branding agency in Mumbai_02.webp"
       alt="BS Digital Solutions team developing brand strategy and identity for global businesses in Mumbai"
       width="1920" height="1536" /></section>
   <section class="portfolio-details_sec">
@@ -145,7 +145,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/345Acolada logo_BS Digital Solutions_branding agency in Mumbai_03.webp"
+      src="<?php echo $base_path; ?>upload/media/345Acolada logo_BS Digital Solutions_branding agency in Mumbai_03.webp"
       alt="Branding agency in Mumbai creating emotional brand connections beyond logo design" width="1920"
       height="1361" /></section>
   <section class="portfolio-details_sec">
@@ -188,7 +188,7 @@ include '../components/header.php';
             <p>Are you looking to make your brand stand out with a unique logo and strong identity? <strong>Work with
                 BS Digital Solutions,</strong> a leading logo design company in Mumbai, to create a brand that connects
               with your
-              audience. <a href="contact.php" target="_blank" rel="noopener"><strong>Get in touch with us
+              audience. <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Get in touch with us
                   today</strong></a> to start building a lasting brand.</p>
           </div>
         </div>

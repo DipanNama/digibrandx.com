@@ -154,7 +154,7 @@ include '../components/cta-branding.php';
             loyal advocates.</span></p>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><strong>If your brand is ready to increase
               visibility, engagement, and revenue, </strong>BS Digital Solutions is prepared to help you achieve your
-            goals. <a href="contact.php" target="_blank" rel="noopener"><strong>Connect today</strong></a>.</span></p>
+            goals. <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Connect today</strong></a>.</span></p>
       </div>
     </div>
   </section>

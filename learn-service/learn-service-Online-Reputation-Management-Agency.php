@@ -60,7 +60,7 @@ include '../components/cta-branding.php';
         <h3>Why Your Brand Needs a Top Online Reputation Management Agency</h3>
         <p>Brands face various digital challenges, including negative reviews, misinformation, and unfavorable social
           media discussions. Partnering with a top Online Reputation Management provider like BS Digital Solutions, a <a
-            href="index.php"><strong>leading digital marketing agency,</strong></a> protects your brand and positions
+            href="<?php echo $base_path; ?>index.php"><strong>leading digital marketing agency,</strong></a> protects your brand and positions
           it for growth. Our ORM solutions address both proactive and reactive needs by mitigating negative publicity
           and promoting positive content that highlights your brand&rsquo;s strengths. This approach keeps your brand
           narrative strong and credible.</p>

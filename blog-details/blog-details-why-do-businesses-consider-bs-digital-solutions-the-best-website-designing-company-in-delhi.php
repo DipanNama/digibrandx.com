@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Why do businesses consider BS Digital Solutions the
               best
               website designing company in Delhi for driving growth and success?</li>
@@ -52,7 +52,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/523BS Digital Solutions, Web designagenci in Delhi_04.webp"
+      src="<?php echo $base_path; ?>upload/media/523BS Digital Solutions, Web designagenci in Delhi_04.webp"
       alt="Modern UI UX web design for businesses by leading web design agency in Delhi" width="1920" height="1077" />
   </section>
   <section class="portfolio-details_sec">
@@ -111,7 +111,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/434BS Digital Solutions, Web designagenci in Delhi_03.webp"
+      src="<?php echo $base_path; ?>upload/media/434BS Digital Solutions, Web designagenci in Delhi_03.webp"
       alt="Creative web design agency in Delhi building custom, user-centric business websites" width="1920"
       height="1134" /></section>
   <section class="portfolio-details_sec">
@@ -175,7 +175,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/354BS Digital Solutions, Web designagenci in Delhi_02.webp"
+      src="<?php echo $base_path; ?>upload/media/354BS Digital Solutions, Web designagenci in Delhi_02.webp"
       alt="High-performance business website design by BS Digital Solutions, Delhi" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -243,7 +243,7 @@ include '../components/header.php';
                 special and helps you connect with your audience. With careful design, smooth functionality, and a great
                 user experience, your website will become a strong part of your brand. It will look good and help you
                 engage visitors and boost conversions. Let&rsquo;s team up to create a website that stands out and
-                leaves a lasting impression. </span><a href="contact.php" target="_blank" rel="noopener"><strong>Get in
+                leaves a lasting impression. </span><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Get in
                   touch today</strong></a> so we can start bringing your vision to life.</div>
             <h4 class="mt-4 mb-4">Because at BS Digital Solutions, creativity comes first&mdash;and technology makes it
               powerful.

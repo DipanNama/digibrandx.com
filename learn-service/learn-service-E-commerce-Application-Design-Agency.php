@@ -146,7 +146,7 @@ include '../components/cta-branding.php';
         <h3>Why BS Digital Solutions for E-commerce Application Design</h3>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">BS Digital Solutions combines UX strategy,
             UI
-            expertise, and business insight to deliver effective <a href="index.php" target="_blank"
+            expertise, and business insight to deliver effective <a href="<?php echo $base_path; ?>index.php" target="_blank"
               rel="noopener"><strong>e-commerce application design solutions</strong></a>. We focus on conversion,
             trust, and performance, ensuring design decisions align with measurable business outcomes. Whether building
             a new platform or optimizing an existing one, BS Digital Solutions helps brands create seamless, intuitive,

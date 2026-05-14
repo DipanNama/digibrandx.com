@@ -4,14 +4,14 @@
             <div class="col-lg-12">
                 <div class="testi-heading text-center">
                     <div class="section-title" style="color:#000;">Featured Portfolio</div>
-                    <!-- <a href="portfolio.php" class="right-viewbtn"><i class="fas fa-angle-right"></i> View All</a> -->
+                    <!-- <a href="<?php echo $base_path; ?>portfolio.php" class="right-viewbtn"><i class="fas fa-angle-right"></i> View All</a> -->
                 </div>
             </div>
 
             <div class="col-lg-4">
                 <div class="portfolio-card">
-                    <a href="portfolio.php">
-                        <div class="port-img"><img src="upload/news/8tsm65ri7emlvj35i4bg2a67pt_Frame16671.jpg"
+                    <a href="<?php echo $base_path; ?>portfolio.php">
+                        <div class="port-img"><img src="<?php echo $base_path; ?>upload/news/8tsm65ri7emlvj35i4bg2a67pt_Frame16671.jpg"
                                 alt="BS Digital Solutions" class="img-fluid"></div>
                     </a>
                     <div class="port-content">
@@ -24,8 +24,8 @@
             </div>
             <div class="col-lg-4">
                 <div class="portfolio-card">
-                    <a href="portfolio.php">
-                        <div class="port-img"><img src="upload/news/46id3kackoiotauq81o7ipbveq_Thembnail.webp"
+                    <a href="<?php echo $base_path; ?>portfolio.php">
+                        <div class="port-img"><img src="<?php echo $base_path; ?>upload/news/46id3kackoiotauq81o7ipbveq_Thembnail.webp"
                                 alt="BS Digital Solutions" class="img-fluid"></div>
                     </a>
                     <div class="port-content">
@@ -38,8 +38,8 @@
             </div>
             <div class="col-lg-4">
                 <div class="portfolio-card">
-                    <a href="portfolio.php">
-                        <div class="port-img"><img src="upload/news/1s0hqc6l267qig02je2pk0ndju_Frame6.jpg"
+                    <a href="<?php echo $base_path; ?>portfolio.php">
+                        <div class="port-img"><img src="<?php echo $base_path; ?>upload/news/1s0hqc6l267qig02je2pk0ndju_Frame6.jpg"
                                 alt="BS Digital Solutions" class="img-fluid"></div>
                     </a>
                     <div class="port-content">

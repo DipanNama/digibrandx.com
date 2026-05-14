@@ -144,7 +144,7 @@ include '../../components/cta-branding.php';
           website should offer an intuitive user experience, fast load times, and seamless navigation. A strong track
           record with startups and established companies ensures your project is managed effectively.</p>
         <h4>Why BS Digital Solutions Is a Trusted Web Design Agency in Munich</h4>
-        <p>BS Digital Solutions is recognized as a <a href="index.php"><strong>trusted web design agency in
+        <p>BS Digital Solutions is recognized as a <a href="<?php echo $base_path; ?>index.php"><strong>trusted web design agency in
               Munich</strong></a>
           for its creative, results-driven approach. Our team develops visually compelling and strategically aligned
           websites that deliver measurable results. We understand the challenges of Munich&rsquo;s competitive market
@@ -185,7 +185,7 @@ include '../../components/cta-branding.php';
           optimally. By prioritizing <strong>ROI and SEO-friendly design</strong>, we help your website stand out in
           Munich&rsquo;s competitive market.</p>
         <h4>Ready to elevate your online presence?</h4>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions today</strong></a>
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions today</strong></a>
           to design
           a website that reflects your brand and drives growth. Our experts are here to turn your vision into a
           successful digital experience. Reach out now to start building a website that works for your business.</p>

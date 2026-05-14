@@ -168,7 +168,7 @@ include '../../components/cta-branding.php';
           building trust and strong relationships with your customers and stakeholders.</p>
         <h3>Corporate Branding in Tokyo: Consistency, Governance, and Trust</h3>
         <p>Corporate branding in Tokyo needs a strong focus on consistency and clear guidelines. As your trusted <a
-            href="index.php" target="_blank" rel="noopener"><strong>branding and logo design agency</strong></a>,
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>branding and logo design agency</strong></a>,
           BS Digital Solutions builds brand systems that keep your message unified across <a
             href="../../portfolio/portfolio-web-design-vision-unlimited-website-design-and-development.php" target="_blank"
             rel="noopener"><strong>websites</strong></a>, digital platforms, and <strong>company materials</strong>. We
@@ -201,7 +201,7 @@ include '../../components/cta-branding.php';
         <p><strong>Work with BS Digital Solutions</strong> today to build a digital-first brand system designed for
           performance,
           trust, and growth in the Tokyo market.</p>
-        <p>Creative agency Tokyo, <a href="contact.php" target="_blank" rel="noopener"><strong>contact us
+        <p>Creative agency Tokyo, <a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>contact us
               now</strong></a> to get started with those values of precision, strategy, and growth.</p>
         <p>&nbsp;</p>
       </div>

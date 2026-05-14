@@ -69,7 +69,7 @@ include '../components/cta-branding.php';
         <h3>The Role of UX in Enterprise Application Success</h3>
         <p>Enterprise applications often fail not because of weak functionality, but because of poor usability. Complex
           systems with unclear workflows, overloaded dashboards, and unintuitive interfaces reduce adoption and
-          productivity. As a <a href="index.php" target="_blank" rel="noopener"><strong>UX Enterprise Application
+          productivity. As a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>UX Enterprise Application
               company</strong></a>, BS Digital Solutions places user experience at the core of enterprise design. UX
           simplifies
           complexity by structuring information, optimizing workflows, and reducing cognitive load. A well-designed

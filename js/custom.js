@@ -335,17 +335,19 @@ const animateCounters = () => {
     const speed = 200;
 
     counters.forEach(counter => {
+        const target = +counter.getAttribute('data-target');
+        const suffix = counter.getAttribute('data-suffix') || '';
+        
         const updateCount = () => {
-            const target = +counter.getAttribute('data-target');
             const currentText = counter.innerText.replace('+', '').replace('%', '');
             const count = +currentText;
             const inc = target / speed;
 
             if (count < target) {
-                counter.innerText = Math.ceil(count + inc) + (counter.innerText.includes('%') ? '%' : '+');
+                counter.innerText = Math.ceil(count + inc) + suffix;
                 setTimeout(updateCount, 1);
             } else {
-                counter.innerText = target + (counter.innerText.includes('%') ? '%' : '+');
+                counter.innerText = target + suffix;
             }
         };
         updateCount();

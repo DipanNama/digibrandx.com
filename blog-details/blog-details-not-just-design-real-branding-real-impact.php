@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Not Just Design. Real Branding. Real Impact.</li>
           </ol>
         </nav>
@@ -41,7 +41,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/990Inside-Graphic_01.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/990Inside-Graphic_01.webp"
       alt="Creative branding agency in Mumbai building modern business brands" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -100,7 +100,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/550Inside-Graphic_02.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/550Inside-Graphic_02.webp"
       alt="Brand strategy team at BS Digital Solutions, a leading branding agency in Mumbai" width="1920"
       height="1134" />
   </section>
@@ -147,7 +147,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/89Inside-Graphic_03.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/89Inside-Graphic_03.webp"
       alt="Brand identity concept developed by a creative agency in Mumbai" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">

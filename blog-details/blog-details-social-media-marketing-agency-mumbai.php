@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">How to Choose the Right Social Media Agency in Mumbai
               for Your Business Growth?</li>
           </ol>
@@ -46,7 +46,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/980Inside-Graphic_01.webp"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/980Inside-Graphic_01.webp"
       alt="leading social media marketing agency in Mumbai delivering ROI-driven campaigns" width="1920"
       height="1134" /></section>
   <section class="portfolio-details_sec">
@@ -111,7 +111,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/55403.05_Social media_01.jpg"
+      src="<?php echo $base_path; ?>upload/media/55403.05_Social media_01.jpg"
       alt="BS Digital Solutions leading social media marketing agency in Mumbai for brand growth" width="1920"
       height="1200" />
   </section>
@@ -139,7 +139,7 @@ include '../components/header.php';
       </div>
     </div>
   </section>
-  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="upload/media/83803.05_Social media.jpg"
+  <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4" src="<?php echo $base_path; ?>upload/media/83803.05_Social media.jpg"
       alt="professional team at leading social media marketing agency in Mumbai" width="1920" height="1200" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -162,7 +162,7 @@ include '../components/header.php';
               the agency is the right fit for your brand.</p>
             <p>At BS Digital Solutions, we provide <strong>comprehensive social media marketing services in
                 Mumbai</strong> to
-              help your brand grow and succeed in the digital marketplace. <a href="contact.php" target="_blank"
+              help your brand grow and succeed in the digital marketplace. <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                 rel="noopener"><strong>Contact us today </strong></a>to begin your brand&rsquo;s journey to success.</p>
           </div>
         </div>

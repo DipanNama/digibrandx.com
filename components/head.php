@@ -40,8 +40,8 @@
   "@context": "https://schema.org",
   "@type": "Corporation",
   "name": "BS Digital Solution",
-  "url": "index.php",
-  "logo": "images/logo.png",
+  "url": "<?php echo $base_path; ?>index.php",
+  "logo": "<?php echo $base_path; ?>images/logo.png",
   "contactPoint": {
     "@type": "ContactPoint",
     "telephone": "+91 98203 88325",

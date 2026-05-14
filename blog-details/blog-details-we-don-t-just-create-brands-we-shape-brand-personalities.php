@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">What sets BS Digital Solutions apart as one of the
               top creative
               agencies in Dubai for brand development?</li>
@@ -52,7 +52,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/180BS Digital Solutions, branding agency in Dubai market_04.webp"
+      src="<?php echo $base_path; ?>upload/media/180BS Digital Solutions, branding agency in Dubai market_04.webp"
       alt="Creative brand personality design by BS Digital Solutions branding agency in Dubai" width="1920"
       height="1134" />
   </section>
@@ -86,7 +86,7 @@ include '../components/header.php';
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
       style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
-      src="upload/media/495BS Digital Solutions, branding agency in Dubai market_02.webp"
+      src="<?php echo $base_path; ?>upload/media/495BS Digital Solutions, branding agency in Dubai market_02.webp"
       alt="Global branding strategy and brand positioning by BS Digital Solutions" width="1920" height="1134" />
   </section>
   <section class="portfolio-details_sec">
@@ -118,7 +118,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/844BS Digital Solutions, branding agency in Dubai market_03.webp"
+      src="<?php echo $base_path; ?>upload/media/844BS Digital Solutions, branding agency in Dubai market_03.webp"
       alt="Brand imagery strategy development by BS Digital Solutions in Dubai" width="1920" height="1134" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -142,7 +142,7 @@ include '../components/header.php';
                 Transparency: </strong>Choose an agency that values partnership. A strong branding agency works closely
               with clients, maintains open communication, and involves you in every step of the process.</p>
             <h3>Let&rsquo;s Build a Brand with Personality</h3>
-            <p>A brand without personality is a missed opportunity. <a href="contact.php" target="_blank"
+            <p>A brand without personality is a missed opportunity. <a href="<?php echo $base_path; ?>contact.php" target="_blank"
                 rel="noopener"><strong>Let us work together</strong> </a>to create a brand that leaves a lasting
               impression and drives engagement.</p>
             <p>Contact BS Digital Solutions today to build a brand that stands out and makes a lasting impact in a

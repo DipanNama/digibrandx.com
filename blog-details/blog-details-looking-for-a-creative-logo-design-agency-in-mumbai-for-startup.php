@@ -11,8 +11,8 @@ include '../components/header.php';
       <div class="row">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" data-link-key="home">Home</a></li>
-            <li class="breadcrumb-item"><a href="blogs.php">Blogs</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>index.php" data-link-key="home">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo $base_path; ?>blogs.php">Blogs</a></li>
             <li class="breadcrumb-item active" aria-current="page">Looking for a creative logo design agency in Mumbai
               for startup brands?</li>
           </ol>
@@ -47,7 +47,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/894BS Digital Solutions-best logo design_02.webp"
+      src="<?php echo $base_path; ?>upload/media/894BS Digital Solutions-best logo design_02.webp"
       alt="Creative logo design agency in Mumbai for modern business branding" width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -103,7 +103,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/632BS Digital Solutions-best logo design_04.webp"
+      src="<?php echo $base_path; ?>upload/media/632BS Digital Solutions-best logo design_04.webp"
       alt="Corporate branding and logo design experts in Mumbai for startups" width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -176,7 +176,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/188BS Digital Solutions-best logo design_05.webp"
+      src="<?php echo $base_path; ?>upload/media/188BS Digital Solutions-best logo design_05.webp"
       alt="Mumbai logo agency creating impactful corporate brand identities" width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">
@@ -226,7 +226,7 @@ include '../components/header.php';
             <p>Whether you need a fintech branding agency, a construction web design company, or a luxury brand
               advertising agency, BS Digital Solutions has the creative and technical horsepower to elevate your
               business.</p>
-            <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions
+            <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions
                   today</strong></a>&mdash;the best logo design agency in Mumbai&mdash;and let&rsquo;s create an icon
               that stands the test of time.</p>
           </div>
@@ -235,7 +235,7 @@ include '../components/header.php';
     </div>
   </section>
   <section class="port-img-sec"><img class="img-fluid fullscreen mt-4 mb-4"
-      src="upload/media/171BS Digital Solutions-best logo design_03.webp"
+      src="<?php echo $base_path; ?>upload/media/171BS Digital Solutions-best logo design_03.webp"
       alt="Professional corporate logo design services by branding agency Mumbai" width="1920" height="992" /></section>
   <section class="portfolio-details_sec">
     <div class="container">

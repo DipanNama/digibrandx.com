@@ -32,21 +32,21 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/t44jc2lgnoq2i53k9m9jv688o2_BS Digital SolutionsadvertisingagencyinDelhi01.webp"
+          src="<?php echo $base_path; ?>upload/news/t44jc2lgnoq2i53k9m9jv688o2_BS Digital SolutionsadvertisingagencyinDelhi01.webp"
           title="Delhi"><img
-          src="upload/news/oartrs1cd1h4ee3fb6dqlfndmv_BS Digital SolutionsadvertisingagencyinDelhi03.webp"
+          src="<?php echo $base_path; ?>upload/news/oartrs1cd1h4ee3fb6dqlfndmv_BS Digital SolutionsadvertisingagencyinDelhi03.webp"
           title="Delhi"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/v5gtadckjubugqp5p8jegl3ndi_BS Digital SolutionsadvertisingagencyinDelhi02.webp"
-          title="Delhi"><img src="upload/news/Id_266-BS Digital Solutions, advertising agency in Delhi_08.webp"
+          src="<?php echo $base_path; ?>upload/news/v5gtadckjubugqp5p8jegl3ndi_BS Digital SolutionsadvertisingagencyinDelhi02.webp"
+          title="Delhi"><img src="<?php echo $base_path; ?>upload/news/Id_266-BS Digital Solutions, advertising agency in Delhi_08.webp"
           title="Delhi"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/9s105pjj2dorvhd7hbp6qme1uh_BS Digital SolutionsadvertisingagencyinDelhi04.webp"
-          title="Delhi"><img src="upload/news/Id_265-BS Digital Solutions, advertising agency in Delhi_06.webp"
+          src="<?php echo $base_path; ?>upload/news/9s105pjj2dorvhd7hbp6qme1uh_BS Digital SolutionsadvertisingagencyinDelhi04.webp"
+          title="Delhi"><img src="<?php echo $base_path; ?>upload/news/Id_265-BS Digital Solutions, advertising agency in Delhi_06.webp"
           title="Delhi"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_267-BS Digital Solutions, advertising agency in Delhi_05.webp" title="Delhi"><img
-          src="upload/news/Id_268-BS Digital Solutions, advertising agency in Delhi_07.webp" title="Delhi">
+          src="<?php echo $base_path; ?>upload/news/Id_267-BS Digital Solutions, advertising agency in Delhi_05.webp" title="Delhi"><img
+          src="<?php echo $base_path; ?>upload/news/Id_268-BS Digital Solutions, advertising agency in Delhi_07.webp" title="Delhi">
       </div>
     </div>
   </section>
@@ -143,7 +143,7 @@ include '../../components/cta-branding.php';
         <p>Delhi NCR represents one of India&rsquo;s most competitive and diverse business environments, encompassing
           startups, corporations, D2C brands, and global enterprises. In this dynamic context, branding extends beyond
           visual identity to encompass clarity, positioning, and sustainable value. For organizations seeking a <a
-            href="index.php" target="_blank" rel="noopener"><strong>creative agency in Delhi</strong></a> that
+            href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>creative agency in Delhi</strong></a> that
           comprehends both market dynamics and business imperatives, BS Digital Solutions provides a strategic,
           research-driven
           approach. We collaborate with brands aiming to distinguish themselves, achieve scalable growth, and
@@ -203,7 +203,7 @@ include '../../components/cta-branding.php';
         <p>Collaborate with <strong>BS Digital Solutions</strong>, a <strong>brand design agency in Delhi NCR</strong>,
           to develop
           a brand that distinguishes itself, scales effectively, and generates measurable business
-          impact.<br /><strong><a href="contact.php" target="_blank" rel="noopener">Let us uncover</a> </strong>your
+          impact.<br /><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Let us uncover</a> </strong>your
           brand&rsquo;s potential together.</p>
       </div>
     </div>

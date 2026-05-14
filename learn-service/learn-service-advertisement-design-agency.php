@@ -31,7 +31,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">In today&rsquo;s competitive marketplace,
             advertisement design serves as functional communication rather than decoration. Brands have only seconds to
             make an impact, so effective design ensures the right message reaches the right audience at the right time.
-            BS Digital Solutions, the <a href="index.php"><strong>best advertising design agency for startup
+            BS Digital Solutions, the <a href="<?php echo $base_path; ?>index.php"><strong>best advertising design agency for startup
                 brand</strong></a>
             create purposeful, consistent advertisements aligned with broader brand and marketing strategies.</span></p>
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Effective advertisement design reflects the
@@ -60,9 +60,9 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">In today&rsquo;s competitive markets, brands
             stand out through repetition and consistency. Advertisement design is key to reinforcing brand identity,
             positioning, and messaging at every customer touchpoint. Every ad, whether digital or print, shapes how
-            people see a brand. As the <a href="index.php" target="_blank" rel="noopener"><strong>best advertising
+            people see a brand. As the <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>best advertising
                 design agency for startup brand</strong></a><span
-              style="box-sizing: border-box; margin: 0px; padding: 0px;"><a href="index.php" target="_blank"
+              style="box-sizing: border-box; margin: 0px; padding: 0px;"><a href="<?php echo $base_path; ?>index.php" target="_blank"
                 rel="noopener"><strong>, </strong></a>BS Digital Solutions&nbsp;ensures advertisements remain visually
               consistent,
               maintain a clear tone, and align</span>&nbsp;with the brand&rsquo;s core identity. Good advertisement

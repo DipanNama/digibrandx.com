@@ -107,7 +107,7 @@ include '../../components/cta-branding.php';
           Real branding starts with defining your purpose, positioning, values, and story. Top agencies combine
           strategy, creativity, and business know-how. Whether you&rsquo;re in <strong>fintech</strong>, logistics, or
           corporate sectors, your agency should create brand systems that work across industries and markets. When
-          choosing a <a href="index.php" target="_blank" rel="noopener"><strong>branding partner in
+          choosing a <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>branding partner in
               Frankfurt</strong>,</a> look for structured processes, a strong strategy, and clear results.</p>
         <h3>Brand Strategy: The Foundation of Successful Frankfurt Branding</h3>
         <p>A strong brand always starts with a clear strategy. Without it, even great visuals won&rsquo;t connect with
@@ -156,7 +156,7 @@ include '../../components/cta-branding.php';
         <p>Work with <strong>BS Digital Solutions,</strong> the Frankfurt branding agency that turns strategy into
           strong brand
           experiences.</p>
-        <p><strong><a href="contact.php" target="_blank" rel="noopener">Talk to our branding experts today</a>
+        <p><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Talk to our branding experts today</a>
           </strong>and start building a brand designed for credibility, growth, and long-term success.</p>
       </div>
     </div>

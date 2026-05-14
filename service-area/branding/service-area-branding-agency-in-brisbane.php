@@ -181,7 +181,7 @@ include '../../components/cta-branding.php';
           trust,
           and scales with your business.</p>
         <h3>Ready to Take Your Brand to the Next Level in Brisbane?</h3>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Partner with BS Digital Solutions</strong></a>
           to build a
           brand that communicates your business values and stands out in Brisbane&rsquo;s competitive market.</p>
       </div>

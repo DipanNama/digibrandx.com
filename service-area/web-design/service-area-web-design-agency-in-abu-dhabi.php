@@ -174,7 +174,7 @@ include '../../components/cta-branding.php';
         <h3><strong>Looking for a professional web design agency in Abu Dhabi?</strong></h3>
         <p>Partner with BS Digital Solutions to develop a website that reflects your brand, engages your audience, and
           drives
-          business growth.<br /><strong><a href="contact.php" target="_blank" rel="noopener">Let&rsquo;s build</a> a
+          business growth.<br /><strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">Let&rsquo;s build</a> a
             website focused on performance and scalability.</strong></p>
       </div>
     </div>

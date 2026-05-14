@@ -41,7 +41,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Poor information architecture causes user
             confusion, higher drop-off rates, and increased operational costs. A strong IA framework improves
             discoverability, reduces cognitive load, and increases task completion. IA directly impacts conversion,
-            retention, and customer satisfaction. As&nbsp;<a href="index.php" target="_blank"
+            retention, and customer satisfaction. As&nbsp;<a href="<?php echo $base_path; ?>index.php" target="_blank"
               rel="noopener"><strong>your UX consulting partner</strong></a>, BS Digital Solutions aligns IA decisions
             with
             revenue goals, operational efficiency, and long-term scalability to ensure structure supports growth.</span>

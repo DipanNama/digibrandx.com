@@ -31,24 +31,24 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_461-BS Digital Solutions, branding agency in Los Angeles _08.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_461-BS Digital Solutions, branding agency in Los Angeles _08.webp"
           title="Los Angeles"><img
-          src="upload/news/Id_462-BS Digital Solutions, branding agency in Los Angeles _01.webp" title="Los Angeles">
+          src="<?php echo $base_path; ?>upload/news/Id_462-BS Digital Solutions, branding agency in Los Angeles _01.webp" title="Los Angeles">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_463-BS Digital Solutions, branding agency in Los Angeles _03.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_463-BS Digital Solutions, branding agency in Los Angeles _03.webp"
           title="Los Angeles"><img
-          src="upload/news/Id_464-BS Digital Solutions, branding agency in Los Angeles _07.webp" title="Los Angeles">
+          src="<?php echo $base_path; ?>upload/news/Id_464-BS Digital Solutions, branding agency in Los Angeles _07.webp" title="Los Angeles">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_465-BS Digital Solutions, branding agency in Los Angeles _06.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_465-BS Digital Solutions, branding agency in Los Angeles _06.webp"
           title="Los Angeles"><img
-          src="upload/news/Id_466-BS Digital Solutions, branding agency in Los Angeles _02.webp" title="Los Angeles">
+          src="<?php echo $base_path; ?>upload/news/Id_466-BS Digital Solutions, branding agency in Los Angeles _02.webp" title="Los Angeles">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_467-BS Digital Solutions, branding agency in Los Angeles _04.webp"
+          src="<?php echo $base_path; ?>upload/news/Id_467-BS Digital Solutions, branding agency in Los Angeles _04.webp"
           title="Los Angeles"><img
-          src="upload/news/Id_468-BS Digital Solutions, branding agency in Los Angeles _05.webp" title="Los Angeles">
+          src="<?php echo $base_path; ?>upload/news/Id_468-BS Digital Solutions, branding agency in Los Angeles _05.webp" title="Los Angeles">
       </div>
     </div>
   </section>
@@ -191,7 +191,7 @@ include '../../components/cta-branding.php';
           while maintaining credibility. Our services range from rebranding and enterprise branding to brand management,
           balancing creativity with governance, consistency, and return on investment.</p>
         <h3>BS Digital Solutions: A Strategic Branding Partner, Not a Vendor</h3>
-        <p>BS Digital Solutions is more than a typical <a href="index.php" target="_blank" rel="noopener"><strong>best
+        <p>BS Digital Solutions is more than a typical <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>best
               creative
               agencies&nbsp; in Los Angeles</strong></a>; we serve as long-term brand partners. With expertise in brand
           strategy consulting, logo and visual identity, digital branding, and global branding solutions, we support
@@ -203,7 +203,7 @@ include '../../components/cta-branding.php';
         <h3>Ready to Build a Brand That Thrives in Los Angeles.&nbsp;</h3>
         <p>If you are seeking a premium branding agency in Los Angeles for startups, established companies, or growing
           businesses, BS Digital Solutions is prepared to serve as your partner.&nbsp;</p>
-        <p><a href="contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a> to
+        <p><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener"><strong>Contact BS Digital Solutions</strong></a> to
           build a
           brand designed for visibility, influence, and sustained success in Los Angeles.</p>
         <p>&nbsp;</p>

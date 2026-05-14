@@ -32,17 +32,17 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_366-BS Digital Solutions, branding agency in Singapore_03.webp" title="Singapore"><img
-          src="upload/news/Id_367-BS Digital Solutions, branding agency in Singapore_01.webp" title="Singapore"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_366-BS Digital Solutions, branding agency in Singapore_03.webp" title="Singapore"><img
+          src="<?php echo $base_path; ?>upload/news/Id_367-BS Digital Solutions, branding agency in Singapore_01.webp" title="Singapore"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_368-BS Digital Solutions, branding agency in Singapore_02.webp" title="Singapore"><img
-          src="upload/news/Id_369-BS Digital Solutions, branding agency in Singapore_08.webp" title="Singapore"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_368-BS Digital Solutions, branding agency in Singapore_02.webp" title="Singapore"><img
+          src="<?php echo $base_path; ?>upload/news/Id_369-BS Digital Solutions, branding agency in Singapore_08.webp" title="Singapore"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_370-BS Digital Solutions, branding agency in Singapore_05.webp" title="Singapore"><img
-          src="upload/news/Id_371-BS Digital Solutions, branding agency in Singapore_04.webp" title="Singapore"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_370-BS Digital Solutions, branding agency in Singapore_05.webp" title="Singapore"><img
+          src="<?php echo $base_path; ?>upload/news/Id_371-BS Digital Solutions, branding agency in Singapore_04.webp" title="Singapore"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/69kjleibf7qhp0sbsdt373dmv1_BS Digital SolutionsbrandingagencyinSingapore081.webp"
-          title="Singapore"><img src="upload/news/Id_373-BS Digital Solutions, branding agency in Singapore_07.webp"
+          src="<?php echo $base_path; ?>upload/news/69kjleibf7qhp0sbsdt373dmv1_BS Digital SolutionsbrandingagencyinSingapore081.webp"
+          title="Singapore"><img src="<?php echo $base_path; ?>upload/news/Id_373-BS Digital Solutions, branding agency in Singapore_07.webp"
           title="Singapore"></div>
     </div>
   </section>
@@ -137,7 +137,7 @@ include '../../components/cta-branding.php';
       <div class="content-wrapper landing-page-content">
         <h1>Looking for an Enterprise Branding Agency in Singapore for Scalable, High-Performance Business Growth?</h1>
         <div><span>Singapore serves as a global business hub where clarity, credibility, and consistency are essential
-            for brand success. As one of the <a href="index.php" target="_blank" rel="noopener"><strong>best
+            for brand success. As one of the <a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener"><strong>best
                 advertising agencies in Singapore</strong>,</a> BS Digital Solutions provides strategic branding
             solutions that
             enable businesses to compete locally and expand internationally. We specialize in brand strategy,
@@ -210,7 +210,7 @@ include '../../components/cta-branding.php';
           regional engagements, including branding and <strong>design services in Singapore</strong>, we help brands
           grow with clarity, confidence, and consistency.</p>
         <h3><strong>Seeking premium branding and brand strategy services in Singapore?</strong></h3>
-        <p>Partner with <strong><a href="contact.php" target="_blank" rel="noopener">BS Digital Solutions</a>
+        <p>Partner with <strong><a href="<?php echo $base_path; ?>contact.php" target="_blank" rel="noopener">BS Digital Solutions</a>
           </strong>to build a
           brand that performs locally and scales globally.<br /><strong>Let&rsquo;s create a brand strategy designed for
             growth.</strong></p>

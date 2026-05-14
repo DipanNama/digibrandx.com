@@ -32,20 +32,20 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_335-BS Digital Solutions, advertising agency in ahmedabad_01.webp" title="Ahmedabad"><img
-          src="upload/news/Id_336-BS Digital Solutions, advertising agency in ahmedabad_05.webp" title="Ahmedabad">
+          src="<?php echo $base_path; ?>upload/news/Id_335-BS Digital Solutions, advertising agency in ahmedabad_01.webp" title="Ahmedabad"><img
+          src="<?php echo $base_path; ?>upload/news/Id_336-BS Digital Solutions, advertising agency in ahmedabad_05.webp" title="Ahmedabad">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_337-BS Digital Solutions, advertising agency in ahmedabad_02.webp" title="Ahmedabad"><img
-          src="upload/news/Id_338-BS Digital Solutions, advertising agency in ahmedabad_03.webp" title="Ahmedabad">
+          src="<?php echo $base_path; ?>upload/news/Id_337-BS Digital Solutions, advertising agency in ahmedabad_02.webp" title="Ahmedabad"><img
+          src="<?php echo $base_path; ?>upload/news/Id_338-BS Digital Solutions, advertising agency in ahmedabad_03.webp" title="Ahmedabad">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_339-BS Digital Solutions, advertising agency in ahmedabad_07.webp" title="Ahmedabad"><img
-          src="upload/news/Id_340-BS Digital Solutions, advertising agency in ahmedabad_06.webp" title="Ahmedabad">
+          src="<?php echo $base_path; ?>upload/news/Id_339-BS Digital Solutions, advertising agency in ahmedabad_07.webp" title="Ahmedabad"><img
+          src="<?php echo $base_path; ?>upload/news/Id_340-BS Digital Solutions, advertising agency in ahmedabad_06.webp" title="Ahmedabad">
       </div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_341-BS Digital Solutions, advertising agency in ahmedabad_08.jpg" title="Ahmedabad"><img
-          src="upload/news/Id_342-BS Digital Solutions, advertising agency in ahmedabad_04.webp" title="Ahmedabad">
+          src="<?php echo $base_path; ?>upload/news/Id_341-BS Digital Solutions, advertising agency in ahmedabad_08.jpg" title="Ahmedabad"><img
+          src="<?php echo $base_path; ?>upload/news/Id_342-BS Digital Solutions, advertising agency in ahmedabad_04.webp" title="Ahmedabad">
       </div>
     </div>
   </section>

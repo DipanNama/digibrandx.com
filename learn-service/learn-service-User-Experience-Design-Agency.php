@@ -34,7 +34,7 @@ include '../components/cta-branding.php';
         <p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Today, UX design is a key part of any
             digital strategy, not just an afterthought. Bad UX can cause people to leave your site, lower engagement,
             and increase support costs. Good UX makes products easier to use and helps build trust.
-            At<strong>&nbsp;</strong>BS Digital Solutions, a <a href="index.php" target="_blank"
+            At<strong>&nbsp;</strong>BS Digital Solutions, a <a href="<?php echo $base_path; ?>index.php" target="_blank"
               rel="noopener"><strong>leading
                 UX Design agency</strong></a>, we include UX in business planning from the start, so your digital
             products are ready to grow, run smoothly, and stand out from the competition.</span></p>

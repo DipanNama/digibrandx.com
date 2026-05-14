@@ -32,17 +32,17 @@ include '../../components/header.php';
   <section class="img-grid-sec">
     <div class="img-grid-rea">
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_355-BS Digital Solutions, branding agency in Dubai_08.webp" title="Dubai"><img
-          src="upload/news/Id_356-BS Digital Solutions, branding agency in Dubai_01.webp" title="Dubai"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_355-BS Digital Solutions, branding agency in Dubai_08.webp" title="Dubai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_356-BS Digital Solutions, branding agency in Dubai_01.webp" title="Dubai"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_358-BS Digital Solutions, branding agency in Dubai_02.webp" title="Dubai"><img
-          src="upload/news/Id_357-BS Digital Solutions, branding agency in Dubai_06.webp" title="Dubai"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_358-BS Digital Solutions, branding agency in Dubai_02.webp" title="Dubai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_357-BS Digital Solutions, branding agency in Dubai_06.webp" title="Dubai"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_359-BS Digital Solutions, branding agency in Dubai_05.webp" title="Dubai"><img
-          src="upload/news/Id_360-BS Digital Solutions, branding agency in Dubai_03.webp" title="Dubai"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_359-BS Digital Solutions, branding agency in Dubai_05.webp" title="Dubai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_360-BS Digital Solutions, branding agency in Dubai_03.webp" title="Dubai"></div>
       <div class="img-grid"><img class="active"
-          src="upload/news/Id_362-BS Digital Solutions, branding agency in Dubai_04.jpg" title="Dubai"><img
-          src="upload/news/Id_361-BS Digital Solutions, branding agency in Dubai_07.webp" title="Dubai"></div>
+          src="<?php echo $base_path; ?>upload/news/Id_362-BS Digital Solutions, branding agency in Dubai_04.jpg" title="Dubai"><img
+          src="<?php echo $base_path; ?>upload/news/Id_361-BS Digital Solutions, branding agency in Dubai_07.webp" title="Dubai"></div>
     </div>
   </section>
   <?php 
@@ -136,7 +136,7 @@ include '../../components/cta-branding.php';
         <h1>Luxury Branding Agency in Dubai is Building Iconic Brands in the World&rsquo;s Most Competitive Market</h1>
         <p>Dubai is a global business hub known for ambition, scale, luxury, and innovation. Businesses across sectors
           operate in a highly competitive, image-driven environment. In this context, branding is essential to business
-          success. A professional <strong><a href="index.php" target="_blank" rel="noopener">creative advertising
+          success. A professional <strong><a href="<?php echo $base_path; ?>index.php" target="_blank" rel="noopener">creative advertising
               agency in Dubai</a> </strong>shapes how a brand is perceived, trusted, and remembered. Strong branding
           builds credibility, confidence, and long-term leadership in a market where excellence is expected from the
           outset.</p>
@@ -211,7 +211,7 @@ include '../../components/cta-branding.php';
           approach. If you seek a branding agency in Dubai that delivers strategic clarity, premium design, and
           long-term growth, BS Digital Solutions is your ideal partner.
         </p>
-        <p><strong>Ready to build a luxury brand that stands out in Dubai?</strong><br /><a href="contact.php"
+        <p><strong>Ready to build a luxury brand that stands out in Dubai?</strong><br /><a href="<?php echo $base_path; ?>contact.php"
             target="_blank" rel="noopener"><strong>Contact BS Digital Solutions </strong></a>for professional branding
           services
           that will elevate your brand and strengthen your market presence.</p>

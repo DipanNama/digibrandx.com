@@ -588,6 +588,10 @@ a {
     border-top: 1px solid var(--border-mid)
 }
 
+.client_sec {
+    padding: 120px 0 0;
+}
+
 .testi-heading .section-title {
     color: var(--black);
     font-size: 36px;
@@ -688,9 +692,20 @@ a {
 }
 
 .client-area .swiper-pagination-bullet {
-    background: 0 0;
+    background: transparent;
     font-size: 16px;
-    font-weight: 400
+    font-weight: 400;
+    color: #000 !important;
+    opacity: 0.6;
+    width: auto;
+    height: auto;
+    border-radius: 0;
+}
+
+.client-area .swiper-pagination-bullet-active {
+    opacity: 1;
+    font-weight: 500;
+    color: #000 !important;
 }
 
 .blog-post ol li a,
@@ -732,7 +747,7 @@ a {
 }
 
 .home_portfolio {
-    padding: 100px 0
+    padding: 50px 0
 }
 
 .right-viewbtn {
