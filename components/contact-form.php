@@ -140,7 +140,7 @@
                             <input type="hidden" id="email_from" value="Name,E-Mail" />
                             <input type="hidden" id="duplicate_by_email_enabled" value="" />
                             <input type="hidden" id="duplicate_message" value="" />
-                            <input type="hidden" id="email_to" value="dipannama01@gmail.com" />
+                            <input type="hidden" id="email_to" value="dipannama91@gmail.com" />
                     </form>
                 </div>
             </div>
