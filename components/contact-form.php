@@ -18,7 +18,8 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="form-group">
-                                    <input type="text" name="Company_Name" placeholder="Company Name" class="form-control">
+                                    <input type="text" name="Company_Name" placeholder="Company Name"
+                                        class="form-control">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -28,7 +29,8 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="form-group">
-                                    <input type="text" name="Business_Category" placeholder="Business Category" class="form-control">
+                                    <input type="text" name="Business_Category" placeholder="Business Category"
+                                        class="form-control">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -54,22 +56,26 @@
                                                     <span class="arrow"><i class="fas fa-angle-down"></i></span>
                                                 </div>
                                                 <div class="options">
-                                                    <div data-value="Growth & Business Strategy">Growth & Business Strategy</div>
-                                                    <div data-value="Social Media & Advertising">Social Media & Advertising</div>
+                                                    <div data-value="Growth & Business Strategy">Growth & Business
+                                                        Strategy</div>
+                                                    <div data-value="Social Media & Advertising">Social Media &
+                                                        Advertising</div>
                                                     <div data-value="Web & App Development">Web & App Development</div>
                                                     <div data-value="Search & Visibility">Search & Visibility</div>
-                                                    <div data-value="Creative & Content Production">Creative & Content Production</div>
+                                                    <div data-value="Creative & Content Production">Creative & Content
+                                                        Production</div>
                                                     <div data-value="Branding">Branding</div>
                                                     <div data-value="UI & UX Design">UI & UX Design</div>
                                                     <div data-value="Digital Marketing">Digital Marketing</div>
                                                     <div data-value="SEO">SEO</div>
                                                 </div>
-                                                <input type="hidden" name="Service_Chosen" id="service-input" class="dropdown-input" />
+                                                <input type="hidden" name="Service_Chosen" id="service-input"
+                                                    class="dropdown-input" />
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-12">
+                                <!-- <div class="col-lg-12">
                                     <div class="form-group">
                                         <div class="custom-contact-select">
                                             <div class="dropdown">
@@ -78,15 +84,20 @@
                                                     <span class="arrow"><i class="fas fa-angle-down"></i></span>
                                                 </div>
                                                 <div class="options">
-                                                    <div data-value="₹10,000 - ₹30,000">STARTER (₹10,000 - ₹30,000)</div>
-                                                    <div data-value="₹40,000 - ₹80,000">STANDARD (₹40,000 - ₹80,000)</div>
-                                                    <div data-value="₹1,00,000 and Above">PREMIUM (₹1,00,000 and Above)</div>
+                                                    <div data-value="₹10,000 - ₹30,000">STARTER (₹10,000 - ₹30,000)
+                                                    </div>
+                                                    <div data-value="₹40,000 - ₹80,000">STANDARD (₹40,000 - ₹80,000)
+                                                    </div>
+                                                    <div data-value="₹1,00,000 and Above">PREMIUM (₹1,00,000 and Above)
+                                                    </div>
                                                 </div>
-                                                <input type="hidden" name="Budget" id="budget-input" class="dropdown-input" />
+                                                <input type="hidden" name="Budget" id="budget-input"
+                                                    class="dropdown-input" />
                                             </div>
                                         </div>
                                     </div>
-                                </div>                                <div class="col-lg-12">
+                                </div> -->
+                                <div class="col-lg-12">
                                     <div class="form-group">
                                         <textarea class="form-control" name="Query"
                                             placeholder="Please share your additional requirement if any"></textarea>
@@ -105,8 +116,8 @@
                                         </span>
                                         <div class="contact-submit">
                                             <a href="javascript:;" onClick="global_form('#form1','#zxcv1');"
-                                                class="need-btn"><span><svg xmlns="http://www.w3.org/2000/svg"
-                                                        width="9" height="12" viewBox="0 0 10 15" fill="none">
+                                                class="need-btn"><span><svg xmlns="http://www.w3.org/2000/svg" width="9"
+                                                        height="12" viewBox="0 0 10 15" fill="none">
                                                         <path d="M1 1L8 7.5L1 14" stroke="white" stroke-width="2">
                                                         </path>
                                                     </svg></span>get quotation</a>

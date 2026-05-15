@@ -9,7 +9,7 @@
                     </div>
                     <h3 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 15px;"><?php echo $service['title']; ?></h3>
                     <p class="text-muted mb-4"><?php echo $service['description']; ?></p>
-                    <a href="<?php echo $base_path; ?>contact.php" class="need-btn" style="width: 100%; justify-content: center;">Get Started</a>
+                    <a href="?service=<?php echo urlencode($service['title']); ?>" class="need-btn" style="width: 100%; justify-content: center;">Get Started</a>
                 </div>
             </div>
             <?php endforeach; ?>

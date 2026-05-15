@@ -50,6 +50,9 @@ include 'components/header.php';
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>Marketing</li>
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>Lead Gen</li>
                 </ul>
+                <div class="mt-4">
+                    <a href="?service=Growth+%26+Business+Strategy" class="need-btn">Get Started</a>
+                </div>
             </div>
         </div>
       </div>
@@ -81,6 +84,9 @@ include 'components/header.php';
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>Google Ads</li>
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>Management</li>
                 </ul>
+                <div class="mt-4">
+                    <a href="?service=Social+Media+%26+Advertising" class="need-btn">Get Started</a>
+                </div>
             </div>
         </div>
       </div>
@@ -114,6 +120,9 @@ include 'components/header.php';
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>Custom Coding</li>
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>App Dev</li>
                 </ul>
+                <div class="mt-4">
+                    <a href="?service=Web+%26+App+Development" class="need-btn">Get Started</a>
+                </div>
             </div>
         </div>
       </div>
@@ -143,6 +152,9 @@ include 'components/header.php';
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>SEO</li>
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>Local SEO</li>
                 </ul>
+                <div class="mt-4">
+                    <a href="?service=Search+%26+Visibility" class="need-btn">Get Started</a>
+                </div>
             </div>
         </div>
       </div>
@@ -174,6 +186,9 @@ include 'components/header.php';
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>Video Editing</li>
                     <li><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="8" fill="#CD0132" /></svg></span>Content</li>
                 </ul>
+                <div class="mt-4">
+                    <a href="?service=Creative+%26+Content+Production" class="need-btn">Get Started</a>
+                </div>
             </div>
         </div>
       </div>

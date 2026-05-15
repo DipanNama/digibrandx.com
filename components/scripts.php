@@ -59,22 +59,39 @@
         });
     </script>
     <script>
-        // Auto-select budget from URL
+        // Auto-select budget or service from URL
         $(document).ready(function() {
             const urlParams = new URLSearchParams(window.location.search);
             const budget = urlParams.get('budget');
+            const service = urlParams.get('service');
+            
             if (budget) {
                 const $selected = $('#budget-selected');
                 const $input = $('#budget-input');
                 if ($selected.length && $input.length) {
                     $selected.html(budget + ' <span class="arrow"><i class="fas fa-angle-down"></i></span>');
                     $input.val(budget);
-                    
-                    // Scroll to form
-                    const formContainer = document.getElementById('enquiry-form-container');
-                    if (formContainer) {
-                        formContainer.scrollIntoView({ behavior: 'smooth' });
+                }
+            }
+
+            if (service) {
+                // Find the dropdown that handles service selection
+                const $serviceInput = $('#service-input');
+                if ($serviceInput.length) {
+                    const $dropdown = $serviceInput.closest('.dropdown');
+                    const $selected = $dropdown.find('.selected');
+                    if ($selected.length) {
+                        $selected.html(service + ' <span class="arrow"><i class="fas fa-angle-down"></i></span>');
+                        $serviceInput.val(service);
                     }
+                }
+            }
+
+            if (budget || service) {
+                // Scroll to form
+                const formContainer = document.getElementById('enquiry-form-container');
+                if (formContainer) {
+                    formContainer.scrollIntoView({ behavior: 'smooth' });
                 }
             }
         });
