@@ -5,8 +5,8 @@
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
                         <a class="navbar-brand" data-link-key="home" href="<?php echo $base_path; ?>index.php"><img
-                                data-content-key="site_info.logo" src="<?php echo $base_path; ?>images/logo.png" width="100" height="50"
-                                alt="BS Digital Solution" class="img-fluid"></a>
+                                data-content-key="site_info.logo" src="<?php echo $base_path; ?>images/logo.png"
+                                width="100" height="50" alt="BS Digital Solution" class="img-fluid"></a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -32,7 +32,8 @@
                                             <h4 data-content-key="header.services_title">Our Services For Your Brand
                                             </h4>
                                             <div class="srow ">
-                                                <a data-link-key="strategy" href="<?php echo $base_path; ?>services/services-branding.php"
+                                                <a data-link-key="strategy"
+                                                    href="<?php echo $base_path; ?>services/services-branding.php"
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
                                                         <span class="srow-name">Growth & Business Strategy</span>
@@ -40,7 +41,8 @@
                                                 </a>
                                             </div>
                                             <div class="srow ">
-                                                <a data-link-key="social_media" href="<?php echo $base_path; ?>services/services-social-media-branding.php"
+                                                <a data-link-key="social_media"
+                                                    href="<?php echo $base_path; ?>services/services-social-media-branding.php"
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
                                                         <span class="srow-name">Social Media & Advertising</span>
@@ -48,7 +50,8 @@
                                                 </a>
                                             </div>
                                             <div class="srow ">
-                                                <a data-link-key="app_dev" href="<?php echo $base_path; ?>services/services-application-development.php"
+                                                <a data-link-key="app_dev"
+                                                    href="<?php echo $base_path; ?>services/services-application-development.php"
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
                                                         <span class="srow-name">Web & App Development</span>
@@ -56,7 +59,8 @@
                                                 </a>
                                             </div>
                                             <div class="srow ">
-                                                <a data-link-key="digital_marketing" href="<?php echo $base_path; ?>services/services-digital-marketing.php"
+                                                <a data-link-key="digital_marketing"
+                                                    href="<?php echo $base_path; ?>services/services-digital-marketing.php"
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
                                                         <span class="srow-name">Search & Visibility</span>
@@ -64,7 +68,8 @@
                                                 </a>
                                             </div>
                                             <div class="srow ">
-                                                <a data-link-key="graphic_design" href="<?php echo $base_path; ?>services/services-graphics-design.php"
+                                                <a data-link-key="graphic_design"
+                                                    href="<?php echo $base_path; ?>services/services-graphics-design.php"
                                                     style="padding:0px; margin:0px; text-decoration:none;">
                                                     <div class="srow-head">
                                                         <span class="srow-name">Creative & Content Production</span>
@@ -77,7 +82,7 @@
                                 <li class="nav-item"><a class="nav-link " data-link-key="portfolio"
                                         href="<?php echo $base_path; ?>portfolio.php">Portfolio</a></li>
                                 <li class="nav-item"><a class="nav-link " data-link-key="pricing"
-                                        href="<?php echo $base_path; ?>plans-and-pricing.php">Pricing</a></li>
+                                        href="<?php echo $base_path; ?>plans-and-pricing.php">Plans & Pricing</a></li>
                                 <li class="nav-item"><a class="nav-link " data-link-key="case_study"
                                         href="<?php echo $base_path; ?>case-study.php">Case Study</a></li>
                                 <li class="nav-item"><a class="nav-link " data-link-key="team"
@@ -97,17 +102,17 @@
     </header>
 
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             const srvLink = document.querySelector('#deskSrvLi > a');
             const srvLi = document.getElementById('deskSrvLi');
 
             if (srvLink) {
-                srvLink.addEventListener('click', function(e) {
+                srvLink.addEventListener('click', function (e) {
                     if (window.innerWidth <= 991) {
                         e.preventDefault();
                         e.stopPropagation();
                         srvLi.classList.toggle('open');
-                        
+
                         // Rotate caret icon
                         const caret = this.querySelector('.caret');
                         if (caret) {
@@ -119,7 +124,7 @@
 
             // Sub-item toggle (if any)
             document.querySelectorAll('.drop-panel .srow-head').forEach(head => {
-                head.addEventListener('click', function(e) {
+                head.addEventListener('click', function (e) {
                     if (window.innerWidth <= 991) {
                         const row = this.closest('.srow');
                         // Only prevent default if there are sub-links to show (accordion style)

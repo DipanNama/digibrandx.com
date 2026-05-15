@@ -12,6 +12,9 @@ include 'components/header.php';
             <div class="col-lg-12 text-center">
                 <h1 class="display-4 fw-bold">Plans & <span style="color: var(--primary-purple);">Pricing</span></h1>
                 <p class="lead text-muted">Affordable & Scalable Digital Solutions for Your Business Growth</p>
+                <p class="mt-5"
+                    style="text-align: center;font-size:26px; font-weight: 600; color: var(--primary-color);">Social
+                    Media Marketing</p>
             </div>
         </div>
     </div>
@@ -24,16 +27,19 @@ include 'components/header.php';
                     <div class="price-header">
                         <h3>STARTER PACKAGE</h3>
                         <div class="price-value">₹5,999</div>
-                        <p class="pricing-target">Perfect for startups, local brands, and small businesses ready to go digital!</p>
+                        <p class="pricing-target">Perfect for startups, local brands, and small businesses ready to go
+                            digital!</p>
                     </div>
                     <ul class="price-features">
-                        <li><i class="fas fa-check-circle"></i> Page/Account Creation & Full Management (Facebook & Instagram)</li>
+                        <li><i class="fas fa-check-circle"></i> Page/Account Creation & Full Management (Facebook &
+                            Instagram)</li>
                         <li><i class="fas fa-check-circle"></i> Meta links integration (fb & ig)</li>
                         <li><i class="fas fa-check-circle"></i> 2 weekly posts - professionally designed & edited</li>
                         <li><i class="fas fa-check-circle"></i> Festival posts included - free</li>
                         <li><i class="fas fa-check-circle"></i> 2 promotional videos/reels per month (with editing)</li>
                         <li><i class="fas fa-check-circle"></i> Captions writing, hashtag research & trend analysis</li>
-                        <li><i class="fas fa-check-circle"></i> 1 Monthly Campaign for Higher Reach & Awareness (Setup Included)</li>
+                        <li><i class="fas fa-check-circle"></i> 1 Monthly Campaign for Higher Reach & Awareness (Setup
+                            Included)</li>
                         <li><i class="fas fa-check-circle"></i> Monthly growth & performance report</li>
                     </ul>
                     <a href="contact.php?budget=₹10,000 - ₹30,000" class="pricing-btn">Get Started</a>
