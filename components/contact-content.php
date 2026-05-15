@@ -33,7 +33,7 @@
           <p><i><img src="<?php echo $prefix; ?>upload/news/986dbcde8dfa510bc244d1955ab0b1e0_call.svg" alt=""
                 class="img-responsive" /></i><span>Phone:</span> +91 86488 32418</p>
           <p style="margin-top: 15px;"><i><i class="fab fa-whatsapp"
-                style="font-size: 24px;"></i></i><span>WhatsApp:</span> +91 734858547</p>
+                style="font-size: 24px;"></i></i><span>WhatsApp:</span> +91 97348 58547</p>
         </div>
       </div>
     </div>

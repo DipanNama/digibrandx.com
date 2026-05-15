@@ -2328,7 +2328,7 @@ div#jconfirm-box98152 p {
 }
 
 .float-consultation {
-    background-color: #ff3c00;
+    background-color: var(--primary-color);
 }
 
 .float-btn:hover {

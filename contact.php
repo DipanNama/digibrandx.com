@@ -18,7 +18,7 @@ include 'components/contact-content.php';
 <?php include 'components/instagram.php'; ?>
 <?php include 'components/footer-services.php'; ?>
 
-<?php 
-include 'components/footer.php'; 
-include 'components/scripts.php'; 
+<?php
+include 'components/footer.php';
+include 'components/scripts.php';
 ?>

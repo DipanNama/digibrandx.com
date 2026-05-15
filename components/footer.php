@@ -52,12 +52,12 @@
 
 <!-- Floating Buttons -->
 <div class="floating-buttons">
-    <a href="https://wa.me/91734858547" class="float-btn float-whatsapp" target="_blank" rel="noopener">
+    <a href="https://wa.me/919734858547" class="float-btn float-whatsapp" target="_blank" rel="noopener">
         <i class="fab fa-whatsapp" style="color:white !important;"></i>
         <span class="tooltip">WhatsApp Us</span>
     </a>
     <a href="#enquiry-form-container" class="float-btn float-consultation">
-        <i class="fas fa-headset" style="color:var(--accent-color) !important;"></i>
+        <i class="fas fa-headset" style="color:white !important;"></i>
         <span class="tooltip">Free Consultation</span>
     </a>
 </div>
