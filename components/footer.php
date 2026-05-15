@@ -50,6 +50,18 @@
     </div>
 </footer>
 
+<!-- Floating Buttons -->
+<div class="floating-buttons">
+    <a href="https://wa.me/91734858547" class="float-btn float-whatsapp" target="_blank" rel="noopener">
+        <i class="fab fa-whatsapp" style="color:white !important;"></i>
+        <span class="tooltip">WhatsApp Us</span>
+    </a>
+    <a href="#enquiry-form-container" class="float-btn float-consultation">
+        <i class="fas fa-headset" style="color:var(--accent-color) !important;"></i>
+        <span class="tooltip">Free Consultation</span>
+    </a>
+</div>
+
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-xl">
         <div class="modal-content">
