@@ -126,7 +126,7 @@
                                 </div>
                             </div>
                             <input type="hidden" id="mandatory_fields_except_file_fields"
-                                value="Name,E-Mail,Phone,Service_Chosen,Budget" />
+                                value="Name,E-Mail,Phone,Service_Chosen" />
                             <input type="hidden" id="mandatory_file_fields" value="" />
                             <input type="hidden" id="email_fields" value="E-Mail" />
                             <input type="hidden" id="contact_fields" value="Phone" />
@@ -140,7 +140,7 @@
                             <input type="hidden" id="email_from" value="Name,E-Mail" />
                             <input type="hidden" id="duplicate_by_email_enabled" value="" />
                             <input type="hidden" id="duplicate_message" value="" />
-                            <input type="hidden" id="email_to" value="artdirectorkpb@gmail.com" />
+                            <input type="hidden" id="email_to" value="bidhans1990@gmail.com" />
                     </form>
                 </div>
             </div>

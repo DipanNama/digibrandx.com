@@ -368,6 +368,103 @@ if (numbersSection) {
     observer.observe(numbersSection);
 }
 
+/* 11. Global Form Handler */
+function global_form(form_id, response_id) {
+    var url = window.location.href;
+
+    // Ensure all dropdown hidden inputs are properly set before submission
+    $(form_id).find('input[type="hidden"].dropdown-input').each(function () {
+        var hiddenInput = $(this);
+        var dropdownContainer = hiddenInput.closest('.custom-contact-select');
+        var selectedDiv = dropdownContainer.find('.selected');
+
+        // Only set value if a selection has been made
+        var isSelected = selectedDiv.text().trim() !== 'What Are You Looking For?' &&
+            selectedDiv.text().trim() !== 'Budget' &&
+            selectedDiv.text().trim() !== '';
+
+        if (!isSelected) {
+            hiddenInput.val('');
+        }
+    });
+
+    $(response_id).show();
+    
+    var mf = $(form_id + ' input[id="mandatory_fields_except_file_fields"]').val();
+    var mff = $(form_id + ' input[id="mandatory_file_fields"]').val();
+    var ef = $(form_id + ' input[id="email_fields"]').val();
+    var cf = $(form_id + ' input[id="contact_fields"]').val();
+    var ff = $(form_id + ' input[id="file_fields"]').val();
+    var ft = $(form_id + ' input[id="form_type"]').val();
+    var df = $(form_id + ' input[id="downlaoded_file"]').val();
+    var tm = $(form_id + ' input[id="thanks_message"]').val();
+    var ts = $(form_id + ' input[id="thanks_redirection_status"]').val();
+    var tu = $(form_id + ' input[id="thanks_url"]').val();
+    var duplicate_email = $(form_id + ' input[id="duplicate_by_email_enabled"]').val();
+    var duplicate_message = $(form_id + ' input[id="duplicate_message"]').val();
+    var email_from = $(form_id + ' input[id="email_from"]').val();
+    var email_to = $(form_id + ' input[id="email_to"]').val();
+    
+    var form_elem = $(form_id)[0];
+    var data = new FormData(form_elem);
+
+    // Set Page_URL if present
+    if ($(form_id).find('#Page_URL').length) {
+        $(form_id).find('#Page_URL').val(url);
+    }
+
+    var ajax_url = (typeof BASE_PATH !== 'undefined' ? BASE_PATH : '') + 'form-ajax-global.php';
+
+    $.ajax({
+        type: 'POST',
+        url: ajax_url + '?mf=' + escape(mf) + '&mff=' + escape(mff) + '&ef=' + escape(ef) + '&cf=' + escape(cf) + '&ff=' + escape(ff) + '&ft=' + escape(ft) + '&tm=' + escape(tm) + '&df=' + escape(df) + '&ts=' + escape(ts) + '&tu=' + escape(tu) + '&email=' + escape(email_from) + '&duplicate_by_email_enabled=' + escape(duplicate_email) + '&dmessage=' + escape(duplicate_message) + '&email_to=' + escape(email_to),
+        data: data,
+        contentType: false,
+        cache: false,
+        processData: false,
+    }).done(function (data) {
+        $(response_id).hide();
+        if (~data.indexOf("green")) {
+            if ((tu == '') || (ts == 'no')) {
+                $(response_id).html(data);
+                $.alert({ backgroundDismiss: true, title: 'Success!', type: 'green', theme: 'light', content: data });
+
+                // Reset form only on success
+                $(form_id)[0].reset();
+                
+                // Reset dropdown displays
+                $(form_id).find('.custom-contact-select .selected').each(function (index) {
+                    if ($(this).closest('.custom-contact-select').find('#service-input').length || $(this).text().includes('Looking')) {
+                        $(this).html('What Are You Looking For? <span class="arrow"><i class="fas fa-angle-down"></i></span>');
+                    }
+                });
+                $(form_id).find('.dropdown .selected').each(function() {
+                    var text = $(this).text();
+                    if (text.includes('Looking')) {
+                        $(this).html('What Are You Looking For? <span class="arrow"><i class="fas fa-angle-down"></i></span>');
+                    }
+                });
+
+            } else {
+                $(response_id).html(data);
+                $.alert({ backgroundDismiss: true, title: 'Success!', type: 'green', theme: 'light', content: data });
+                
+                // Reset form
+                $(form_id)[0].reset();
+
+                setTimeout(function () {
+                    window.location.replace(tu);
+                }, 2500);
+            }
+        } else {
+            $.alert({ backgroundDismiss: true, title: 'Error!', type: 'red', theme: 'light', content: data });
+        }
+    }).fail(function () {
+        alert("Posting failed. Please check your internet connection.");
+    });
+    return false;
+}
+
 
 
 

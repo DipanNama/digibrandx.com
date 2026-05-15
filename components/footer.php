@@ -3,7 +3,8 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="footer-seo-text text-center text-white mb-4" data-aos="fade-up" data-aos-duration="1000">
-                    <p style="font-size: 14px; color: var(--border-color);"><strong>BS Digital Solutions:</strong> Leading Marketing Consultancy in North Dumdum, West Bengal.</p>
+                    <p style="font-size: 14px; color: var(--border-color);"><strong>BS Digital Solutions:</strong>
+                        Leading Marketing Consultancy in North Dumdum, West Bengal.</p>
                 </div>
                 <div class="social_list" data-aos="fade-up" data-aos-duration="1000">
                     <ul>
@@ -110,7 +111,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12">
+                            <!-- <div class="col-lg-12">
                                 <div class="form-group">
                                     <div class="custom-contact-select">
                                         <div class="dropdown">
@@ -121,14 +122,14 @@
                                             <div class="options">
                                                 <div data-value="₹10,000 - ₹30,000">STARTER (₹10,000 - ₹30,000)</div>
                                                 <div data-value="₹40,000 - ₹80,000">STANDARD (₹40,000 - ₹80,000)</div>
-                                                <div data-value="₹1,00,000 and Above">PREMIUM (₹1,00,000 and Above)
+                                                <div data-value="₹1,0,00,000 and Above">PREMIUM (₹1,00,000 and Above)
                                                 </div>
                                             </div>
                                             <input type="hidden" name="Budget" class="dropdown-input" />
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-lg-12">
                                 <div class="form-group">
                                     <textarea class="form-control" name="Query"
@@ -152,7 +153,7 @@
                             </div>
                         </div>
                         <input type="hidden" id="mandatory_fields_except_file_fields"
-                            value="Name,E-Mail,Phone,Service_Chosen,Budget" />
+                            value="Name,E-Mail,Phone,Service_Chosen" />
                         <input type="hidden" id="mandatory_file_fields" value="" />
                         <input type="hidden" id="email_fields" value="E-Mail" />
                         <input type="hidden" id="contact_fields" value="Mobile" />
@@ -166,7 +167,7 @@
                         <input type="hidden" id="email_from" value="Name,E-Mail" />
                         <input type="hidden" id="duplicate_by_email_enabled" value="" />
                         <input type="hidden" id="duplicate_message" value="" />
-                        <input type="hidden" id="email_to" value="artdirectorkpb@gmail.com" />
+                        <input type="hidden" id="email_to" value="bidhans1990@gmail.com" />
                     </form>
                 </div>
             </div>
