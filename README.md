@@ -31,7 +31,7 @@
 - [x] home page case study cards are not present
 - [x] pricing section middle card 'most popular' text is slightly mis alligned and need to be in the middle
 - [x] 'Branding Agency FAQs Answers to Your Top Branding Questions' home page faq section is not having the faqs and clicking on the faqs opens without any content 
-- [ ] the header services section after hover it shows the overlay of the services but i can't click on it as if i remove my cursor from the services section it immedaitely removes the overlay
+- [x] the header services section after hover it shows the overlay of the services but i can't click on it as if i remove my cursor from the services section it immedaitely removes the overlay
 - [x] pricing fix
 - [ ] delay 5 to 3 second
 - [x] vidoes section smaller video card show 4 in a row with carousal
@@ -41,5 +41,7 @@
 - [x] case study section case study cards show
 - [ ] form data submit to email
 - [x] text testimonial section text decrease
-- [ ] trusted client section pagination numbers barely visible
-- [ ] 
+- [x] trusted client section pagination numbers barely visible
+- [x] wireframe & prototype, usability testing, social media graphics, art & illustration, display advertising, pre production, corporate films
+- [ ] sales@BS...
+- [ ] contact us page ui for locate us, and follow us

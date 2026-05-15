@@ -11,7 +11,7 @@
               href="mailto:bidhans1990@gmail.com.php" target="_blank" rel="noopener">bidhans1990@gmail.com</a></p>
         </div>
       </div>
-      <div class="col-lg-6 mt-4">
+      <div class="col-lg-6 mt-0 mt-md-4">
         <div class="ct_info_area">
           <p><i><img src="<?php echo $prefix; ?>upload/news/7609fa7hf8bllhuqkd7e794mpn_mailFILL0wght400GRAD0opsz241.svg"
                 alt="BS Digital Solutions Instagram icon link" class="img-responsive" /></i><span>Instagram</span> <a

@@ -13,7 +13,7 @@ include '../components/service-banner.php';
 ?>
   <?php 
 $ctaTitle = "Want to improve UX design for better outcomes?";
-$ctaDescription = '<p>Is your web application's user experience holding you back? A seamless UX design can improve customer satisfaction, boost conversions, and enhance brand loyalty. At BS Digital Solutions, we create intuitive, user-centered designs that deliver measurable results.</p> <p><strong>Contact us today to transform your UX design and drive better business outcomes.</strong></p>';
+$ctaDescription = '<p>Is your web applications user experience holding you back? A seamless UX design can improve customer satisfaction, boost conversions, and enhance brand loyalty. At BS Digital Solutions, we create intuitive, user-centered designs that deliver measurable results.</p> <p><strong>Contact us today to transform your UX design and drive better business outcomes.</strong></p>';
 include '../components/cta-branding.php'; 
 ?>
   <section class="content-section">
