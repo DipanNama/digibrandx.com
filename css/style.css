@@ -2270,9 +2270,23 @@ div#jconfirm-box98152 p {
     border: 1px solid var(--border-mid);
     border-radius: 50%;
     transition: all 0.3s ease;
-    color: #666;
+    color: black;
     font-size: 18px;
     text-decoration: none;
+}
+
+#google-link,
+#gmail-link,
+#instagram-link,
+#facebook-link {
+    color: black !important;
+}
+
+#google-link:hover,
+#gmail-link:hover,
+#instagram-link:hover,
+#facebook-link:hover {
+    color: white !important;
 }
 
 .social_list ul li a:hover {

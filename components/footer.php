@@ -9,13 +9,14 @@
                 <div class="social_list" data-aos="fade-up" data-aos-duration="1000">
                     <ul>
                         <li><a href="https://share.google/eY2NBN46cJBnavWLc" target="_blank" title="Google Search"><i
-                                    class="fab fa-google"></i></a></li>
-                        <li><a href="mailto:bidhans1990@gmail.com" title="Gmail"><i class="fas fa-envelope"></i></a>
+                                    class="fab fa-google" id="google-link"></i></a></li>
+                        <li><a href="mailto:bidhans1990@gmail.com" title="Gmail"><i class="fas fa-envelope"
+                                    id="gmail-link"></i></a>
                         </li>
                         <li><a href="https://www.instagram.com/bsdigital2023" target="_blank" title="Instagram"><i
-                                    class="fab fa-instagram"></i></a></li>
+                                    class="fab fa-instagram" id="instagram-link"></i></a></li>
                         <li><a href="https://www.facebook.com/profile.php?id=61550750234710" target="_blank"
-                                title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                title="Facebook"><i class="fab fa-facebook-f" id="facebook-link"></i></a></li>
                     </ul>
                 </div>
                 <div class="page-list" data-aos="fade-down" data-aos-duration="1000">
