@@ -7,26 +7,22 @@
                 </div>
                 <div class="swiper image_testi_area">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="<?php echo $base_path; ?>images/testimonials/images/WhatsApp Image 2026-05-11 at 7.10.25 PM (1).jpeg"
-                                alt="Testimonial" class="img-fluid" style="border-radius: 10px;">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="<?php echo $base_path; ?>images/testimonials/images/WhatsApp Image 2026-05-11 at 7.10.25 PM.jpeg"
-                                alt="Testimonial" class="img-fluid" style="border-radius: 10px;">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="<?php echo $base_path; ?>images/testimonials/images/WhatsApp Image 2026-05-11 at 7.10.26 PM.jpeg"
-                                alt="Testimonial" class="img-fluid" style="border-radius: 10px;">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="<?php echo $base_path; ?>images/testimonials/images/WhatsApp Image 2026-05-11 at 7.10.27 PM.jpeg"
-                                alt="Testimonial" class="img-fluid" style="border-radius: 10px;">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="<?php echo $base_path; ?>images/testimonials/images/WhatsApp Image 2026-05-11 at 7.10.28 PM.jpeg"
-                                alt="Testimonial" class="img-fluid" style="border-radius: 10px;">
-                        </div>
+                        <?php
+                        $imageDir = __DIR__ . '/../images/testimonials/images/';
+                        $images = glob($imageDir . "*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}", GLOB_BRACE);
+                        
+                        if ($images) {
+                            foreach ($images as $image) {
+                                $fileName = basename($image);
+                                ?>
+                                <div class="swiper-slide">
+                                    <img src="<?php echo $base_path; ?>images/testimonials/images/<?php echo rawurlencode($fileName); ?>"
+                                        alt="Testimonial" class="img-fluid" style="border-radius: 10px;">
+                                </div>
+                                <?php
+                            }
+                        }
+                        ?>
                     </div>
                 </div>
             </div>
